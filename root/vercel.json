@@ -1,32 +1,12 @@
-{
+{ "cleanUrls": true,
+  "trailingSlash": true,
   "redirects": [
-    { 
-      "source": "/fabricinst",
-      "destination": "https://empireminecraft.com/threads/83391",
-    }{ 
-      "source": "/updatedmods",
-      "destination": "https://empireminecraft.com/threads/83816"
-    }{ 
-      "source": "/fabricperf",
-      "destination": "https://empireminecraft.com/threads/83393"
-    }{ 
-      "source": "/promothread",
-      "destination": "https://empireminecraft.com/threads/81637"
-    }{ 
-      "source": "/colours",
-      "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt"
-    }{ 
-      "source": "/wiki-colour-codes.png",
-      "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt"
-    }{ 
-      "source": "/licence",
-      "destination": "/LICENSE"
-    }{ 
-      "source": "/i/The_Global_Lie_3.pdf",
-      "destination": "https://i.waffle.coffee/globalLie.pdf"
-    }{ 
-      "source": ["/secret","/thread","/application","/downloadmoreram","/rickroll"],
-      "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-    }
-  ]
-}
+    { "source": "/fabricinst", "destination": "https://empireminecraft.com/threads/83391" },
+    { "source": "/updatedmods", "destination": "https://empireminecraft.com/threads/83816" },
+    { "source": "/fabricperf", "destination": "https://empireminecraft.com/threads/83393" },
+    { "source": "/promothread", "destination": "https://empireminecraft.com/threads/81637" },
+    { "source": "/colours", "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt" },
+    { "source": "/wiki-colour-codes.png", "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt" },
+    { "source": "/licence", "destination": "/LICENSE" },
+    { "source": "/i/The_Global_Lie_3.pdf", "destination": "https://i.waffle.coffee/globalLie.pdf" },
+    { "source": ["/secret","/thread","/application","/downloadmoreram","/rickroll"], "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }]}
