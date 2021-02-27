@@ -1,8 +1,4 @@
 { "cleanUrls": true,
   "redirects": [
     { "source": "/colourCodes.png", "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt" },
-    { "source": "/dl/FireFloor-Mixtape.zip", "destination": "https://drive.google.com/file/d/1unSaKEFdVKw_-OIafckkg9gxYD0R-NKC/view?usp=sharing" },
-    { "source": "/dl/waffles-Mods-20210129-OptiFine-Full.zip", "destination": "https://drive.google.com/file/d/1G8fUMbzcBVP6ziTBBxPpEYgsJ-sWnYD5/view?usp=sharing" },
-    { "source": "/dl/waffles-Mods-20210129-OptiFine-Minimal.zip", "destination": "https://drive.google.com/file/d/1h92KdhnunsxSN6wfQxX_sGTexvJuY0dd/view?usp=sharing" },
-    { "source": "/dl/waffles-Mods-20210129-Sodium-Full.zip", "destination": "https://drive.google.com/file/d/1vOAQ4iFTWLWUyQDtCh1hdeoEETWbzJuL/view?usp=sharing" },
-    { "source": "/dl/waffles-Mods-20210129-Sodium-Minimal.zip", "destination": "https://drive.google.com/file/d/1Gc8MPhGfPQKfKOcT99i1nSDXvY-nNKAT/view?usp=sharing" }]}
+    { "source": "/dl/FireFloor-Mixtape.zip", "destination": "https://drive.google.com/file/d/1unSaKEFdVKw_-OIafckkg9gxYD0R-NKC/view?usp=sharing" }]}
