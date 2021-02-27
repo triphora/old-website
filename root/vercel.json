@@ -1,4 +1,4 @@
-{ "regions": "all",
+{ "regions": ["all"],
   "cleanUrls": true,
   "redirects": [
     { "source": "/fabricin(.*)", "destination": "https://empireminecraft.com/threads/83391" },
