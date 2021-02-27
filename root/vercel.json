@@ -1,5 +1,4 @@
 { "cleanUrls": true,
-  "trailingSlash": true,
   "redirects": [
     { "source": "/fabricinst", "destination": "https://empireminecraft.com/threads/83391" },
     { "source": "/updatedmods", "destination": "https://empireminecraft.com/threads/83816" },
