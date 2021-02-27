@@ -4,26 +4,26 @@
        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
-		<loc>https://waffle.coffee/</loc>
-		<lastmod>2021-01-29</lastmod>
+		<loc>https://waffle.coffee</loc>
+		<lastmod>2021-02-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1.00</priority>
 	</url>
     <url>
-		<loc>https://waffle.coffee/fabric/</loc>
-		<lastmod>2021-01-29</lastmod>
+		<loc>https://waffle.coffee/fabric</loc>
+		<lastmod>2021-02-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1.00</priority>
 	</url>
     <url>
-		<loc>https://waffle.coffee/foss/</loc>
-		<lastmod>2021-01-29</lastmod>
+		<loc>https://waffle.coffee/foss</loc>
+		<lastmod>2021-02-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1.00</priority>
 	</url>
     <url>
-		<loc>https://waffle.coffee/setup/</loc>
-		<lastmod>2021-01-29</lastmod>
+		<loc>https://waffle.coffee/setup</loc>
+		<lastmod>2021-02-26</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1.00</priority>
 	</url>
