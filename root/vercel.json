@@ -1,9 +1,11 @@
 { "cleanUrls": true,
   "redirects": [
-    { "source": "/fabricin(.*)", "destination": "https://empireminecraft.com/threads/83391" },
+    { "source": "/fabricin(.*)?", "destination": "https://empireminecraft.com/threads/83391" },
     { "source": "/updated(.*)", "destination": "https://empireminecraft.com/threads/83816" },
+    { "source": "/modpa(.*)", "destination": "https://empireminecraft.com/threads/83816" },
     { "source": "/fabricpe(.*)", "destination": "https://empireminecraft.com/threads/83393" },
     { "source": "/promo(.*)", "destination": "https://empireminecraft.com/threads/81637" },
+    { "source": "/katy(.*)", "destination": "https://empireminecraft.com/threads/82580" },
     { "source": "/mods/sodiumfu(.*)", "destination": "https://mega.nz/file/OMdT1YIT#6VoS1a9NJBlDqLFQQos3HFlyXblJ8tyWV_wU4j8D3uQ" },
     { "source": "/mods/sodiummi(.*)", "destination": "https://mega.nz/file/rMNVySaI#X5oTZE-R0XVhFoaIa0OS-0qMdzReT1ZydahIC7OO990" },
     { "source": "/mods/optifinefu(.*)", "destination": "https://mega.nz/file/WYcTVChZ#PBLKf2hAszcMAKSpUeAxPdklulXhVZ3Fb6ny4mH2Q3g" },
@@ -13,6 +15,9 @@
     { "source": "/i/The_Global_Lie_3.pdf", "destination": "https://i.waffle.coffee/globalLie.pdf" },
     { "source": "/secr(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
     { "source": "/thre(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
-    { "source": "/app(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
-    { "source": "/download(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }],
-  "rewrites": [{ "source": "/modrinth/:modid/:attrib", "destination": "https://img.shields.io/badge/dynamic/json?color=blue&label=Modrinth&url=https%3A%2F%2Fapi.modrinth.com%2Fapi%2Fv1%2Fmod%2F:modid&query=:attrib&suffix=%20:attrib" }]}
+    { "source": "/ap(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
+    { "source": "/downloa(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }],
+  "rewrites": [
+  { "source": "/modrinth/:modid/:attrib", "destination": "https://img.shields.io/badge/dynamic/json?color=blue&label=Modrinth&url=https%3A%2F%2Fapi.modrinth.com%2Fapi%2Fv1%2Fmod%2F:modid&query=:attrib&suffix=%20:attrib" },
+  { "source": "/emcutils", "destination": "https://github.com/MrFrydae/Empire-Minecraft-Utilities" }]
+}
