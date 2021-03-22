@@ -1,0 +1,14 @@
+name = "OptiFabric"
+filename = "optifabric-1.9.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3223/497/optifabric-1.9.6.jar"
+hash-format = "murmur2"
+hash = "1892282816"
+
+[update]
+[update.curseforge]
+file-id = 3223497
+project-id = 322385
+release-channel = "beta"

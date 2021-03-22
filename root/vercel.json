@@ -1,4 +1,5 @@
-{ "redirects": [
+{ "cleanUrls": true,
+  "redirects": [
     { "source": "/fabricin(.*)", "destination": "https://empireminecraft.com/threads/83391" },
     { "source": "/updated(.*)", "destination": "https://empireminecraft.com/threads/83816" },
     { "source": "/modpa(.*)", "destination": "https://empireminecraft.com/threads/83816" },
@@ -17,6 +18,6 @@
     { "source": "/ap(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
     { "source": "/downloa(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }],
   "rewrites": [
-  { "source": "/modrinth/:modid/:attrib", "destination": "https://img.shields.io/badge/dynamic/json?color=blue&label=Modrinth&url=https%3A%2F%2Fapi.modrinth.com%2Fapi%2Fv1%2Fmod%2F:modid&query=:attrib&suffix=%20:attrib" },
-  { "source": "/emcutils", "destination": "https://github.com/MrFrydae/Empire-Minecraft-Utilities" }]
+    { "source": "/modrinth/:modid/:attrib", "destination": "https://img.shields.io/badge/dynamic/json?color=blue&label=Modrinth&url=https%3A%2F%2Fapi.modrinth.com%2Fapi%2Fv1%2Fmod%2F:modid&query=:attrib&suffix=%20:attrib" },
+    { "source": "/emcutils", "destination": "https://github.com/MrFrydae/Empire-Minecraft-Utilities" }]
 }

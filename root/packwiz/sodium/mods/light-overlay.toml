@@ -1,0 +1,14 @@
+name = "Light Overlay (Rift/Forge/Fabric)"
+filename = "light-overlay-5.8.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3207/256/light-overlay-5.8.0.jar"
+hash-format = "murmur2"
+hash = "1816937181"
+
+[update]
+[update.curseforge]
+file-id = 3207256
+project-id = 325492
+release-channel = "beta"

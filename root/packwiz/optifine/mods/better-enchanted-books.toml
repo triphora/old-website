@@ -1,0 +1,16 @@
+name = "Better Enchanted Books"
+filename = "better-enchanted-books-1.16.4-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yjpXhps7/versions/1.2.5/better-enchanted-books-1.16.4-1.2.5.jar"
+hash-format = "sha512"
+hash = "10ff13e09e4ee8b1528db08e66db70cc07ad38c83f422f8e669d5d2a6cb8791b8de820d124a35b7cb896a97ffe830e8b4147f398925d673a1d29b6dc38a5cbe3"
+
+[update]
+[update.modrinth]
+mod-id = "yjpXhps7"
+version = "1XKOdz9O"
+
+[option]
+optional = true

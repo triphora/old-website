@@ -1,0 +1,13 @@
+name = "Phosphor"
+filename = "phosphor-fabric-mc1.16.3-0.7.1+build.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.7.1/phosphor-fabric-mc1.16.3-0.7.1+build.11.jar"
+hash-format = "sha512"
+hash = "4fd6f724a289cdf9d9e275bb3cca8dc1c8d091356bbc7888e4afc3749fbe828cc3c5ea0839ea28e27b589a4a0343798733aaab964f281b9556a40cfa5c9fd8e2"
+
+[update]
+[update.modrinth]
+mod-id = "hEOCdOgW"
+version = "C9Witfc8"
