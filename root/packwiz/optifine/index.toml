@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "85ef957c31b5fc432e4c9f74ca25a82324ae1db9b93438a7a27ed9d06e315d7d"
+hash = "e3413c5206e38e34438c4aa58e0ad1488f19372a4de90389e27216ca091a72b6"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "65f39ab7f5b51614436d1986a9f7defc76c467d957043aa23ce59c98e4de0006"
+hash = "35cdd7a1c9b2dd09d458773be1fef94eaca2138b6a96f218921b2deaa0380c4e"
 metafile = true
 
 [[files]]
@@ -207,10 +207,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "5099b383190ee03e3c995bf578bbe3b1e6f9a7a2c105d075836b553afe4fba8b"
+hash = "4dd219277041a0071cdc0ddfc6b817a82012a08756f72c27c7ddaf6a6a6d4cd2"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "002800b2c7d8c95949b845b783868a79faa38355dc5ffb4528237c5471ff2614"
+hash = "1727690746b1fa5a40de494c0789fe1cc4a5f8e6159a4238eb53d1c2d4b6abfa"
 metafile = true
