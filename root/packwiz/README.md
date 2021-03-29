@@ -29,8 +29,7 @@ Credit for the instructions go to comp500, the creator of Packwiz, [here](https:
 
 ### Default Launcher
 #### Windows
-**NOTE:** I do not have a Windows machine to test this on. These instructions may be inaccurate; if there are any inaccuracies, please let me know.  
-1. Download the Packwiz Installer Bootstrap from [here](https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar), and put it into your Minecraft folder.  
+1. Download the Packwiz Installer Bootstrap from [here](https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar), and put it into your Minecraft folder; the base of it, not into the \mods folder.  
     * If you don't know how to navigate here, open the run box with Win + R, and type `%appdata%\.minecraft`.  
 2. Open the Command Prompt with Win + R and `cmd`. From there, run the following commands:  
 3. `cd %appdata%\.minecraft`  
@@ -44,6 +43,7 @@ Run the following commands (you can also append `&&` between them):
 2. `wget https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar`  
 3. `java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/{DESIRED PACK}/pack.toml`  
     * `{DESIRED PACK}` should be changed to `sodium` or `optifine`; whichever one you want.  
+    * You can pass `-r` if you want all of the optional mods.
 4. `rm -f packwiz-installer-bootstrap.jar`  
 
 Change the directory from `~/.minecraft` if you use a different directory, e.g., if you're on Mac, or use Snap or Flatpak.
