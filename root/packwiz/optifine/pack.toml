@@ -1,11 +1,11 @@
 name = "waffle's Pack (OptiFine)"
 author = "wafflecoffee"
-version = "20210327-1"
+version = "2021.4.1"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2eb420264adb525df6cef0974270204083842003f51a17ab3eeb428a8f137b33"
+hash = "2bc224bfe14e874e8aedbaef1094c6373758006ac7037b795486dae3e445ad9e"
 
 [versions]
 fabric = "0.11.3"

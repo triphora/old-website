@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "54675f989eda25fa8e660ddc2d2dcfbb1a455cd73cab8fc5f157bbd3bade6703"
+hash = "c7d982413d0428c8be354e6238241ff9c51c4f1fa82c5b8203654249dea4c2d2"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "e3413c5206e38e34438c4aa58e0ad1488f19372a4de90389e27216ca091a72b6"
+hash = "4cb308e652408e2c760a853638346a9e4d8d6febfd951158369ef30ac6669a2b"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "4dd219277041a0071cdc0ddfc6b817a82012a08756f72c27c7ddaf6a6a6d4cd2"
+hash = "e80bf0c376cf193fa2854c45b07d950004114815fad28e95e41116a905ca4f52"
 metafile = true
 
 [[files]]
