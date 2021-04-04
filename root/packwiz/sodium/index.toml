@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "4cb308e652408e2c760a853638346a9e4d8d6febfd951158369ef30ac6669a2b"
+hash = "3e565913e5050f4394f2dde8452edf37548d7ee2f108b2474144a706f4eca1b9"
 metafile = true
 
 [[files]]

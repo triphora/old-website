@@ -35,6 +35,7 @@ Credit for the instructions go to comp500, the creator of Packwiz, [here](https:
 3. `cd %appdata%\.minecraft`  
 4. `java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/{DESIRED PACK}/pack.toml`  
     * `{DESIRED PACK}` should be changed to `sodium` or `optifine`; whichever one you want.  
+    * If you get a message along the lines of "not found as command, batch file, yadda yadda", you need to install Java. You can find a link [here](https://adoptopenjdk.net/?variant=openjdk16&jvmVariant=hotspot).
 5. You can close out of Command Prompt now, and delete the Packwiz Bootstrap Installer.
 
 #### Unix (Linux, Mac)

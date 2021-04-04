@@ -1,14 +1,14 @@
 name = "Cloth Config API (Fabric)"
-filename = "cloth-config-4.11.18-fabric.jar"
+filename = "cloth-config-4.11.19-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3253/619/cloth-config-4.11.18-fabric.jar"
+url = "https://edge.forgecdn.net/files/3261/151/cloth-config-4.11.19-fabric.jar"
 hash-format = "murmur2"
-hash = "1421953320"
+hash = "3479848990"
 
 [update]
 [update.curseforge]
-file-id = 3253619
+file-id = 3261151
 project-id = 319057
 release-channel = "beta"
