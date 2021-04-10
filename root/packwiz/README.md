@@ -6,7 +6,7 @@ Don't want to update your Fabric mods? Let me do it for you! I set up this here 
 
 Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mods!
 
-**Please read the [Conditionally Approved Mods](https://wiki.emc.gs/conditionally-approved-mods) page before using the Command Macros, Litematica, and Xaero's Minimap/World Map mods.**
+**Please read the [Conditionally Approved Mods](https://wiki.emc.gs/conditionally-approved-mods) page before using the some of the mods included.**
 
 *Note: Blur is known to be stupidly laggy. Removing this will give a significant performance boost for some.*
 
@@ -96,12 +96,13 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes)                              | Yes      | Yes      |                                                                                                               |
 | [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                                                                     | Yes      | No       |                                                                                                               |
 | [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) & [OptiFine](https://optifine.net/downloads) | No       | Yes      |                                                                                                               |
-| [Phosphor](https://modrinth.com/mod/hEOCdOgW)                                                                      | Yes      | Yes      |                                                                                                               |
+| [Phosphor](https://modrinth.com/mod/hEOCdOgW)                                                                      | No       | Yes      | Only not in Sodium packs because Starlight is better, but conflicts with OptiFine (but not Sodium).           |
 | [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth-fabric)                                               | Optional | Optional |                                                                                                               |
 | [Shulker Box Tooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)                              | Yes      | Yes      |                                                                                                               |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric/)    | Optional | Optional |                                                                                                               |
 | [Smooth Boot](https://modrinth.com/mod/FWumhS4T)                                                                   | Yes      | No       |                                                                                                               |
 | [Sodium](https://modrinth.com/mod/AANobbMI)                                                                        | Yes      | No       |                                                                                                               |
+| [Starlight](https://github.com/Spottedleaf/Starlight/)                                                             | Yes      | No       |                                                                                                               |
 | [ToroHealth Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)          | Yes      | Yes      |                                                                                                               |
 | [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)                                                | Optional | Optional | Incompatible Mod (intended for singleplayer use)                                                              |
 | [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI/)                                                        | Optional | Optional |                                                                                                               |

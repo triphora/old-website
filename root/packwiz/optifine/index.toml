@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.toml"
-hash = "24b8fb26b78b6910dc3e2a843acffa817bd8e354495f5fa832daf83b749fb4c7"
+hash = "3323838fc287ea25b0c0f71b683c8ed9a439311f557ff9cc616cd543cc9fcbc9"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "25448ae81624164fb756a24c5c46e0cacef4601df135a900f0fde7281186dd5f"
+hash = "c2dc58ad1ce065d73a250283bf1849cf07c1e211892ccbb4d943b7c59c79b22c"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "9a754d5a9a2307b4811f3ec51867f3eae452a843273abf294e6f734c77c79ec2"
+hash = "48801db07e7f0352c9a155aa236c01a48b85e638424d41c89a02a7cdcd1266ad"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "e80bf0c376cf193fa2854c45b07d950004114815fad28e95e41116a905ca4f52"
+hash = "62ac431e557c19fab03be0e2ee5b608f1ed0359fe7802ce825969d2b9879786e"
 metafile = true
 
 [[files]]

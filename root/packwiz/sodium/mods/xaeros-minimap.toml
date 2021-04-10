@@ -1,14 +1,14 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_21.4.5_Fabric_1.16.5.jar"
+filename = "Xaeros_Minimap_21.5.0_Fabric_1.16.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3256/945/Xaeros_Minimap_21.4.5_Fabric_1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3268/485/Xaeros_Minimap_21.5.0_Fabric_1.16.5.jar"
 hash-format = "murmur2"
-hash = "2775118449"
+hash = "339062584"
 
 [update]
 [update.curseforge]
-file-id = 3256945
+file-id = 3268485
 project-id = 263420
 release-channel = "beta"

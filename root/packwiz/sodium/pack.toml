@@ -1,11 +1,11 @@
 name = "waffle's Pack (Sodium)"
 author = "wafflecoffee"
-version = "2021.4.4"
+version = "2021.4.10"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9ed14e994806b78e1ba23a5c3a3fac55f74f3e8e6ef9905a52ef3e0b5b601189"
+hash = "9017bf63d73019f4a5285bb28c33f3cfef6b4839fc00aec6297a8e79eebfe92a"
 
 [versions]
 fabric = "0.11.3"

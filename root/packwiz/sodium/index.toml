@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.toml"
-hash = "24b8fb26b78b6910dc3e2a843acffa817bd8e354495f5fa832daf83b749fb4c7"
+hash = "3323838fc287ea25b0c0f71b683c8ed9a439311f557ff9cc616cd543cc9fcbc9"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.toml"
-hash = "6dc7f498edf425a82c7c9bc147a98cf3dcce15b607e330d69a0b1f8bf7b4779d"
+hash = "39a99b13acbb5c5597030f06543d1acb5ad8a35b5786bdbbf6c2c2b3a7e3104d"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "25448ae81624164fb756a24c5c46e0cacef4601df135a900f0fde7281186dd5f"
+hash = "c2dc58ad1ce065d73a250283bf1849cf07c1e211892ccbb4d943b7c59c79b22c"
 metafile = true
 
 [[files]]
@@ -177,17 +177,12 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "9a754d5a9a2307b4811f3ec51867f3eae452a843273abf294e6f734c77c79ec2"
+hash = "48801db07e7f0352c9a155aa236c01a48b85e638424d41c89a02a7cdcd1266ad"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
 hash = "a826b893ccf96de25429d13d470f5509ce6f998c2c6533c9c0567f8f982b01e0"
-metafile = true
-
-[[files]]
-file = "mods/phosphor.toml"
-hash = "c40362c2c8a294c33867341f8129e968b8f20c89862e5dbf272436c4e2e75d94"
 metafile = true
 
 [[files]]
@@ -216,6 +211,11 @@ hash = "0bdaff4279932189d76fc68cd7b9de01f541e2fa5b6845a234fa85fb558ffa20"
 metafile = true
 
 [[files]]
+file = "mods/starlight.toml"
+hash = "dcdb61605c3b7d70f4fd52c10cf265ea8032d0763928ba32816d13e469d31cea"
+metafile = true
+
+[[files]]
 file = "mods/torohealth-damage-indicators.toml"
 hash = "4ab41d2e583913c1b59c811b406c3f2da63a1ba0fb0607a3db5810b14abc89bb"
 metafile = true
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "e80bf0c376cf193fa2854c45b07d950004114815fad28e95e41116a905ca4f52"
+hash = "62ac431e557c19fab03be0e2ee5b608f1ed0359fe7802ce825969d2b9879786e"
 metafile = true
 
 [[files]]
