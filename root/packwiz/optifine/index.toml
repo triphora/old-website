@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c7d982413d0428c8be354e6238241ff9c51c4f1fa82c5b8203654249dea4c2d2"
+hash = "2b50e5e8e9ac5e3d4a9fa04d974a0e933913ac4b62dd7337488e9848f263086a"
 metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.toml"
-hash = "3323838fc287ea25b0c0f71b683c8ed9a439311f557ff9cc616cd543cc9fcbc9"
+hash = "3e1d18035f89c16dfa05ba359e5d580866945213487010e6c210006ebb17a004"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "c2f343fdb60890549cb5b5a1fb41b76064d813095dd681df1832233e5cd03f5c"
+hash = "ba81850263b49c4161937f8d3c54a933bb174e4e10676da83ed79fda26c528c0"
 metafile = true
 
 [[files]]
@@ -207,10 +207,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "62ac431e557c19fab03be0e2ee5b608f1ed0359fe7802ce825969d2b9879786e"
+hash = "ab54cb8df46a7263da91c798e49ed9d0e74e56b0881796990f05533c4abfffd0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "1727690746b1fa5a40de494c0789fe1cc4a5f8e6159a4238eb53d1c2d4b6abfa"
+hash = "96c7c0d77fa05f4b1634beb8763851a7f9bcec8d82c76a5149c48db1e4089cec"
 metafile = true
