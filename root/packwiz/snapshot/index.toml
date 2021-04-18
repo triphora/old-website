@@ -1,0 +1,91 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/antighost.toml"
+hash = "3c7d1ddd7e88277f49f700e06399305ff51a6330b7fe8f1f6ef4677ba606a21f"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.toml"
+hash = "af704a9d529e5827e4ca2af362fd8e8444d49ddc47d76036ecde087d6da73cf4"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough.toml"
+hash = "235d5b6c5647655010565c87a2d55fab618cac51962e3fe89fc9e96b490455d9"
+metafile = true
+
+[[files]]
+file = "mods/colored-lights.toml"
+hash = "6380dbd82cc04e796d59debdeb20bea6fb84229e99fdf3fb8b9bcbd09abb229a"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.toml"
+hash = "a27f1249331e73fd51dfe948a9f87121ee99abeb7721019124bfa7a07b745642"
+metafile = true
+
+[[files]]
+file = "mods/durabilityviewer.toml"
+hash = "2cc4bed999a5c482d869ec0f99e76b02685d12a7ca4668f4bb9e8bbedc198489"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.toml"
+hash = "4a73e0b824454e73c52ad494fc08615271712773cd25946c0b9b59d5db2eefcb"
+metafile = true
+
+[[files]]
+file = "mods/easiercrafting.toml"
+hash = "b15dbd20d9a5a73a2f92b6af45699a9b3350340049423c0fe56eb3aac45bf88a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "e2cb86f6aa24d69880c93768c99331c65175fc3e4709288a3736a3ebd9fa513f"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.toml"
+hash = "ad78ca1a79e3605cbfe668c5c12bdf3622d5c42ffdcbccedb1c3227d7ef688e5"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "8ac10a4c85f6061765dfaea1137f2f03a47dccd0275f23c2d43200494f06dded"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/loading-timer.toml"
+hash = "e1c8227d77fa8497e93d781b11ddf39a746a2e71cfc6bceab0334bd99a8cdbba"
+metafile = true
+
+[[files]]
+file = "mods/low-fire.toml"
+hash = "2105a8d6c6dd27afcc5a2e84246e492542aa09b388ef693a51357f332bd3ad66"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "8592f217be2149796f3702c76d5dea2a6862280e56cb68ff812b2922ebf28afd"
+metafile = true
+
+[[files]]
+file = "mods/mods-command.toml"
+hash = "d930b74dbe564b360a66fcf6dde22afd851746e9da59d426d980c20e9c100cec"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.toml"
+hash = "8263e3b4c2cb7a36d87d9510ab1f8393df4bf992b3b00248f3fa53ad34e97452"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.toml"
+hash = "3a383dcdd22153e5d44fc140d6b40de049a508cbd304463da30d800594f2f73b"
+metafile = true

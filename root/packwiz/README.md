@@ -2,7 +2,7 @@
 
 ***Featuring the [Empire Minecraft Utilities](https://modrinth.com/mod/emcutils) mod, made by [GreenMeanie](https://u.emc.gs/GreenMeanie) with help from yours truly!***
 
-Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download 40+ separate mods.
+Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download up to 55 separate mods.
 
 Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mods!
 
@@ -15,13 +15,14 @@ Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mod
 There are two versions of the pack.  
 * **Sodium** *(recommended)*: This pack is for those who want a few more mods. This is the pack I use personally. It includes some optional tools that very few people would actually utilise, such as Critical Orientation or WorldEditCUI, and it will prompt you at installation whether you wish to install these optional mods or not. It includes all of the performance-enhancing mods.  
 * **OptiFine**: This pack is the same as the Sodium pack, but with OptiFine instead of some of the performance enhancing mods. This should only be used if you wish to use shaders.
+* **Snapshot**: This pack is experimental, and works with the latest snapshot version of Minecraft 1.17. It only uses Modrinth mods, and so the list may be abbreviated from the typical mod list; no mods are optional either. The mod list for this pack is included in a separate table below. **Some of these mods may not be approved for use on Empire Minecraft, so do not use the Snapshot pack there.**
 
 ## Installation
 ### MultiMC
 
 1. Download the Packwiz Installer Bootstrap from [here](https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar), and put it into your Minecraft folder.  
 2. Under "Edit Instance", go to "Settings" and then "Custom Commands", and add the following pre-launch command: `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/{DESIRED PACK}/pack.toml`  
-    * `{DESIRED PACK}` should be changed to `sodium` or `optifine`; whichever one you want.  
+    * `{DESIRED PACK}` should be changed to `sodium`, `optifine`, or `snapshot`; whichever one you want.  
 3. Use the Export Instance function to export the pack as a `.zip` file.  
 4. To install the pack, you need to add it with "Add Instance" and "Import from zip".
 
@@ -34,7 +35,7 @@ Credit for the instructions go to comp500, the creator of Packwiz, [here](https:
 2. Open the Command Prompt with Win + R and `cmd`. From there, run the following commands:  
 3. `cd %appdata%\.minecraft`  
 4. `java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/{DESIRED PACK}/pack.toml`  
-    * `{DESIRED PACK}` should be changed to `sodium` or `optifine`; whichever one you want.  
+    * `{DESIRED PACK}` should be changed to `sodium`, `optifine`, or `snapshot`; whichever one you want.  
     * If you get a message along the lines of "not found as command, batch file, yadda yadda", you need to install Java. You can find a link [here](https://adoptopenjdk.net/?variant=openjdk16&jvmVariant=hotspot).
 5. You can close out of Command Prompt now, and delete the Packwiz Bootstrap Installer.
 
@@ -43,7 +44,7 @@ Run the following commands (you can also append `&&` between them):
 1. `cd ~/.minecraft`  
 2. `wget https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar`  
 3. `java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/{DESIRED PACK}/pack.toml`  
-    * `{DESIRED PACK}` should be changed to `sodium` or `optifine`; whichever one you want.  
+    * `{DESIRED PACK}` should be changed to `sodium`, `optifine`, or `snapshot`; whichever one you want.  
     * You can pass `-g` if you want all of the optional mods.
 4. `rm -f packwiz-installer-bootstrap.jar`  
 
@@ -108,3 +109,25 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI/)                                                        | Optional | Optional |                                                                                                               |
 | [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)                                     | Yes      | Yes      | Conditionally Approved                                                                                        |
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)                                 | Yes      | Yes      | Conditionally Approved                                                                                        |
+
+
+<details><summary>**Snapshot Pack Mods List**</summary><p>
+* [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)  
+* [Blur](https://modrinth.com/mod/NK39zBp2)  
+* [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)  
+* [Colored Lights](https://modrinth.com/mod/oDZufc9Z)  
+* [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)  
+* [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)  
+* [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)  
+* [EasierCrafting](https://modrinth.com/mod/UylF21yz)  
+* [Fabric API](https://modrinth.com/mod/P7dR8mSH)  
+* [Inspecio](https://modrinth.com/mod/a93H3mKU) *- 1.17 highlight*  
+* [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)  
+* [LazyDFU](https://modrinth.com/mod/hvFnDODi)  
+* [Loading Timer](https://modrinth.com/mod/MrzGakdv)  
+* [Low Fire](https://modrinth.com/mod/Gou1gmGj)  
+* [Mod Menu](https://modrinth.com/mod/mOgUt4GM)  
+* [Mods Command](https://modrinth.com/mod/PExmWQV8)  
+* [Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u)  
+* [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)  
+</p></details>

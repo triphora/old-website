@@ -1,0 +1,13 @@
+name = "AntiGhost"
+filename = "antighost-21w14a-fabric0.32.7-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/21w14a-fabric0.32.7-1.1.4/antighost-21w14a-fabric0.32.7-1.1.4.jar"
+hash-format = "sha512"
+hash = "e8c62fa8cbe689f75737d2cb79c4779f64ad76fa13d2f4a85787ea5d49bfe5c6634f1e09dcb943db7a9c3f99334f23df7f8f5297014508b535b6858bb83842b4"
+
+[update]
+[update.modrinth]
+mod-id = "Jw3Wx1KR"
+version = "os5ciXHO"

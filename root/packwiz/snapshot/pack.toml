@@ -1,0 +1,12 @@
+name = "waffle's Mods (Snapshot)"
+author = "wafflecoffee"
+version = "2021.04.17"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "01fa0a5dcf489c8455949a9c91993fcf648e7f7d0e723af71c82065a321a1b51"
+
+[versions]
+fabric = "0.11.3"
+minecraft = "21w15a"

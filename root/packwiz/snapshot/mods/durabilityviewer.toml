@@ -1,0 +1,13 @@
+name = "Durability Viewer"
+filename = "durabilityviewer-21w14a-fabric0.32.7-1.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LTM1f0yY/versions/21w14a-fabric0.32.7-1.10/durabilityviewer-21w14a-fabric0.32.7-1.10.jar"
+hash-format = "sha512"
+hash = "9325fe8c04372cfcf341e476ce5a6442c6f4af57058c76f32398886b0bb31f46640f9ef5394f5b99bc7f7a0664834e94c66fb3338b169ee69564d1ce7cebd72c"
+
+[update]
+[update.modrinth]
+mod-id = "LTM1f0yY"
+version = "p7OYJJBW"

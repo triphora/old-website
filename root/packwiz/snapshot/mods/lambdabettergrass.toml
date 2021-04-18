@@ -1,0 +1,13 @@
+name = "LambdaBetterGrass"
+filename = "lambdabettergrass-fabric-1.1.1+21w14a.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.1.1+21w14a/lambdabettergrass-fabric-1.1.1+21w14a.jar"
+hash-format = "sha512"
+hash = "efb77b562ddd7d31e76474d0d69ac42d4ac56a865515621968c74ee906830a727bfb2970a09657c4184f32316ceef3d8abe1f987d4d21b93d028f5278abc6062"
+
+[update]
+[update.modrinth]
+mod-id = "2Uev7LdA"
+version = "6upWR9Fn"

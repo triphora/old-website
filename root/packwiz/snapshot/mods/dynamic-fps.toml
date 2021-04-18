@@ -1,0 +1,13 @@
+name = "Dynamic FPS"
+filename = "dynamic-fps-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.1/dynamic-fps-2.0.1.jar"
+hash-format = "sha512"
+hash = "923eb8206fea45bfc455bb195d71ab3eddf986e1cc2cc48fa9543e7601b34c0e184ad463f4c119622218559a7872ea4e3ebc6815c2dc172f41d1cabe1171ffa2"
+
+[update]
+[update.modrinth]
+mod-id = "LQ3K71Q1"
+version = "XlBOTUIQ"

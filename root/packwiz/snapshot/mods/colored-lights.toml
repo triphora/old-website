@@ -1,0 +1,13 @@
+name = "Colored Lights"
+filename = "colored-lights-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oDZufc9Z/versions/1.0.1/colored-lights-1.0.1.jar"
+hash-format = "sha512"
+hash = "fd0c268607e4856ddf42fcde05dfbd209fb6ff2972a5b25ca442e72409f4dd138985a7218431a8e91b4e03bebf709b4eadd80610e74319bd0e18fac95e997382"
+
+[update]
+[update.modrinth]
+mod-id = "oDZufc9Z"
+version = "AQCDaK2L"
