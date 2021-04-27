@@ -1,13 +1,13 @@
 name = "Loading Timer"
-filename = "Loading-Timer-1.3.1.jar"
+filename = "Loading-Timer-1.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MrzGakdv/versions/v1.3.1+1.16.5/Loading-Timer-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/MrzGakdv/versions/v1.4.1+1.16.5/Loading-Timer-1.4.1.jar"
 hash-format = "sha512"
-hash = "f52f354717abb294adf396c85dd80d99b007a9d7fbe9151470353178cccd2112113f39563a46625759900765477806882ef1f55917ed40f837195232e4aba334"
+hash = "39b5aebe93b8c62c6e24c037461ee22d22db580bd7e99e92064a608bad36f50b47333813dbff958390205e50ed2e69255665fcc25c5484aabc2cbbcf0664a626"
 
 [update]
 [update.modrinth]
 mod-id = "MrzGakdv"
-version = "rHMLxYCb"
+version = "PTJ60kbb"

@@ -111,7 +111,7 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)                                 | Yes      | Yes      | Conditionally Approved                                                                                        |
 
 
-<details><summary>**Snapshot Pack Mods List**</summary><p>
+### Snapshot Pack Mod List
 * [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)  
 * [Blur](https://modrinth.com/mod/NK39zBp2)  
 * [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)  
@@ -130,4 +130,3 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 * [Mods Command](https://modrinth.com/mod/PExmWQV8)  
 * [Mouse Wheelie](https://modrinth.com/mod/u5Ic2U1u)  
 * [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)  
-</p></details>

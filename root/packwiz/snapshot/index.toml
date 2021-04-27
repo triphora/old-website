@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "e2cb86f6aa24d69880c93768c99331c65175fc3e4709288a3736a3ebd9fa513f"
+hash = "e9c6c28ad549aa2820dfd2c7e3dbd17d122fba001b4dda1c851d6629f86734a9"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/loading-timer.toml"
-hash = "e1c8227d77fa8497e93d781b11ddf39a746a2e71cfc6bceab0334bd99a8cdbba"
+hash = "48bdb502f85c9c57de84087baeb200bf7c8a8badea93b051fe78fbfb359774e8"
 metafile = true
 
 [[files]]
