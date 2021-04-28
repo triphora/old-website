@@ -6,11 +6,6 @@ hash = "3c7d1ddd7e88277f49f700e06399305ff51a6330b7fe8f1f6ef4677ba606a21f"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.toml"
-hash = "af704a9d529e5827e4ca2af362fd8e8444d49ddc47d76036ecde087d6da73cf4"
-metafile = true
-
-[[files]]
 file = "mods/clickthrough.toml"
 hash = "235d5b6c5647655010565c87a2d55fab618cac51962e3fe89fc9e96b490455d9"
 metafile = true
