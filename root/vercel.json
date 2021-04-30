@@ -1,6 +1,6 @@
 { "cleanUrls": true,
   "redirects": [
-  	{ "source": "/packwiz/\{:pack\}/pack.toml", "destination": "https://waffle.coffee/packwiz/:pack/pack.toml" },
+  	{ "source": "/packwiz/{:pack}/pack.toml", "destination": "https://waffle.coffee/packwiz/:pack/pack.toml" },
     { "source": "/fabricin(.*)", "destination": "https://empireminecraft.com/threads/83391" },
     { "source": "/updated(.*)", "destination": "https://empireminecraft.com/threads/83816" },
     { "source": "/modpa(.*)", "destination": "https://empireminecraft.com/threads/83816" },
