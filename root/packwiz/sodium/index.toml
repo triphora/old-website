@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.toml"
-hash = "3e1d18035f89c16dfa05ba359e5d580866945213487010e6c210006ebb17a004"
+hash = "7f6bf37922b4a418427eeea23457b654f3b61b30dbb98d1d051452ef4395ce7b"
 metafile = true
 
 [[files]]
@@ -41,6 +41,11 @@ hash = "895d4da3a181a263be4107364f082582e8759ce2295e6bf8c8369a033fed9424"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.toml"
+hash = "2439514e1c20fb0f2593358e249f987c590e4a551ffe634aea0d09b17287ddc0"
+metafile = true
+
+[[files]]
 file = "mods/critical-flight-details.toml"
 hash = "fd1b2c2aad80a2ddbd7e1ce903132afca0bf1b3ec484662e55ed53e026e025e8"
 metafile = true
@@ -51,8 +56,13 @@ hash = "8cc0f2e6ea67d26471df5de09ba2ca53a9a72742a649535fc0dbf594859e7997"
 metafile = true
 
 [[files]]
+file = "mods/cull-leaves.toml"
+hash = "a27f1249331e73fd51dfe948a9f87121ee99abeb7721019124bfa7a07b745642"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.toml"
-hash = "3e25d5b32e57c54a98ec0911bba7aa75e6efe586924210718a0823fd7433f8c1"
+hash = "9b1414929b73e0ad6fd161035ccb2700f8cf96fad9b57848f118110ee87ae8b1"
 metafile = true
 
 [[files]]
@@ -83,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.toml"
 hash = "39a99b13acbb5c5597030f06543d1acb5ad8a35b5786bdbbf6c2c2b3a7e3104d"
+metafile = true
+
+[[files]]
+file = "mods/fastchest.toml"
+hash = "1795f80308062a53a66fbbac40ddaf1043aca00ef3907785b0a5435bfb08f360"
 metafile = true
 
 [[files]]
@@ -118,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.toml"
 hash = "c2eebda6b83770ef540b156b890f5ba40fd85c71176576480f8d1445ed2f1fa7"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
@@ -186,6 +206,11 @@ hash = "a826b893ccf96de25429d13d470f5509ce6f998c2c6533c9c0567f8f982b01e0"
 metafile = true
 
 [[files]]
+file = "mods/quilt-loading-screen.toml"
+hash = "0eacc76424655ddbde49a3f6b121d94811c0acbd2834029daad63faabe95340c"
+metafile = true
+
+[[files]]
 file = "mods/reauth-fabric.toml"
 hash = "7e7440866874e0dd11fa64d3df8c8848b2c0d0464af0b74bd546ab654503510a"
 metafile = true
@@ -198,11 +223,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.toml"
 hash = "e3f3c5a10f9acb1ba30b80e00033b16b1fb565a14b6ca69f721efbb033abdba5"
-metafile = true
-
-[[files]]
-file = "mods/smoothboot-fabric.toml"
-hash = "8c73548d4ccc3e530a2543e961fcc3c2b8c5e6671af438d7ed36c1eb9a591ccc"
 metafile = true
 
 [[files]]

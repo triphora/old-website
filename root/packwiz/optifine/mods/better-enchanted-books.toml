@@ -1,16 +1,16 @@
 name = "Better Enchanted Books"
-filename = "better-enchanted-books-1.16.5-1.2.7.jar"
+filename = "better-enchanted-books-1.16.5-1.2.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/yjpXhps7/versions/1.2.7/better-enchanted-books-1.16.5-1.2.7.jar"
+url = "https://cdn.modrinth.com/data/yjpXhps7/versions/1.2.8/better-enchanted-books-1.16.5-1.2.8.jar"
 hash-format = "sha512"
-hash = "e495bf9ca46bf7380e77c6c61c6d15d5309220005bbfaa8af7f76456a6e42235c1f399af1f810adf5fc6fbaee7193d358dba56ffafcc7f67aa8be067615f1f8c"
+hash = "63906b9c8ac0de3360673d1c38550d833c1538099c554c0c702a69148d800f9c2d54df634ad01c269341d3188da7243ee1a766395b4b5bdd6b3fae310876a36f"
 
 [update]
 [update.modrinth]
 mod-id = "yjpXhps7"
-version = "SN59csgo"
+version = "liOvaREE"
 
 [option]
 optional = true
