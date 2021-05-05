@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d524b3d5d6e07bff9af8e892fb3ae562a2805a21348888012c65abde4d9395a3"
+hash = "08abd2472f03ba294a66011b2a00cbc40cfb95bca7cc2a18d52240767379f0fc"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/phosphor.toml"
-hash = "c40362c2c8a294c33867341f8129e968b8f20c89862e5dbf272436c4e2e75d94"
+hash = "1e06139deec8b03ae4f0b471d9b8a04750dbacabd6f91391230caa86e2487104"
 metafile = true
 
 [[files]]
