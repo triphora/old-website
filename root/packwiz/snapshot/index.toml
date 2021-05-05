@@ -6,6 +6,11 @@ hash = "3c7d1ddd7e88277f49f700e06399305ff51a6330b7fe8f1f6ef4677ba606a21f"
 metafile = true
 
 [[files]]
+file = "mods/cauldronconcrete.toml"
+hash = "d3da7cc267655b9e1fb9e33f968f6c653c33d22d289ed316c61c891a140658f9"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.toml"
 hash = "235d5b6c5647655010565c87a2d55fab618cac51962e3fe89fc9e96b490455d9"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/colored-lights.toml"
 hash = "6380dbd82cc04e796d59debdeb20bea6fb84229e99fdf3fb8b9bcbd09abb229a"
+metafile = true
+
+[[files]]
+file = "mods/consistencyplus.toml"
+hash = "49c6a97fb5a6ffd5a9d107c1770be2c3854f05fb8aaefff560d96fda58a1f0a5"
 metafile = true
 
 [[files]]
@@ -37,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "584329bfb9f039b087e6ca3c199536143d4d925e3f3eb629a5b67a245652d467"
+hash = "ba7345a2c107ec3da27ac0da86a669640e17a56de1bbefa0f7f804070980dd1d"
 metafile = true
 
 [[files]]
@@ -78,9 +88,4 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.toml"
 hash = "8263e3b4c2cb7a36d87d9510ab1f8393df4bf992b3b00248f3fa53ad34e97452"
-metafile = true
-
-[[files]]
-file = "mods/ok-zoomer.toml"
-hash = "3a383dcdd22153e5d44fc140d6b40de049a508cbd304463da30d800594f2f73b"
 metafile = true

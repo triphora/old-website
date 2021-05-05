@@ -1,12 +1,15 @@
 name = "waffle's Pack (Sodium)"
 author = "wafflecoffee"
-version = "2021.4.29"
+version = "2021.5.4"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a6b4b70ca2a4a930055a296abbf52281397e31bc93999533c88040ecaa79a6de"
+hash = "500e7bc1def6b83970431ae82596efd387d725b640bac2f51603a65b2216b89e"
 
 [versions]
 fabric = "0.11.3"
 minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16.4", "1.16.3", "1.16.2"]

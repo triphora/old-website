@@ -1,12 +1,15 @@
 name = "waffle's Pack (OptiFine)"
 author = "wafflecoffee"
-version = "2021.4.29"
+version = "2021.5.4"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "912a9fedbf28b5d2480cdc13e4cbaaa31280601a9de92ee8231babfa534f7afd"
+hash = "05fa8a37f9022c62473f6930ffce290472a26612e1da421eab7d90b23c0b2bf6"
 
 [versions]
 fabric = "0.11.3"
 minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16.4", "1.16.3", "1.16.2"]

@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "d2aa937360b49d5fdb6d5b5c9d0c0bd54965b0fbfdcc24fe9f8b28d8960c3f7e"
+hash = "550e35429c1751e364f0959ecc4de8381dbe209671fd43eb39a16cec694d5a4d"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "10c183e4658fa831d44cb64af72c2c699cc1eccaea50728686fe8dc9ccc36f3a"
+hash = "d524b3d5d6e07bff9af8e892fb3ae562a2805a21348888012c65abde4d9395a3"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.toml"
-hash = "6b94fc7e70baac84d6be150d8a429599ab6337f7fd8dcc079260323a1bdb9ee0"
+hash = "91ce9451fc2860bc7c833b28f9b72d7e303973bf85c61cf555117473b8be6681"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "0eacc76424655ddbde49a3f6b121d94811c0acbd2834029daad63faabe95340c"
+hash = "70b3c0dbb3af97f2b8b9ee74cb1211d1ff7d2b90aaef5e9f402101d826475a04"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "7c3d69bfb9ba5092633dc5e640a9cd6b5cc95b96905c1c4ee60ca4a01860ebc4"
+hash = "a95c4c7fe95520e58426f279ef20077934e0b9cd6d6b923977fa1feb8e24951a"
 metafile = true
 
 [[files]]
@@ -252,10 +252,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "ffdad4b6906ff96254a0dbd75ff7eb82a6018bac9c51622eae7ce0a3696ed219"
+hash = "fd1eebd209abf23c1c6b10d416601e89427a4f35d54fced566709abcf51e44b8"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "94839ddcf12514e04242accb2da5d0506422487c73f7641be4204e4ec818cca9"
+hash = "16b89188be0c590ef27497d8d7bd076eecfbec07576eb6746f3610de424c89f5"
 metafile = true
