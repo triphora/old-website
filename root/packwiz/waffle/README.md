@@ -1,0 +1,3 @@
+# Sodium Modified
+Oai! Why are you here?  
+This is the version of my mod playlists that I use personally. It requires some additional setup, though, so if you're brave enough I guess...
