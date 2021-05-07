@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.toml"
-hash = "bd69d124a91dd0c39cc2bf3bb4acd858a459dd104828d1600a398aa968294f3b"
+hash = "036787d45d5f05b1043238f9e629eb8215defac609d14cdf4598ee44a910dff3"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "154f03a34b7ef2a384f425fc47db7e9681d6729f5b88a90a328bd62bcd07f6a1"
+hash = "abec79664841dbb15c03f41aeacecd2f17ca0ff7f8062db441962ee7784c9206"
 metafile = true
 
 [[files]]
