@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "550e35429c1751e364f0959ecc4de8381dbe209671fd43eb39a16cec694d5a4d"
+hash = "9b955b7817a9e73efe1d873657d1172c93688d724448ebb08a4b5e22c427ea96"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.toml"
-hash = "036787d45d5f05b1043238f9e629eb8215defac609d14cdf4598ee44a910dff3"
+hash = "6c11ca8b1f4f3c9be04e5eb1ace4aac1cd6bdf8660f7ed5a7b0d0ff3a9e02842"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "abec79664841dbb15c03f41aeacecd2f17ca0ff7f8062db441962ee7784c9206"
+hash = "364ae5083a4e313e98eaee22ebe8a0f69bb415d14be217a6442c7d1c8b051cdf"
 metafile = true
 
 [[files]]
