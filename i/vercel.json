@@ -1,2 +1,0 @@
-{ "cleanUrls": true,
-  "redirects": [{ "source": "/colourCodes.png", "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt" }]}

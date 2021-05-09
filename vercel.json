@@ -9,7 +9,6 @@
     { "source": "/ag(.*)", "destination": "https://empireminecraft.com/wiki/anti-grief/#list-of-non-automatically-protected-blocks" },
     { "source": "/colo(.*)", "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt" },
     { "source": "/wiki-colour-codes.png", "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt" },
-    { "source": "/i/The_Global_Lie_3.pdf", "destination": "https://i.waffle.coffee/globalLie.pdf" },
     { "source": "/secr(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
     { "source": "/thre(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
     { "source": "/ap(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
