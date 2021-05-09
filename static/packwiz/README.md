@@ -1,6 +1,6 @@
 # waffle's Mods
 
-***Featuring the [Empire Minecraft Utilities](https://modrinth.com/mod/emcutils) mod, made by [GreenMeanie](https://u.emc.gs/GreenMeanie) with help from yours truly!***
+*Featuring the [Empire Minecraft Utilities](https://modrinth.com/mod/emcutils) mod, made by [GreenMeanie](https://u.emc.gs/GreenMeanie) with help from yours truly!*
 
 Don't want to update your Fabric mods? Let me do it for you! I set up this here mod playlist that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download up to 52 separate mods.
 
