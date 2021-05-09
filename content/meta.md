@@ -1,5 +1,5 @@
 ---
-description: 'information about my website & how to contact me.'
+description: 'information about my website and how to contact me.'
 sidebar: 'default'
 next: '/libreoffice/'
 ---
