@@ -2,7 +2,7 @@
 
 *Featuring the [Empire Minecraft Utilities](https://modrinth.com/mod/emcutils) mod, made by [GreenMeanie](https://u.emc.gs/GreenMeanie) with help from yours truly!*
 
-Don't want to update your Fabric mods? Let me do it for you! I set up this here mod playlist that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download up to 52 separate mods.
+Don't want to update your Fabric mods? Let me do it for you! I set up this here mod playlist that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download up to 53 separate mods.
 
 Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mods!
 
@@ -92,6 +92,7 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ)                                                                       | Yes      | Yes      |                                                                                                                      |
 | [Low Fire](https://modrinth.com/mod/Gou1gmGj)                                                                      | Optional | Optional | Conditionally Approved                                                                                               |
 | [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib)                                                    | Yes      | Yes      | Dependency of multiple other mods                                                                                    |
+| [Mine Menu Fabric](https://modrinth.com/mod/70CWRma1)                                                              | Optional | Optional | Fabric port of the approved Forge mod of the same name                                                               |
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)                                                    | Yes      | Yes      |                                                                                                                      |
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                                                                      | Yes      | Yes      |                                                                                                                      |
 | [Mod Updater](https://www.curseforge.com/minecraft/mc-mods/modupdater)                                             | Yes      | Yes      | Dependency of Giselbaer's mods                                                                                       |

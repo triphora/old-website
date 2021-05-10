@@ -1,6 +1,6 @@
 name = "waffle's Mods (Snapshot)"
 author = "wafflecoffee"
-version = "2021.5.5"
+version = "2021.5.10"
 
 [index]
 file = "index.toml"

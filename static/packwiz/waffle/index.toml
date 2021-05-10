@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9b955b7817a9e73efe1d873657d1172c93688d724448ebb08a4b5e22c427ea96"
+hash = "4c43ae92b14cd3e60ff078ce4cf8db12153edf9c2e9fb40f63994f84c034cc9f"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "3e565913e5050f4394f2dde8452edf37548d7ee2f108b2474144a706f4eca1b9"
+hash = "0a52ac326bf7a04031a8b9b186ffd26c2990012866d077445afc207744285366"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "4a73e0b824454e73c52ad494fc08615271712773cd25946c0b9b59d5db2eefcb"
+hash = "a5b23e8e1f0b29531fae11b754377bb41411a50303fe2278ef79bcc20608ea86"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "08abd2472f03ba294a66011b2a00cbc40cfb95bca7cc2a18d52240767379f0fc"
+hash = "d09e7bc5459ed809a3c32cdeea1ef8f71f2df4b19e147da9a6f60765c99da16e"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/minemenufabric.toml"
-hash = "34f6791cc901a53f15b42e4133b2f5321ebb293e86dba590ae65bcf61049460d"
+hash = "ad73f60e4f8bfdcb6c8d3cd43e22731c964ccb84de6d2d42ec3c3e8240080f89"
 metafile = true
 
 [[files]]

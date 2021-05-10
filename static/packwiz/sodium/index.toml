@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "550e35429c1751e364f0959ecc4de8381dbe209671fd43eb39a16cec694d5a4d"
+hash = "4c43ae92b14cd3e60ff078ce4cf8db12153edf9c2e9fb40f63994f84c034cc9f"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "3e565913e5050f4394f2dde8452edf37548d7ee2f108b2474144a706f4eca1b9"
+hash = "0a52ac326bf7a04031a8b9b186ffd26c2990012866d077445afc207744285366"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "4a73e0b824454e73c52ad494fc08615271712773cd25946c0b9b59d5db2eefcb"
+hash = "a5b23e8e1f0b29531fae11b754377bb41411a50303fe2278ef79bcc20608ea86"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "08abd2472f03ba294a66011b2a00cbc40cfb95bca7cc2a18d52240767379f0fc"
+hash = "d09e7bc5459ed809a3c32cdeea1ef8f71f2df4b19e147da9a6f60765c99da16e"
 metafile = true
 
 [[files]]
@@ -166,6 +166,11 @@ hash = "35cdd7a1c9b2dd09d458773be1fef94eaca2138b6a96f218921b2deaa0380c4e"
 metafile = true
 
 [[files]]
+file = "mods/minemenufabric.toml"
+hash = "04807434817c0236addfacc1062a4bc4ef7fdebd9d0686bdf719220a56386746"
+metafile = true
+
+[[files]]
 file = "mods/minihud.toml"
 hash = "f7a18e0438a168d0bdd2035f0828e2e5d86626d6144a8788f07f13dabd20b487"
 metafile = true
@@ -207,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "70b3c0dbb3af97f2b8b9ee74cb1211d1ff7d2b90aaef5e9f402101d826475a04"
+hash = "6cfb78f2e587160b8218f4805b630fe1fadec8fcefad5a415ff3dd047282e5c6"
 metafile = true
 
 [[files]]
