@@ -1,0 +1,13 @@
+name = "Pride Flags"
+filename = "prideflags-0.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hd1Vej58/versions/0.3.0/prideflags-0.3.0.jar"
+hash-format = "sha512"
+hash = "a795f025c9632a2e77a8afe48bfc9a24c383840bf63eb13f6996a2dd8fbe243b8c491c1496f7866891acf7e74b2d15cf516ccce7e7aa951f754762bcf5bd58ea"
+
+[update]
+[update.modrinth]
+mod-id = "hd1Vej58"
+version = "psv457zv"

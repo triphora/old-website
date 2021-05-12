@@ -1,0 +1,14 @@
+name = "Better minecart rotation (Fabric)"
+filename = "lock_minecart_view-for-MC1.16.2-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3031/32/lock_minecart_view-for-MC1.16.2-1.2.1.jar"
+hash-format = "murmur2"
+hash = "1338041211"
+
+[update]
+[update.curseforge]
+file-id = 3031032
+project-id = 382410
+release-channel = "beta"

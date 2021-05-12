@@ -1,0 +1,14 @@
+name = "WorldEdit"
+filename = "worldedit-mod-7.2.5-dist.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3283/693/worldedit-mod-7.2.5-dist.jar"
+hash-format = "murmur2"
+hash = "273687058"
+
+[update]
+[update.curseforge]
+file-id = 3283693
+project-id = 225608
+release-channel = "beta"

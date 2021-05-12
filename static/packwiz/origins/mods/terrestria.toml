@@ -1,0 +1,13 @@
+name = "Terrestria"
+filename = "terrestria-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/2.2.0/terrestria-2.2.0.jar"
+hash-format = "sha512"
+hash = "f20aca316978549f92e9875020210b5cd926cfbd86e026230751568885e29f15cb0ed48ba0a4498fea10a9a3d1a8904535998e2c39fc1e2ab44b36cd7da09223"
+
+[update]
+[update.modrinth]
+mod-id = "lsUDPMOT"
+version = "PRtO7FA6"

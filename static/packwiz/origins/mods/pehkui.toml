@@ -1,0 +1,13 @@
+name = "Pehkui"
+filename = "Pehkui-2.1.0+21w18a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/t5W7Jfwy/versions/2.1.0+21w18a/Pehkui-2.1.0+21w18a.jar"
+hash-format = "sha512"
+hash = "6e2608a0fd21217ff89ecc1462b1231e8b48d2002c9e3ab8ab585c1f64901f1235fb3a293641ab665ce78b068225706c5f1764cee76ef1dcc009f7813c779d1b"
+
+[update]
+[update.modrinth]
+mod-id = "t5W7Jfwy"
+version = "iMdrs7GR"

@@ -1,0 +1,15 @@
+name = "Origins Modlist for Da Blessed"
+author = "DreamyFeather/wafflecoffee"
+version = "2.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1f0c64d93a4310c6afaf9e073544edb56fe12ee663236760acf9133706cbb012"
+
+[versions]
+fabric = "0.11.3"
+minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16.4", "1.16.3", "1.16.2"]

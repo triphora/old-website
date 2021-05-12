@@ -1,3 +1,3 @@
 Indium  cd ~/repos/mods/indium && git pull && gradle build && mv build/libs/indium-1.0.0.jar ~/.minecraft/mods/
-Iris    cd ~/repos/mods/iris && git pull && gradle build && mv build/libs/iris-0.3.0.jar ~/.minecraft/mods/
+Iris    cd ~/repos/mods/iris && git pull && gradle build && gradle publishToMavenLocal && mv build/libs/iris-0.3.0.jar ~/.minecraft/mods/
 Sodium  cd ~/repos/mods/sodium && git pull && gradle build && mv build/libs/sodium-*.jar ~/.minecraft/mods/

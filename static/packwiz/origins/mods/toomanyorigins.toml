@@ -1,0 +1,14 @@
+name = "TooManyOrigins"
+filename = "TooManyOrigins-1.16.5-0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3290/591/TooManyOrigins-1.16.5-0.1.3.jar"
+hash-format = "murmur2"
+hash = "391615413"
+
+[update]
+[update.curseforge]
+file-id = 3290591
+project-id = 469658
+release-channel = "beta"
