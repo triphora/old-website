@@ -8,6 +8,10 @@
         <strong class="text-ui-primary">Personal Site of waffle</strong>
         <p class="text-xl font-medium text-center">
           This is my site to do testing on. There isn't much of anything here yet... why are you here?
+          <br />
+          <a rel="me" href="https://tech.lgbt/@waffle">
+            Mastodon
+          </a>
         </p>
       </div>
     </div>
