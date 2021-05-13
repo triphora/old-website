@@ -1,11 +1,11 @@
 name = "Origins Modlist for Da Blessed"
 author = "DreamyFeather and wafflecoffee"
-version = "2.0.0"
+version = "3.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1f0c64d93a4310c6afaf9e073544edb56fe12ee663236760acf9133706cbb012"
+hash = "a306beb9fba845fc9521e228d231ffc240ee19cf37cec6c7aeffd360234fc900"
 
 [versions]
 fabric = "0.11.3"
