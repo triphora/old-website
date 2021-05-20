@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.toml"
-hash = "fbb12ba771ff025ae7503ff59b01e6bc416dc055fe978f75a3db067b13c85fac"
+hash = "009f111264aa1b240c2fb9f89474b58ed892901f11be35c75f42b121583eeb06"
 metafile = true
 
 [[files]]

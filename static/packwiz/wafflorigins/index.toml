@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "a126d28128ee1fe351d91692c78912c446e11d31ad9cc7aaa6978dc8645eb9b2"
+hash = "c0e513dc931e05c7cae3f3cc14a539745252d99432d202d0c0d80775057d0caf"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/bits-and-chisels.toml"
-hash = "971481e420ce1827f2e46e5b15d84617b23b03a23fd87451d8696de5e2a7b3f3"
+hash = "150e674ab1d62ed8f8623035a768759ca47eaf6c1df69e1eaae5c2127cbb17c3"
 metafile = true
 
 [[files]]
@@ -191,11 +191,6 @@ hash = "838679a0798fe157efbf1a1ea5aeec7024b2442b6fa3f3d2cdd1ec95fd4dcef9"
 metafile = true
 
 [[files]]
-file = "mods/emcutils.toml"
-hash = "d7c5173c1ad075591dec45d1051991571830729f4e98cba23c21b080ad1f2b71"
-metafile = true
-
-[[files]]
 file = "mods/expanded-storage-fabric.toml"
 hash = "1a8fee12351b417b760a4ceedeedd333a3bf4a2934fdef989e1cf9a2fd16930e"
 metafile = true
@@ -203,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/extra-origins.toml"
 hash = "5298c85dec1147dcaf6242a1c160277ee6770e3c68d554453987e5b7d02dde45"
-metafile = true
-
-[[files]]
-file = "mods/extraalchemy.toml"
-hash = "f603cd0cef1c85c2499239e7156eae457f4d277ead7ea9a6708637ad2e9cb030"
 metafile = true
 
 [[files]]
@@ -608,16 +598,6 @@ metafile = true
 [[files]]
 file = "mods/untitled-duck-mod-fabric.toml"
 hash = "800ba91ae1c300e371354a15047f384bbd665f66839d5fb10c14dcc17d729276"
-metafile = true
-
-[[files]]
-file = "mods/vanilla-excavators.toml"
-hash = "9d9f1d56e62980bab5bd13f795fb92ff96cdd7f90a9a6d2c93b758c44875cf69"
-metafile = true
-
-[[files]]
-file = "mods/vanilla-hammers.toml"
-hash = "ac1c201eee4f7f6ae2f3fc4aca31a1a2b6e840104b2b5776c11e590e8250f522"
 metafile = true
 
 [[files]]
