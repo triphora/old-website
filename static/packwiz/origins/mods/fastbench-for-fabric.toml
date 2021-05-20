@@ -1,0 +1,14 @@
+name = "FastBench for Fabric"
+filename = "fastbench-2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3005/190/fastbench-2.3.jar"
+hash-format = "murmur2"
+hash = "3229193437"
+
+[update]
+[update.curseforge]
+file-id = 3005190
+project-id = 364531
+release-channel = "beta"

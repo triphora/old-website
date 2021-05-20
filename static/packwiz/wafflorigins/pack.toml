@@ -1,0 +1,15 @@
+name = "waffle's Pack (Sodium Modified)"
+author = "wafflecoffee"
+version = "2021.5.19"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2c1338383d1270f3138913111c20f99521a03c5cdf3d03ada4c5a7900ce8a977"
+
+[versions]
+fabric = "0.11.3"
+minecraft = "1.16.5"
+
+[options]
+acceptable-game-versions = ["1.16.4", "1.16.3", "1.16.2"]

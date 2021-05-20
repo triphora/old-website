@@ -1,15 +1,15 @@
 name = "waffle's Mods (Snapshot)"
 author = "wafflecoffee"
-version = "2021.5.12"
+version = "2021.5.20"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ed2862a9bd7377abe90397e846ff0386b0631deab9d1631294c53544f6c28150"
+hash = "a9f719b6065b65443925a97ecc1c2fcd971038b38200fb976981f09fe962f671"
 
 [versions]
 fabric = "0.11.3"
-minecraft = "21w19a"
+minecraft = "21w20a"
 
 [options]
-acceptable-game-versions = ["21w18a", "21w17a", "21w16a", "21w15a", "21w14a", "21w13a", "21w11a", "21w10a", "21w08b", "21w08a", "21w07a", "21w06a", "21w05b", "21w05a", "21w03a"]
+acceptable-game-versions = ["21w19a", "21w18a", "21w17a", "21w16a", "21w15a", "21w14a", "21w13a", "21w11a", "21w10a", "21w08b", "21w08a", "21w07a", "21w06a", "21w05b", "21w05a", "21w03a"]

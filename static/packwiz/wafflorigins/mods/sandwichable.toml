@@ -1,0 +1,13 @@
+name = "Sandwichable"
+filename = "sandwichable-1.2-beta5--1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5g7OOxWC/versions/1.2-beta5/sandwichable-1.2-beta5--1.16.5.jar"
+hash-format = "sha512"
+hash = "32fb98789c2233b7d0667fb6d04e6141cdedab652f9fa2167a1d2970ff9ec1c3d4a861bb3aa5c0fb26893b20a64d199fb62aabffc6caff737a1bc4997a6d65c2"
+
+[update]
+[update.modrinth]
+mod-id = "5g7OOxWC"
+version = "W3lvWTIF"

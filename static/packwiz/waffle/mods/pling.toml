@@ -1,0 +1,14 @@
+name = "Pling"
+filename = "pling-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3153/778/pling-1.3.0.jar"
+hash-format = "murmur2"
+hash = "1754098164"
+
+[update]
+[update.curseforge]
+file-id = 3153778
+project-id = 365521
+release-channel = "beta"

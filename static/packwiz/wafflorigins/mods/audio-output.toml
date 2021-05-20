@@ -1,0 +1,14 @@
+name = "Audio Output"
+filename = "audiooutput-1.16.2-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3039/481/audiooutput-1.16.2-0.0.3.jar"
+hash-format = "murmur2"
+hash = "2925161628"
+
+[update]
+[update.curseforge]
+file-id = 3039481
+project-id = 372451
+release-channel = "beta"

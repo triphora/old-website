@@ -1,0 +1,14 @@
+name = "MobZ"
+filename = "mobz-2.4.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3215/284/mobz-2.4.6.jar"
+hash-format = "murmur2"
+hash = "2658513556"
+
+[update]
+[update.curseforge]
+file-id = 3215284
+project-id = 336554
+release-channel = "beta"

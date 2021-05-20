@@ -1,0 +1,14 @@
+name = "Don't Clear Chat History"
+filename = "DCCH-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3041/351/DCCH-1.0.jar"
+hash-format = "murmur2"
+hash = "559437588"
+
+[update]
+[update.curseforge]
+file-id = 3041351
+project-id = 404400
+release-channel = "beta"

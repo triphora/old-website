@@ -1,0 +1,14 @@
+name = "Gentle Fawn"
+filename = "GentleFawn-1.1.4-MC1.16.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3225/163/GentleFawn-1.1.4-MC1.16.5-fabric.jar"
+hash-format = "murmur2"
+hash = "49755177"
+
+[update]
+[update.curseforge]
+file-id = 3225163
+project-id = 395656
+release-channel = "beta"

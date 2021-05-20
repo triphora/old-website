@@ -1,0 +1,13 @@
+name = "Food, Glorious Food!"
+filename = "foodgloriousfood-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VT4MdZTy/versions/1.0.0/foodgloriousfood-1.0.0.jar"
+hash-format = "sha1"
+hash = "6992413f66290685b70de3f2115aaa2da6107831"
+
+[update]
+[update.modrinth]
+mod-id = "VT4MdZTy"
+version = "sHGHsyix"

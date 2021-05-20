@@ -1,0 +1,13 @@
+name = "Traverse"
+filename = "traverse-3.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kXygSBVI/versions/3.3.2/traverse-3.3.2.jar"
+hash-format = "sha512"
+hash = "0321c0e4848c5a093ca1c3dfcbf3e19cf145872be71c943c87f6e8284a3c1bf398ad0a1d293d12e7ef61d59286e589b22ba936eca8fa1860a89307e49e9d1ef3"
+
+[update]
+[update.modrinth]
+mod-id = "kXygSBVI"
+version = "3aLwT9Fp"

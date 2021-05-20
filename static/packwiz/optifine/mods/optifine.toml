@@ -1,8 +1,0 @@
-name = "OptiFine"
-filename = "OptiFine_1.16.5_HD_U_G7.jar"
-side = "both"
-
-[download]
-url = "https://optifine.net/downloadx?f=OptiFine_1.16.5_HD_U_G7.jar"
-hash-format = "sha512"
-hash = "51468b7c8b4ac17c5b8a20bd9c39c0039353e9e626c7a6efda67f9f9e66c31407d027ebed1b2a96ce3dd76c1a32f685d1ea8b544e2dde0cc52c494e50e00f1f3"

@@ -1,0 +1,14 @@
+name = "Adorn"
+filename = "Adorn-1.13.0+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3177/342/Adorn-1.13.0+1.16.5.jar"
+hash-format = "murmur2"
+hash = "3573848206"
+
+[update]
+[update.curseforge]
+file-id = 3177342
+project-id = 320215
+release-channel = "beta"

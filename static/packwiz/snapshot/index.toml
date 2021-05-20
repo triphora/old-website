@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/colored-lights.toml"
-hash = "6380dbd82cc04e796d59debdeb20bea6fb84229e99fdf3fb8b9bcbd09abb229a"
+hash = "126d90de6e239a9107c4308e2ba603f8abb03955c2f1ba597a03a40c970eef0b"
 metafile = true
 
 [[files]]
@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "5d29f424163fb791e13e1fc99fe6e4bbdcae939cf7c6c5009b32ba4a95fc205d"
+hash = "99c46d627ab99729b1be9686ba67f3f7565df62df06044c39d469d4efa1c6b5b"
 metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "ad78ca1a79e3605cbfe668c5c12bdf3622d5c42ffdcbccedb1c3227d7ef688e5"
+hash = "84ee582d6e9e7cf2f8973abfea6f98328930f0a3f3f31712b26f4248701bf24b"
 metafile = true
 
 [[files]]
@@ -87,5 +87,5 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.toml"
-hash = "8263e3b4c2cb7a36d87d9510ab1f8393df4bf992b3b00248f3fa53ad34e97452"
+hash = "982e4cdcfa9fb938371863303f4811e7148a78e973b95224ab6433c610fafac3"
 metafile = true

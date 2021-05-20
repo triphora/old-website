@@ -1,0 +1,14 @@
+name = "DynmapForge"
+filename = "Dynmap-3.1-fabric-1.16.4.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3242/308/Dynmap-3.1-fabric-1.16.4.jar"
+hash-format = "murmur2"
+hash = "2054858970"
+
+[update]
+[update.curseforge]
+file-id = 3242308
+project-id = 59433
+release-channel = "beta"

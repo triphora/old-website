@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "4c43ae92b14cd3e60ff078ce4cf8db12153edf9c2e9fb40f63994f84c034cc9f"
+hash = "a126d28128ee1fe351d91692c78912c446e11d31ad9cc7aaa6978dc8645eb9b2"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "0a52ac326bf7a04031a8b9b186ffd26c2990012866d077445afc207744285366"
+hash = "4ac362da27727d78e5105fe2a2da78db6926aacddf1377bd662eb154a31e63f8"
 metafile = true
 
 [[files]]
@@ -73,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.toml"
 hash = "3e25d5b32e57c54a98ec0911bba7aa75e6efe586924210718a0823fd7433f8c1"
+metafile = true
+
+[[files]]
+file = "mods/dont-clear-chat-history.toml"
+hash = "1d63113a94ae5dc6f2bca43e879bb8dfb95eafe6503b73cf2482ab294b2c48f0"
 metafile = true
 
 [[files]]
@@ -131,6 +136,11 @@ hash = "2c15341ca11e195b5b5d7923d7c33545ae921f2f91bc3c9e16278aefa1240b85"
 metafile = true
 
 [[files]]
+file = "mods/isometric-renders.toml"
+hash = "14a027f88bc5f869658b001c7712235886c05fb861d4a556fbf2b027a98902a0"
+metafile = true
+
+[[files]]
 file = "mods/item-scroller.toml"
 hash = "880eb609329689d5dcce7aa094a09080826fa629d18dc4f92a3b74b284b50f8a"
 metafile = true
@@ -182,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/minemenufabric.toml"
-hash = "ad73f60e4f8bfdcb6c8d3cd43e22731c964ccb84de6d2d42ec3c3e8240080f89"
+hash = "bddc15bf2a9ebf1c8101ac5bb297b0bf907b12f849289da952a228d1270751a9"
 metafile = true
 
 [[files]]
@@ -221,13 +231,23 @@ hash = "a826b893ccf96de25429d13d470f5509ce6f998c2c6533c9c0567f8f982b01e0"
 metafile = true
 
 [[files]]
+file = "mods/pling.toml"
+hash = "ff714edaf62735149face116f54dbd4005268e02f016b65082b208499f250a1d"
+metafile = true
+
+[[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "364ae5083a4e313e98eaee22ebe8a0f69bb415d14be217a6442c7d1c8b051cdf"
+hash = "4513629028c00b0ed5b188e4f9814149b921954eea5c667f3f45cd46cfa79c0d"
 metafile = true
 
 [[files]]
 file = "mods/reauth-fabric.toml"
 hash = "21fdcce7774083cf2b05a6417c273c5d9d54b60cc3dca66beebee9e2d80f04c7"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "f53de056dd0d1029be5b6fad356605ecd6367ef48807f664e571ceb43d70d919"
 metafile = true
 
 [[files]]
@@ -267,10 +287,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "fd1eebd209abf23c1c6b10d416601e89427a4f35d54fced566709abcf51e44b8"
+hash = "ef0a055184463b1a934c15caab657b558810e28e13820f3ae474d54a60b74107"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "16b89188be0c590ef27497d8d7bd076eecfbec07576eb6746f3610de424c89f5"
+hash = "10db3ad24685507ac5d3cbb37e485a37f65f13453f53d3456612ab2bdf2fe4d9"
 metafile = true

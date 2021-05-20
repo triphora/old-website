@@ -1,0 +1,14 @@
+name = "Direbats (Fabric/Quilt)"
+filename = "direbats-1.1.1+1.16.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3260/735/direbats-1.1.1+1.16.5-fabric.jar"
+hash-format = "murmur2"
+hash = "3568862970"
+
+[update]
+[update.curseforge]
+file-id = 3260735
+project-id = 407987
+release-channel = "beta"

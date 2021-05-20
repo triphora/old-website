@@ -1,0 +1,14 @@
+name = "Flesh 2 Leather [FABRIC]"
+filename = "flesh2leather-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3137/518/flesh2leather-1.0.2.jar"
+hash-format = "murmur2"
+hash = "1369287328"
+
+[update]
+[update.curseforge]
+file-id = 3137518
+project-id = 320932
+release-channel = "beta"
