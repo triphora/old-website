@@ -13,8 +13,9 @@ Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mod
 ## Versions
 
 I have two versions of the mod playlist.
-* **Sodium**: It includes some optional tools that very few people would actually utilise, such as Critical Orientation or WorldEditCUI, and it will prompt you at installation whether you wish to install these optional mods or not. It includes all of the performance-enhancing mods.
-* **Iris**: This is the set that I use personally. It is the same as the Sodium pack, but includes a modified version of Sodium plus a few other additional mods
+* **Sodium**: The Sodium set is the main version. It includes many performance-enhancing mods, plus a lot of other mods that are useful in some way or another.
+* **Iris**: This is the set that I use personally. It is the same as the Sodium pack, but includes a modified version of Sodium plus a few other additional mods.
+Both sets include some optional tools that very few people would actually utilise, such as Critical Orientation or WorldEditCUI, and it will prompt you at installation whether you wish to install these optional mods or not.
 
 ## Installation
 
