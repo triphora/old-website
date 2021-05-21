@@ -61,6 +61,11 @@ hash = "8cc0f2e6ea67d26471df5de09ba2ca53a9a72742a649535fc0dbf594859e7997"
 metafile = true
 
 [[files]]
+file = "mods/ctm-fabric.toml"
+hash = "c120e8ab73a7cf97c9cfd082af03223189e04f3a59110183b709181817a8295b"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.toml"
 hash = "a27f1249331e73fd51dfe948a9f87121ee99abeb7721019124bfa7a07b745642"
 metafile = true
@@ -91,6 +96,11 @@ hash = "d7d4dc938fb8f5f2262b8c4888fa34ccd98ad064ed8968c7b58b31149e3d1f69"
 metafile = true
 
 [[files]]
+file = "mods/ebe.toml"
+hash = "6c11ca8b1f4f3c9be04e5eb1ace4aac1cd6bdf8660f7ed5a7b0d0ff3a9e02842"
+metafile = true
+
+[[files]]
 file = "mods/emcutils.toml"
 hash = "d7c5173c1ad075591dec45d1051991571830729f4e98cba23c21b080ad1f2b71"
 metafile = true
@@ -111,11 +121,6 @@ hash = "39a99b13acbb5c5597030f06543d1acb5ad8a35b5786bdbbf6c2c2b3a7e3104d"
 metafile = true
 
 [[files]]
-file = "mods/fastchest.toml"
-hash = "1795f80308062a53a66fbbac40ddaf1043aca00ef3907785b0a5435bfb08f360"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.toml"
 hash = "868f81f9da3a432950f1bb0ae41cfccb5b70d6e4d945e2246628a47b04ffcc6f"
 metafile = true
@@ -131,8 +136,21 @@ hash = "153cda3c6d61ae9b32117fe5315ee40a0bd561b7292d9a5927773a368b52c254"
 metafile = true
 
 [[files]]
+file = "mods/indium-1.0.0.jar"
+hash = "58cd314deea576bdab1e0b4156244f9f11995b0aee2fac719d58e10573fe2af8"
+
+[[files]]
 file = "mods/inventory-profiles.toml"
 hash = "2c15341ca11e195b5b5d7923d7c33545ae921f2f91bc3c9e16278aefa1240b85"
+metafile = true
+
+[[files]]
+file = "mods/iris-0.4.0-pre.jar"
+hash = "77d9a695c9e3ac1416c38ac7abbfa154292b9050336449c036f9a8afc74fdf3a"
+
+[[files]]
+file = "mods/iris-explorer.toml"
+hash = "07c7b732afde34c9b09260de4f455aea2981103b574fde2745efcccd17b48d45"
 metafile = true
 
 [[files]]
@@ -143,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.toml"
 hash = "2148d404b7cf3a72a469be3433272f13218a98d0cc1af4b9abb2886bbc7848c3"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.toml"
+hash = "062d5dad711fa8ccf69cfb5b11efaee1ca33b66cff734b1c754f3df85e3e14ff"
 metafile = true
 
 [[files]]
@@ -261,9 +284,8 @@ hash = "f3ad314aaea51ee2bfbdd05de35b012df356c62167f44c719f4964068de784d4"
 metafile = true
 
 [[files]]
-file = "mods/sodium.toml"
-hash = "0bdaff4279932189d76fc68cd7b9de01f541e2fa5b6845a234fa85fb558ffa20"
-metafile = true
+file = "mods/sodium-fabric-mc1.16.4-IRIS-SNAPSHOT_rev.f5a2221-dirty.jar"
+hash = "e60feed396552b0e905fbfd4683f1db2bb31c778958edc4245dbbb74f49e472b"
 
 [[files]]
 file = "mods/starlight.toml"

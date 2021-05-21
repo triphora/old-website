@@ -1,0 +1,16 @@
+name = "No More Useless Keys - NMUK"
+filename = "nmuk-1.0.0+mc1.16.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YCcdA1Lp/versions/1.0.0+mc1.16.4/nmuk-1.0.0+mc1.16.4.jar"
+hash-format = "sha512"
+hash = "689054a61d268c548ccb5571bedea4c3ea89eb734f4a1e88756e7b5a980cbc7017a64a8ceb70b894e8a054de12eddfedff4062d56fa5aa355a520862eecbe089"
+
+[update]
+[update.modrinth]
+mod-id = "YCcdA1Lp"
+version = "PZoHxtj7"
+
+[option]
+optional = true

@@ -1,0 +1,16 @@
+name = "MineMenuFabric"
+filename = "MineMenuFabric-4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/70CWRma1/versions/4.0/MineMenuFabric-4.0.jar"
+hash-format = "sha512"
+hash = "face3397b1fd369b1e10c8f2e812bcd67ca5c055054735401103ffec91b202ff87fb8a18b83ca32ed09bd8b781de09f84214d42cb55b6c58e26303d5add1ae7d"
+
+[update]
+[update.modrinth]
+mod-id = "70CWRma1"
+version = "Py9UlHmd"
+
+[option]
+optional = true

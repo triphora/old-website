@@ -1,5 +1,10 @@
-OptiFine           https://optifine.net/downloads
 Starlight          https://github.com/Spottedleaf/Starlight/releases
 WorldEditCUI       https://github.com/mikroskeem/WorldEditCUI/releases
 Xaero's Minimap    https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files
 Xaero's World Map  https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files
+
+Indium             cd /home/emma/repos/mods/indium && git pull && gradle build && mv build/libs/indium-1.0.0.jar /home/emma/repos/waffle.coffee/static/packwiz/iris/mods
+Iris               cd /home/emma/repos/mods/iris && git pull && gradle build && gradle publishToMavenLocal && mv build/libs/iris-0.4.0-pre.jar /home/emma/repos/waffle.coffee/static/packwiz/iris/mods
+Sodium             cd /home/emma/repos/mods/sodium && git pull && gradle build && mv build/libs/sodium-*.jar /home/emma/repos/waffle.coffee/static/packwiz/iris/mods
+
+Remember to run z update !

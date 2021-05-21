@@ -1,0 +1,17 @@
+name = "Critical Orientation"
+filename = "critical-orientation-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2989/439/critical-orientation-1.0.1.jar"
+hash-format = "murmur2"
+hash = "160192111"
+
+[update]
+[update.curseforge]
+file-id = 2989439
+project-id = 386598
+release-channel = "beta"
+
+[option]
+optional = true

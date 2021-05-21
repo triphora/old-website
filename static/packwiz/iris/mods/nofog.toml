@@ -1,0 +1,17 @@
+name = "NoFog"
+filename = "NoFog-1.16.2b1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3035/93/NoFog-1.16.2b1-Fabric.jar"
+hash-format = "murmur2"
+hash = "1497503767"
+
+[update]
+[update.curseforge]
+file-id = 3035093
+project-id = 296468
+release-channel = "beta"
+
+[option]
+optional = true

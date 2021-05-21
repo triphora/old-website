@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/kibe.toml"
-hash = "2afc93504474a9e09bb2314aa4cfa010761fd7b2467f66c161721bc9ac7c9073"
+hash = "817c88bd5273bf1fb137edd0aee1844665c829626a3ba36eee5521b2d864d629"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins.toml"
-hash = "691e5e5e2d7f1b7190aa61baad4b947ce54d8a12e68d3fe775474a5f0bd13600"
+hash = "f36b4b7b221b7bf64de550b2168cc9949ea8cf545e2266547267db1aca4c0e69"
 metafile = true
 
 [[files]]
@@ -318,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/sandwichable.toml"
 hash = "9a7f20f869b57990f8c82b3b5242418ad086e1a8dad8c4b0a618eeb9cb9ae6b2"
+metafile = true
+
+[[files]]
+file = "mods/shut-up-console.toml"
+hash = "652f983c651f0747157505324ae3221098f51226513d137e0aaa43c5ddc60bfe"
 metafile = true
 
 [[files]]
