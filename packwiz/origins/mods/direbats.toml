@@ -1,0 +1,13 @@
+name = "Direbats"
+filename = "direbats-1.1.1+1.16.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/epF1CjCx/versions/1.1.1+1.16.5-fabric/direbats-1.1.1+1.16.5-fabric.jar"
+hash-format = "sha512"
+hash = "cb66dc4a7eca4a41406ea4fa58c29c7e2989c45f770f0c4e0f96f86dee82e990d12ba53a8fbab8985254cd5b73987a88b09f0644e629870fb5c64476e0f563c2"
+
+[update]
+[update.modrinth]
+mod-id = "epF1CjCx"
+version = "wtHy5RYL"

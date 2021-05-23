@@ -1,5 +1,5 @@
 # https://waffle.coffee
 
-This site is [licensed](/LICENSE) under the MIT License and the GNU FDL-1.3.
+This site is [licensed](/LICENSE) under the CC-BY-NC-SA-4.0.
 
 Created by wafflecoffee/Emmaffle.

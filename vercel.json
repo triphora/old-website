@@ -1,19 +1,63 @@
-{ "cleanUrls": true,
+{
+  "cleanUrls": true,
   "redirects": [
-    { "source": "/fabricin(.*)", "destination": "https://empireminecraft.com/threads/83391" },
-    { "source": "/updated(.*)", "destination": "https://empireminecraft.com/threads/83816" },
-    { "source": "/modpa(.*)", "destination": "https://empireminecraft.com/threads/83816" },
-    { "source": "/fabricpe(.*)", "destination": "https://empireminecraft.com/threads/83393" },
-    { "source": "/promo(.*)", "destination": "https://empireminecraft.com/threads/81637" },
-    { "source": "/katy(.*)", "destination": "https://empireminecraft.com/threads/82580" },
-    { "source": "/ag(.*)", "destination": "https://empireminecraft.com/wiki/anti-grief/#list-of-non-automatically-protected-blocks" },
-    { "source": "/colo(.*)", "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt" },
-    { "source": "/wiki-colour-codes.png", "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt" },
-    { "source": "/secr(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
-    { "source": "/thre(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
-    { "source": "/ap(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
-    { "source": "/downloa(.*)", "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }],
+    {
+      "source": "/fabricin(.*)",
+      "destination": "https://empireminecraft.com/threads/83391"
+    },
+    {
+      "source": "/updated(.*)",
+      "destination": "https://empireminecraft.com/threads/83816"
+    },
+    {
+      "source": "/modpa(.*)",
+      "destination": "https://empireminecraft.com/threads/83816"
+    },
+    {
+      "source": "/fabricpe(.*)",
+      "destination": "https://empireminecraft.com/threads/83393"
+    },
+    {
+      "source": "/promo(.*)",
+      "destination": "https://empireminecraft.com/threads/81637"
+    },
+    {
+      "source": "/katy(.*)",
+      "destination": "https://empireminecraft.com/threads/82580"
+    },
+    {
+      "source": "/ag(.*)",
+      "destination": "https://empireminecraft.com/wiki/anti-grief/#list-of-non-automatically-protected-blocks"
+    },
+    {
+      "source": "/colo(.*)",
+      "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt"
+    },
+    {
+      "source": "/wiki-colour-codes.png",
+      "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt"
+    },
+    {
+      "source": "/secr(.*)",
+      "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "source": "/thre(.*)",
+      "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "source": "/ap(.*)",
+      "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "source": "/downloa(.*)",
+      "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    }
+  ],
   "rewrites": [
-    { "source": "/modrinth/:modid/:attrib", "destination": "https://img.shields.io/badge/dynamic/json?color=blue&label=Modrinth&url=https%3A%2F%2Fapi.modrinth.com%2Fapi%2Fv1%2Fmod%2F:modid&query=:attrib&suffix=%20:attrib" },
-    { "source": "/gh", "destination": "https://github.com/wafflecoffee" }]
+    {
+      "source": "/modrinth/:modid/:attrib",
+      "destination": "https://img.shields.io/badge/dynamic/json?color=blue&label=Modrinth&url=https%3A%2F%2Fapi.modrinth.com%2Fapi%2Fv1%2Fmod%2F:modid&query=:attrib&suffix=%20:attrib"
+    }
+  ]
 }

@@ -1,0 +1,14 @@
+name = "Better Slabs"
+filename = "betterslabs-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3158/336/betterslabs-1.1.4.jar"
+hash-format = "murmur2"
+hash = "1979561129"
+
+[update]
+[update.curseforge]
+file-id = 3158336
+project-id = 407645
+release-channel = "beta"

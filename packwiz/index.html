@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+    <meta name=description content="emma's personal website. not much here, maybe i'll add something later.">
+    <meta name=viewport content="width=device-width, initial-scale=1">
+    <meta name=theme-color content=#000000>
+    <title>home | waffle.coffee</title>
+    <link href=favicon-32x32.png rel=icon sizes=32x32 type=image/png>
+    <link href=favicon-16x16.png rel=icon sizes=16x16 type=image/png>
+    <link href=https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css rel=stylesheet type=text/css>
+    <link href=https://newcss.net/theme/night.css rel=stylesheet>
+  </head>
+  <body style=background-color:#000000>
+    <header>
+      <h1>waffle's Mods</h1>
+    </header>
+    <p><em>Featuring the <a href=https://modrinth.com/mod/emcutils>Empire Minecraft Utilities</a> mod, made by <a href=https://u.emc.gs/GreenMeanie>GreenMeanie</a> with help from yours truly!</em></p>
+    <p>Don't want to update your Fabric mods? Let me do it for you! I set up this here mod playlist that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download 50+ separate mods.</p>
+    <p>Feel free to remove or add any (compatible, <a href=https://mods.emc.gs>approved</a>) mods!</p>
+    <p><strong>Please read the <a href=https://wiki.emc.gs/conditionally-approved-mods>Conditionally Approved Mods</a> page before using the some of the mods included.</strong></p>
+    <p><strong>Important Update 20 May 2021:</strong> The OptiFine set has been removed due to OptiFine's update system changing so that it is literally impossible for me to continue maintaining the OptiFine pack. Please consider using the Iris pack!</p>
+    <h2 id=versions>Versions</h2>
+    <p>I have two versions of the mod playlist.</p>
+    <ul>
+      <li><strong>Sodium</strong>: The Sodium set is the main version. It includes many performance-enhancing mods, plus a lot of other mods that are useful in some way or another.</li>
+      <li><strong>Iris</strong>: This is the set that I use personally. It is the same as the Sodium pack, but includes a modified version of Sodium plus a few other additional mods.</li>
+    </ul>
+    <p>Both sets include some optional tools that very few people would actually utilise, such as Critical Orientation or WorldEditCUI, and it will prompt you at installation whether you wish to install these optional mods or not.</p>
+    <h2 id=installation>Installation</h2>
+    <h3 id=default-launcher>Default Launcher</h3>
+    <h4 id=windows>Windows</h4>
+    <ol>
+      <li>Download the Packwiz Installer Bootstrap from <a href=https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar>here</a>, and put it into your Minecraft folder; the base or "root" of it, <em>not</em> into the <code>mods</code> folder.<ul>
+        <li>If you don't know how to navigate here, open the Run box with Win + R, and type <code>%appdata%\.minecraft</code>.</li></ul></li>
+      <li>Open the Command Prompt using Win + R and <code>cmd</code>. From there, run the following commands:</li>
+      <li><code>cd %appdata%\.minecraft</code></li>
+      <li><code>java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/sodium/pack.toml</code><ul>
+        <li>You can replace <code>sodium</code> with <code>iris</code> if you want shaders.</li>
+        <li>If you get a message along the lines of "not found as command, batch file, yadda yadda", you need to install Java. You can find a link <a href=https://adoptopenjdk.net/?variant=openjdk16&amp;jvmVariant=hotspot>here</a>.</li></ul></li>
+      <li>When you want to update your mods, just run the same <code>java -jar</code> command again!</li>
+    </ol>
+    <h4 id=unix>Unix (Linux, Mac)</h4>
+    <p>Run the following commands in a terminal (you can also append <code>&amp;&amp;</code> between them):</p>
+    <ol>
+      <li><code>cd ~/.minecraft</code></li>
+      <li><code>wget https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar</code></li>
+      <li><code>java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/sodium/pack.toml</code><ul>
+        <li>You can replace <code>sodium</code> with <code>iris</code> if you want shaders.</li>
+        <li>You can pass <code>-g</code> if you want all of the optional mods.</li></ul></li>
+      <li>When you want to update your mods, just run the same <code>java -jar</code> command again!</li>
+    </ol>
+    <p>Change the directory from <code>~/.minecraft</code> if you use a different directory, e.g., if you're on Mac, or use Snap or Flatpak.</p>
+    <h3 id="multimc">MultiMC</h3>
+    <ol>
+      <li>Create a new instance, or use an existing instance if you wish to keep configs &amp; such.</li>
+      <li>Select the "Import from zip" option from the list on the left, and paste the following into the text box labeled "Local file or link to a direct download".<ul>
+        <li><code>https://waffle.coffee/packwiz/sodium/MultiMC.zip</code></li>
+        <li>You can replace <code>sodium</code> with <code>iris</code> if you want shaders.</li></ul></li>
+      <li>Click "Launch" once to initialize auto-updating. It will crash saying "The process failed to start."; this is expected.</li>
+      <li>Click "Launch" again to run the pack. You should see a dialog appear that has a big "Install" button on it. Click on the Install button. After installation, the pack should launch.</li>
+    </ol>
+    <h2 id="mod-list">Mod List</h2>
+    <p><strong>Legend:</strong></p>
+    <ul>
+      <li><em>Always</em> - The mod is always downloaded.</li>
+      <li><em>Optional</em> - The mod is only downloaded if you check the box to, or if you pass the <code>-g</code> argument.</li>
+      <li><em>Iris only</em> - The mod is always downloaded, but only if you are using the Iris list.</li>
+    </ul>
+    <table><thead><tr><th>Mod Name<th>Installed?<th>Comment<tbody><tr><td><a href=https://modrinth.com/mod/Jw3Wx1KR>AntiGhost</a><td>Optional<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/architectury-fabric>Architectury API</a><td>Always<td>Dependency of Light Overlay<tr><td><a href=https://curseforge.com/minecraft/mc-mods/audio-output>Audio Output</a><td>Optional<td>Not approved, but falls under the 3rd sentence on the Incompatible Mods page.<tr><td><a href=https://curseforge.com/minecraft/mc-mods/better-enchanted-books>Better Enchanted Books</a><td>Optional<td><tr><td><a href=https://modrinth.com/mod/NK39zBp2>Blur</a><td>Optional<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/clear-skies>Clear Skies</a><td>Optional<td><tr><td><a href=https://modrinth.com/mod/Z5b0cAlD>ClickThrough</a><td>Always<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/cloth-config>Cloth Config</a><td>Always<td>Dependency of multiple other mods<tr><td><a href=https://curseforge.com/minecraft/mc-mods/command-macros>Command Macros</a><td>Optional<td>Conditionally Approved<tr><td><a href=https://curseforge.com/minecraft/mc-mods/ctm-fabric>Connected Texture Mod</a><td>Iris only<td>Not approved, but falls under the 3rd sentence on the Incompatible Mods page.<tr><td><a href=https://curseforge.com/minecraft/mc-mods/craftpresence>CraftPresence</a><td>Optional<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/critical-flight-details>Critical Flight Details</a><td>Optional<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/critical-orientation>Critical Orientation</a><td>Optional<td><tr><td><a href=https://modrinth.com/mod/GNxdLCoP>Cull Leaves</a><td>Always<td>Not approved, but gives functionality that is the same as that of the approved mod OptiFine.<tr><td><a href=https://curseforge.com/minecraft/mc-mods/dark-loading-screen>Dark Loading Screen</a><td>Optional<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/dont-clear-chat-history>Don't Clear Chat History</a><td>Optional<td>Not approved, but falls under the 3rd sentence on the Incompatible Mods page.<tr><td><a href=https://modrinth.com/mod/LTM1f0yY>Durability Viewer</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/LQ3K71Q1>Dynamic FPS</a><td>Always<td>Fabric port of the approved Forge mod FPS Reducer.<tr><td><a href=https://modrinth.com/mod/UylF21yz>EasierCrafting</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/QYTT62S0>Empire Minecraft Utilities</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/OVuFYfre>Enhanced Block Entities</a><td>Iris only<td>Not approved, but falls under the 3rd sentence on the Incompatible Mods page.<tr><td><a href=https://curseforge.com/minecraft/mc-mods/entityculling>Entity Culling</a><td>Always<td>Not approved, but falls under the 3rd sentence on the Incompatible Mods page.<tr><td><a href=https://modrinth.com/mod/P7dR8mSH>Fabric API</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/3qsfQtE9>Fabrishot</a><td>Always<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/fastchest>FastChest</a><td>Always<td>Not included in the Iris pack, as it is known to cause issues with EBE.<tr><td><a href=https://modrinth.com/mod/uXXizFIs>FerriteCore</a><td>Always<td>Not approved, but falls under the 3rd sentence on the Incompatible Mods page.<tr><td><a href=https://curseforge.com/minecraft/mc-mods/hwyla>HWYLA</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/AZomiSrC>Hydrogen</a><td>Always<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/inventory-profiles>Inventory Profiles</a><td>Always<td>Conditionally Approved<tr><td><a href=https://curseforge.com/minecraft/mc-mods/item-scroller>Item Scroller</a><td>Always<td><tr><td><a href=https://github.com/comp500/Indium>Indium</a><td>Iris only<td>Dependency of multiple other mods<tr><td><a href=https://github.com/IrisShaders/Iris>Iris</a><td>Iris only<td><tr><td><a href=https://modrinth.com/mod/cX5LI3lH>Iris Explorer</a><td>Iris only<td><tr><td><a href=https://modrinth.com/mod/fQEb0iXm>Krypton</a><td>Always<td>Incompatible Mod, but still makes enough of a difference to be included<tr><td><a href=https://modrinth.com/mod/2Uev7LdA>LambdaBetterGrass</a><td>Iris only<td><tr><td><a href=https://modrinth.com/mod/yBW8D80W>LambDynamicLights</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/hvFnDODi>LazyDFU</a><td>Always<td>Better alternative of the approved mod Smooth Boot.<tr><td><a href=https://curseforge.com/minecraft/mc-mods/light-overlay>Light Overlay</a><td>Optional<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/litematica>Litematica</a><td>Always<td>Conditionally Approved<tr><td><a href=https://modrinth.com/mod/gvQqBUqZ>Lithium</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/Gou1gmGj>Low Fire</a><td>Optional<td>Conditionally Approved<tr><td><a href=https://curseforge.com/minecraft/mc-mods/malilib>MaLiLib</a><td>Always<td>Dependency of multiple other mods<tr><td><a href=https://modrinth.com/mod/70CWRma1>Mine Menu</a><td>Optional<td>Fabric port of the approved Forge mod of the same name<tr><td><a href=https://curseforge.com/minecraft/mc-mods/minihud>MiniHUD</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/mOgUt4GM>Mod Menu</a><td>Always<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/modupdater>Mod Updater</a><td>Always<td>Dependency of Giselbaer's mods<tr><td><a href=https://modrinth.com/mod/YCcdA1Lp>No More Useless Keys</a><td>Optional<td><tr><td><a href=https://modrinth.com/mod/3f1BdVqy>No Strip</a><td>Optional<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/nofog>NoFog</a><td>Optional<td>Conditionally Approved<tr><td><a href=https://curseforge.com/minecraft/mc-mods/not-enough-crashes>Not Enough Crashes</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/aXf2OSFU>Ok Zoomer</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/VPU6VYVP>Quilt Loading Screen</a><td>Optional<td>Not approved, but falls under the 3rd sentence on the Incompatible Mods page.<tr><td><a href=https://curseforge.com/minecraft/mc-mods/reauth-fabric>ReAuth</a><td>Optional<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/roughly-enough-items>Roughly Enough Items</a><td>Always<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/shulkerboxtooltip>Shulker Box Tooltip</a><td>Always<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/shut-up-console>Shut Up Console</a><td>Optional<td>Not approved, but falls under the 3rd sentence on the Incompatible Mods page.<tr><td><a href=https://curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric>Smooth Scrolling Everywhere</a><td>Optional<td><tr><td><a href=https://modrinth.com/mod/AANobbMI>Sodium</a> - <a href=https://github.com/IrisShaders/sodium-fabric>Iris/Sodium</a><td>Always<td><tr><td><a href=https://modrinth.com/mod/PtjYWJkn>Sodium Extra</a><td>Always<td>Not approved, but falls under the 3rd sentence on the Incompatible Mods page.<tr><td><a href=https://github.com/Spottedleaf/Starlight>Starlight</a><td>Always<td>Incompatible Mod, but still makes enough of a difference to be included<tr><td><a href=https://curseforge.com/minecraft/mc-mods/torohealth-damage-indicators>ToroHealth Damage Indicators</a><td>Always<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/worldedit>WorldEdit</a><td>Optional<td>Incompatible Mod (intended for singleplayer use)<tr><td><a href=https://github.com/mikroskeem/WorldEditCUI>WorldEditCUI</a><td>Optional<td><tr><td><a href=https://curseforge.com/minecraft/mc-mods/xaeros-minimap>Xaero's Minimap</a><td>Always<td>Conditionally Approved<tr><td><a href=https://curseforge.com/minecraft/mc-mods/xaeros-world-map>Xaero's World Map</a><td>Always<td>Conditionally Approved</table>
+    <h2 id="disclaimers">Disclaimers</h2>
+    <p>"Mod playlist" is a technical term. It is a bundle of mods that adds no additional features other than automatically downloading a specific precompiled list of mods; by contrast, "modpacks" have custom configs, resource packs, etc. Modpacks require permission from the mod authors, whereas mod playlists do not.</p>
+    <p>This repository contains a file (in multiple places, including bundled within zip files) named <code>packwiz-bootstrap-installer.jar</code> that is <a href="https://github.com/comp500/packwiz-installer-bootstrap/blob/master/LICENSE">licensed MIT, copyright comp500.</a> This mod playlist <a href="https://github.com/wafflecoffee/waffle.coffee/blob/main/LICENSE">is also licensed MIT</a>, and so are some (but not all) of the mods included in these playlists.</p>
+    <p>This repository contains several jar files that include "sodium", "iris", or "indium" at the beginning of their names. These files are licensed under the <a href="https://github.com/IrisShaders/sodium-fabric/blob/1.16.x/iris/LICENSE.txt">LGPLv3</a>, <a href="https://github.com/IrisShaders/Iris/blob/trunk/LICENSE">LGPLv3</a>, and <a href="https://github.com/comp500/Indium/blob/master/LICENSE">Apache-2.0</a> licenses respectively, and I am not the copyright owner of these files.</p>
+  </body>
+</html>

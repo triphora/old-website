@@ -1,0 +1,13 @@
+name = "Dawn API"
+filename = "dawn-1.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/meZK2DCX/versions/1.8/dawn-1.8.jar"
+hash-format = "sha512"
+hash = "9954b3d72017c4ccf4c54a9788e72fe5c89f8ade56dc62f328114d0212d49105d88873295eece5129b84a7a857b3ac53fa2d2d896aebc33e2344b12dfb11716e"
+
+[update]
+[update.modrinth]
+mod-id = "meZK2DCX"
+version = "WJ6k3SXq"

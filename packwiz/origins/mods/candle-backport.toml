@@ -1,0 +1,13 @@
+name = "Candle Backport"
+filename = "candlebackport-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cEVKOuvv/versions/1.0/candlebackport-1.0.jar"
+hash-format = "sha512"
+hash = "b373bd400bbc8c49dbfe368dddc6c4b1f36e665a42a8a94d4127aeb3eb4bbdc3206ef045ba31ef415b7f2e56ffca315ae2204985ca69d9a6f461b9bb39ada696"
+
+[update]
+[update.modrinth]
+mod-id = "cEVKOuvv"
+version = "meedE9v2"
