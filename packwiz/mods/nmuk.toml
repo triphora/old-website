@@ -14,3 +14,4 @@ version = "PZoHxtj7"
 
 [option]
 optional = true
+description = "NMUK allows you to add multiple bindings to the same action; e.g., adding both W and up arrow as a binding for 'move forward'."

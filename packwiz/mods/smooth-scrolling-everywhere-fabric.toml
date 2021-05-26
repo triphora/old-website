@@ -1,6 +1,6 @@
 name = "Smooth Scrolling Everywhere (Fabric)"
 filename = "SmoothScrollingEverywhere-3.0.3-unstable.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/2963/760/SmoothScrollingEverywhere-3.0.3-unstable.jar"
@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "SSEF makes scrolling in menus better and smoother."

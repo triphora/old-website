@@ -1,6 +1,6 @@
 name = "Better Enchanted Books"
 filename = "better-enchanted-books-1.16.5-1.2.8.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/yjpXhps7/versions/1.2.8/better-enchanted-books-1.16.5-1.2.8.jar"
@@ -14,3 +14,4 @@ version = "liOvaREE"
 
 [option]
 optional = true
+description = "Better Enchanted Books improves the look and tooltips of enchanted books."

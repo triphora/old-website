@@ -1,6 +1,6 @@
 name = "Critical Orientation"
 filename = "critical-orientation-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/2989/439/critical-orientation-1.0.1.jar"
@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "Critical Orientation allows you to snap to a 90 or 45 degree angle, usually used for ice boat paths."

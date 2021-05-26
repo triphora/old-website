@@ -1,6 +1,6 @@
 name = "ClickThrough"
 filename = "clickthrough-1.16.5-fabric0.30.0-0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.16.5-fabric0.30.0-0.4/clickthrough-1.16.5-fabric0.30.0-0.4.jar"

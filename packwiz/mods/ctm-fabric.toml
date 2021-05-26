@@ -1,6 +1,6 @@
 name = "ConnectedTexturesMod for Fabric"
 filename = "ctm-fabric-0.4.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3233/998/ctm-fabric-0.4.0.jar"
@@ -15,4 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
-description = "The ConnectedTexturesMod allows you to have connected textures like those on OptiFine."
+description = "ConnectedTexturesMod allows you to have connected textures, for example, with glass, like those given by OptiFine."

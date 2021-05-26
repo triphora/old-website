@@ -14,4 +14,4 @@ version = "b7b45yqL"
 
 [option]
 optional = true
-description = "LambdaBetterGrass gives grass a better look, like that found in OptiFine."
+description = "LambdaBetterGrass gives grass and other related blocks (such as nylium or mycelium) a better look, like that given with OptiFine."

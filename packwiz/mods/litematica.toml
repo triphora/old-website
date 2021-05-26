@@ -1,6 +1,6 @@
 name = "Litematica"
 filename = "litematica-fabric-1.16.4-0.0.0-dev.20210120.213004.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3175/258/litematica-fabric-1.16.4-0.0.0-dev.20210120.213004.jar"

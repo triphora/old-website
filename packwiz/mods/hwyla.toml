@@ -1,6 +1,6 @@
 name = "Hwyla"
 filename = "Hwyla-fabric-1.16.2-1.9.23-79.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3033/613/Hwyla-fabric-1.16.2-1.9.23-79.jar"

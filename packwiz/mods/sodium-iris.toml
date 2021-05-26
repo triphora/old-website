@@ -9,4 +9,4 @@ hash = "7a1df2c0dff35e316b159be6ebccf8b64b5bd2c5fe53bef8dd939d5bded3b2e9baf6d173
 
 [option]
 optional = true
-description = "Sodium is a free and open-source optimization mod for Minecraft which improves frame rates and reduces lag spikes. This version is compatible with Iris, whereas the CaffeineMC version is not compatible with Iris." 
+description = "Sodium is an optimization mod for Minecraft which improves frame rates and reduces lag spikes. This version is compatible with Iris, a shader mod." 

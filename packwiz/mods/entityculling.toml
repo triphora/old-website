@@ -1,6 +1,6 @@
 name = "Entity Culling Fabric/Forge"
 filename = "EntityCulling-Fabric-1.2.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3296/215/EntityCulling-Fabric-1.2.2.jar"

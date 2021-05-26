@@ -1,6 +1,6 @@
 name = "Dark Loading Screen"
 filename = "dark-loading-screen-1.6.3.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3185/761/dark-loading-screen-1.6.3.jar"
@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "Dark Loading Screen makes the loading screen dark."

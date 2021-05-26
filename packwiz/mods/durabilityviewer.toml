@@ -1,6 +1,6 @@
 name = "Durability Viewer"
 filename = "durabilityviewer-1.16.5-fabric0.30.0-1.10.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/LTM1f0yY/versions/1.16.5-fabric0.30.0-1.10/durabilityviewer-1.16.5-fabric0.30.0-1.10.jar"

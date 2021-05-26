@@ -1,6 +1,6 @@
 name = "Inventory Profiles"
 filename = "inventoryprofiles-fabric-1.16.2-0.4.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3042/641/inventoryprofiles-fabric-1.16.2-0.4.2.jar"

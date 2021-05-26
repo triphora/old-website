@@ -1,6 +1,6 @@
 name = "Light Overlay (Rift/Forge/Fabric)"
 filename = "light-overlay-5.8.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3296/489/light-overlay-5.8.1.jar"
@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "Light Overlay adds an overlay to the world that shows the light levels of blocks, plus whether monsters can spawn on them."

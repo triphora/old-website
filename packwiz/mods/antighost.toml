@@ -14,3 +14,4 @@ version = "V7J7tuy9"
 
 [option]
 optional = true
+description = "AntiGhost re-requests blocks surrounding you in the case of a server-client desync (i.e. solves ghost blocks)."

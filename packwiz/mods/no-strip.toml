@@ -1,6 +1,6 @@
 name = "No Strip"
 filename = "nostrip-1.2.0-1.16.2+.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3f1BdVqy/versions/v1.2.0/nostrip-1.2.0-1.16.2+.jar"
@@ -14,3 +14,4 @@ version = "RHtiI5jF"
 
 [option]
 optional = true
+description = "No Strip prevents accidental stripping of logs and converting of grass blocks to path blocks."

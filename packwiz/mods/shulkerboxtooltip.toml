@@ -1,6 +1,6 @@
 name = "ShulkerBoxTooltip"
 filename = "shulkerboxtooltip-2.3.5+1.16.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3195/227/shulkerboxtooltip-2.3.5+1.16.5.jar"

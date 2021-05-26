@@ -1,6 +1,6 @@
 name = "Audio Output"
 filename = "audiooutput-1.16.2-0.0.3.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3039/481/audiooutput-1.16.2-0.0.3.jar"
@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "Audio Output allows you to switch the output of audio provided by Minecraft."

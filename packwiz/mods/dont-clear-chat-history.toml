@@ -1,6 +1,6 @@
 name = "Don't Clear Chat History"
 filename = "DCCH-1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3041/351/DCCH-1.0.jar"
@@ -15,3 +15,4 @@ release-channel = "beta"
  
 [option]
 optional = true
+description = "DCCH allows you to press the up arrow to issue commands you issued in a previous session/after disconnect."

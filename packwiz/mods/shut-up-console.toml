@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "Shut Up Console allows you to make certain things not show up in your logs."

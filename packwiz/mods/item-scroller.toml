@@ -1,6 +1,6 @@
 name = "Item Scroller"
 filename = "itemscroller-fabric-1.16.4-0.15.0-dev.20210111.205029.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3168/57/itemscroller-fabric-1.16.4-0.15.0-dev.20210111.205029.jar"

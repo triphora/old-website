@@ -14,3 +14,4 @@ version = "hRBEnHx0"
 
 [option]
 optional = true
+description = "Blur gives a nice aesthetic touch to the background of menus and inventories. This mod is known to cause some performance issues if you have a sub-par GPU."

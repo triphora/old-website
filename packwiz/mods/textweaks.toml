@@ -14,4 +14,4 @@ version = "IVDPIeqA"
 
 [option]
 optional = true
-description = "Various tweaks to the texture rendering system that'll make things look good even from far away."
+description = "TexTweaks does various tweaks to the texture rendering system that makes things look better from far away."

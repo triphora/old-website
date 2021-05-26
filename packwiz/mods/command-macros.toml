@@ -1,6 +1,6 @@
 name = "Command Macros"
 filename = "cmdkeybind-1.5.2-1.16.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3105/67/cmdkeybind-1.5.2-1.16.jar"
@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "Command Macros allows you to add custom keybinds to send commands or chat messages."

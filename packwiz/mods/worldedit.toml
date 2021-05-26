@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "WorldEdit allows you to make large changes to your singleplayer worlds."

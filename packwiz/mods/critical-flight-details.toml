@@ -1,6 +1,6 @@
 name = "Critical Flight Details"
 filename = "critical-flight-details-1.1.2.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/2989/517/critical-flight-details-1.1.2.jar"
@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "Critical Flight Details gives a heads-up display that displays your speed and angle of flight."

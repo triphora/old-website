@@ -1,6 +1,6 @@
 name = "WorldEditCUI"
 filename = "WorldEditCUI-1.16.5+02.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/mikroskeem/WorldEditCUI/releases/download/1.16.5%2B02/WorldEditCUI-1.16.5+02.jar"
@@ -9,3 +9,4 @@ hash = "effedebe97b6f14ec32548c9a2472062fb7d935e0602d85ac3b4ef8f195f3383516da987
 
 [option]
 optional = true
+description = "WorldEditCUI allows you to visually see your WorldEdit selections."

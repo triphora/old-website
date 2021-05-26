@@ -1,6 +1,6 @@
 name = "Clear Skies"
 filename = "clear-skies-mc116-1.5.57.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3319/590/clear-skies-mc116-1.5.57.jar"
@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "Clear Skies removes the weird colouration of the sky lower to the ground."

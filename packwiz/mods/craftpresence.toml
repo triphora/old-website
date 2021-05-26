@@ -1,6 +1,6 @@
 name = "CraftPresence"
 filename = "CraftPresence-Fabric-1.16.5-Release-1.8.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3281/945/CraftPresence-Fabric-1.16.5-Release-1.8.1.jar"
@@ -15,3 +15,4 @@ release-channel = "beta"
 
 [option]
 optional = true
+description = "CraftPresence gives a rich presence in Discord when playing Minecraft."
