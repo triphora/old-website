@@ -1,0 +1,18 @@
+name = "ConnectedTexturesMod for Fabric"
+filename = "ctm-fabric-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3233/998/ctm-fabric-0.4.0.jar"
+hash-format = "murmur2"
+hash = "304787577"
+
+[update]
+[update.curseforge]
+file-id = 3233998
+project-id = 432493
+release-channel = "beta"
+
+[option]
+optional = true
+description = "The ConnectedTexturesMod allows you to have connected textures like those on OptiFine."

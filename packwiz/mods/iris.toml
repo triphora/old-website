@@ -1,0 +1,12 @@
+name = "Iris"
+filename = "iris-0.4.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-0.4.0.jar"
+hash-format = "sha512"
+hash = "79e66e4e3715923ba46ade904036132576817465f94da15f96a67db6d9bf6e7dfc3cd1efdd3a397ba3f368fcfcdcce1a3a682988ae1f7da4097b826f0bae4daa"
+
+[option]
+optional = true
+description = "Iris is a shaders mod compatible with Sodium if used with the \"Sodium (Iris)\" option selected."

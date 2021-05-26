@@ -1,0 +1,17 @@
+name = "Clear Skies"
+filename = "clear-skies-mc116-1.5.57.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3319/590/clear-skies-mc116-1.5.57.jar"
+hash-format = "murmur2"
+hash = "1075199959"
+
+[update]
+[update.curseforge]
+file-id = 3319590
+project-id = 332523
+release-channel = "beta"
+
+[option]
+optional = true
