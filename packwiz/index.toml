@@ -1,13 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/antighost.toml"
-hash = "6134ae5e0572fc77f29add5c22a6585cdf3153ebb7259746cf0cfbe282bb60a3"
+file = "mods/accessibility-plus.toml"
+hash = "327a0c29dd48aa740b16d84a467a9f43fb8bf5cb674ea0298285641f29b31526"
 metafile = true
 
 [[files]]
-file = "mods/architectury-fabric.toml"
-hash = "33f5f277462058db1910a9f642152eecd9301cccd38bb650d3ca28ce31c9a300"
+file = "mods/amecs.toml"
+hash = "e8eaae7f120b2a5e979a6d468b9eebc1334ce72341d9519e1a7dfaa9ff28e902"
+metafile = true
+
+[[files]]
+file = "mods/antighost.toml"
+hash = "6134ae5e0572fc77f29add5c22a6585cdf3153ebb7259746cf0cfbe282bb60a3"
 metafile = true
 
 [[files]]
@@ -126,8 +131,8 @@ hash = "868f81f9da3a432950f1bb0ae41cfccb5b70d6e4d945e2246628a47b04ffcc6f"
 metafile = true
 
 [[files]]
-file = "mods/hwyla.toml"
-hash = "900d6485fccf0ad9456a1478d7d7e98c7dfdf03b187f2b876d523f009bb73f3b"
+file = "mods/hudtweaks.toml"
+hash = "75896b783d612e1e5789b069217f6328206bcc937d2a2ee3162fbdec7cd8b369"
 metafile = true
 
 [[files]]
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles.toml"
 hash = "a25f4b28bbad49846184e04a996a7d364128d306011add2d98d88e9ee8384f94"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tabs.toml"
+hash = "d1d041096e4687d477e7d466332b54bd230f6737b78a17f36e4beb3b652e3f40"
 metafile = true
 
 [[files]]
@@ -181,8 +191,8 @@ hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
-file = "mods/light-overlay.toml"
-hash = "f7237d5078faab7cba4dc4d38df8a015fe34ebb11d93d8f970b71627575a408d"
+file = "mods/lightlevel.toml"
+hash = "103fdf5afbc2caa5f008a75efc87f18ee3d5b5b045540c6ab10085b04a0a6c6f"
 metafile = true
 
 [[files]]
@@ -221,8 +231,8 @@ hash = "c2dc58ad1ce065d73a250283bf1849cf07c1e211892ccbb4d943b7c59c79b22c"
 metafile = true
 
 [[files]]
-file = "mods/modupdater.toml"
-hash = "2cbde04987e29550cf7d9436667ecc789dfb9d17779bf2aec458efb19fcd9894"
+file = "mods/nbttooltip.toml"
+hash = "2e2c644c0396d30a1e9f3c3e378c5cf9f8d5239518ee65a51e6142ad5ecee6a5"
 metafile = true
 
 [[files]]
@@ -258,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/reauth-fabric.toml"
 hash = "da9cb4b35149fbc1c58748c9bbe5d90bc8f71e69971ceddd7773a0f3772f4bff"
+metafile = true
+
+[[files]]
+file = "mods/rebind-all-the-keys.toml"
+hash = "17c10747381d47000c8d2be4952fa6bf0f167a9aca8f4bec3129cb71d4ff77fe"
 metafile = true
 
 [[files]]
@@ -306,6 +321,11 @@ hash = "44e404eb254c00b3048024943c79729ff56796f58c76b11776be07602ca183e0"
 metafile = true
 
 [[files]]
+file = "mods/time-changer.toml"
+hash = "b9cbf9ab4c86adefdd929b848a77ac847fef7ebb101270d7aa404b840a46aeee"
+metafile = true
+
+[[files]]
 file = "mods/torohealth-damage-indicators.toml"
 hash = "60949da0fc814f31beb41ede8802153c29691d8fe0036a206de1a7a8aec6d892"
 metafile = true
@@ -318,6 +338,11 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui.toml"
 hash = "5a4fbed753e1e8e46146fba87b9168f18876c9d2b6dd81d85a1d0bdddaa2629c"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "c7efeb18c4b254e25855cf4e6452f3c5b92513e84fb9fb17ed29fe1976be5d68"
 metafile = true
 
 [[files]]

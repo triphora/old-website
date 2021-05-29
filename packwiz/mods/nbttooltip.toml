@@ -1,0 +1,17 @@
+name = "NBT Tooltip"
+filename = "nbttooltip-1.1.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/G0GDoyVf/versions/1.1.2/nbttooltip-1.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "9403d52e7963ecc1a491b607a28678e165c61da6d9c347149d5339860f8cd772a0e5b9b8a1cbc70ae34d7f74d2b365c5405ea7633d819c7624d4f61588865a6c"
+
+[update]
+[update.modrinth]
+mod-id = "G0GDoyVf"
+version = "aCc53YA1"
+
+[option]
+optional = true
+description = "NBT Tooltip allows you to see the NBT stored in an item."

@@ -1,0 +1,17 @@
+name = "RebindAllTheKeys"
+filename = "rebind-all-the-keys-1.1.1+1.16.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TpKqzzMu/versions/v1.1.1+1.16.2/rebind-all-the-keys-1.1.1+1.16.2.jar"
+hash-format = "sha512"
+hash = "d2e6e7239ec334fae0b228eb37326c6445e0096f5217d7360519f8fee9546f4678641fe4b1eafe0638404df5ee1ffaea37c355f18287174a89e2ebb7bd2b85c8"
+
+[update]
+[update.modrinth]
+mod-id = "TpKqzzMu"
+version = "WIgo5EfJ"
+
+[option]
+optional = true
+description = "RATK allows you to change the binds for keys that can't be changed otherwise (e.g. F3)."

@@ -30,7 +30,6 @@ Run the following commands in a terminal (you can also append `&&` between them)
 1. `cd ~/.minecraft`
 2. `wget https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar`
 3. `java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/pack.toml`
-    * You can pass `-g` if you want all of the optional mods.
 4. When you want to update your mods, just run the same `java -jar` command again!
 
 Change the directory from `~/.minecraft` if you use a different directory, e.g., if you're on Mac, or use Snap or Flatpak.
@@ -45,79 +44,87 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 
 ## Mod List
 
-**Legend:**  
-* *Always* - The mod is always downloaded.
-* *Optional* - The mod is only downloaded if you check the box to, or if you pass the `-g` argument.
+| Mod Name                                                                                                   | Installed? | Comment |
+|------------------------------------------------------------------------------------------------------------|------------|---------|
+| [Accessibility Plus](https://www.curseforge.com/minecraft/mc-mods/accessibility-plus)                      | Optional   |         |
+| [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs)                                                | Always     |         |
+| [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                                                             | Optional   |         |
+| [Audio Output](https://curseforge.com/minecraft/mc-mods/audio-output)                                      | Optional   |         |
+| [Better Enchanted Books](https://curseforge.com/minecraft/mc-mods/better-enchanted-books)                  | Optional   |         |
+| [Blur](https://modrinth.com/mod/NK39zBp2)                                                                  | Optional   |         |
+| [Clear Skies](https://curseforge.com/minecraft/mc-mods/clear-skies)                                        | Optional   |         |
+| [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                                                          | Always     |         |
+| [Cloth Config](https://curseforge.com/minecraft/mc-mods/cloth-config)                                      | Always     | `**`    |
+| [Command Macros](https://curseforge.com/minecraft/mc-mods/command-macros)                                  | Optional   | `*`     |
+| [Connected Texture Mod](https://curseforge.com/minecraft/mc-mods/ctm-fabric)                               | Optional   |         |
+| [CraftPresence](https://curseforge.com/minecraft/mc-mods/craftpresence)                                    | Optional   |         |
+| [Critical Flight Details](https://curseforge.com/minecraft/mc-mods/critical-flight-details)                | Optional   |         |
+| [Critical Orientation](https://curseforge.com/minecraft/mc-mods/critical-orientation)                      | Optional   |         |
+| [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                                                           | Always     |         |
+| [Dark Loading Screen](https://curseforge.com/minecraft/mc-mods/dark-loading-screen)                        | Optional   |         |
+| [Don't Clear Chat History](https://curseforge.com/minecraft/mc-mods/dont-clear-chat-history)               | Optional   |         |
+| [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)                                                     | Always     |         |
+| [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)                                                           | Always     |         |
+| [EasierCrafting](https://modrinth.com/mod/UylF21yz)                                                        | Always     |         |
+| [Empire Minecraft Utilities](https://modrinth.com/mod/QYTT62S0)                                            | Always     |         |
+| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)                                               | Always     |         |
+| [Entity Culling](https://curseforge.com/minecraft/mc-mods/entityculling)                                   | Always     |         |
+| [Fabric API](https://modrinth.com/mod/P7dR8mSH)                                                            | Always     |         |
+| [Fabrishot](https://modrinth.com/mod/3qsfQtE9)                                                             | Always     |         |
+| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                                                           | Always     |         |
+| [HUDTweaks](https://modrinth.com/mod/Ks4IAiYz)                                                             | Optional   |         |
+| [Hydrogen](https://modrinth.com/mod/AZomiSrC)                                                              | Always     |         |
+| [Inventory Profiles](https://curseforge.com/minecraft/mc-mods/inventory-profiles)                          | Always     | `*`     |
+| [Inventory Tabs](https://www.curseforge.com/minecraft/mc-mods/inventory-tabs)                              | Optional   |         |
+| [Item Scroller](https://curseforge.com/minecraft/mc-mods/item-scroller)                                    | Always     |         |
+| [Indium](https://github.com/comp500/Indium)                                                                | Always     | `**`    |
+| [Iris](https://github.com/IrisShaders/Iris)                                                                | Optional   |         |
+| [Iris Explorer](https://modrinth.com/mod/cX5LI3lH)                                                         | Optional   |         |
+| [Krypton](https://modrinth.com/mod/fQEb0iXm)                                                               | Always     | `†`     |
+| [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)                                                     | Optional   |         |
+| [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)                                                     | Always     |         |
+| [LazyDFU](https://modrinth.com/mod/hvFnDODi)                                                               | Always     |         |
+| [LightLevel](https://www.curseforge.com/minecraft/mc-mods/lightlevel)                                      | Optional   |         |
+| [Litematica](https://curseforge.com/minecraft/mc-mods/litematica)                                          | Always     | `*`     |
+| [Lithium](https://modrinth.com/mod/gvQqBUqZ)                                                               | Always     |         |
+| [Low Fire](https://modrinth.com/mod/Gou1gmGj)                                                              | Optional   | `*`     |
+| [MaLiLib](https://curseforge.com/minecraft/mc-mods/malilib)                                                | Always     | `**`    |
+| [Mine Menu](https://modrinth.com/mod/70CWRma1)                                                             | Optional   |         |
+| [MiniHUD](https://curseforge.com/minecraft/mc-mods/minihud)                                                | Always     |         |
+| [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                                                              | Always     |         |
+| [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf)                                                           | Optional   |         |
+| [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)                                                  | Optional   |         |
+| [No Strip](https://modrinth.com/mod/3f1BdVqy)                                                              | Optional   |         |
+| [NoFog](https://curseforge.com/minecraft/mc-mods/nofog)                                                    | Optional   | `*`     |
+| [Not Enough Crashes](https://curseforge.com/minecraft/mc-mods/not-enough-crashes)                          | Always     |         |
+| [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                                                             | Always     |         |
+| [Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)                                                  | Optional   |         |
+| [ReAuth](https://curseforge.com/minecraft/mc-mods/reauth-fabric)                                           | Optional   |         |
+| [Rebind All The Keys](https://modrinth.com/mod/TpKqzzMu)                                                   | Optional   |         |
+| [Roughly Enough Items](https://curseforge.com/minecraft/mc-mods/roughly-enough-items)                      | Always     |         |
+| [Shulker Box Tooltip](https://curseforge.com/minecraft/mc-mods/shulkerboxtooltip)                          | Always     |         |
+| [Shut Up Console](https://curseforge.com/minecraft/mc-mods/shut-up-console)                                | Optional   |         |
+| [Smooth Scrolling Everywhere](https://curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Optional   |         |
+| [Sodium CaffeineMC](https://github.com/CaffeineMC/sodium-fabric)                                           | Optional   |         |
+| [Sodium Iris](https://github.com/IrisShaders/sodium-fabric)                                                | Optional   |         |
+| [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)                                                          | Always     |         |
+| [Starlight](https://github.com/Spottedleaf/Starlight)                                                      | Always     | `†`     |
+| [TexTweaks](https://modrinth.com/mod/46IhRbc1)                                                             | Optional   |         |
+| [Time Changer](https://modrinth.com/mod/1itdse3V)                                                          | Optional   |         |
+| [ToroHealth Damage Indicators](https://curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)      | Always     |         |
+| [WTHIT](https://curseforge.com/minecraft/mc-mods/wthit)                                                    | Always     |         |
+| [WorldEdit](https://curseforge.com/minecraft/mc-mods/worldedit)                                            | Optional   | `†`     |
+| [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)                                                 | Optional   |         |
+| [Xaero's Minimap](https://curseforge.com/minecraft/mc-mods/xaeros-minimap)                                 | Always     | `*`     |
+| [Xaero's World Map](https://curseforge.com/minecraft/mc-mods/xaeros-world-map)                             | Always     | `*`     |
 
-| Mod Name                                                                                                   | Installed? | Comment                                                                                      |
-|------------------------------------------------------------------------------------------------------------|------------|----------------------------------------------------------------------------------------------|
-| [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                                                             | Optional   |                                                                                              |
-| [Architectury API](https://curseforge.com/minecraft/mc-mods/architectury-fabric)                           | Always     | Dependency of Light Overlay                                                                  |
-| [Audio Output](https://curseforge.com/minecraft/mc-mods/audio-output)                                      | Optional   | Not approved, but falls under the 3rd sentence on the Incompatible Mods page.                | 
-| [Better Enchanted Books](https://curseforge.com/minecraft/mc-mods/better-enchanted-books)                  | Optional   |                                                                                              |
-| [Blur](https://modrinth.com/mod/NK39zBp2)                                                                  | Optional   |                                                                                              |
-| [Clear Skies](https://curseforge.com/minecraft/mc-mods/clear-skies)                                        | Optional   |                                                                                              |
-| [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                                                          | Always     |                                                                                              |
-| [Cloth Config](https://curseforge.com/minecraft/mc-mods/cloth-config)                                      | Always     | Dependency of multiple other mods                                                            |
-| [Command Macros](https://curseforge.com/minecraft/mc-mods/command-macros)                                  | Optional   | Conditionally Approved                                                                       |
-| [Connected Texture Mod](https://curseforge.com/minecraft/mc-mods/ctm-fabric)                               | Optional   | Not approved, but falls under the 3rd sentence on the Incompatible Mods page.                |
-| [CraftPresence](https://curseforge.com/minecraft/mc-mods/craftpresence)                                    | Optional   |                                                                                              |
-| [Critical Flight Details](https://curseforge.com/minecraft/mc-mods/critical-flight-details)                | Optional   |                                                                                              |
-| [Critical Orientation](https://curseforge.com/minecraft/mc-mods/critical-orientation)                      | Optional   |                                                                                              |
-| [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                                                           | Always     | Not approved, but gives functionality that is the same as that of the approved mod OptiFine. |
-| [Dark Loading Screen](https://curseforge.com/minecraft/mc-mods/dark-loading-screen)                        | Optional   |                                                                                              |
-| [Don't Clear Chat History](https://curseforge.com/minecraft/mc-mods/dont-clear-chat-history)               | Optional   | Not approved, but falls under the 3rd sentence on the Incompatible Mods page.                |
-| [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)                                                     | Always     |                                                                                              |
-| [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)                                                           | Always     | Fabric port of the approved Forge mod FPS Reducer.                                           |
-| [EasierCrafting](https://modrinth.com/mod/UylF21yz)                                                        | Always     |                                                                                              |
-| [Empire Minecraft Utilities](https://modrinth.com/mod/QYTT62S0)                                            | Always     |                                                                                              |
-| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)                                               | Always     | Not approved, but falls under the 3rd sentence on the Incompatible Mods page.                |
-| [Entity Culling](https://curseforge.com/minecraft/mc-mods/entityculling)                                   | Always     | Not approved, but falls under the 3rd sentence on the Incompatible Mods page.                |
-| [Fabric API](https://modrinth.com/mod/P7dR8mSH)                                                            | Always     |                                                                                              |
-| [Fabrishot](https://modrinth.com/mod/3qsfQtE9)                                                             | Always     |                                                                                              |
-| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                                                           | Always     | Not approved, but falls under the 3rd sentence on the Incompatible Mods page.                |
-| [HWYLA](https://curseforge.com/minecraft/mc-mods/hwyla)                                                    | Always     |                                                                                              |
-| [Hydrogen](https://modrinth.com/mod/AZomiSrC)                                                              | Always     |                                                                                              |
-| [Inventory Profiles](https://curseforge.com/minecraft/mc-mods/inventory-profiles)                          | Always     | Conditionally Approved                                                                       |
-| [Item Scroller](https://curseforge.com/minecraft/mc-mods/item-scroller)                                    | Always     |                                                                                              |
-| [Indium](https://github.com/comp500/Indium)                                                                | Always     | Dependency of multiple other mods                                                            |
-| [Iris](https://github.com/IrisShaders/Iris)                                                                | Optional   |                                                                                              |
-| [Iris Explorer](https://modrinth.com/mod/cX5LI3lH)                                                         | Optional   |                                                                                              |
-| [Krypton](https://modrinth.com/mod/fQEb0iXm)                                                               | Always     | Incompatible Mod, but still makes enough of a difference to be included                      |
-| [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)                                                     | Optional   |                                                                                              |
-| [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)                                                     | Always     |                                                                                              |
-| [LazyDFU](https://modrinth.com/mod/hvFnDODi)                                                               | Always     | Better alternative of the approved mod Smooth Boot.                                          |
-| [Light Overlay](https://curseforge.com/minecraft/mc-mods/light-overlay)                                    | Optional   |                                                                                              |
-| [Litematica](https://curseforge.com/minecraft/mc-mods/litematica)                                          | Always     | Conditionally Approved                                                                       |
-| [Lithium](https://modrinth.com/mod/gvQqBUqZ)                                                               | Always     |                                                                                              |
-| [Low Fire](https://modrinth.com/mod/Gou1gmGj)                                                              | Optional   | Conditionally Approved                                                                       |
-| [MaLiLib](https://curseforge.com/minecraft/mc-mods/malilib)                                                | Always     | Dependency of multiple other mods                                                            |
-| [Mine Menu](https://modrinth.com/mod/70CWRma1)                                                             | Optional   | Fabric port of the approved Forge mod of the same name                                       |
-| [MiniHUD](https://curseforge.com/minecraft/mc-mods/minihud)                                                | Always     |                                                                                              |
-| [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                                                              | Always     |                                                                                              |
-| [Mod Updater](https://curseforge.com/minecraft/mc-mods/modupdater)                                         | Always     | Dependency of Giselbaer's mods                                                               |
-| [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)                                                  | Optional   |                                                                                              |
-| [No Strip](https://modrinth.com/mod/3f1BdVqy)                                                              | Optional   |                                                                                              |
-| [NoFog](https://curseforge.com/minecraft/mc-mods/nofog)                                                    | Optional   | Conditionally Approved                                                                       |
-| [Not Enough Crashes](https://curseforge.com/minecraft/mc-mods/not-enough-crashes)                          | Always     |                                                                                              |
-| [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                                                             | Always     |                                                                                              |
-| [Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)                                                  | Optional   | Not approved, but falls under the 3rd sentence on the Incompatible Mods page.                |
-| [ReAuth](https://curseforge.com/minecraft/mc-mods/reauth-fabric)                                           | Optional   |                                                                                              |
-| [Roughly Enough Items](https://curseforge.com/minecraft/mc-mods/roughly-enough-items)                      | Always     |                                                                                              |
-| [Shulker Box Tooltip](https://curseforge.com/minecraft/mc-mods/shulkerboxtooltip)                          | Always     |                                                                                              |
-| [Shut Up Console](https://curseforge.com/minecraft/mc-mods/shut-up-console)                                | Optional   | Not approved, but falls under the 3rd sentence on the Incompatible Mods page.                |
-| [Smooth Scrolling Everywhere](https://curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Optional   |                                                                                              |
-| [Sodium CaffeineMC](https://github.com/CaffeineMC/sodium-fabric)                                           | Optional   |                                                                                              |
-| [Sodium Iris](https://github.com/IrisShaders/sodium-fabric)                                                | Optional   |                                                                                              |
-| [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)                                                          | Always     | Not approved, but falls under the 3rd sentence on the Incompatible Mods page.                |
-| [Starlight](https://github.com/Spottedleaf/Starlight)                                                      | Always     | Incompatible Mod, but still makes enough of a difference to be included                      |
-| [TexTweaks](https://modrinth.com/mod/46IhRbc1)                                                             | Optional   | Not approved, but falls under the 3rd sentence on the Incompatible Mods page.                |
-| [ToroHealth Damage Indicators](https://curseforge.com/minecraft/mc-mods/torohealth-damage-indicators)      | Always     |                                                                                              |
-| [WorldEdit](https://curseforge.com/minecraft/mc-mods/worldedit)                                            | Optional   | Incompatible Mod (intended for singleplayer use)                                             |
-| [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)                                                 | Optional   |                                                                                              |
-| [Xaero's Minimap](https://curseforge.com/minecraft/mc-mods/xaeros-minimap)                                 | Always     | Conditionally Approved                                                                       |
-| [Xaero's World Map](https://curseforge.com/minecraft/mc-mods/xaeros-world-map)                             | Always     | Conditionally Approved                                                                       |
+### Legend
+* *Always* - The mod is always downloaded.
+* *Optional* - The mod is only downloaded if you check the box to.
+* `*` = Conditionally Approved; read [its page](https://wiki.emc.gs/conditionally-approved-mods) before using any mod marked with an asterisk.
+* `**` = Dependency of other mods, and thus may not be explicitly approved in its own rite.
+* `†` = Deemed incompatible, but it still makes enough of a difference.
 
 ## Disclaimer
 
-"Mod playlist" is a technical term. It is a bundle of mods that adds no additional features other than automatically downloading a specific precompiled list of mods; by contrast, "modpacks" have custom configs, resource packs, etc. Modpacks require permission from the mod authors, whereas mod playlists do not.
+Most modpacks would require explicit approval from the mod owner before it's able to be used. However, because of the distribution method of this pack (not via a zip), it is not necessary to do so. If any mod developers have any issues with this, please email me at <modpack@waffle.coffee>.
