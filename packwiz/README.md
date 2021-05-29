@@ -1,10 +1,10 @@
-# waffle's Mods
+# waffle's Modpack
 
 *Featuring the [Empire Minecraft Utilities](https://modrinth.com/mod/emcutils) mod, made by [GreenMeanie](https://u.emc.gs/GreenMeanie) with help from yours truly!*
 
-Don't want to update your Fabric mods? Let me do it for you! I set up this here mod playlist that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download 50+ separate mods.
+Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download up to 70+ separate mods.
 
-The focus of this mod playlist is to have a wide selection of client-side mods, including the very best 1.16 performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEditCUI. The installer will prompt you at installation whether you wish to install these optional mods or not.
+The focus of this modpack is to have a wide selection of client-side mods, including the very best 1.16 performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEditCUI. The installer will prompt you at installation whether you wish to install these optional mods or not.
 
 Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mods!
 
