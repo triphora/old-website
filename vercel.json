@@ -57,7 +57,7 @@
   "rewrites": [
     {
       "source": "/modrinth/:modid/:attrib",
-      "destination": "https://img.shields.io/badge/dynamic/json?color=blue&label=Modrinth&url=https%3A%2F%2Fapi.modrinth.com%2Fapi%2Fv1%2Fmod%2F:modid&query=:attrib&suffix=%20:attrib"
+      "destination": "https://img.shields.io/badge/dynamic/json?color=5da545&label=modrinth&suffix= :attrib&query=:attrib&url=https://api.modrinth.com/api/v1/mod/:modid"
     }
   ]
 }
