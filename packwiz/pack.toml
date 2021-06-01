@@ -11,5 +11,12 @@ hash = "2dd91dfecec35b385c45bdcafed01e8df4cd3260c2b47692ec2abe620f2a4171"
 fabric = "0.11.3"
 minecraft = "1.16.5"
 
+[export]
+[export.curseforge]
+disable-jumploader = false
+jumploader-forge-version = "36.1.24"
+jumploader-version-id = 3227191
+project-id = 0
+
 [options]
 acceptable-game-versions = ["1.16.4", "1.16.3", "1.16.2"]
