@@ -1,14 +1,13 @@
 name = "WTHIT"
-filename = "wthit-2.10.1-fabric.jar"
+filename = "wthit-2.10.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3325/360/wthit-2.10.1-fabric.jar"
-hash-format = "murmur2"
-hash = "3024660065"
+url = "https://cdn.modrinth.com/data/6AQIaxuO/versions/2.10.2/wthit-2.10.2-fabric.jar"
+hash-format = "sha512"
+hash = "8d2ed7ffcd249fe86d3cee655eb4e62746a99f421b92f3e21f63d05a30661c5843cfa2a9db664519e2c8442a9834529fd19703a7f4a6c646d950d6e16f517607"
 
 [update]
-[update.curseforge]
-file-id = 3325360
-project-id = 440979
-release-channel = "beta"
+[update.modrinth]
+mod-id = "6AQIaxuO"
+version = "g9oWE8vT"

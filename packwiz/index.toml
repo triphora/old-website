@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbttooltip.toml"
-hash = "2e2c644c0396d30a1e9f3c3e378c5cf9f8d5239518ee65a51e6142ad5ecee6a5"
+hash = "158338b33f2bdaecdb9dd8ff83211936d6ad4feb14bf14586604357652cfb1cb"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "6d14ddcebdd34f1fd6a594fb054689161b1fdc1221b0218cff75db9de7e345d7"
+hash = "a32118a565af0ba38b5dcdb7e49c73d6929508645b4a1308fdb4d6360b6ab93e"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "f53de056dd0d1029be5b6fad356605ecd6367ef48807f664e571ceb43d70d919"
+hash = "e086f180682beb5fdfc2710cc0ce57e6228b867ba5469769183f4a368daa3f01"
 metafile = true
 
 [[files]]
@@ -337,12 +337,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "c7efeb18c4b254e25855cf4e6452f3c5b92513e84fb9fb17ed29fe1976be5d68"
+hash = "f814355321990bd6776d4eda696ece3bf01dc46a7f3266302dc73bb1fc7f3f3f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "ef0a055184463b1a934c15caab657b558810e28e13820f3ae474d54a60b74107"
+hash = "dc18c1907dfb23eb7cdfeeccd36eca793fbb21033b575be8fe7e366b49b43708"
 metafile = true
 
 [[files]]
