@@ -151,11 +151,6 @@ hash = "a25f4b28bbad49846184e04a996a7d364128d306011add2d98d88e9ee8384f94"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tabs.toml"
-hash = "d1d041096e4687d477e7d466332b54bd230f6737b78a17f36e4beb3b652e3f40"
-metafile = true
-
-[[files]]
 file = "mods/iris-explorer.toml"
 hash = "e0146970d2fcd59cc5b5c52d986f67d459fb0508637be373675ef6864f6f20db"
 metafile = true
