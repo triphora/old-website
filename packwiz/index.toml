@@ -211,11 +211,6 @@ hash = "980874b089d8eedc4a3c66b5a4417440e98f7f06d5e82c112c7c646de48a3719"
 metafile = true
 
 [[files]]
-file = "mods/minemenufabric.toml"
-hash = "95d0b0ccb9f8ac0b7bcef05c80cd35bbd500485b40db932f8dffc0978879d0a3"
-metafile = true
-
-[[files]]
 file = "mods/minihud.toml"
 hash = "eebf4e0ad0bf31b5d79764beb89f6df17f2604d182f946de417e311936eec481"
 metafile = true

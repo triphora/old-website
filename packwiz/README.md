@@ -89,7 +89,6 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ)                                                               | Always     |         |
 | [Low Fire](https://modrinth.com/mod/Gou1gmGj)                                                              | Optional   | `*`     |
 | [MaLiLib](https://curseforge.com/minecraft/mc-mods/malilib)                                                | Always     | `**`    |
-| [Mine Menu](https://modrinth.com/mod/70CWRma1)                                                             | Optional   |         |
 | [MiniHUD](https://curseforge.com/minecraft/mc-mods/minihud)                                                | Always     |         |
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                                                              | Always     |         |
 | [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf)                                                           | Optional   |         |
