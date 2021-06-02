@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.toml"
-hash = "e8eaae7f120b2a5e979a6d468b9eebc1334ce72341d9519e1a7dfaa9ff28e902"
+hash = "fb5aa5ed219e49e41492580857448015f1c86243181a36b7a1056724bc7a7735"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-skies.toml"
-hash = "3442bce68a8144dab05a09a4371c444628c833acb82572d97ff582ebb6b976f3"
+hash = "3882d33b35994c45d0ab8dd4d536449154e183185e2a81467fee13641cc8cf55"
 metafile = true
 
 [[files]]
@@ -42,7 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "4ac362da27727d78e5105fe2a2da78db6926aacddf1377bd662eb154a31e63f8"
+hash = "94b98ae68382da3bf4f3bd3115319c75bc8e078ce856cee4040d2710b97ddead"
+metafile = true
+
+[[files]]
+file = "mods/colored-lights.toml"
+hash = "d6df5a86dac6f360cf6774011a33b26a1e1cee710271e558cbefe07b530ab9c4"
 metafile = true
 
 [[files]]
@@ -52,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
-hash = "ebb328fbca97ae2a6f3ad35f677a3d642432c90c15eb97a01f087da03a9ce099"
+hash = "c8080ca4b6b3e1c9a5c40850f69d978e5975d197739aa7e48e409c908d792883"
 metafile = true
 
 [[files]]
@@ -112,12 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "3fdcb670acc7589029edf14af95720a435e3be63182c57aba2d55b892f4cd790"
+hash = "83da3e3523803e252497373b5e15bb6854a911c8046e21e45be65d0398c7a8b2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "97e6063396b89325590c50b6ae7cfe53be59f7d76bd2c72407223d48b3eec533"
+hash = "61a66b93f2204e728c3d056fecca6bd5ba31172a5a834ebb1c1e2bda3f5cbbb3"
 metafile = true
 
 [[files]]
@@ -143,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/indium.toml"
 hash = "4bc8e6e9e004123a0450b7b4f45e5f80a29a58e25a60321f12334d270bf5195f"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.toml"
+hash = "84ee582d6e9e7cf2f8973abfea6f98328930f0a3f3f31712b26f4248701bf24b"
 metafile = true
 
 [[files]]
@@ -172,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "484b910f2ce8a38425e739098f54d25dde03b67ca78e917475a5bdc11a3a31ad"
+hash = "13bfe052da24c0ba32d698d25df5f72db750dbe18c3d6c9899211486c0a62229"
 metafile = true
 
 [[files]]
@@ -217,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "c2dc58ad1ce065d73a250283bf1849cf07c1e211892ccbb4d943b7c59c79b22c"
+hash = "2b0176ac7c245e7931ae8bf6900d63c5aa2bbf67e71f515353621b24edf1b983"
 metafile = true
 
 [[files]]
@@ -252,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "a32118a565af0ba38b5dcdb7e49c73d6929508645b4a1308fdb4d6360b6ab93e"
+hash = "96dce7d593eff0a38b469f6004aed51e594828c8a5b4e8258ca08fcf7aea4c5b"
 metafile = true
 
 [[files]]
@@ -262,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/rebind-all-the-keys.toml"
-hash = "17c10747381d47000c8d2be4952fa6bf0f167a9aca8f4bec3129cb71d4ff77fe"
+hash = "3b814f557bf5f34dda723d82b8c493892d430b081ea7b723acb704af3e0061a4"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "e086f180682beb5fdfc2710cc0ce57e6228b867ba5469769183f4a368daa3f01"
+hash = "8ad336abaf4d5b6814d7d24d769412c684f6eda532a5d8835e878c75256cc8fd"
 metafile = true
 
 [[files]]
@@ -302,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "a95c4c7fe95520e58426f279ef20077934e0b9cd6d6b923977fa1feb8e24951a"
+hash = "0d2da5026e10fe58487526b797fb1321c41db81c8ae92ef85614048c9a128528"
 metafile = true
 
 [[files]]
@@ -332,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "f814355321990bd6776d4eda696ece3bf01dc46a7f3266302dc73bb1fc7f3f3f"
+hash = "5fcec4e661117774ea32f5b5c6bee159a2aed3a4adca1d47ece3f80a5a10cfc3"
 metafile = true
 
 [[files]]

@@ -55,6 +55,7 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Clear Skies](https://curseforge.com/minecraft/mc-mods/clear-skies)                                        | Optional   |         |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                                                          | Always     |         |
 | [Cloth Config](https://curseforge.com/minecraft/mc-mods/cloth-config)                                      | Always     | `**`    |
+| [Colored Lights](https://modrinth.com/mod/oDZufc9Z)                                                        | Optional   |         |
 | [Command Macros](https://curseforge.com/minecraft/mc-mods/command-macros)                                  | Optional   | `*`     |
 | [Connected Texture Mod](https://curseforge.com/minecraft/mc-mods/ctm-fabric)                               | Optional   |         |
 | [CraftPresence](https://curseforge.com/minecraft/mc-mods/craftpresence)                                    | Optional   |         |
@@ -78,6 +79,7 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Inventory Tabs](https://www.curseforge.com/minecraft/mc-mods/inventory-tabs)                              | Optional   |         |
 | [Item Scroller](https://curseforge.com/minecraft/mc-mods/item-scroller)                                    | Always     |         |
 | [Indium](https://github.com/comp500/Indium)                                                                | Always     | `**`    |
+| [Inspecio](https://modrinth.com/mod/a93H3mKU)                                                              | Always     |         |
 | [Iris](https://github.com/IrisShaders/Iris)                                                                | Optional   |         |
 | [Iris Explorer](https://modrinth.com/mod/cX5LI3lH)                                                         | Optional   |         |
 | [Krypton](https://modrinth.com/mod/fQEb0iXm)                                                               | Always     | `†`     |

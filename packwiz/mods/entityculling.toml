@@ -1,14 +1,14 @@
 name = "Entity Culling Fabric/Forge"
-filename = "EntityCulling-Fabric-1.2.2.jar"
+filename = "EntityCulling-Fabric-1.2.2-prerelease1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3296/215/EntityCulling-Fabric-1.2.2.jar"
+url = "https://edge.forgecdn.net/files/3328/367/EntityCulling-Fabric-1.2.2-prerelease1.jar"
 hash-format = "murmur2"
-hash = "1198166855"
+hash = "1479156142"
 
 [update]
 [update.curseforge]
-file-id = 3296215
+file-id = 3328367
 project-id = 448233
 release-channel = "beta"
