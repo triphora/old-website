@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.toml"
-hash = "6134ae5e0572fc77f29add5c22a6585cdf3153ebb7259746cf0cfbe282bb60a3"
+hash = "ee5e59b92a576daf9d09b1d368fe021c8b0220c9a01dbc82576f1a65e70d0e59"
 metafile = true
 
 [[files]]
@@ -32,12 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/clear-skies.toml"
-hash = "3882d33b35994c45d0ab8dd4d536449154e183185e2a81467fee13641cc8cf55"
+hash = "d0e4644a0ed3cc7a5ba173e4979bff11fddf2ab8dbd65cf18ce65f862b034f4c"
 metafile = true
 
 [[files]]
 file = "mods/clickthrough.toml"
-hash = "41940d57b3a78ac4a385f1c19327b2be3f98e8fd3fc9d6f4ee8a56a2601b2308"
+hash = "eef1eb33d78c99e422c7ac027dff30274abc4f17771645887012924f9b4c8c95"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.toml"
-hash = "ba815dcfa409bffff525fe1a8cd50f9f85bbb75c20466c2218117548715025b6"
+hash = "5045b280d3a7a4ed39bf95f2de671dbee98dab7aa5a092cce0c969ade6d456d9"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/easiercrafting.toml"
-hash = "d7d4dc938fb8f5f2262b8c4888fa34ccd98ad064ed8968c7b58b31149e3d1f69"
+hash = "a14c5189c2a33324b639f44218b061e1b950b2aedb59f720a76463264dca6b21"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8ad336abaf4d5b6814d7d24d769412c684f6eda532a5d8835e878c75256cc8fd"
+hash = "ec1a034fa66bddcfc92593e77a56b8f22ce362ce5541d1c24edc48d42663ff6b"
 metafile = true
 
 [[files]]
