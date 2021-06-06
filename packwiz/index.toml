@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "4bc8e6e9e004123a0450b7b4f45e5f80a29a58e25a60321f12334d270bf5195f"
+hash = "078ae9e6f0cd1f5d39ca1e8a3b612fc9d1a5b734d467a2709a364ff3c4ab45b0"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "ac95cbfffeb575bd2a76804c5d288822dd3ca949ca8cd61e3ec8033e3e1d0beb"
+hash = "edf0d3526b22f0309f97986187873c0e5ad878d2a1fa3dc6dcbf699efa393bea"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "e086f180682beb5fdfc2710cc0ce57e6228b867ba5469769183f4a368daa3f01"
+hash = "3388f1488460e5d2d16e9c079db90258179ec4ec221fb8d75f5a6d769908990d"
 metafile = true
 
 [[files]]
@@ -287,17 +287,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.toml"
-hash = "5188e4490b4a813ec4cd54efa03c581353b781ac58291fce2cc1c2c8a937f120"
+hash = "f19b31e50e846038b35f237b81d84544020d5cc71db86b65c15e3b4f60a23300"
 metafile = true
 
 [[files]]
 file = "mods/sodium-iris.toml"
-hash = "0072e4401627dbee7cd536f87378185dede2bba0907438d80a054dd58a21423d"
+hash = "ec6f3ecb8280ad1722b8500ab4fda7e9f4eb1d45ec0e9540053092f0eb9b5f44"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "aec32abb9fb4669d5325ede6d9dd10d3086f5cde2d456de04561777d504c3200"
+hash = "da69d0e4dd9f629a91c8349683435aa6464f2709a5a5efbe78296a33d8d1d9c9"
 metafile = true
 
 [[files]]
