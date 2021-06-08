@@ -1,0 +1,17 @@
+name = "Colored Lights"
+filename = "colored-lights-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oDZufc9Z/versions/1.0.3/colored-lights-1.0.3.jar"
+hash-format = "sha512"
+hash = "2e1ad75cda35ea7ade2ce75eff1e0f6c6bc8baea6886267da1662ef4bdccdc82250afca2ba63d1224f0d28e6769086c84e17f1f9bc1c34fc802266e9eec88199"
+
+[update]
+[update.modrinth]
+mod-id = "oDZufc9Z"
+version = "Aqv03mvD"
+
+[option]
+optional = true
+description = "Colored Lights makes lights coloured (e.g., sea lanterns blue)."

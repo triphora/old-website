@@ -1,5 +1,7 @@
 # waffle's Modpack
 
+**THIS MODPACK WILL NOT WORK! SEE DISCLAIMERS AT BOTTOM**
+
 *Featuring the [Empire Minecraft Utilities](https://modrinth.com/mod/emcutils) mod, made by [GreenMeanie](https://u.emc.gs/GreenMeanie) with help from yours truly!*
 
 Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download up to 70+ separate mods.
@@ -55,6 +57,7 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Clear Skies](https://curseforge.com/minecraft/mc-mods/clear-skies)                                        | Optional   |         |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                                                          | Always     |         |
 | [Cloth Config](https://curseforge.com/minecraft/mc-mods/cloth-config)                                      | Always     | `**`    |
+| [Colored Lights](https://modrinth.com/mod/oDZufc9Z)                                                        | Optional   |         |
 | [Command Macros](https://curseforge.com/minecraft/mc-mods/command-macros)                                  | Optional   | `*`     |
 | [Connected Texture Mod](https://curseforge.com/minecraft/mc-mods/ctm-fabric)                               | Optional   |         |
 | [CraftPresence](https://curseforge.com/minecraft/mc-mods/craftpresence)                                    | Optional   |         |
@@ -78,6 +81,7 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Inventory Tabs](https://www.curseforge.com/minecraft/mc-mods/inventory-tabs)                              | Optional   |         |
 | [Item Scroller](https://curseforge.com/minecraft/mc-mods/item-scroller)                                    | Always     |         |
 | [Indium](https://github.com/comp500/Indium)                                                                | Always     | `**`    |
+| [Inspecio](https://modrinth.com/mod/a93H3mKU)                                                              | Always     |         |
 | [Iris](https://github.com/IrisShaders/Iris)                                                                | Optional   |         |
 | [Iris Explorer](https://modrinth.com/mod/cX5LI3lH)                                                         | Optional   |         |
 | [Krypton](https://modrinth.com/mod/fQEb0iXm)                                                               | Always     | `†`     |
@@ -124,6 +128,8 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 * `**` = Dependency of other mods, and thus may not be explicitly approved in its own rite.
 * `†` = Deemed incompatible, but it still makes enough of a difference.
 
-## Disclaimer
+## Disclaimers
 
 Most modpacks would require explicit approval from the mod owner before it's able to be used. However, because of the distribution method of this pack (not via a zip), it is not necessary to do so. If any mod developers have any issues with this, please email me at <modpack@waffle.coffee>.
+
+**SPECIAL NOTE:** If you want the 1.16 version, see https://github.com/wafflecoffee/waffle.coffee/tree/main/packwiz. The 1.17 version **will not work** for the time being, and I cannot guarantee that it will until EMC itself updates to 1.17. The 1.16 version will not be getting any updates.
