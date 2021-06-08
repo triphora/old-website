@@ -1,13 +1,13 @@
 name = "Durability Viewer"
-filename = "durabilityviewer-1.17-pre5-fabric0.34.8-1.10.jar"
+filename = "durabilityviewer-1.17-fabric0.34.9-1.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LTM1f0yY/versions/1.17-pre5-fabric0.34.8-1.10/durabilityviewer-1.17-pre5-fabric0.34.8-1.10.jar"
+url = "https://cdn.modrinth.com/data/LTM1f0yY/versions/1.17-fabric0.34.9-1.10/durabilityviewer-1.17-fabric0.34.9-1.10.jar"
 hash-format = "sha512"
-hash = "70a84190ae689283dca70d272db7540f4482af668b289da0e7c5a2251e008f7fa683d8668f5ca8426eeb55610140de343171b484131635bf91bfd5592ee7c670"
+hash = "b21bfd089f20afb65954b1ac77a39dbb85f704ce1c0ddaaee6cca6fc7f726439576617590878530c14ba97933213440862e3352b5a527c2422ff4215f76614bb"
 
 [update]
 [update.modrinth]
 mod-id = "LTM1f0yY"
-version = "YCls5A6s"
+version = "Z9Vhy2mn"
