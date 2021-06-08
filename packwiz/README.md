@@ -46,7 +46,6 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 
 | Mod Name                                                                                                   | Installed? | Comment |
 |------------------------------------------------------------------------------------------------------------|------------|---------|
-| [Accessibility Plus](https://www.curseforge.com/minecraft/mc-mods/accessibility-plus)                      | Optional   |         |
 | [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs)                                                | Always     |         |
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                                                             | Optional   |         |
 | [Audio Output](https://curseforge.com/minecraft/mc-mods/audio-output)                                      | Optional   |         |
@@ -62,7 +61,6 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Critical Flight Details](https://curseforge.com/minecraft/mc-mods/critical-flight-details)                | Optional   |         |
 | [Critical Orientation](https://curseforge.com/minecraft/mc-mods/critical-orientation)                      | Optional   |         |
 | [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                                                           | Always     |         |
-| [Dark Loading Screen](https://curseforge.com/minecraft/mc-mods/dark-loading-screen)                        | Optional   |         |
 | [Don't Clear Chat History](https://curseforge.com/minecraft/mc-mods/dont-clear-chat-history)               | Optional   |         |
 | [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)                                                     | Always     |         |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)                                                           | Always     |         |

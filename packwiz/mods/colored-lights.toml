@@ -11,3 +11,7 @@ hash = "2e1ad75cda35ea7ade2ce75eff1e0f6c6bc8baea6886267da1662ef4bdccdc82250afca2
 [update.modrinth]
 mod-id = "oDZufc9Z"
 version = "Aqv03mvD"
+
+[option]
+optional = true
+description = "Colored Lights makes lights coloured (e.g., sea lanterns blue)."

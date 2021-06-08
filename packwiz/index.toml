@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/colored-lights.toml"
-hash = "92e43fd6d9ff1b803ab7b5782e0fb786834c903b2cf9e5c88ead8814f0d7a4d7"
+hash = "51f877738ccffedf0b6eb21ed74624eca265d297e0a258ab126f8b02b6bd15fe"
 metafile = true
 
 [[files]]
@@ -73,11 +73,6 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.toml"
 hash = "73373969b6bc944d82bc8799cfbac796a7abdddfb348e661395d54f1340e9694"
-metafile = true
-
-[[files]]
-file = "mods/dark-loading-screen.toml"
-hash = "9eced85cc1d4874f637e0efd6dbab2339e972b0a8caf7e1b69a02d69fb048355"
 metafile = true
 
 [[files]]
