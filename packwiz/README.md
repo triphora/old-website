@@ -48,7 +48,6 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 
 | Mod Name                                                                                                   | Installed? | Comment |
 |------------------------------------------------------------------------------------------------------------|------------|---------|
-| [Accessibility Plus](https://www.curseforge.com/minecraft/mc-mods/accessibility-plus)                      | Optional   |         |
 | [Amecs](https://www.curseforge.com/minecraft/mc-mods/amecs)                                                | Always     |         |
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                                                             | Optional   |         |
 | [Audio Output](https://curseforge.com/minecraft/mc-mods/audio-output)                                      | Optional   |         |
