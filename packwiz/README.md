@@ -80,8 +80,7 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Item Scroller](https://curseforge.com/minecraft/mc-mods/item-scroller)                                    | Always     |         |
 | [Indium](https://github.com/comp500/Indium)                                                                | Always     | `**`    |
 | [Inspecio](https://modrinth.com/mod/a93H3mKU)                                                              | Always     |         |
-| [Iris](https://github.com/IrisShaders/Iris)                                                                | Optional   |         |
-| [Iris Explorer](https://modrinth.com/mod/cX5LI3lH)                                                         | Optional   |         |
+| [Iris](https://modrinth.com/mod/iris)                                                                      | Optional   |         |
 | [Krypton](https://modrinth.com/mod/fQEb0iXm)                                                               | Always     | `†`     |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)                                                     | Optional   |         |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)                                                     | Always     |         |
@@ -107,8 +106,6 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [Shut Up Console](https://curseforge.com/minecraft/mc-mods/shut-up-console)                                | Optional   |         |
 | [Smooth Scrolling Everywhere](https://curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Optional   |         |
 | [Sodium CaffeineMC](https://github.com/CaffeineMC/sodium-fabric)                                           | Optional   |         |
-| [Sodium Iris](https://github.com/IrisShaders/sodium-fabric)                                                | Optional   |         |
-| [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)                                                          | Always     |         |
 | [Starlight](https://github.com/Spottedleaf/Starlight)                                                      | Always     | `†`     |
 | [TexTweaks](https://modrinth.com/mod/46IhRbc1)                                                             | Optional   |         |
 | [Time Changer](https://modrinth.com/mod/1itdse3V)                                                          | Optional   |         |

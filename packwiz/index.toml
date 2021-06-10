@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "83da3e3523803e252497373b5e15bb6854a911c8046e21e45be65d0398c7a8b2"
+hash = "265af081529db6b86bdbff56b182e5d442ab2e423ab7dfd8ecb18e15083f11a8"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "078ae9e6f0cd1f5d39ca1e8a3b612fc9d1a5b734d467a2709a364ff3c4ab45b0"
+hash = "743b3b7e1af583ae49e4781fe7651a08727115884067e73328a3db3abb52ed0f"
 metafile = true
 
 [[files]]
@@ -151,23 +151,18 @@ hash = "a25f4b28bbad49846184e04a996a7d364128d306011add2d98d88e9ee8384f94"
 metafile = true
 
 [[files]]
-file = "mods/iris-explorer.toml"
-hash = "e0146970d2fcd59cc5b5c52d986f67d459fb0508637be373675ef6864f6f20db"
-metafile = true
-
-[[files]]
 file = "mods/iris.toml"
-hash = "edf0d3526b22f0309f97986187873c0e5ad878d2a1fa3dc6dcbf699efa393bea"
+hash = "f72799aa1233ca2d921ffc8c2d32990f8cbb1317b0ebeff489c8eb6a9e5c0092"
 metafile = true
 
 [[files]]
 file = "mods/item-scroller.toml"
-hash = "24d33d15e5a1b6ae376dd2fa88ceb9d8d652c4e93b51c4d6ee8345fd05139703"
+hash = "c59798f808a9a5306d6b907e1634e4ca9c67a8181c19e6d9d648b7496df243e2"
 metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "2148d404b7cf3a72a469be3433272f13218a98d0cc1af4b9abb2886bbc7848c3"
+hash = "53c1497f1d36ff97918eecd378094c563c2cea25ada65b2d61524b6fbf775daa"
 metafile = true
 
 [[files]]
@@ -192,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "18c3cdb10d9a9b8912495d796ba4332968c01064e18696dd3a7a42a739de92ff"
+hash = "482045f30e03897a8f3852c8830b598d9b00ed1b984f48939b94ab66645b10e7"
 metafile = true
 
 [[files]]
@@ -207,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "980874b089d8eedc4a3c66b5a4417440e98f7f06d5e82c112c7c646de48a3719"
+hash = "fe8e60e3917e13a3a5ea46b7402d8d35850829c669e8b97f3c869bf4ce6c21ad"
 metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "b790361d8be3da01fa980b3896c52c8fcc8eda0fa253f8b9586bd76b1a77050f"
+hash = "9731cbf2f3a2aa14cd3948a8caee970a6dc66fa84c1f0c10be5cc522fe2882ec"
 metafile = true
 
 [[files]]
@@ -272,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "2de04f0c9a45d29968f5f5bb51942d8e48e1f72321aa17920652928a17bfbae4"
+hash = "51ecc6842a5eddf00449e99f56ab8899c9644e22cad79b98554cdc8fa18f595b"
 metafile = true
 
 [[files]]
@@ -286,18 +281,8 @@ hash = "3c76f6dc31a39c5798a85d997883a4dd881a469a838b0cbff14499f393c9f477"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.toml"
-hash = "f19b31e50e846038b35f237b81d84544020d5cc71db86b65c15e3b4f60a23300"
-metafile = true
-
-[[files]]
-file = "mods/sodium-iris.toml"
-hash = "ec6f3ecb8280ad1722b8500ab4fda7e9f4eb1d45ec0e9540053092f0eb9b5f44"
-metafile = true
-
-[[files]]
 file = "mods/sodium.toml"
-hash = "da69d0e4dd9f629a91c8349683435aa6464f2709a5a5efbe78296a33d8d1d9c9"
+hash = "1568f85b32f431c39374ded6a5fe20044b37d5d6ca4c963cef6f0616d7c1cab2"
 metafile = true
 
 [[files]]

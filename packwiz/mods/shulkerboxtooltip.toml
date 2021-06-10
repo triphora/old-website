@@ -1,14 +1,14 @@
 name = "ShulkerBoxTooltip"
-filename = "shulkerboxtooltip-2.3.5+1.16.5.jar"
+filename = "shulkerboxtooltip-3.0.0-alpha.3+1.17.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3195/227/shulkerboxtooltip-2.3.5+1.16.5.jar"
+url = "https://edge.forgecdn.net/files/3344/740/shulkerboxtooltip-3.0.0-alpha.3+1.17.jar"
 hash-format = "murmur2"
-hash = "3265893117"
+hash = "1704059795"
 
 [update]
 [update.curseforge]
-file-id = 3195227
+file-id = 3344740
 project-id = 315811
 release-channel = "beta"

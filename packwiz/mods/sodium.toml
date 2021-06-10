@@ -1,11 +1,11 @@
 name = "Sodium (CaffeineMC)"
-filename = "sodium-fabric-mc1.16.5-0.2.0+rev.972c7c1.jar"
+filename = "sodium-fabric-mc1.16.5-0.2.0+rev.35552d3.jar"
 side = "client"
 
 [download]
-url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.16.5-0.2.0+rev.972c7c1.jar"
+url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.16.5-0.2.0+rev.35552d3.jar"
 hash-format = "sha512"
-hash = "9a119555032f98666559ff9486085c69488a77289bbfe32bae72292afa07896ab6b53876827efb0463dc45897571603b53c97e3066081bae04bd7fdb430f595a"
+hash = "59afc0dbc2b85cb55d558bc9737a0099f96b7cbbe491ba9cf69497b5e3b6feb459b47583cc403e7117ed5ecc3b602da1e6c8868fe785b46967a4e8e560098553"
 
 [option]
 optional = true
