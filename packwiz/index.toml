@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "a4576e6cd4318b2bbc6d4f10f00df38a08ab42eb7ff0d217fd13c43e4a74aa5c"
+hash = "a378cc7925514c6213639b252c1fab6aed13706005918fea8ac2f5540119ff5f"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "55e5b3e9757c74987a46437cd61260341df35e83330e6282ac59705e291bc380"
+hash = "6fea0a500639e66a61dc04f6a3a78d2eb943219a73d9efe817714d06141671eb"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "48801db07e7f0352c9a155aa236c01a48b85e638424d41c89a02a7cdcd1266ad"
+hash = "4e93bc7f321384c2714054a67cdf9c92aeaffc98927098f5da9439a914c169b6"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8ec39ec4b1543f08e09ae13de84cf067d3bc611511d73686f843f78cb9c52c47"
+hash = "d5d419e6741c2830e641212171abe4a66f4cffce0778332f698dde48cd0b5ca3"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "f814355321990bd6776d4eda696ece3bf01dc46a7f3266302dc73bb1fc7f3f3f"
+hash = "db0733905709b169b56bfad6da7044e2ccdc2e02b708129d1b3dc4edf6235f9c"
 metafile = true
 
 [[files]]
