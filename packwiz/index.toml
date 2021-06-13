@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "248891477ee9652a3a733a0f48bf44060c5afd5786302084edbb0b1671de0e41"
+hash = "a4576e6cd4318b2bbc6d4f10f00df38a08ab42eb7ff0d217fd13c43e4a74aa5c"
 metafile = true
 
 [[files]]
 file = "mods/fabrishot.toml"
-hash = "39a99b13acbb5c5597030f06543d1acb5ad8a35b5786bdbbf6c2c2b3a7e3104d"
+hash = "42f6b01f10364d595bbc3915f5c88377164e058f961a3b7ceb2edf20582a41ea"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "c2dc58ad1ce065d73a250283bf1849cf07c1e211892ccbb4d943b7c59c79b22c"
+hash = "c32296d53c667681bc59834eb553cfd53030d60a248184b5569e3718af8807f5"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "51ecc6842a5eddf00449e99f56ab8899c9644e22cad79b98554cdc8fa18f595b"
+hash = "7d7e0bdae7f646b904e42210c4d32e7f974fac3b0019fe60e715faaf75a6998f"
 metafile = true
 
 [[files]]
