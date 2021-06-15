@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/audio-output.toml"
-hash = "d35e1d5e53d87c6b0b1423afca6ca38cff07f5a5b10c50a9b635d2da098e0944"
+hash = "2b98e509b6d9a2bab0bb87bcde9df6e6cf5ab844953f0097f2cef922d331728f"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/command-macros.toml"
-hash = "8c03a426d164704e1ea1c7997f06fcbac998514737d5b40b422ac512b911daa5"
+hash = "a9eb46816dc3a2acbda7bf3152b574cab86576089627affef45557bd31aca804"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.toml"
-hash = "360f4fb2654dc0fe63340ebc0be9847cbffd5bfabac7e42283ddc7883f936f67"
+hash = "bb96de2bb22da9b0c016893e4d3a2cb032c662256b39b83a7cfc2a0b7099f6e1"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "a378cc7925514c6213639b252c1fab6aed13706005918fea8ac2f5540119ff5f"
+hash = "4d0645a874deb85129e2ca986a7993c077d961c24924960ba9f6a3c7c192244d"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "482045f30e03897a8f3852c8830b598d9b00ed1b984f48939b94ab66645b10e7"
+hash = "57142d68eb39b82f02065acd2670f1024886650031aed99c8fd6156fc487a783"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "d5d419e6741c2830e641212171abe4a66f4cffce0778332f698dde48cd0b5ca3"
+hash = "2751c4a383444e0c74e866b158878c657235b2eea6ed9d920e94b3a09121e552"
 metafile = true
 
 [[files]]

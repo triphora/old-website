@@ -1,15 +1,15 @@
 name = "Audio Output"
-filename = "audiooutput-1.16.2-0.0.3.jar"
+filename = "audiooutput-0.0.4.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3039/481/audiooutput-1.16.2-0.0.3.jar"
+url = "https://edge.forgecdn.net/files/3351/318/audiooutput-0.0.4.jar"
 hash-format = "murmur2"
-hash = "2925161628"
+hash = "1040364283"
 
 [update]
 [update.curseforge]
-file-id = 3039481
+file-id = 3351318
 project-id = 372451
 release-channel = "beta"
 
