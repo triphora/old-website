@@ -1,9 +1,5 @@
 Starlight          https://github.com/Spottedleaf/Starlight/releases
 WorldEditCUI       https://github.com/mikroskeem/WorldEditCUI/releases
-Xaero's Minimap    https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files
-Xaero's World Map  https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files
 
 Indium             cd /home/emma/repos/mods/indium && git pull && gradle build && mv build/libs/indium-1.0.0.jar /home/emma/repos/waffle.coffee/packwiz/mods/jars
-Iris               cd /home/emma/repos/mods/iris && git pull && gradle build && gradle publishToMavenLocal && mv build/libs/iris-0.4.0.jar /home/emma/repos/waffle.coffee/packwiz/mods/jars
 Sodium-Caffeine    cd /home/emma/repos/mods/caffeine-sodium && git pull && gradle build && mv build/libs/sodium-*.jar /home/emma/repos/waffle.coffee/packwiz/mods/jars
-Sodium-Iris        cd /home/emma/repos/mods/sodium && git pull && gradle build && mv build/libs/sodium-*.jar /home/emma/repos/waffle.coffee/packwiz/mods/jars

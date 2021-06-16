@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "57142d68eb39b82f02065acd2670f1024886650031aed99c8fd6156fc487a783"
+hash = "6f222cd260f4cc7a322e6e4ffd1e74649b630ec08e0fae0402a74970d9c2bf2e"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "a95c4c7fe95520e58426f279ef20077934e0b9cd6d6b923977fa1feb8e24951a"
+hash = "ee5f6ad60e486e22847ad71874e08bf77e4660a1ca9591367bf412882ced8475"
 metafile = true
 
 [[files]]
