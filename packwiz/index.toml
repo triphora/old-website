@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "d7c5173c1ad075591dec45d1051991571830729f4e98cba23c21b080ad1f2b71"
+hash = "315fdf1ad1deb0b0ffd4ffa63468c0773694fbbca8e89fd279e353835508fdee"
 metafile = true
 
 [[files]]
