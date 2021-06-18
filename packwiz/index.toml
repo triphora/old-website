@@ -146,8 +146,8 @@ hash = "1f646c78275b15ca0cb4e195dafc53d90769b0fa5575a46f1dfd2945f2becbb8"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles.toml"
-hash = "a25f4b28bbad49846184e04a996a7d364128d306011add2d98d88e9ee8384f94"
+file = "mods/inventory-profiles-next.toml"
+hash = "2be95cdfe4febfb489354045426ab2c9fd01207d7cdc6339ef6042ef47dbdaba"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "090d1c67dc4168150f946149beaff9e91240a0d55cd5d4ab9eb42039643d908d"
+hash = "aadac356f42ec0990857fe8a3c07f04075a56c39d67bde0c75237489fbcbcd00"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbttooltip.toml"
-hash = "158338b33f2bdaecdb9dd8ff83211936d6ad4feb14bf14586604357652cfb1cb"
+hash = "3aed0d3a60bdf6b25f685ef3fb81eb99a3c4bc002256c972e6b43c92a4fb8317"
 metafile = true
 
 [[files]]
@@ -317,12 +317,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "db0733905709b169b56bfad6da7044e2ccdc2e02b708129d1b3dc4edf6235f9c"
+hash = "1511a6b8f2abce67ed32712880fc52d6eff29010bdd77089de4c0eac075dad99"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "dc18c1907dfb23eb7cdfeeccd36eca793fbb21033b575be8fe7e366b49b43708"
+hash = "0507f38d3ec4d91cb4bdc2e1387c382ecc5da2c39921b884d53cff9a740d2f81"
 metafile = true
 
 [[files]]

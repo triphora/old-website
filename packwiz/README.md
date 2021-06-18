@@ -75,7 +75,7 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs)                                                           | Always     |         |
 | [HUDTweaks](https://modrinth.com/mod/Ks4IAiYz)                                                             | Optional   |         |
 | [Hydrogen](https://modrinth.com/mod/AZomiSrC)                                                              | Always     |         |
-| [Inventory Profiles](https://curseforge.com/minecraft/mc-mods/inventory-profiles)                          | Always     | `*`     |
+| [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)                                               | Always     | `*`     |
 | [Item Scroller](https://curseforge.com/minecraft/mc-mods/item-scroller)                                    | Always     |         |
 | [Indium](https://github.com/comp500/Indium)                                                                | Always     | `**`    |
 | [Inspecio](https://modrinth.com/mod/a93H3mKU)                                                              | Always     |         |

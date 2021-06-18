@@ -1,11 +1,11 @@
 name = "waffle's Pack"
 author = "wafflecoffee"
-version = "2021.6.16"
+version = "2021.6.18"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e96b728aa652721895275a447e4e95b1c199008e09453bc1a7cc609873c5524b"
+hash = "18b59bd43af9e595578d54945106841da9925a3ca80ae13359b66713c28e9828"
 
 [versions]
 fabric = "0.11.3"
