@@ -16,6 +16,11 @@ hash = "2b98e509b6d9a2bab0bb87bcde9df6e6cf5ab844953f0097f2cef922d331728f"
 metafile = true
 
 [[files]]
+file = "mods/auth-me.toml"
+hash = "4819af6e7d78be6fc3f8e22d5cf8dda7c051c862e3b2a01d3c4716f031446710"
+metafile = true
+
+[[files]]
 file = "mods/better-enchanted-books.toml"
 hash = "4362e3f53bbb83a932be2ec724f132502e5e6bf40b1ec95b300983c71cec1fc0"
 metafile = true
@@ -76,6 +81,11 @@ hash = "73373969b6bc944d82bc8799cfbac796a7abdddfb348e661395d54f1340e9694"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.toml"
+hash = "3cb61c5e66f85b77d56e4e20df1ed7f193504725b56e0ddabef7467319fe9a6f"
+metafile = true
+
+[[files]]
 file = "mods/dont-clear-chat-history.toml"
 hash = "069c79d189a26d846ef545b01911655158a6865e607287bb439371eeebac9adf"
 metafile = true
@@ -107,12 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "265af081529db6b86bdbff56b182e5d442ab2e423ab7dfd8ecb18e15083f11a8"
+hash = "ec2f5b3fe9418dc4de48912c216c7aa5ddc2f9092e0ed6e495a2afd2cce87536"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "4d0645a874deb85129e2ca986a7993c077d961c24924960ba9f6a3c7c192244d"
+hash = "49bec4191d8ba299ec945acc812cb8ad6add90c16e659f25b040a6b329c4d59b"
 metafile = true
 
 [[files]]
@@ -132,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/hydrogen.toml"
-hash = "153cda3c6d61ae9b32117fe5315ee40a0bd561b7292d9a5927773a368b52c254"
+hash = "8c567c4bdc98f31981a86b309d43b6352c64ca595005e6d2730a55ff641e77f7"
 metafile = true
 
 [[files]]
@@ -147,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "2be95cdfe4febfb489354045426ab2c9fd01207d7cdc6339ef6042ef47dbdaba"
+hash = "67d803df4e8f94007ff9d419054f5f1451f4a0d73d23492e1e2a3aac038b29fb"
 metafile = true
 
 [[files]]
@@ -222,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/nmuk.toml"
-hash = "efd2d3c064fdb85cb244202412ccb911ae9640d8f2f5898364b80c756bd893de"
+hash = "ef8a6f681af3f2a800a4eb4e1cff78b8ba4f42762b5eff65b103957184016275"
 metafile = true
 
 [[files]]
@@ -236,8 +246,8 @@ hash = "af771bd5e619c99fe4a9d53d2e30668356298b1e8475b4906c21e52441c72f7a"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-crashes.toml"
-hash = "4e93bc7f321384c2714054a67cdf9c92aeaffc98927098f5da9439a914c169b6"
+file = "mods/notenoughcrashes.toml"
+hash = "70d4e6f9a058ee58e87f3c6fef0ae7441fedda4f4004746d83dc0cc7373fb439"
 metafile = true
 
 [[files]]
@@ -251,18 +261,13 @@ hash = "53a2a2604c0fad23019ff7722dca7d0e4bca97528865ae0eac1fcdf1b92a300e"
 metafile = true
 
 [[files]]
-file = "mods/reauth-fabric.toml"
-hash = "da9cb4b35149fbc1c58748c9bbe5d90bc8f71e69971ceddd7773a0f3772f4bff"
-metafile = true
-
-[[files]]
 file = "mods/rebind-all-the-keys.toml"
 hash = "3b814f557bf5f34dda723d82b8c493892d430b081ea7b723acb704af3e0061a4"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "2751c4a383444e0c74e866b158878c657235b2eea6ed9d920e94b3a09121e552"
+hash = "fc7eb25a81c148c39d5cc081cf03e5402301c75c6cf04f70a1b3a9c6cd819b57"
 metafile = true
 
 [[files]]
@@ -302,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators.toml"
-hash = "60949da0fc814f31beb41ede8802153c29691d8fe0036a206de1a7a8aec6d892"
+hash = "1ecfd5ca2d8ad6323372162e3f4416a122492a0819f4347a2972b263bdc2afee"
 metafile = true
 
 [[files]]
@@ -322,10 +327,15 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "0507f38d3ec4d91cb4bdc2e1387c382ecc5da2c39921b884d53cff9a740d2f81"
+hash = "b54419d960f2c2baf748ff3aecf7c8be8930ca20ea03d39581675ecc850d5e85"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
 hash = "a0ed6899cf9e7574fe75a17b45ed86a5bd2be9ce9c5f9306c1494821648101f6"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.toml"
+hash = "218b2b38862091f96e1db0ee7580c6f9cd5e8f008f88e4fe00016c6dea1065b3"
 metafile = true

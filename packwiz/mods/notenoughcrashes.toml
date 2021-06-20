@@ -1,0 +1,13 @@
+name = "Not Enough Crashes"
+filename = "notenoughcrashes-3.3.1+1.17-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yM94ont6/versions/3.3.1+1.17/notenoughcrashes-3.3.1+1.17-fabric.jar"
+hash-format = "sha512"
+hash = "c99200fd5b5bbe5665b956da605322880c8c637eee87b8ed692eb75db0c42177889a63af7dfbfb69387eb3d238b8a3d9f55c558b0462f78c3bce932d5d3354eb"
+
+[update]
+[update.modrinth]
+mod-id = "yM94ont6"
+version = "P5WNPtGI"

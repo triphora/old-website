@@ -95,7 +95,7 @@ Change the directory from `~/.minecraft` if you use a different directory, e.g.,
 | [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)                                                  | Optional   |         |
 | [No Strip](https://modrinth.com/mod/3f1BdVqy)                                                              | Optional   |         |
 | [NoFog](https://curseforge.com/minecraft/mc-mods/nofog)                                                    | Optional   | `*`     |
-| [Not Enough Crashes](https://curseforge.com/minecraft/mc-mods/not-enough-crashes)                          | Always     |         |
+| [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)                                                    | Always     |         |
 | [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                                                             | Always     |         |
 | [Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)                                                  | Optional   |         |
 | [ReAuth](https://curseforge.com/minecraft/mc-mods/reauth-fabric)                                           | Optional   |         |
