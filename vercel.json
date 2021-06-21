@@ -6,8 +6,8 @@
       "destination": "https://empireminecraft.com/threads/83391"
     },
     {
-      "source": "/updated(.*)",
-      "destination": "https://empireminecraft.com/threads/83816"
+      "source": "/opti(.*)",
+      "destination": "https://empireminecraft.com/threads/84590"
     },
     {
       "source": "/modpa(.*)",

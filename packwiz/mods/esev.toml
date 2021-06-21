@@ -1,0 +1,17 @@
+name = "Emma's Simple Elytra View"
+filename = "esev-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CnOyIhK0/versions/1.0.0/esev-1.0.0.jar"
+hash-format = "sha512"
+hash = "e53a6f7808252f7ef782aea298a7d9b95ca97411b624f2cb348c7737ae989492e18c30c4f7996e0148689036f58d69f070be50fd4536660799ea49b0eda10f1c"
+
+[update]
+[update.modrinth]
+mod-id = "CnOyIhK0"
+version = "7xgEY8y0"
+
+[option]
+optional = true
+description = "ESEV gives a heads-up display that displays your speed and angle of flight."

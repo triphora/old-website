@@ -17,17 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.toml"
-hash = "4819af6e7d78be6fc3f8e22d5cf8dda7c051c862e3b2a01d3c4716f031446710"
+hash = "98ff2bc87b933163b5d0b197f405d9b06174db6d48046b7bf1eb7b38c7ff73cd"
 metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.toml"
 hash = "4362e3f53bbb83a932be2ec724f132502e5e6bf40b1ec95b300983c71cec1fc0"
-metafile = true
-
-[[files]]
-file = "mods/blur-fabric.toml"
-hash = "74f39c302b1f85b1ada3cd82e89298875fec9e323ddead7cb52e3740f30171bb"
 metafile = true
 
 [[files]]
@@ -61,16 +56,6 @@ hash = "25c7469eed7fad7734cfe2221d66b592058ffe102d7aa47531a34954c54a54a0"
 metafile = true
 
 [[files]]
-file = "mods/critical-flight-details.toml"
-hash = "67643dcc9914dbf20d038ba6eea8c4bf6f1c2772f9d79db2fb73710e93cb0386"
-metafile = true
-
-[[files]]
-file = "mods/critical-orientation.toml"
-hash = "6fe6756ed0327189433f46fd0deca4517b198fc09766758079ce86d36250ad24"
-metafile = true
-
-[[files]]
 file = "mods/ctm-fabric.toml"
 hash = "948103cea686d9cf5a953b24205b753fd69a133aa304c768c26cc4fd99924076"
 metafile = true
@@ -82,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/deathlog.toml"
-hash = "3cb61c5e66f85b77d56e4e20df1ed7f193504725b56e0ddabef7467319fe9a6f"
+hash = "99fa7614867be9efcb40874300661657a1dbd244bd373f8df356ef4f431d9004"
 metafile = true
 
 [[files]]
@@ -121,6 +106,11 @@ hash = "ec2f5b3fe9418dc4de48912c216c7aa5ddc2f9092e0ed6e495a2afd2cce87536"
 metafile = true
 
 [[files]]
+file = "mods/esev.toml"
+hash = "4b04c431278c087c6833803900f2b0cefe79c306e9251642df42618d4b8c6ee3"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "49bec4191d8ba299ec945acc812cb8ad6add90c16e659f25b040a6b329c4d59b"
 metafile = true
@@ -132,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "868f81f9da3a432950f1bb0ae41cfccb5b70d6e4d945e2246628a47b04ffcc6f"
+hash = "7e0011fb5ce863a36040bacdd64d88df61279effcebdd7d4dbc16334c94e5658"
 metafile = true
 
 [[files]]
@@ -157,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "67d803df4e8f94007ff9d419054f5f1451f4a0d73d23492e1e2a3aac038b29fb"
+hash = "dc6ca0e4452bdb37dbf09f52b08be9f344cd4eb4e9e81492a1799b5192e64796"
 metafile = true
 
 [[files]]
@@ -202,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "aadac356f42ec0990857fe8a3c07f04075a56c39d67bde0c75237489fbcbcd00"
+hash = "2269a0e9554b766a11b0567e824a62bb31660cabed3636ec67520d41cf88722a"
 metafile = true
 
 [[files]]
@@ -253,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.toml"
 hash = "a826b893ccf96de25429d13d470f5509ce6f998c2c6533c9c0567f8f982b01e0"
+metafile = true
+
+[[files]]
+file = "mods/orientation.toml"
+hash = "41481f08470110aac63572e13023cbbdbd6291745ba673452ce8311359ac39be"
 metafile = true
 
 [[files]]

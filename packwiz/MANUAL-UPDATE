@@ -1,5 +1,2 @@
 Starlight          https://github.com/Spottedleaf/Starlight/releases
 WorldEditCUI       https://github.com/mikroskeem/WorldEditCUI/releases
-
-Indium             cd /home/emma/repos/mods/indium && git pull && gradle build && mv build/libs/indium-1.0.0.jar /home/emma/repos/waffle.coffee/packwiz/mods/jars
-Sodium-Caffeine    cd /home/emma/repos/mods/caffeine-sodium && git pull && gradle build && mv build/libs/sodium-*.jar /home/emma/repos/waffle.coffee/packwiz/mods/jars

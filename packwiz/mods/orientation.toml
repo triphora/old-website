@@ -1,0 +1,17 @@
+name = "Critical Orientation"
+filename = "critical-orientation-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AFqV4ew3/versions/2.0.1/critical-orientation-2.0.1.jar"
+hash-format = "sha512"
+hash = "bcf0ec94583eafc796d1fb3a2ef1240064c27503610a2d57524e7ec22d68c0f25f95758e0492bf9ec212b619723b0dba073bb8bc2c4cda8190f13e9b207dc620"
+
+[update]
+[update.modrinth]
+mod-id = "AFqV4ew3"
+version = "Pe8SoDAF"
+
+[option]
+optional = true
+description = "Critical Orientation allows you to snap to a 90 or 45 degree angle, usually used for ice boat paths."
