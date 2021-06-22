@@ -56,11 +56,6 @@ hash = "25c7469eed7fad7734cfe2221d66b592058ffe102d7aa47531a34954c54a54a0"
 metafile = true
 
 [[files]]
-file = "mods/ctm-fabric.toml"
-hash = "948103cea686d9cf5a953b24205b753fd69a133aa304c768c26cc4fd99924076"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.toml"
 hash = "73373969b6bc944d82bc8799cfbac796a7abdddfb348e661395d54f1340e9694"
 metafile = true

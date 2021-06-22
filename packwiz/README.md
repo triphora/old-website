@@ -56,8 +56,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         |
 | [Cloth Config](https://curseforge.com/projects/319057)                 | Always     | `**`    |
 | [Colored Lights](https://modrinth.com/mod/oDZufc9Z)                    | Optional   |         |
-| [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     |
-| [Connected Texture Mod](https://curseforge.com/projects/432493)        | Optional   |         |
+| [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     | <!--| [Connected Texture Mod](https://curseforge.com/projects/432493)        | Optional   |         |-->
 | [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
 | [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   | `††`    |
 | [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                       | Always     |         | <!--| [Don't Clear Chat History](https://curseforge.com/projects/404400)     | Optional   |         |-->
