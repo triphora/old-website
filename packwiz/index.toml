@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "a826b893ccf96de25429d13d470f5509ce6f998c2c6533c9c0567f8f982b01e0"
+hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "fc7eb25a81c148c39d5cc081cf03e5402301c75c6cf04f70a1b3a9c6cd819b57"
+hash = "a112293710ad39d90fe0128f16442bd6dd88b4b900b929682837c0a6ad5629f5"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "1511a6b8f2abce67ed32712880fc52d6eff29010bdd77089de4c0eac075dad99"
+hash = "2c2c68236340d589d471cebc81723870bbbd9872f2988b3c75dbab93c2085c09"
 metafile = true
 
 [[files]]
