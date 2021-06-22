@@ -201,11 +201,6 @@ hash = "bc3b726ebcf2ed01dd18c8cb55746984c52443c3907a24ebfd9ca29fc48af5c8"
 metafile = true
 
 [[files]]
-file = "mods/nofog.toml"
-hash = "af771bd5e619c99fe4a9d53d2e30668356298b1e8475b4906c21e52441c72f7a"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.toml"
 hash = "70d4e6f9a058ee58e87f3c6fef0ae7441fedda4f4004746d83dc0cc7373fb439"
 metafile = true

@@ -86,8 +86,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                          | Always     |         |
 | [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf)                       | Optional   |         |
 | [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)              | Optional   |         |
-| [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         |
-| [NoFog](https://curseforge.com/projects/296468)                        | Optional   | `*`     |
+| [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         | <!--| [NoFog](https://curseforge.com/projects/296468)                        | Optional   | `*`     |-->
 | [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)                | Always     |         |
 | [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                         | Always     |         |
 | [Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)              | Optional   |         |
