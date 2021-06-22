@@ -60,8 +60,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Connected Texture Mod](https://curseforge.com/projects/432493)        | Optional   |         |
 | [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
 | [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   | `††`    |
-| [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                       | Always     |         |
-| [Don't Clear Chat History](https://curseforge.com/projects/404400)     | Optional   |         |
+| [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                       | Always     |         | <!--| [Don't Clear Chat History](https://curseforge.com/projects/404400)     | Optional   |         |-->
 | [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)                 | Always     |         |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)                       | Always     |         |
 | [EasierCrafting](https://modrinth.com/mod/UylF21yz)                    | Always     |         |

@@ -71,11 +71,6 @@ hash = "99fa7614867be9efcb40874300661657a1dbd244bd373f8df356ef4f431d9004"
 metafile = true
 
 [[files]]
-file = "mods/dont-clear-chat-history.toml"
-hash = "069c79d189a26d846ef545b01911655158a6865e607287bb439371eeebac9adf"
-metafile = true
-
-[[files]]
 file = "mods/durabilityviewer.toml"
 hash = "bb96de2bb22da9b0c016893e4d3a2cb032c662256b39b83a7cfc2a0b7099f6e1"
 metafile = true
