@@ -1,12 +1,10 @@
 # waffle's Modpack
 
-**THIS MODPACK WILL NOT WORK! SEE DISCLAIMERS AT BOTTOM**
-
 *Featuring the [Empire Minecraft Utilities](https://emc.gs/t/84361) mod, made by [GreenMeanie](https://u.emc.gs/GreenMeanie) with help from yours truly!*
 
-Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download up to 70+ separate mods.
+Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download 60+ separate mods.
 
-The focus of this modpack is to have a wide selection of client-side mods, including the very best 1.16 performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEditCUI. The installer will prompt you at installation whether you wish to install these optional mods or not.
+The focus of this modpack is to have a wide selection of client-side mods, including the very best 1.17 performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEditCUI. The installer will prompt you at installation whether you wish to install these optional mods or not.
 
 Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mods!
 
@@ -117,7 +115,5 @@ Run the following commands in a terminal (you can also append `&&` between them)
 ## Disclaimers
 
 Most modpacks would require explicit approval from the mod owner before it's able to be used. However, because of the distribution method of this pack (not via a zip), it is not necessary to do so. If any mod developers have any issues with this, please email me at <modpack@waffle.coffee>.
-
-**SPECIAL NOTE:** If you want the 1.16 version, see https://github.com/wafflecoffee/waffle.coffee/tree/main/packwiz. The 1.17 version **will not work** for the time being, and I cannot guarantee that it will until EMC itself updates to 1.17. The 1.16 version will not be getting any updates.
 
 [CondApp]: https://wiki.emc.gs/conditionally-approved-mods
