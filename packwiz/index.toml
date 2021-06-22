@@ -256,6 +256,11 @@ hash = "3c76f6dc31a39c5798a85d997883a4dd881a469a838b0cbff14499f393c9f477"
 metafile = true
 
 [[files]]
+file = "mods/sodium.toml"
+hash = "7261b0c55bebc65397379b754335bfebc47e9549f6cf0afb3d49a951d1d13e6a"
+metafile = true
+
+[[files]]
 file = "mods/starlight.toml"
 hash = "ee5f6ad60e486e22847ad71874e08bf77e4660a1ca9591367bf412882ced8475"
 metafile = true
