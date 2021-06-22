@@ -111,11 +111,6 @@ hash = "7e0011fb5ce863a36040bacdd64d88df61279effcebdd7d4dbc16334c94e5658"
 metafile = true
 
 [[files]]
-file = "mods/hudtweaks.toml"
-hash = "75896b783d612e1e5789b069217f6328206bcc937d2a2ee3162fbdec7cd8b369"
-metafile = true
-
-[[files]]
 file = "mods/inspecio.toml"
 hash = "1f646c78275b15ca0cb4e195dafc53d90769b0fa5575a46f1dfd2945f2becbb8"
 metafile = true

@@ -68,8 +68,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [ESEV](https://modrinth.com/mod/CnOyIhK0)                              | Optional   | `††`    |
 | [Fabric API](https://modrinth.com/mod/P7dR8mSH)                        | Always     |         |
 | [Fabrishot](https://modrinth.com/mod/3qsfQtE9)                         | Always     |         |
-| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         |
-| [HUDTweaks](https://modrinth.com/mod/Ks4IAiYz)                         | Optional   |         | <!--| [Hydrogen](https://modrinth.com/mod/AZomiSrC)                          | Always     |         |-->
+| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         | <!--| [HUDTweaks](https://modrinth.com/mod/Ks4IAiYz)                         | Optional   |         | \n | [Hydrogen](https://modrinth.com/mod/AZomiSrC)                          | Always     |         |-->
 | [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     | `* ††`  | <!--| [Indium](https://github.com/comp500/Indium)                            | Always     | `**`    |-->
 | [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         | <!--| [Iris](https://modrinth.com/mod/YL57xq9U)                              | Optional   |         |-->
 | [Item Scroller](https://curseforge.com/projects/242064)                | Always     |         |
