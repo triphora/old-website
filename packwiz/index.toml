@@ -81,11 +81,6 @@ hash = "ba4bbdb92e56fc37a154cb9e24ac1860269d2b277a0537d458c39e01446b6b9a"
 metafile = true
 
 [[files]]
-file = "mods/ebe.toml"
-hash = "6c11ca8b1f4f3c9be04e5eb1ace4aac1cd6bdf8660f7ed5a7b0d0ff3a9e02842"
-metafile = true
-
-[[files]]
 file = "mods/emcutils.toml"
 hash = "315fdf1ad1deb0b0ffd4ffa63468c0773694fbbca8e89fd279e353835508fdee"
 metafile = true

@@ -63,8 +63,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)                 | Always     |         |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)                       | Always     |         |
 | [EasierCrafting](https://modrinth.com/mod/UylF21yz)                    | Always     |         |
-| [Empire Minecraft Utilities](https://modrinth.com/mod/QYTT62S0)        | Always     |         |
-| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)           | Always     |         |
+| [Empire Minecraft Utilities](https://modrinth.com/mod/QYTT62S0)        | Always     |         | <!--| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)           | Always     |         |-->
 | [Entity Culling](https://curseforge.com/projects/448233)               | Always     |         |
 | [ESEV](https://modrinth.com/mod/CnOyIhK0)                              | Optional   | `††`    |
 | [Fabric API](https://modrinth.com/mod/P7dR8mSH)                        | Always     |         |
