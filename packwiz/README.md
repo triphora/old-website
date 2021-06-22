@@ -1,12 +1,10 @@
 # waffle's Modpack
 
-**THIS MODPACK WILL NOT WORK! SEE DISCLAIMERS AT BOTTOM**
-
 *Featuring the [Empire Minecraft Utilities](https://emc.gs/t/84361) mod, made by [GreenMeanie](https://u.emc.gs/GreenMeanie) with help from yours truly!*
 
-Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download up to 70+ separate mods.
+Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download 60+ separate mods.
 
-The focus of this modpack is to have a wide selection of client-side mods, including the very best 1.16 performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEditCUI. The installer will prompt you at installation whether you wish to install these optional mods or not.
+The focus of this modpack is to have a wide selection of client-side mods, including the very best 1.17 performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEditCUI. The installer will prompt you at installation whether you wish to install these optional mods or not.
 
 Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mods!
 
@@ -49,35 +47,28 @@ Run the following commands in a terminal (you can also append `&&` between them)
 |------------------------------------------------------------------------|------------|---------|
 | [Amecs](https://curseforge.com/projects/324564)                        | Always     |         |
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                         | Optional   |         |
+| [Architectury API](https://www.curseforge.com/projects/419697)         | Always     | `**`    |
 | [Audio Output](https://curseforge.com/projects/372451)                 | Optional   |         |
-| [Auth Me](https://curseforge.com/projects/356643)                      | Optional   | `††`    |
-| [Better Enchanted Books](https://curseforge.com/projects/369122)       | Optional   |         |
+| [Auth Me](https://curseforge.com/projects/356643)                      | Optional   | `††`    | <!--| [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7)            | Optional   |         |-->
 | [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         |
 | [Cloth Config](https://curseforge.com/projects/319057)                 | Always     | `**`    |
 | [Colored Lights](https://modrinth.com/mod/oDZufc9Z)                    | Optional   |         |
-| [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     |
-| [Connected Texture Mod](https://curseforge.com/projects/432493)        | Optional   |         |
+| [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     | <!--| [Connected Texture Mod](https://curseforge.com/projects/432493)        | Optional   |         |-->
 | [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
 | [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   | `††`    |
-| [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                       | Always     |         |
-| [Don't Clear Chat History](https://curseforge.com/projects/404400)     | Optional   |         |
+| [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                       | Always     |         | <!--| [Don't Clear Chat History](https://curseforge.com/projects/404400)     | Optional   |         |-->
 | [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)                 | Always     |         |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)                       | Always     |         |
 | [EasierCrafting](https://modrinth.com/mod/UylF21yz)                    | Always     |         |
-| [Empire Minecraft Utilities](https://modrinth.com/mod/QYTT62S0)        | Always     |         |
-| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)           | Always     |         |
+| [Empire Minecraft Utilities](https://modrinth.com/mod/QYTT62S0)        | Always     |         | <!--| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)           | Always     |         |-->
 | [Entity Culling](https://curseforge.com/projects/448233)               | Always     |         |
 | [ESEV](https://modrinth.com/mod/CnOyIhK0)                              | Optional   | `††`    |
 | [Fabric API](https://modrinth.com/mod/P7dR8mSH)                        | Always     |         |
 | [Fabrishot](https://modrinth.com/mod/3qsfQtE9)                         | Always     |         |
-| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         |
-| [HUDTweaks](https://modrinth.com/mod/Ks4IAiYz)                         | Optional   |         |
-| [Hydrogen](https://modrinth.com/mod/AZomiSrC)                          | Always     |         |
-| [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     | `* ††`  |
-| [Indium](https://github.com/comp500/Indium)                            | Always     | `**`    |
-| [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         |
-| [Iris](https://modrinth.com/mod/YL57xq9U)                              | Optional   |         |
+| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         | <!--| [HUDTweaks](https://modrinth.com/mod/Ks4IAiYz)                         | Optional   |         | \n | [Hydrogen](https://modrinth.com/mod/AZomiSrC)                          | Always     |         |-->
+| [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     | `* ††`  | <!--| [Indium](https://github.com/comp500/Indium)                            | Always     | `**`    |-->
+| [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         | <!--| [Iris](https://modrinth.com/mod/YL57xq9U)                              | Optional   |         |-->
 | [Item Scroller](https://curseforge.com/projects/242064)                | Always     |         |
 | [Krypton](https://modrinth.com/mod/fQEb0iXm)                           | Always     | `†`     |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)                 | Optional   |         |
@@ -89,29 +80,24 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Low Fire](https://modrinth.com/mod/Gou1gmGj)                          | Optional   | `*`     |
 | [MaLiLib](https://curseforge.com/projects/303119)                      | Always     | `**`    |
 | [MiniHUD](https://curseforge.com/projects/244260)                      | Always     |         |
+| [MixinTrace](https://modrinth.com/mod/sGmHWmeL)                        | Always     | `;`     |
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                          | Always     |         |
 | [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf)                       | Optional   |         |
 | [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)              | Optional   |         |
-| [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         |
-| [NoFog](https://curseforge.com/projects/296468)                        | Optional   | `*`     |
+| [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         | <!--| [NoFog](https://curseforge.com/projects/296468)                        | Optional   | `*`     |-->
 | [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)                | Always     |         |
 | [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                         | Always     |         |
 | [Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)              | Optional   |         |
 | [Rebind All The Keys](https://modrinth.com/mod/TpKqzzMu)               | Optional   |         |
 | [Roughly Enough Items](https://curseforge.com/projects/310111)         | Always     |         |
 | [Shulker Box Tooltip](https://curseforge.com/projects/315811)          | Always     |         |
-| [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         |
-| [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Optional   |         |
-| [Sodium CaffeineMC](https://github.com/CaffeineMC/sodium-fabric)       | Optional   |         |
-| [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     |
-| [TexTweaks](https://modrinth.com/mod/46IhRbc1)                         | Optional   |         |
+| [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         | <!--| [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Optional   |         |-->
+| [Sodium Kroppeb](https://github.com/Kroppeb/sodium-fabric)             | Always     |         |
+| [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     | <!--| [TexTweaks](https://modrinth.com/mod/46IhRbc1)                         | Optional   |         |-->
 | [Time Changer](https://modrinth.com/mod/1itdse3V)                      | Optional   |         |
-| [ToroHealth Damage Indicators](https://curseforge.com/projects/245733) | Always     |         |
-| [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     |
-| [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)             | Optional   |         |
+| [ToroHealth Damage Indicators](https://curseforge.com/projects/245733) | Always     |         | <!--| [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     | \n | [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)             | Optional   |         |-->
 | [WTHIT](https://modrinth.com/mod/6AQIaxuO)                             | Always     |         |
-| [Xaero's Minimap](https://curseforge.com/projects/263420)              | Always     | `*`     |
-| [Xaero's World Map](https://curseforge.com/projects/317780)            | Always     | `*`     |
+| [Xaero's Minimap](https://curseforge.com/projects/263420)              | Always     | `*`     | <!--| [Xaero's World Map](https://curseforge.com/projects/317780)            | Always     | `*`     |-->
 | [YOSBR](https://curseforge.com/projects/374274)                        | Always     | `;`     |
 
 ### Legend
@@ -126,7 +112,5 @@ Run the following commands in a terminal (you can also append `&&` between them)
 ## Disclaimers
 
 Most modpacks would require explicit approval from the mod owner before it's able to be used. However, because of the distribution method of this pack (not via a zip), it is not necessary to do so. If any mod developers have any issues with this, please email me at <modpack@waffle.coffee>.
-
-**SPECIAL NOTE:** If you want the 1.16 version, see https://github.com/wafflecoffee/waffle.coffee/tree/main/packwiz. The 1.17 version **will not work** for the time being, and I cannot guarantee that it will until EMC itself updates to 1.17. The 1.16 version will not be getting any updates.
 
 [CondApp]: https://wiki.emc.gs/conditionally-approved-mods
