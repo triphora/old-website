@@ -146,11 +146,6 @@ hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
-file = "mods/lightlevel.toml"
-hash = "103fdf5afbc2caa5f008a75efc87f18ee3d5b5b045540c6ab10085b04a0a6c6f"
-metafile = true
-
-[[files]]
 file = "mods/litematica.toml"
 hash = "6f222cd260f4cc7a322e6e4ffd1e74649b630ec08e0fae0402a74970d9c2bf2e"
 metafile = true
@@ -158,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "2269a0e9554b766a11b0567e824a62bb31660cabed3636ec67520d41cf88722a"
-metafile = true
-
-[[files]]
-file = "mods/low-fire.toml"
-hash = "3c6eada0ef5f9c12a7c12592d635b5ae226927fdcbc1e048e11defac8d10e30e"
 metafile = true
 
 [[files]]
@@ -238,11 +228,6 @@ metafile = true
 [[files]]
 file = "mods/shut-up-console.toml"
 hash = "f506b31d66529652ca807fca0d3c073de017a7af046cba3e73a1d22b47a6be8f"
-metafile = true
-
-[[files]]
-file = "mods/smooth-scrolling-everywhere-fabric.toml"
-hash = "3c76f6dc31a39c5798a85d997883a4dd881a469a838b0cbff14499f393c9f477"
 metafile = true
 
 [[files]]

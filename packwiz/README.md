@@ -91,8 +91,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Rebind All The Keys](https://modrinth.com/mod/TpKqzzMu)               | Optional   |         |
 | [Roughly Enough Items](https://curseforge.com/projects/310111)         | Always     |         |
 | [Shulker Box Tooltip](https://curseforge.com/projects/315811)          | Always     |         |
-| [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         |
-| [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Optional   |         |
+| [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         | <!--| [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Optional   |         |-->
 | [Sodium Kroppeb](https://github.com/Kroppeb/sodium-fabric)             | Always     |         |
 | [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     | <!--| [TexTweaks](https://modrinth.com/mod/46IhRbc1)                         | Optional   |         |-->
 | [Time Changer](https://modrinth.com/mod/1itdse3V)                      | Optional   |         |
