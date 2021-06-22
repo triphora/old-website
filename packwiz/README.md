@@ -84,6 +84,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Low Fire](https://modrinth.com/mod/Gou1gmGj)                          | Optional   | `*`     |
 | [MaLiLib](https://curseforge.com/projects/303119)                      | Always     | `**`    |
 | [MiniHUD](https://curseforge.com/projects/244260)                      | Always     |         |
+| [MixinTrace](https://modrinth.com/mod/sGmHWmeL)                        | Always     | `;`     |
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                          | Always     |         |
 | [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf)                       | Optional   |         |
 | [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)              | Optional   |         |

@@ -186,6 +186,11 @@ hash = "9731cbf2f3a2aa14cd3948a8caee970a6dc66fa84c1f0c10be5cc522fe2882ec"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.toml"
+hash = "c90a2f935c95f0005e2b940bff870b4e4a182ca6fdf0360a2663327723465e2c"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "c32296d53c667681bc59834eb553cfd53030d60a248184b5569e3718af8807f5"
 metafile = true
