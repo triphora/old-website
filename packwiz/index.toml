@@ -21,11 +21,6 @@ hash = "98ff2bc87b933163b5d0b197f405d9b06174db6d48046b7bf1eb7b38c7ff73cd"
 metafile = true
 
 [[files]]
-file = "mods/better-enchanted-books.toml"
-hash = "4362e3f53bbb83a932be2ec724f132502e5e6bf40b1ec95b300983c71cec1fc0"
-metafile = true
-
-[[files]]
 file = "mods/clear-skies.toml"
 hash = "d0e4644a0ed3cc7a5ba173e4979bff11fddf2ab8dbd65cf18ce65f862b034f4c"
 metafile = true
