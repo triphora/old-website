@@ -286,11 +286,6 @@ hash = "ee5f6ad60e486e22847ad71874e08bf77e4660a1ca9591367bf412882ced8475"
 metafile = true
 
 [[files]]
-file = "mods/textweaks.toml"
-hash = "44e404eb254c00b3048024943c79729ff56796f58c76b11776be07602ca183e0"
-metafile = true
-
-[[files]]
 file = "mods/time-changer.toml"
 hash = "b9cbf9ab4c86adefdd929b848a77ac847fef7ebb101270d7aa404b840a46aeee"
 metafile = true

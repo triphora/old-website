@@ -102,8 +102,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         |
 | [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Optional   |         |
 | [Sodium CaffeineMC](https://github.com/CaffeineMC/sodium-fabric)       | Optional   |         |
-| [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     |
-| [TexTweaks](https://modrinth.com/mod/46IhRbc1)                         | Optional   |         |
+| [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     | <!--| [TexTweaks](https://modrinth.com/mod/46IhRbc1)                         | Optional   |         |-->
 | [Time Changer](https://modrinth.com/mod/1itdse3V)                      | Optional   |         |
 | [ToroHealth Damage Indicators](https://curseforge.com/projects/245733) | Always     |         |
 | [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     |
