@@ -49,6 +49,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 |------------------------------------------------------------------------|------------|---------|
 | [Amecs](https://curseforge.com/projects/324564)                        | Always     |         |
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                         | Optional   |         |
+| [Architectury API](https://www.curseforge.com/projects/419697)         | Always     | `**`    |
 | [Audio Output](https://curseforge.com/projects/372451)                 | Optional   |         |
 | [Auth Me](https://curseforge.com/projects/356643)                      | Optional   | `††`    | <!--| [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7)            | Optional   |         |-->
 | [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |

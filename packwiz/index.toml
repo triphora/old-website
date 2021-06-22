@@ -11,6 +11,11 @@ hash = "9f0e322f805194c5634cdd88868199ba52abe25d79c216fff98a72789d992475"
 metafile = true
 
 [[files]]
+file = "mods/architectury-fabric.toml"
+hash = "019be3f397aa56139c8c34fea8b9e7ca9b80da58bac0eaea677667c7c4e8b71f"
+metafile = true
+
+[[files]]
 file = "mods/audio-output.toml"
 hash = "2b98e509b6d9a2bab0bb87bcde9df6e6cf5ab844953f0097f2cef922d331728f"
 metafile = true
