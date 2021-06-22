@@ -110,8 +110,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     |
 | [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)             | Optional   |         |
 | [WTHIT](https://modrinth.com/mod/6AQIaxuO)                             | Always     |         |
-| [Xaero's Minimap](https://curseforge.com/projects/263420)              | Always     | `*`     |
-| [Xaero's World Map](https://curseforge.com/projects/317780)            | Always     | `*`     |
+| [Xaero's Minimap](https://curseforge.com/projects/263420)              | Always     | `*`     | <!--| [Xaero's World Map](https://curseforge.com/projects/317780)            | Always     | `*`     |-->
 | [YOSBR](https://curseforge.com/projects/374274)                        | Always     | `;`     |
 
 ### Legend
