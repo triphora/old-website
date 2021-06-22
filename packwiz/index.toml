@@ -121,11 +121,6 @@ hash = "8c567c4bdc98f31981a86b309d43b6352c64ca595005e6d2730a55ff641e77f7"
 metafile = true
 
 [[files]]
-file = "mods/indium.toml"
-hash = "743b3b7e1af583ae49e4781fe7651a08727115884067e73328a3db3abb52ed0f"
-metafile = true
-
-[[files]]
 file = "mods/inspecio.toml"
 hash = "1f646c78275b15ca0cb4e195dafc53d90769b0fa5575a46f1dfd2945f2becbb8"
 metafile = true
@@ -133,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.toml"
 hash = "dc6ca0e4452bdb37dbf09f52b08be9f344cd4eb4e9e81492a1799b5192e64796"
-metafile = true
-
-[[files]]
-file = "mods/iris.toml"
-hash = "f72799aa1233ca2d921ffc8c2d32990f8cbb1317b0ebeff489c8eb6a9e5c0092"
 metafile = true
 
 [[files]]
@@ -263,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.toml"
 hash = "3c76f6dc31a39c5798a85d997883a4dd881a469a838b0cbff14499f393c9f477"
-metafile = true
-
-[[files]]
-file = "mods/sodium.toml"
-hash = "1568f85b32f431c39374ded6a5fe20044b37d5d6ca4c963cef6f0616d7c1cab2"
 metafile = true
 
 [[files]]

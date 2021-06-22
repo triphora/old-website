@@ -1,8 +1,0 @@
-name = "Indium"
-filename = "indium-1.0.0+1.16.5-a997c55.jar"
-side = "client"
-
-[download]
-url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/indium-1.0.0+1.16.5-a997c55.jar"
-hash-format = "sha512"
-hash = "59afc0dbc2b85cb55d558bc9737a0099f96b7cbbe491ba9cf69497b5e3b6feb459b47583cc403e7117ed5ecc3b602da1e6c8868fe785b46967a4e8e560098553"

@@ -1,12 +1,8 @@
 name = "Sodium (CaffeineMC)"
-filename = "sodium-fabric-mc1.16.5-0.2.0+rev.35552d3.jar"
+filename = "sodium-fabric-mc1.17-0.2.0+rev.e0095bb.jar"
 side = "client"
 
 [download]
-url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.16.5-0.2.0+rev.35552d3.jar"
+url = "./jars/sodium-fabric-mc1.17-0.2.0+rev.e0095bb.jar"
 hash-format = "sha512"
-hash = "59afc0dbc2b85cb55d558bc9737a0099f96b7cbbe491ba9cf69497b5e3b6feb459b47583cc403e7117ed5ecc3b602da1e6c8868fe785b46967a4e8e560098553"
-
-[option]
-optional = true
-description = "Sodium is an optimization mod for Minecraft which improves frame rates and reduces lag spikes. This version is not compatible with Iris, a shader mod."
+hash = "0869d8e281339020d67028412447b7640412c0d3858aa15d1bb3f29fb8ce52f6b7a67ad1d8df15bd5da65361d04816376a68bcd9053002a7e4acb043fd173d3d"
