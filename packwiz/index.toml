@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/amecs.toml"
-hash = "e8eaae7f120b2a5e979a6d468b9eebc1334ce72341d9519e1a7dfaa9ff28e902"
+hash = "fb5aa5ed219e49e41492580857448015f1c86243181a36b7a1056724bc7a7735"
 metafile = true
 
 [[files]]
@@ -263,16 +263,6 @@ metafile = true
 [[files]]
 file = "mods/torohealth-damage-indicators.toml"
 hash = "1ecfd5ca2d8ad6323372162e3f4416a122492a0819f4347a2972b263bdc2afee"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.toml"
-hash = "479d2f8f1b07df980c088aa87fb8ea1972a8e3ab9a0284919e61fa7cd438d995"
-metafile = true
-
-[[files]]
-file = "mods/worldeditcui.toml"
-hash = "5a4fbed753e1e8e46146fba87b9168f18876c9d2b6dd81d85a1d0bdddaa2629c"
 metafile = true
 
 [[files]]

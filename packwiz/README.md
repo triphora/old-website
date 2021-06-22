@@ -96,9 +96,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Sodium Kroppeb](https://github.com/Kroppeb/sodium-fabric)             | Always     |         |
 | [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     | <!--| [TexTweaks](https://modrinth.com/mod/46IhRbc1)                         | Optional   |         |-->
 | [Time Changer](https://modrinth.com/mod/1itdse3V)                      | Optional   |         |
-| [ToroHealth Damage Indicators](https://curseforge.com/projects/245733) | Always     |         |
-| [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     |
-| [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)             | Optional   |         |
+| [ToroHealth Damage Indicators](https://curseforge.com/projects/245733) | Always     |         | <!--| [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     | \n | [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)             | Optional   |         |-->
 | [WTHIT](https://modrinth.com/mod/6AQIaxuO)                             | Always     |         |
 | [Xaero's Minimap](https://curseforge.com/projects/263420)              | Always     | `*`     | <!--| [Xaero's World Map](https://curseforge.com/projects/317780)            | Always     | `*`     |-->
 | [YOSBR](https://curseforge.com/projects/374274)                        | Always     | `;`     |
