@@ -74,7 +74,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)                 | Optional   |         |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)                 | Always     |         |
 | [LazyDFU](https://modrinth.com/mod/hvFnDODi)                           | Always     |         |
-| [LightLevel](https://curseforge.com/projects/359980)                   | Optional   |         |
+| [Light Overlay](https://curseforge.com/projects/325492)                | Always     |         |
 | [Litematica](https://curseforge.com/projects/308892)                   | Always     | `*`     |
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ)                           | Always     |         |
 | [Low Fire](https://modrinth.com/mod/Gou1gmGj)                          | Optional   | `*`     |

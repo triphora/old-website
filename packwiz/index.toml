@@ -146,6 +146,11 @@ hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
 metafile = true
 
 [[files]]
+file = "mods/light-overlay.toml"
+hash = "c7007e4da5a4ca1b921e8d51436f55bf4393b589432a88c291d3793ff7509c21"
+metafile = true
+
+[[files]]
 file = "mods/litematica.toml"
 hash = "6f222cd260f4cc7a322e6e4ffd1e74649b630ec08e0fae0402a74970d9c2bf2e"
 metafile = true
