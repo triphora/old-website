@@ -1,8 +1,8 @@
-name = "Sodium (Kroppeb)"
-filename = "sodium-fabric-mc1.17-0.2.0+rev.e0095bb.jar"
+name = "Sodium"
+filename = "sodium-fabric-mc1.17-0.3.0+rev.db6121d.jar"
 side = "client"
 
 [download]
-url = "./jars/sodium-fabric-mc1.17-0.2.0+rev.e0095bb.jar"
+url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17-0.3.0%2Brev.db6121d.jar"
 hash-format = "sha512"
-hash = "0869d8e281339020d67028412447b7640412c0d3858aa15d1bb3f29fb8ce52f6b7a67ad1d8df15bd5da65361d04816376a68bcd9053002a7e4acb043fd173d3d"
+hash = "f90e50e5bec20d5dbde18b52183d12c8d93c2e967872343f8b6ed57c6de34df4d8db3b372d2fcba8ef8965aba7f09e17b2d837d9575790c476575a80959076fe"
