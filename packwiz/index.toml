@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "ea508297cca9d019cbb16da4bfddb309e93958fa1816bd0e10b432b4921a08d2"
+
+[[files]]
 file = "mods/amecs.toml"
 hash = "fb5aa5ed219e49e41492580857448015f1c86243181a36b7a1056724bc7a7735"
 metafile = true
@@ -12,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "019be3f397aa56139c8c34fea8b9e7ca9b80da58bac0eaea677667c7c4e8b71f"
+hash = "ff20d9ec13193221168055dd1895a1dcb8d50519d7a584f5c19be00515034b40"
 metafile = true
 
 [[files]]
@@ -38,11 +42,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.toml"
 hash = "94b98ae68382da3bf4f3bd3115319c75bc8e078ce856cee4040d2710b97ddead"
-metafile = true
-
-[[files]]
-file = "mods/colored-lights.toml"
-hash = "51f877738ccffedf0b6eb21ed74624eca265d297e0a258ab126f8b02b6bd15fe"
 metafile = true
 
 [[files]]
@@ -82,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "315fdf1ad1deb0b0ffd4ffa63468c0773694fbbca8e89fd279e353835508fdee"
+hash = "3eda351eed109fc3b5e27036e434741151e8360974e72a7d72bc53fafb5a4c6f"
 metafile = true
 
 [[files]]
@@ -117,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "dc6ca0e4452bdb37dbf09f52b08be9f344cd4eb4e9e81492a1799b5192e64796"
+hash = "a4463b1fb279aca02e10bff730f52bbf13c2d3f59a7e28b02aad58c0f975d503"
 metafile = true
 
 [[files]]
@@ -222,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "a112293710ad39d90fe0128f16442bd6dd88b4b900b929682837c0a6ad5629f5"
+hash = "bda550cf80b14aa816f554c55ad2f41f7fdff09850bdca5cf30682975e034a34"
 metafile = true
 
 [[files]]
@@ -262,7 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "4ff6131174b9549b924f87c984442f2c09e00a9c53d8a8cf147a4525c60d6d81"
+hash = "e1477c09dc55d00e6978deeef570344ed8fa3ec44a7a1bbeb91eb6c562c328fc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.toml"
+hash = "0893e225ea272a82e97ecf70185b41d9d0d006dcb8830dde72cc4e3e850a5240"
 metafile = true
 
 [[files]]

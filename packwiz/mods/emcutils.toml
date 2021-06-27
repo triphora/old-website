@@ -1,13 +1,13 @@
 name = "Empire Minecraft Utilities"
-filename = "empire-minecraft-utilities-1.17-2.0.0-alpha.1.jar"
+filename = "empire-minecraft-utilities-1.17-2.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QYTT62S0/versions/2.0.0-alpha.1/empire-minecraft-utilities-1.17-2.0.0-alpha.1.jar"
+url = "https://cdn.modrinth.com/data/QYTT62S0/versions/2.0.0/empire-minecraft-utilities-1.17-2.0.0.jar"
 hash-format = "sha512"
-hash = "fce534d508852e6e779552e371822723268b645f9f62973842bdfddcae5349044c52d3a085861d71c2826c21c37ca208ad3659030fccfad7ef45ef064592dcb1"
+hash = "de6f60869ffab01ecd63fb526dfd03a176ce7d2970c55aa3a6a4c5e2b0256fbd3baf0a1ed9b305b0f8fa452d843f0e8a05a5a669ad48d8989a12cb40ff72e4ce"
 
 [update]
 [update.modrinth]
 mod-id = "QYTT62S0"
-version = "hhOremPs"
+version = "ieH60ouV"

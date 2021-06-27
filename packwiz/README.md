@@ -35,10 +35,10 @@ Run the following commands in a terminal (you can also append `&&` between them)
 
 ### MultiMC
 
-1. Create a new instance, or use an existing instance if you wish to keep configs & such.
+1. Create a new instance.
 2. Select the "Import from zip" option from the list on the left, and paste the following into the text box labeled "Local file or link to a direct download".
     * `https://waffle.coffee/packwiz/MultiMC.zip`
-3. Click "Launch" once to initialize auto-updating. It will crash saying "The process failed to start."; this is expected.
+3. Click "Launch" once to initialize auto-updating. It may crash saying "The process failed to start."; this is expected.
 4. Click "Launch" again to run the pack. You should see a dialog appear that has a big "Install" button on it. Click on the Install button. After installation, the pack should launch.
 
 ## Mod List
@@ -52,8 +52,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Auth Me](https://curseforge.com/projects/356643)                      | Optional   | `††`    | <!--| [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7)            | Optional   |         |-->
 | [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         |
-| [Cloth Config](https://curseforge.com/projects/319057)                 | Always     | `**`    |
-| [Colored Lights](https://modrinth.com/mod/oDZufc9Z)                    | Optional   |         |
+| [Cloth Config](https://curseforge.com/projects/319057)                 | Always     | `**`    | <!--| [Colored Lights](https://modrinth.com/mod/oDZufc9Z)                    | Optional   |         |-->
 | [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     | <!--| [Connected Texture Mod](https://curseforge.com/projects/432493)        | Optional   |         |-->
 | [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
 | [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   | `††`    |
@@ -66,7 +65,8 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [ESEV](https://modrinth.com/mod/CnOyIhK0)                              | Optional   | `††`    |
 | [Fabric API](https://modrinth.com/mod/P7dR8mSH)                        | Always     |         |
 | [Fabrishot](https://modrinth.com/mod/3qsfQtE9)                         | Always     |         |
-| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         | <!--| [HUDTweaks](https://modrinth.com/mod/Ks4IAiYz)                         | Optional   |         | \n | [Hydrogen](https://modrinth.com/mod/AZomiSrC)                          | Always     |         |-->
+| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         | <!--| [HUDTweaks](https://modrinth.com/mod/Ks4IAiYz)                         | Optional   |         |-->
+| [Hydrogen](https://modrinth.com/mod/AZomiSrC)                          | Always     |         |
 | [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     | `* ††`  | <!--| [Indium](https://github.com/comp500/Indium)                            | Always     | `**`    |-->
 | [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         | <!--| [Iris](https://modrinth.com/mod/YL57xq9U)                              | Optional   |         |-->
 | [Item Scroller](https://curseforge.com/projects/242064)                | Always     |         |
@@ -97,7 +97,8 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Time Changer](https://modrinth.com/mod/1itdse3V)                      | Optional   |         |
 | [ToroHealth Damage Indicators](https://curseforge.com/projects/245733) | Always     |         | <!--| [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     | \n | [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)             | Optional   |         |-->
 | [WTHIT](https://modrinth.com/mod/6AQIaxuO)                             | Always     |         |
-| [Xaero's Minimap](https://curseforge.com/projects/263420)              | Always     | `*`     | <!--| [Xaero's World Map](https://curseforge.com/projects/317780)            | Always     | `*`     |-->
+| [Xaero's Minimap](https://curseforge.com/projects/263420)              | Always     | `*`     |
+| [Xaero's World Map](https://curseforge.com/projects/317780)            | Always     | `*`     |
 | [YOSBR](https://curseforge.com/projects/374274)                        | Always     | `;`     |
 
 ### Legend
