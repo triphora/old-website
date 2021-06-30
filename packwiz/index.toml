@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-skies.toml"
-hash = "d0e4644a0ed3cc7a5ba173e4979bff11fddf2ab8dbd65cf18ce65f862b034f4c"
+hash = "3626de717a405e9baf62e010d7809515b66b9e990545e96e892a682b95731ad7"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "de92736c9962081ec15ab83b884e9e7b858970a3d06f236c8d095197325458af"
+hash = "33c3f592b0f5f3be641ce1417a0d345035ea51c11d1726265745d6e3c96550de"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "3eda351eed109fc3b5e27036e434741151e8360974e72a7d72bc53fafb5a4c6f"
+hash = "ca98366e4d08fd55e78fafd49bbdedecc65d02dd00fdc56830b029ecfacd57e9"
 metafile = true
 
 [[files]]
@@ -117,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.toml"
 hash = "a4463b1fb279aca02e10bff730f52bbf13c2d3f59a7e28b02aad58c0f975d503"
+metafile = true
+
+[[files]]
+file = "mods/iris.toml"
+hash = "2353c7b7196bbd7c9a5dd0f2dab8aa2d88f31379729adc124d148a4fa2493e88"
 metafile = true
 
 [[files]]
@@ -221,12 +226,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "bda550cf80b14aa816f554c55ad2f41f7fdff09850bdca5cf30682975e034a34"
+hash = "61c9cae251b4622d7d29982c17976ededd4662f91b55c98f129b3b42d9eeb175"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.toml"
-hash = "7d7e0bdae7f646b904e42210c4d32e7f974fac3b0019fe60e715faaf75a6998f"
+hash = "12622f653737473cac0ff81ccc9cb4ae5c541c27e792f4e5df688994ba682325"
 metafile = true
 
 [[files]]
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "e8621817ccf92f2090b85d85bb5907e1605c136de3f30242fe6d62076ff2a226"
+hash = "35c5d803abf3c6876f7432cc865b1059b44b5c5aef2f213076a52dd7a28ff1d2"
 metafile = true
 
 [[files]]

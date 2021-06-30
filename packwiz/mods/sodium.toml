@@ -1,8 +1,12 @@
 name = "Sodium"
-filename = "sodium-fabric-mc1.17-0.3.0+rev.db6121d.jar"
+filename = "sodium-fabric-mc1.17-0.3.0+rev.145d664.jar"
 side = "client"
 
 [download]
-url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17-0.3.0%2Brev.db6121d.jar"
+url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17-0.3.0+rev.145d664.jar"
 hash-format = "sha512"
-hash = "f90e50e5bec20d5dbde18b52183d12c8d93c2e967872343f8b6ed57c6de34df4d8db3b372d2fcba8ef8965aba7f09e17b2d837d9575790c476575a80959076fe"
+hash = "78d99b4fe55c7566245c7592b0197cbd614d4c354bc468f26815f3a91809095c946a76c580e7e414b42da37072d1dec95248f8a27d5618cb59e1776309040d18"
+
+[option]
+optional = true
+description = "Sodium is an optimisation mod for Fabric, and an alternative to OptiFine's performance aspects. Either choose this or choose Iris; do not include both and do not include neither."
