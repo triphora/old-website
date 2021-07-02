@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "ff20d9ec13193221168055dd1895a1dcb8d50519d7a584f5c19be00515034b40"
+hash = "99104ba73b364dcaff5fc77bf1bdb7e64bc1ffee7082e09cb0037f88500fe8aa"
 metafile = true
 
 [[files]]
@@ -37,11 +37,6 @@ metafile = true
 [[files]]
 file = "mods/clickthrough.toml"
 hash = "fd01d03754dbdec0cadb3574a8326756d786939339764f278367e3213255b215"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.toml"
-hash = "94b98ae68382da3bf4f3bd3115319c75bc8e078ce856cee4040d2710b97ddead"
 metafile = true
 
 [[files]]
@@ -81,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "ca98366e4d08fd55e78fafd49bbdedecc65d02dd00fdc56830b029ecfacd57e9"
+hash = "390c4978bd57da44ed314a7f231198a074a25458098d4b7f2ff9680250f997e0"
 metafile = true
 
 [[files]]
@@ -116,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "a4463b1fb279aca02e10bff730f52bbf13c2d3f59a7e28b02aad58c0f975d503"
+hash = "c0f09ed0e3068b39f53f2861fcb244eb4d9863c82ac71f7c696d83cdf83f2db5"
 metafile = true
 
 [[files]]
@@ -256,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators.toml"
-hash = "1ecfd5ca2d8ad6323372162e3f4416a122492a0819f4347a2972b263bdc2afee"
+hash = "0529f84092aca37c0c240348a99469e292e017f91cb5417baa5e6dc8e6185eb3"
 metafile = true
 
 [[files]]

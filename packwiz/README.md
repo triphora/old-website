@@ -51,8 +51,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Audio Output](https://curseforge.com/projects/372451)                 | Optional   |         |
 | [Auth Me](https://curseforge.com/projects/356643)                      | Optional   | `††`    | <!--| [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7)            | Optional   |         |-->
 | [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |
-| [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         |
-| [Cloth Config](https://curseforge.com/projects/319057)                 | Always     | `**`    | <!--| [Colored Lights](https://modrinth.com/mod/oDZufc9Z)                    | Optional   |         |-->
+| [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         | <!--| [Colored Lights](https://modrinth.com/mod/oDZufc9Z)                    | Optional   |         |-->
 | [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     | <!--| [Connected Texture Mod](https://curseforge.com/projects/432493)        | Optional   |         |-->
 | [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
 | [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   | `††`    |
