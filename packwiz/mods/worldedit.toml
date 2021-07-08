@@ -1,0 +1,18 @@
+name = "WorldEdit"
+filename = "worldedit-fabric-mc1.17-7.2.6-beta-01.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3379/708/worldedit-fabric-mc1.17-7.2.6-beta-01.jar"
+hash-format = "murmur2"
+hash = "2288512077"
+
+[update]
+[update.curseforge]
+file-id = 3379708
+project-id = 225608
+release-channel = "beta"
+
+[option]
+optional = true
+description = "WorldEdit allows you to make large changes to your singleplayer worlds."

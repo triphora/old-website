@@ -1,15 +1,15 @@
 name = "waffle's Pack"
 author = "wafflecoffee"
-version = "2021.7.2"
+version = "2021.7.7"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6ce6005c873e48825e1f19c7b2cdaceae553edd8ce1f386f82f2a0fdbd36c489"
+hash = "9de4ec755edaa3006a6022467762886b896c65a389815b79823b8024de73e7a0"
 
 [versions]
 fabric = "0.11.6"
 minecraft = "1.17.1"
 
 [options]
-acceptable-game-versions = ["1.17", "1.17.1-pre1", "1.17.1-pre2", "1.17.1-pre3", "1.17.1-rc1"]
+acceptable-game-versions = ["1.17.1-pre1", "1.17.1-pre2", "1.17.1-pre3", "1.17.1-rc1", "1.17.1-rc2"]
