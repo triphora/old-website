@@ -1,13 +1,13 @@
 name = "DeathLog"
-filename = "deathlog-0.1.1.jar"
+filename = "deathlog-0.1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TPAYeAOc/versions/0.1.1b/deathlog-0.1.1.jar"
+url = "https://cdn.modrinth.com/data/TPAYeAOc/versions/0.1.3/deathlog-0.1.3.jar"
 hash-format = "sha512"
-hash = "bcca67e3d14da296e2f1234c5fe3b6250fbbd823c9212ca2fab0dae6e7745038f16bdd6a8385aa3453d57cf1e484e19bf794b89959f79744d2caff03847fa409"
+hash = "b0f0f81a87522d30a4a0471eb77bb45d17b2c8e3ac5fbe0b418caaa2482418b39283ecea069ef32d953907080e9f332d3cf95ac2b77cfba5db0a9dc7d71d75ed"
 
 [update]
 [update.modrinth]
 mod-id = "TPAYeAOc"
-version = "hHP2eTD0"
+version = "Kwy6OyWJ"

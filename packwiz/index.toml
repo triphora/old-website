@@ -5,6 +5,18 @@ file = "config/ferritecore.mixin.properties"
 hash = "ea508297cca9d019cbb16da4bfddb309e93958fa1816bd0e10b432b4921a08d2"
 
 [[files]]
+file = "config/shutupconsole.toml"
+hash = "e93eb26f98fa5a61959bb09f7e0977e10c63f77116bd20ef87680a0f94a30412"
+
+[[files]]
+file = "config/slightguimodifications/config.json5"
+hash = "c8f80cf354b3a1f22170f1ab205f1a4e7c38585b5ee191f50141eddf8b9bf44c"
+
+[[files]]
+file = "config/slightguimodifications/cts.groovy"
+hash = "09c4fa3ad7e4a1cd88f9287b9c79002b87ad398b2f4d9f7ea59e57fed53c9e5b"
+
+[[files]]
 file = "mods/amecs.toml"
 hash = "ebce66b0c3530f285f69adc48e0b740250103c0e1e4b8038112c509a4cc9483d"
 metafile = true
@@ -30,6 +42,11 @@ hash = "98ff2bc87b933163b5d0b197f405d9b06174db6d48046b7bf1eb7b38c7ff73cd"
 metafile = true
 
 [[files]]
+file = "mods/better-enchanted-books.toml"
+hash = "645f02e009ac15b3ebc4213b6f5405fbaf89887b4e181d5625816fb6bead679e"
+metafile = true
+
+[[files]]
 file = "mods/clear-skies.toml"
 hash = "3626de717a405e9baf62e010d7809515b66b9e990545e96e892a682b95731ad7"
 metafile = true
@@ -46,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
-hash = "25c7469eed7fad7734cfe2221d66b592058ffe102d7aa47531a34954c54a54a0"
+hash = "e2eb3674afe78b5b7603c23da5df2b2efa97d16ce0cb84bf1d17a1040be49060"
 metafile = true
 
 [[files]]
@@ -60,8 +77,13 @@ hash = "73373969b6bc944d82bc8799cfbac796a7abdddfb348e661395d54f1340e9694"
 metafile = true
 
 [[files]]
+file = "mods/dcch.toml"
+hash = "efe10eb9402a6a43cd402e030fb26c8237c77fc4dd159c1ce7cb933e51079a1b"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.toml"
-hash = "99fa7614867be9efcb40874300661657a1dbd244bd373f8df356ef4f431d9004"
+hash = "8dab7fd19113e9530a3560c94d5b32983601a2cdddf3b4191fdd12bbb7b09254"
 metafile = true
 
 [[files]]
@@ -106,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.toml"
-hash = "42f6b01f10364d595bbc3915f5c88377164e058f961a3b7ceb2edf20582a41ea"
+hash = "b7bdc8b8fc1892a98140e8d62d7496654e8215f5fd6fca591214bb1067acbaa6"
 metafile = true
 
 [[files]]
@@ -241,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "61c9cae251b4622d7d29982c17976ededd4662f91b55c98f129b3b42d9eeb175"
+hash = "1771225ae35914d7201bc48d3de480d3cb48522dc99e56445f1627227093b8d4"
 metafile = true
 
 [[files]]
@@ -255,13 +277,18 @@ hash = "f506b31d66529652ca807fca0d3c073de017a7af046cba3e73a1d22b47a6be8f"
 metafile = true
 
 [[files]]
+file = "mods/slight-gui-modifications.toml"
+hash = "cc5d7a90874f5022a32a51f00b61513538278b13819321193cf953ba0b7e6cfd"
+metafile = true
+
+[[files]]
 file = "mods/sodium.toml"
 hash = "4a89225fc782d815bbc365d0d33f394d723b7b2c073b8284367efa176d1c2ed5"
 metafile = true
 
 [[files]]
 file = "mods/starlight.toml"
-hash = "ee5f6ad60e486e22847ad71874e08bf77e4660a1ca9591367bf412882ced8475"
+hash = "eb1c3c317e231c660be9a7a746f7c68872eb0d057ae765c1e4bffa9fefd16e2f"
 metafile = true
 
 [[files]]
@@ -292,9 +319,4 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.toml"
 hash = "9146037a7d571e45b18b1a0ca71b67cbdafe5f78037e56af17d98773da741ea1"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.toml"
-hash = "218b2b38862091f96e1db0ee7580c6f9cd5e8f008f88e4fe00016c6dea1065b3"
 metafile = true

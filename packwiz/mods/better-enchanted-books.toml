@@ -1,0 +1,12 @@
+name = "Better Enchanted Books"
+filename = "better-enchanted-books-1.17-1.2.9.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Fourmisain/BetterEnchantedBooks/releases/download/1.2.9/better-enchanted-books-1.17-1.2.9.jar"
+hash-format = "sha512"
+hash = "9adcff6252806debf6c8490969f53f9a749ff936b6bd034df5c5e546919401cc01d23715f42b9a108400e5fe98e11e4709e2cd987f1a5669f2826862d8ea08ca"
+
+[option]
+optional = true
+description = "Better Enchanted Books improves the look and tooltips of enchanted books."

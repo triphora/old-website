@@ -1,8 +1,8 @@
 name = "Starlight"
-filename = "starlight-fabric-1.0.0-RC2-1.17.x.jar"
+filename = "starlight-1.0.0-RC3+fabric.1.17.x.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Spottedleaf/Starlight/releases/download/1.0.0-RC2/starlight-fabric-1.0.0-RC2-1.17.x.jar"
+url = "https://github.com/Tuinity/Starlight/releases/download/1.0.0-RC3/starlight-1.0.0-RC3+fabric.1.17.x.jar"
 hash-format = "sha512"
-hash = "d2a9ef42f439aa5fe70ae6b8fc37b214b8f448d7ac947aed84e99b15737e3634b400b0c32d3c3bd3311b7b1de656df665855c997ac81103273c91740f118cd0c"
+hash = "fb8359f43559ec078f6e1cd1d57c098ab80f01493ea32f0f6528d6059839944935c911a707e8dfbdc69e48d6de7b695da54c9ce6bbfc8c0839765a5bcf79b672"

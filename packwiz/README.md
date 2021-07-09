@@ -49,7 +49,8 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                         | Optional   |         |
 | [Architectury API](https://www.curseforge.com/projects/419697)         | Always     | `**`    |
 | [Audio Output](https://curseforge.com/projects/372451)                 | Optional   |         |
-| [Auth Me](https://curseforge.com/projects/356643)                      | Optional   | `††`    | <!--| [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7)            | Optional   |         |-->
+| [Auth Me](https://curseforge.com/projects/356643)                      | Optional   | `††`    |
+| [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7)            | Optional   |         |
 | [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         | <!--| [Colored Lights](https://modrinth.com/mod/oDZufc9Z)                    | Optional   |         |-->
 | [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     |
@@ -57,7 +58,8 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
 | [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   | `††`    |
 | [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                       | Always     |         |
-| [DeathLog](https://modrinth.com/mod/TPAYeAOc)                          | Optional   | `;`     | <!--| [Don't Clear Chat History](https://curseforge.com/projects/404400)     | Optional   |         |-->
+| [DeathLog](https://modrinth.com/mod/TPAYeAOc)                          | Optional   | `;`     |
+| [Don't Clear Chat History](https://modrinth.com/mod/sUbMm93i)          | Always     |         |
 | [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)                 | Always     |         |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)                       | Always     |         |
 | [EasierCrafting](https://modrinth.com/mod/UylF21yz)                    | Always     |         |
@@ -67,7 +69,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [ESEV](https://modrinth.com/mod/CnOyIhK0)                              | Optional   | `††`    |
 | [Fabric API](https://modrinth.com/mod/P7dR8mSH)                        | Always     |         |
 | [Fabrishot](https://modrinth.com/mod/3qsfQtE9)                         | Always     |         |
-| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         | <!--| [HUDTweaks](https://modrinth.com/mod/Ks4IAiYz)                         | Optional   |         |-->
+| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         |
 | [Hydrogen](https://modrinth.com/mod/AZomiSrC)                          | Always     |         |
 | [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     | `* ††`  |
 | [Indium](https://github.com/comp500/Indium)                            | Always     | `**`    |
@@ -96,16 +98,16 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Rebind All The Keys](https://modrinth.com/mod/TpKqzzMu)               | Optional   |         |
 | [Roughly Enough Items](https://curseforge.com/projects/310111)         | Always     |         |
 | [Shulker Box Tooltip](https://curseforge.com/projects/315811)          | Always     |         |
-| [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         | <!--| [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Optional   |         |-->
+| [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         | 
+| [Slight GUI Modifications](https://curseforge.com/projects/380393)     | Always     | `;`     | <!--| [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Optional   |         |-->
 | [Sodium](https://github.com/CaffeineMC/sodium-fabric)                  | Optional   |         |
-| [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     | <!--| [TexTweaks](https://modrinth.com/mod/46IhRbc1)                         | Optional   |         |-->
+| [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     |
 | [Time Changer](https://modrinth.com/mod/1itdse3V)                      | Optional   |         |
 | [ToroHealth Damage Indicators](https://curseforge.com/projects/245733) | Always     |         |
 | [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     | <!--| [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)             | Optional   |         |-->
 | [WTHIT](https://modrinth.com/mod/6AQIaxuO)                             | Always     |         |
 | [Xaero's Minimap](https://curseforge.com/projects/263420)              | Always     | `*`     |
 | [Xaero's World Map](https://curseforge.com/projects/317780)            | Always     | `*`     |
-| [YOSBR](https://curseforge.com/projects/374274)                        | Always     | `;`     |
 
 ### Legend
 * *Always* - The mod is always downloaded.
