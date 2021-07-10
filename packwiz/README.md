@@ -38,8 +38,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 1. Create a new instance.
 2. Select the "Import from zip" option from the list on the left, and paste the following into the text box labeled "Local file or link to a direct download".
     * `https://waffle.coffee/packwiz/MultiMC.zip`
-3. Click "Launch" once to initialize auto-updating. It may crash saying "The process failed to start."; this is expected.
-4. Click "Launch" again to run the pack. You should see a dialog appear that has a big "Install" button on it. Click on the Install button. After installation, the pack should launch.
+3. Click "Launch" to run the pack. You should see a dialog appear that prompts you to select optional mods. Select, and play!
 
 ## Mod List
 
