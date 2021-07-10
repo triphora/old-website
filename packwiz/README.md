@@ -43,11 +43,12 @@ Run the following commands in a terminal (you can also append `&&` between them)
 
 ## Mod List
 
+Required dependencies for mods may not included in this list.
+
 | Mod Name                                                               | Installed? | Comment |
 |------------------------------------------------------------------------|------------|---------|
 | [Amecs](https://curseforge.com/projects/324564)                        | Always     |         |
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                         | Optional   |         |
-| [Architectury API](https://www.curseforge.com/projects/419697)         | Always     | `**`    |
 | [Audio Output](https://curseforge.com/projects/372451)                 | Optional   |         |
 | [Auth Me](https://curseforge.com/projects/356643)                      | Optional   | `††`    |
 | [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7)            | Optional   |         |
@@ -84,7 +85,6 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Litematica](https://curseforge.com/projects/308892)                   | Always     | `*`     |
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ)                           | Always     |         |
 | [Low Fire](https://modrinth.com/mod/Gou1gmGj)                          | Optional   | `*`     |
-| [MaLiLib](https://curseforge.com/projects/303119)                      | Always     | `**`    |
 | [Memory Usage Screen](https://modrinth.com/mod/n9mFA0ax)               | Always     | `;`     |
 | [MiniHUD](https://curseforge.com/projects/244260)                      | Always     |         |
 | [MixinTrace](https://modrinth.com/mod/sGmHWmeL)                        | Always     | `;`     |

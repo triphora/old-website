@@ -57,6 +57,11 @@ hash = "340a8ca66c66907d7cb184e592e944ff32f77baf6a520c09f92a77cf6d7a609e"
 metafile = true
 
 [[files]]
+file = "mods/cloth-api.toml"
+hash = "6f9c3f657c6e3ef033d0e778096004ba4554b0db609dc80338590b3970e8daa3"
+metafile = true
+
+[[files]]
 file = "mods/command-macros.toml"
 hash = "a9eb46816dc3a2acbda7bf3152b574cab86576089627affef45557bd31aca804"
 metafile = true
