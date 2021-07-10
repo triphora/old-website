@@ -13,10 +13,6 @@ file = "config/slightguimodifications/config.json5"
 hash = "c8f80cf354b3a1f22170f1ab205f1a4e7c38585b5ee191f50141eddf8b9bf44c"
 
 [[files]]
-file = "config/slightguimodifications/cts.groovy"
-hash = "09c4fa3ad7e4a1cd88f9287b9c79002b87ad398b2f4d9f7ea59e57fed53c9e5b"
-
-[[files]]
 file = "mods/amecs.toml"
 hash = "ebce66b0c3530f285f69adc48e0b740250103c0e1e4b8038112c509a4cc9483d"
 metafile = true
