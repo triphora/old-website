@@ -1,17 +1,8 @@
 name = "Iris Shaders"
-filename = "iris-mc1.17-1.1.0.jar"
+filename = "iris-mc1.17-1.1.0+rev.fe9d18e.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.17-v1.1.0/iris-mc1.17-1.1.0.jar"
+url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.fe9d18e.jar"
 hash-format = "sha512"
-hash = "09c473690fb28a7b9df862d2168bf5430e13e91112d67d1936399685900973956e2243669ce3daf1f73ca53f4a8baabc3a6a4bb84791c579ee531cb9ca468c06"
-
-[update]
-[update.modrinth]
-mod-id = "YL57xq9U"
-version = "lQjKfhXZ"
-
-[option]
-optional = true
-description = "Iris is a shaders mod, which bundles Sodium and is backwards compatible with OptiFine shaders. OptiFine will never be added to this modpack. Either choose this or choose Sodium; do not include both and do not include neither."
+hash = "818f35a533ce61b78e80e6edf7633db42e222dce1d56e929dc0f8e2a738d0b2fbe8123fe73a2b71f00a7656fa5adcd6ad0a4a28c74591ca9c9a5c96b283e8111"

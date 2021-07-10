@@ -152,8 +152,13 @@ hash = "7d0738c220256d34994780a04b62dd461ab2b4d6de42783e388cfbca6c29a2e3"
 metafile = true
 
 [[files]]
+file = "mods/iris-sodium.toml"
+hash = "fe951eef5dae41d8c54d9d55a3ba7d805509280bad0de95166ae0d470843e8d6"
+metafile = true
+
+[[files]]
 file = "mods/iris.toml"
-hash = "2353c7b7196bbd7c9a5dd0f2dab8aa2d88f31379729adc124d148a4fa2493e88"
+hash = "ddfa6940be6102482616af3842467808caebcebd89531156b6185eb54fe55d2a"
 metafile = true
 
 [[files]]
@@ -279,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/slight-gui-modifications.toml"
 hash = "cc5d7a90874f5022a32a51f00b61513538278b13819321193cf953ba0b7e6cfd"
-metafile = true
-
-[[files]]
-file = "mods/sodium.toml"
-hash = "4a89225fc782d815bbc365d0d33f394d723b7b2c073b8284367efa176d1c2ed5"
 metafile = true
 
 [[files]]

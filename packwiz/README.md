@@ -74,7 +74,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     | `* ††`  |
 | [Indium](https://github.com/comp500/Indium)                            | Always     | `**`    |
 | [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         |
-| [Iris](https://modrinth.com/mod/YL57xq9U)                              | Optional   |         |
+| [Iris](https://github.com/IrisShaders/iris)                            | Always     |         |
 | [Item Scroller](https://curseforge.com/projects/242064)                | Always     |         |
 | [Krypton](https://modrinth.com/mod/fQEb0iXm)                           | Always     | `†`     |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)                 | Optional   |         |
@@ -100,7 +100,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 | [Shulker Box Tooltip](https://curseforge.com/projects/315811)          | Always     |         |
 | [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         | 
 | [Slight GUI Modifications](https://curseforge.com/projects/380393)     | Always     | `;`     | <!--| [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Optional   |         |-->
-| [Sodium](https://github.com/CaffeineMC/sodium-fabric)                  | Optional   |         |
+| [Sodium](https://github.com/IrisShaders/sodium-fabric)                 | Always     |         |
 | [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     |
 | [Time Changer](https://modrinth.com/mod/1itdse3V)                      | Optional   |         |
 | [ToroHealth Damage Indicators](https://curseforge.com/projects/245733) | Always     |         |
