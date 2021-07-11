@@ -52,7 +52,7 @@ Required dependencies for mods may not included in this list.
 | [Auth Me](https://curseforge.com/projects/356643)                      | Optional   | `††`    |
 | [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7)            | Optional   |         |
 | [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |
-| [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         | <!--| [Colored Lights](https://modrinth.com/mod/oDZufc9Z)                    | Optional   |         |-->
+| [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         |
 | [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     |
 | [Connected Texture Mod](https://curseforge.com/projects/432493)        | Optional   |         |
 | [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
@@ -90,20 +90,19 @@ Required dependencies for mods may not included in this list.
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                          | Always     |         |
 | [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf)                       | Optional   |         |
 | [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)              | Optional   |         |
-| [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         | <!--| [NoFog](https://curseforge.com/projects/296468)                        | Optional   | `*`     |-->
+| [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         |
 | [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)                | Always     |         |
 | [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                         | Always     |         |
 | [Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)              | Optional   |         |
 | [Rebind All The Keys](https://modrinth.com/mod/TpKqzzMu)               | Optional   |         |
 | [Roughly Enough Items](https://curseforge.com/projects/310111)         | Always     |         |
-| [Shulker Box Tooltip](https://curseforge.com/projects/315811)          | Always     |         |
 | [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         | 
-| [Slight GUI Modifications](https://curseforge.com/projects/380393)     | Always     | `;`     | <!--| [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Optional   |         |-->
+| [Slight GUI Modifications](https://curseforge.com/projects/380393)     | Always     | `;`     |
 | [Sodium](https://github.com/IrisShaders/sodium-fabric)                 | Always     |         |
 | [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     |
 | [Time Changer](https://modrinth.com/mod/1itdse3V)                      | Optional   |         |
 | [ToroHealth Damage Indicators](https://curseforge.com/projects/245733) | Always     |         |
-| [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     | <!--| [WorldEditCUI](https://github.com/mikroskeem/WorldEditCUI)             | Optional   |         |-->
+| [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     |
 | [WTHIT](https://modrinth.com/mod/6AQIaxuO)                             | Always     |         |
 | [Xaero's Minimap](https://curseforge.com/projects/263420)              | Always     | `*`     |
 | [Xaero's World Map](https://curseforge.com/projects/317780)            | Always     | `*`     |

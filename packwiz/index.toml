@@ -273,11 +273,6 @@ hash = "1771225ae35914d7201bc48d3de480d3cb48522dc99e56445f1627227093b8d4"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.toml"
-hash = "12622f653737473cac0ff81ccc9cb4ae5c541c27e792f4e5df688994ba682325"
-metafile = true
-
-[[files]]
 file = "mods/shut-up-console.toml"
 hash = "f506b31d66529652ca807fca0d3c073de017a7af046cba3e73a1d22b47a6be8f"
 metafile = true
