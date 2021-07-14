@@ -1,14 +1,14 @@
 name = "Item Scroller"
-filename = "itemscroller-fabric-1.17.0-0.15.0-dev.20210608.211652.jar"
+filename = "itemscroller-fabric-1.17.1-0.15.0-dev.20210707.005506.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3343/940/itemscroller-fabric-1.17.0-0.15.0-dev.20210608.211652.jar"
+url = "https://edge.forgecdn.net/files/3379/264/itemscroller-fabric-1.17.1-0.15.0-dev.20210707.005506.jar"
 hash-format = "murmur2"
-hash = "175225403"
+hash = "2166710212"
 
 [update]
 [update.curseforge]
-file-id = 3343940
+file-id = 3379264
 project-id = 242064
 release-channel = "beta"

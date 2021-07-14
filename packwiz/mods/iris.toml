@@ -1,8 +1,8 @@
 name = "Iris Shaders"
-filename = "iris-mc1.17-1.1.0+rev.fe9d18e.jar"
+filename = "iris-mc1.17-1.1.0+rev.b619e2f.jar"
 side = "client"
 
 [download]
-url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.fe9d18e.jar"
+url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.b619e2f.jar"
 hash-format = "sha512"
-hash = "818f35a533ce61b78e80e6edf7633db42e222dce1d56e929dc0f8e2a738d0b2fbe8123fe73a2b71f00a7656fa5adcd6ad0a4a28c74591ca9c9a5c96b283e8111"
+hash = "344ad4ced289a8ed0b9643a069e8110e492c14a724a0e88c1f0688c77c09e056bbd480393755628aef7c9424fcc13fdce3567e9a93c8a66746905a94afe13c17"
