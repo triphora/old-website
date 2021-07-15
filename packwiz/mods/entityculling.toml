@@ -1,4 +1,4 @@
-name = "Entity Culling Fabric/Forge"
+name = "Entity Culling"
 filename = "EntityCulling-Fabric-1.3.2.jar"
 side = "client"
 
@@ -12,3 +12,7 @@ hash = "4174755876"
 file-id = 3383012
 project-id = 448233
 release-channel = "beta"
+
+[option]
+optional = true
+description = "EntityCulling gets rid of entities which aren't directly visible to help out with performance. [EMC STAFF: This WILL interfere with moderation duties. DO NOT CHOOSE.]"
