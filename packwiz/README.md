@@ -12,6 +12,13 @@ Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mod
 
 ## Installation
 
+### MultiMC (preferred)
+
+1. Create a new instance.
+2. Select the "Import from zip" option from the list on the left, and paste the following into the text box labeled "Local file or link to a direct download".
+    * `https://waffle.coffee/packwiz/MultiMC.zip`
+3. Click "Launch" to run the pack. You should see a dialog appear that prompts you to select optional mods. Select, and play!
+
 ### Default Launcher
 
 #### Windows
@@ -32,13 +39,6 @@ Run the following commands in a terminal (you can also append `&&` between them)
 2. `wget https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar`
 3. `java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/pack.toml`
 4. When you want to update your mods, just run the same `java -jar` command again!
-
-### MultiMC
-
-1. Create a new instance.
-2. Select the "Import from zip" option from the list on the left, and paste the following into the text box labeled "Local file or link to a direct download".
-    * `https://waffle.coffee/packwiz/MultiMC.zip`
-3. Click "Launch" to run the pack. You should see a dialog appear that prompts you to select optional mods. Select, and play!
 
 ## Mod List
 

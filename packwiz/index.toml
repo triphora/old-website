@@ -109,12 +109,12 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "21ca0d1dc12d7aaddfa65c96bcb75eb274fefb7ae4cf5e2565f7d455750c6b01"
+hash = "f072cd6b512687e6ff8bbe63590e748164fe0b3e4dc1110920a1a652ff292f0f"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.toml"
-hash = "f4efb09a2e64d4eb806b1489671dcbd918b0d730f7d4f67f4acbe47f1c00621b"
+hash = "22cdd0b261e35d0232dc3f1513e1b49ffe7c03478e079c2c2c2e624d4be6ace2"
 metafile = true
 
 [[files]]
@@ -135,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.toml"
 hash = "0032f58a5c493de6746f42b72711272af278f13c24faa41f8d06e8464fd7442c"
+metafile = true
+
+[[files]]
+file = "mods/hydrogen.toml"
+hash = "0e1a6f22d9e5538561be2f2a8bfd4998704124266c2af98d23e9adc67df5f9d9"
 metafile = true
 
 [[files]]

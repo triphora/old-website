@@ -253,29 +253,29 @@
       ]
     },
     {
-      "path": "mods/empire-minecraft-utilities-1.17.1-2.1.2.jar",
+      "path": "mods/emcutils-1.17.1-2.1.4.jar",
       "hashes": {
-        "sha512": "6f56ed6a9753e18579b65b8cf4210a96ab315733086994ae975dbd7e9d30320c58c36143a866a26a7765b7578583451268a470c65c2ac307d5645fba48548b72"
+        "sha512": "d9937661fbda3b41b9752181332c9dd84d480a3271a93ddf623646598c968072b998a83a255cd40d3942a3a3ed7bb9493bd81990b3dd5226dcb7018a4e6f6b30"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/QYTT62S0/versions/2.1.2/empire-minecraft-utilities-1.17.1-2.1.2.jar"
+        "https://cdn.modrinth.com/data/QYTT62S0/versions/2.1.4/emcutils-1.17.1-2.1.4.jar"
       ]
     },
     {
-      "path": "mods/EntityCulling-Fabric-1.3.2.jar",
+      "path": "mods/EntityCulling-Fabric-1.3.3.jar",
       "hashes": {
-        "murmur2": "4174755876"
+        "murmur2": "3251325506"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3383/12/EntityCulling-Fabric-1.3.2.jar"
+        "https://edge.forgecdn.net/files/3388/827/EntityCulling-Fabric-1.3.3.jar"
       ]
     },
     {
@@ -331,6 +331,19 @@
       ]
     },
     {
+      "path": "mods/hydrogen-fabric-mc1.17.1-0.3.jar",
+      "hashes": {
+        "sha512": "db4079c26bf27b38d32ae60a47e7d347e01d43def5987e5c2cb25218e427b2f10f7fcb36f9de5d486a0953637793cd90450f8d2d7ff1a31cf8a90af3794646ad"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.17.1-0.3.1/hydrogen-fabric-mc1.17.1-0.3.jar"
+      ]
+    },
+    {
       "path": "mods/indium-1.0.0+rev.beb4972.jar",
       "hashes": {
         "sha512": "6d379ee4d127bf9ce69a10eec4dcbc0a7520c2d89429e27a5d099c6547dd350d68bef21027011259a84b1a5a384b84b2741027b29871f320f221772436d93b4d"
@@ -370,29 +383,29 @@
       ]
     },
     {
-      "path": "mods/iris-mc1.17-1.1.0+rev.b619e2f.jar",
+      "path": "mods/iris-mc1.17-1.1.0+rev.01d8631.jar",
       "hashes": {
-        "sha512": "344ad4ced289a8ed0b9643a069e8110e492c14a724a0e88c1f0688c77c09e056bbd480393755628aef7c9424fcc13fdce3567e9a93c8a66746905a94afe13c17"
+        "sha512": "076cd4101eab85b0c7b765e435c45a006e733c5602c15c41f3d84174bf1a10a1d813f07f0cf9c2592d2102a476b8d0ea9f21ed7d05d3cfc26106d21b65b09f41"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.b619e2f.jar"
+        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.01d8631.jar"
       ]
     },
     {
-      "path": "mods/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.9b2c151.jar",
+      "path": "mods/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.faa155f.jar",
       "hashes": {
-        "sha512": "03260cf0a7be9b63bd0445f387c50a1aadf42c868ad79c77f89ac8fe4ad5f89f706fa0046c812e310cb6b4ce8b32dd76b51c8f7c98c6e1b40e13400a23726110"
+        "sha512": "ae84991fb9a33bae33d0e2f3e07d79a68bd8d5bedbf5c5f15ed1c99071e3861440f399d838362c9490d966b6b6733c2cebf854d466c67198511857ea70b2fe6d"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.9b2c151.jar"
+        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.faa155f.jar"
       ]
     },
     {
