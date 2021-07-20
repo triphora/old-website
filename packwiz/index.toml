@@ -159,12 +159,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-sodium.toml"
-hash = "5131029653eca38b83a7a2c7f0facb6fb2e66bda0ab6fbdbd9fe2d741e5ddc5b"
+hash = "3568d3165a4339e0ecb6fb07420a67dea09522cd38c8014c2e15ffa23edffc40"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "490f225e453c71a9c685f41c89381895959ebc0e5a5b8cd6e8e533a74c1a40ff"
+hash = "043687a3fe7328e3be8df23ebc4e67231a1db8d9b2603fb338449c6fb0ca94c0"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "c32296d53c667681bc59834eb553cfd53030d60a248184b5569e3718af8807f5"
+hash = "1e0015f8b42826690b9b0ab103d57ad933cacd0c4a4fe05b041a6a561afdb1ff"
 metafile = true
 
 [[files]]
