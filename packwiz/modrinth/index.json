@@ -1,7 +1,7 @@
 {
   "formatVersion": "1",
   "game": "minecraft",
-  "versionId": "2021.7.14",
+  "versionId": "2021.7.19",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -138,14 +138,14 @@
     {
       "path": "mods/CraftPresence-Fabric-1.17.1-Release-1.8.2.jar",
       "hashes": {
-        "murmur2": "3792883537"
+        "murmur2": "2636007334"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3382/931/CraftPresence-Fabric-1.17.1-Release-1.8.2.jar"
+        "https://edge.forgecdn.net/files/3391/830/CraftPresence-Fabric-1.17.1-Release-1.8.2.jar"
       ]
     },
     {
@@ -344,16 +344,16 @@
       ]
     },
     {
-      "path": "mods/indium-1.0.0+rev.beb4972.jar",
+      "path": "mods/indium-1.0.0+mc1.17.1.jar",
       "hashes": {
-        "sha512": "6d379ee4d127bf9ce69a10eec4dcbc0a7520c2d89429e27a5d099c6547dd350d68bef21027011259a84b1a5a384b84b2741027b29871f320f221772436d93b4d"
+        "sha512": "f44c85388430e5483a2370191f6c57626d950cb3f6fda32e9209b1c2d79ef51c2f35d12b13fb50b56ebb0215f431c48ad639fc57bece51ef79a7c20014525326"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/indium-1.0.0+rev.beb4972.jar"
+        "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.17.1/indium-1.0.0+mc1.17.1.jar"
       ]
     },
     {
@@ -370,16 +370,16 @@
       ]
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-1.17-0.8.2.jar",
+      "path": "mods/InventoryProfilesNext-fabric-1.17-0.8.3.jar",
       "hashes": {
-        "sha512": "63f89dfbcee97c83c83f716373cff870b0c6d1e5cb861a38dde015b4cd7b541aba926963e1b8db0f02ca727b308f2387fea9e711207df2e0a5315a1a3a98e8d4"
+        "sha512": "27668c142353f77140e67e638fc8ba83012a26e66ed3a61cd19187f1a21ac4eee9ca0aac5ce863a1ccdefda215fd26d33cd4db4d4073142f30919eefc276f639"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/O7RBXm3n/versions/Inventory Profiles Next-fabric-1.17-0.8.2 /InventoryProfilesNext-fabric-1.17-0.8.2.jar"
+        "https://cdn.modrinth.com/data/O7RBXm3n/versions/Inventory Profiles Next-fabric-1.17-0.8.3/InventoryProfilesNext-fabric-1.17-0.8.3.jar"
       ]
     },
     {
@@ -747,16 +747,16 @@
       ]
     },
     {
-      "path": "mods/torohealth-1.17-fabric-7.jar",
+      "path": "mods/torohealth-1.17.1-fabric-8.jar",
       "hashes": {
-        "murmur2": "1544231967"
+        "murmur2": "4096192023"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3373/412/torohealth-1.17-fabric-7.jar"
+        "https://edge.forgecdn.net/files/3393/294/torohealth-1.17.1-fabric-8.jar"
       ]
     },
     {

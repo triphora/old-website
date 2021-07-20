@@ -1,8 +1,13 @@
 name = "Indium"
-filename = "indium-1.0.0+rev.beb4972.jar"
+filename = "indium-1.0.0+mc1.17.1.jar"
 side = "client"
 
 [download]
-url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/indium-1.0.0+rev.beb4972.jar"
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.17.1/indium-1.0.0+mc1.17.1.jar"
 hash-format = "sha512"
-hash = "6d379ee4d127bf9ce69a10eec4dcbc0a7520c2d89429e27a5d099c6547dd350d68bef21027011259a84b1a5a384b84b2741027b29871f320f221772436d93b4d"
+hash = "f44c85388430e5483a2370191f6c57626d950cb3f6fda32e9209b1c2d79ef51c2f35d12b13fb50b56ebb0215f431c48ad639fc57bece51ef79a7c20014525326"
+
+[update]
+[update.modrinth]
+mod-id = "Orvt0mRa"
+version = "uTvfCUBM"

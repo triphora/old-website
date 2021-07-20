@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
-hash = "e2eb3674afe78b5b7603c23da5df2b2efa97d16ce0cb84bf1d17a1040be49060"
+hash = "a2610db6bd9d04b9a90498d831c0aa44fbba741112326d2016d7f3df3487a939"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "589df08e5e87eb89f80da6d60d97f67c0e6890e9583b06ce5ef6f995c5353f15"
+hash = "2e64535aee940e97bfd8b494972547b8ae3c7e1785b16f4863c970d32aceb024"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "7d0738c220256d34994780a04b62dd461ab2b4d6de42783e388cfbca6c29a2e3"
+hash = "a292de003b1bb891b70f9353836096a2910d118ef6f3b3a8aa9f609f90bfac60"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators.toml"
-hash = "0529f84092aca37c0c240348a99469e292e017f91cb5417baa5e6dc8e6185eb3"
+hash = "f6fef88021df3e4d7bdaacc793800f71af828959975606878ab1d4676d3b5e5b"
 metafile = true
 
 [[files]]

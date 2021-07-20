@@ -72,7 +72,7 @@ Required dependencies for mods may not included in this list.
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         |
 | [Hydrogen](https://modrinth.com/mod/AZomiSrC)                          | Always     |         |
 | [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     | `* ††`  |
-| [Indium](https://github.com/comp500/Indium)                            | Always     | `**`    |
+| [Indium](https://modrinth.com/mod/Orvt0mRa)                            | Always     | `**`    |
 | [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         |
 | [Iris](https://github.com/IrisShaders/iris)                            | Always     |         |
 | [Item Scroller](https://curseforge.com/projects/242064)                | Always     |         |

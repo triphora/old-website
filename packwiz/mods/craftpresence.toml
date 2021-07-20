@@ -3,13 +3,13 @@ filename = "CraftPresence-Fabric-1.17.1-Release-1.8.2.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3382/931/CraftPresence-Fabric-1.17.1-Release-1.8.2.jar"
+url = "https://edge.forgecdn.net/files/3391/830/CraftPresence-Fabric-1.17.1-Release-1.8.2.jar"
 hash-format = "murmur2"
-hash = "3792883537"
+hash = "2636007334"
 
 [update]
 [update.curseforge]
-file-id = 3382931
+file-id = 3391830
 project-id = 297038
 release-channel = "beta"
 
