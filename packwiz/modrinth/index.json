@@ -1,7 +1,7 @@
 {
   "formatVersion": "1",
   "game": "minecraft",
-  "versionId": "2021.7.19",
+  "versionId": "2021.7.20",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -383,29 +383,29 @@
       ]
     },
     {
-      "path": "mods/iris-mc1.17-1.1.0+rev.01d8631.jar",
+      "path": "mods/iris-mc1.17-1.1.0+rev.77e0f60.jar",
       "hashes": {
-        "sha512": "076cd4101eab85b0c7b765e435c45a006e733c5602c15c41f3d84174bf1a10a1d813f07f0cf9c2592d2102a476b8d0ea9f21ed7d05d3cfc26106d21b65b09f41"
+        "sha512": "33b4cc7db9ee483ef9d608278ba32a35a1bbcb1f24a5e07018229c5f2f862dc4592ca016c982b4cc9a9a4ef973a42e4af29f007c16fc1ce5d269b168e03a06d2"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.01d8631.jar"
+        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.77e0f60.jar"
       ]
     },
     {
-      "path": "mods/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.faa155f.jar",
+      "path": "mods/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.cb7953b.jar",
       "hashes": {
-        "sha512": "ae84991fb9a33bae33d0e2f3e07d79a68bd8d5bedbf5c5f15ed1c99071e3861440f399d838362c9490d966b6b6733c2cebf854d466c67198511857ea70b2fe6d"
+        "sha512": "6c80d21956fe264e0b176319885b1b9c93d3c2395f742ea070841b7c76e7a011884c52b1a69dfd6db2f2022845f0d34e74dc0636177f07ca205ff455197cd842"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.faa155f.jar"
+        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.cb7953b.jar"
       ]
     },
     {
@@ -526,16 +526,16 @@
       ]
     },
     {
-      "path": "mods/MemoryUsageScreen-1.17-1.0.jar",
+      "path": "mods/MemoryUsageScreen-1.17-1.1.jar",
       "hashes": {
-        "sha512": "9ea2f9492bebc26f82986242627f22ea8f1567477e53c031c806ebb55041736ea32c72cc21eb43a146506929bee04ac5898c80f990b3ae23ef1e25af235bbbbd"
+        "sha512": "92a19114877bd10c21df81fc59b5a3a7784979b8cbaaf87e91883c6e74bc07abeff58af18b2383d858a0b3c8d7fe7c84435de7ec6fa61d30da251fe08812b9a8"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/n9mFA0ax/versions/1.17-1.0-Fabric/MemoryUsageScreen-1.17-1.0.jar"
+        "https://cdn.modrinth.com/data/n9mFA0ax/versions/1.17-1.1-Fabric/MemoryUsageScreen-1.17-1.1.jar"
       ]
     },
     {
@@ -601,6 +601,19 @@
       },
       "downloads": [
         "https://cdn.modrinth.com/data/YCcdA1Lp/versions/1.0.1+mc1.17/nmuk-1.0.1+mc1.17.jar"
+      ]
+    },
+    {
+      "path": "mods/NoFog-1.17.1b1-Fabric.jar",
+      "hashes": {
+        "murmur2": "953089999"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3394/993/NoFog-1.17.1b1-Fabric.jar"
       ]
     },
     {
