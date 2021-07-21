@@ -89,6 +89,7 @@ Required dependencies for mods may not included in this list.
 | [MixinTrace](https://modrinth.com/mod/sGmHWmeL)                        | Always     | `;`     |
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                          | Always     |         |
 | [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf)                       | Optional   |         |
+| [NoFog](https://curseforge.com/projects/296468)                        | Optional   | `*`     |
 | [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)              | Optional   |         |
 | [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         |
 | [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)                | Always     |         |

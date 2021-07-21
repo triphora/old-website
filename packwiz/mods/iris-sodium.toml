@@ -1,8 +1,8 @@
 name = "Sodium"
-filename = "sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.faa155f.jar"
+filename = "sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.cb7953b.jar"
 side = "client"
 
 [download]
-url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.faa155f.jar"
+url = "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.cb7953b.jar"
 hash-format = "sha512"
-hash = "ae84991fb9a33bae33d0e2f3e07d79a68bd8d5bedbf5c5f15ed1c99071e3861440f399d838362c9490d966b6b6733c2cebf854d466c67198511857ea70b2fe6d"
+hash = "6c80d21956fe264e0b176319885b1b9c93d3c2395f742ea070841b7c76e7a011884c52b1a69dfd6db2f2022845f0d34e74dc0636177f07ca205ff455197cd842"

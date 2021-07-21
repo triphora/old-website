@@ -1,0 +1,18 @@
+name = "NoFog"
+filename = "NoFog-1.17.1b1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3394/993/NoFog-1.17.1b1-Fabric.jar"
+hash-format = "murmur2"
+hash = "953089999"
+
+[update]
+[update.curseforge]
+file-id = 3394993
+project-id = 296468
+release-channel = "beta"
+
+[option]
+optional = true
+description = "NoFog gets rid of fog. Simple."

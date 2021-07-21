@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "ea508297cca9d019cbb16da4bfddb309e93958fa1816bd0e10b432b4921a08d2"
-
-[[files]]
 file = "config/shutupconsole.toml"
-hash = "e93eb26f98fa5a61959bb09f7e0977e10c63f77116bd20ef87680a0f94a30412"
+hash = "77ca51769094bb2a41aeca2c08b264b6919996774d7752d088a3afc47b401758"
 
 [[files]]
 file = "config/slightguimodifications/config.json5"
@@ -159,12 +155,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-sodium.toml"
-hash = "3568d3165a4339e0ecb6fb07420a67dea09522cd38c8014c2e15ffa23edffc40"
+hash = "1ae6440ddd2d59609ec2802146b7e3eb74a0e466e9cbeaecfedaf743acb7e098"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "043687a3fe7328e3be8df23ebc4e67231a1db8d9b2603fb338449c6fb0ca94c0"
+hash = "30f7d7d18fa3d0eaa3ac51cc810ca71e474e56c59c2d6ac35a8597173567621a"
 metafile = true
 
 [[files]]
@@ -214,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/memory-usage-screen.toml"
-hash = "63c831329a73a0aeb84de5001b7e64490b4b26755cd568c7684a4f00f1a02e5f"
+hash = "d979e573158d5c50ba06b0d8cd34a229569e234fff710a6f8601d1b08bfe7fd9"
 metafile = true
 
 [[files]]
@@ -245,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/no-strip.toml"
 hash = "bc3b726ebcf2ed01dd18c8cb55746984c52443c3907a24ebfd9ca29fc48af5c8"
+metafile = true
+
+[[files]]
+file = "mods/nofog.toml"
+hash = "7a98b2ea416e691c6fcecd31bbd631c381c5037d308baf32da8d49a28d0a86b5"
 metafile = true
 
 [[files]]
