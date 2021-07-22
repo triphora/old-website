@@ -1,7 +1,7 @@
 {
   "formatVersion": "1",
   "game": "minecraft",
-  "versionId": "2021.7.20",
+  "versionId": "2021.7.22",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -370,16 +370,16 @@
       ]
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-1.17-0.8.3.jar",
+      "path": "mods/InventoryProfilesNext-fabric-1.17-0.8.4.jar",
       "hashes": {
-        "sha512": "27668c142353f77140e67e638fc8ba83012a26e66ed3a61cd19187f1a21ac4eee9ca0aac5ce863a1ccdefda215fd26d33cd4db4d4073142f30919eefc276f639"
+        "sha512": "4bb2d82de446df339d8575c3093cf126faec4ddd0dd556b662a953ab98059a187dd9ab56f0dc93c78d764c6a2ecd66a2bbe930468da593b6f37ed4ca945560ec"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/O7RBXm3n/versions/Inventory Profiles Next-fabric-1.17-0.8.3/InventoryProfilesNext-fabric-1.17-0.8.3.jar"
+        "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17-0.8.4/InventoryProfilesNext-fabric-1.17-0.8.4.jar"
       ]
     },
     {
@@ -760,16 +760,16 @@
       ]
     },
     {
-      "path": "mods/torohealth-1.17.1-fabric-8.jar",
+      "path": "mods/torohealth-1.17.1-fabric-9.jar",
       "hashes": {
-        "murmur2": "4096192023"
+        "murmur2": "624375165"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3393/294/torohealth-1.17.1-fabric-8.jar"
+        "https://edge.forgecdn.net/files/3396/745/torohealth-1.17.1-fabric-9.jar"
       ]
     },
     {
@@ -799,29 +799,29 @@
       ]
     },
     {
-      "path": "mods/Xaeros_Minimap_21.13.0_Fabric_1.17.1.jar",
+      "path": "mods/Xaeros_Minimap_21.14.0_Fabric_1.17.1.jar",
       "hashes": {
-        "murmur2": "3611851745"
+        "murmur2": "4173495381"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3387/119/Xaeros_Minimap_21.13.0_Fabric_1.17.1.jar"
+        "https://edge.forgecdn.net/files/3396/275/Xaeros_Minimap_21.14.0_Fabric_1.17.1.jar"
       ]
     },
     {
-      "path": "mods/XaerosWorldMap_1.14.6.1_Fabric_1.17.1.jar",
+      "path": "mods/XaerosWorldMap_1.15.0.1_Fabric_1.17.1.jar",
       "hashes": {
-        "murmur2": "2368993781"
+        "murmur2": "1500121131"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3387/107/XaerosWorldMap_1.14.6.1_Fabric_1.17.1.jar"
+        "https://edge.forgecdn.net/files/3396/263/XaerosWorldMap_1.15.0.1_Fabric_1.17.1.jar"
       ]
     }
   ],

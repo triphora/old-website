@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "a292de003b1bb891b70f9353836096a2910d118ef6f3b3a8aa9f609f90bfac60"
+hash = "dd9d012a191ce729dacf9db66d8e47de3bb45944837b4313e7b13b79d1c6546a"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators.toml"
-hash = "f6fef88021df3e4d7bdaacc793800f71af828959975606878ab1d4676d3b5e5b"
+hash = "d0eacbfe168ae711d4975edafa8c653ae56c2da724a231700c7d5b9f0fafdec8"
 metafile = true
 
 [[files]]
@@ -315,10 +315,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "bcd3acd52c912a365fdf9d5641bbbc822dd5815031df4ee936ef57bffde7c50f"
+hash = "a1b07e5511add148f3626efee51ee4b10feff5deb5e5ad8e36c816e350e7f291"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "161a876de4b66f81a7f0410a1e3d3d4b5c7855403baef07f97a2e05e00744159"
+hash = "b2d6f1d32697d0083d55290adf52ca72425a536cb6075ac1892539a436ff422e"
 metafile = true

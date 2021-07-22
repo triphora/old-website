@@ -1,14 +1,14 @@
 name = "ToroHealth Damage Indicators"
-filename = "torohealth-1.17.1-fabric-8.jar"
+filename = "torohealth-1.17.1-fabric-9.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3393/294/torohealth-1.17.1-fabric-8.jar"
+url = "https://edge.forgecdn.net/files/3396/745/torohealth-1.17.1-fabric-9.jar"
 hash-format = "murmur2"
-hash = "4096192023"
+hash = "624375165"
 
 [update]
 [update.curseforge]
-file-id = 3393294
+file-id = 3396745
 project-id = 245733
 release-channel = "beta"
