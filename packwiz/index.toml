@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/quickconnectbutton.json5"
+hash = "ba17c8bd299dbab38f4ae94afbbda90cb25a195a5416a1d4fce37e4222335b49"
+
+[[files]]
 file = "config/shutupconsole.toml"
 hash = "77ca51769094bb2a41aeca2c08b264b6919996774d7752d088a3afc47b401758"
 
@@ -120,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "090030c2f696e8496336851e1d83b9a39cd66bab90ee6e47702336817568a233"
+hash = "37bdb7addeae03d930ec5e3f3b7059aafe9af15d1391d9aa82562adff87a0f95"
 metafile = true
 
 [[files]]
@@ -160,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "30f7d7d18fa3d0eaa3ac51cc810ca71e474e56c59c2d6ac35a8597173567621a"
+hash = "9bd0da6660266de7579c99c475c3916507b0bd62339da74c514a09f47068423e"
 metafile = true
 
 [[files]]
@@ -261,6 +265,11 @@ metafile = true
 [[files]]
 file = "mods/orientation.toml"
 hash = "41481f08470110aac63572e13023cbbdbd6291745ba673452ce8311359ac39be"
+metafile = true
+
+[[files]]
+file = "mods/quickconnectbutton.toml"
+hash = "1f4cf6d7e9d26ec5032ef0a7b365ac9437d732f0288686a4aad828186907085e"
 metafile = true
 
 [[files]]

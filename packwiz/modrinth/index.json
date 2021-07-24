@@ -1,7 +1,7 @@
 {
   "formatVersion": "1",
   "game": "minecraft",
-  "versionId": "2021.7.22",
+  "versionId": "2021.7.23",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -292,16 +292,16 @@
       ]
     },
     {
-      "path": "mods/fabric-api-0.37.0+1.17.jar",
+      "path": "mods/fabric-api-0.37.1+1.17.jar",
       "hashes": {
-        "sha512": "4547d1690b17428fdbce911f87ce98678ef40a105caa6423c6b50d437f96ca417f17cda07c11f9b53866e1897f9ecc4960e98bf135b03d43f36a7f02a8c474b7"
+        "sha512": "f9704590fde3d306ad65e0a2ac3f4c843225e9ad3666c2f116c1159f164d0c237b9c8dd9373e5480117aa08296b2609a3669cff960a3344482afb6d8415ef144"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.37.0+1.17/fabric-api-0.37.0+1.17.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.37.1+1.17/fabric-api-0.37.1+1.17.jar"
       ]
     },
     {
@@ -383,16 +383,16 @@
       ]
     },
     {
-      "path": "mods/iris-mc1.17-1.1.0+rev.77e0f60.jar",
+      "path": "mods/iris-mc1.17-1.1.0+rev.f943eee.jar",
       "hashes": {
-        "sha512": "33b4cc7db9ee483ef9d608278ba32a35a1bbcb1f24a5e07018229c5f2f862dc4592ca016c982b4cc9a9a4ef973a42e4af29f007c16fc1ce5d269b168e03a06d2"
+        "sha512": "1bb1680b09b106d0b5a1a30348428701a5239c36491bf7ba64dcb59415b55cbdfa4683a4f3dfe09ec17e809bd77cebc21ec4c04e6677ae02eac20914ac497d4a"
       },
       "env": {
         "client": "required",
         "server": "unsupported"
       },
       "downloads": [
-        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.77e0f60.jar"
+        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.f943eee.jar"
       ]
     },
     {
@@ -666,6 +666,19 @@
       },
       "downloads": [
         "https://cdn.modrinth.com/data/AFqV4ew3/versions/2.0.1/critical-orientation-2.0.1.jar"
+      ]
+    },
+    {
+      "path": "mods/QuickConnectButton-1.0.jar",
+      "hashes": {
+        "sha512": "13bafae981f0e4dcb9c3a5cf16eb574c91b719528dcc122ae89ec45ae7427b234a71bc5a1400b2befb6fe15befcd0b1ae8b0c746545dc6d4566c2b854245b1f2"
+      },
+      "env": {
+        "client": "required",
+        "server": "unsupported"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/erzkR85H/versions/1.0/QuickConnectButton-1.0.jar"
       ]
     },
     {

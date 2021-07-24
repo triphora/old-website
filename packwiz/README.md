@@ -94,6 +94,7 @@ Required dependencies for mods may not included in this list.
 | [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         |
 | [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)                | Always     |         |
 | [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                         | Always     |         |
+| [Quick Connect Button](https://modrinth.com/mod/erzkR85H)              | Always     | `;`     |
 | [Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)              | Optional   |         |
 | [Rebind All The Keys](https://modrinth.com/mod/TpKqzzMu)               | Optional   |         |
 | [Roughly Enough Items](https://curseforge.com/projects/310111)         | Always     |         |
