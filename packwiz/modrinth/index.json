@@ -1,7 +1,7 @@
 {
   "formatVersion": "1",
   "game": "minecraft",
-  "versionId": "2021.7.23",
+  "versionId": "2021.7.27",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -267,21 +267,21 @@
       ]
     },
     {
-      "path": "mods/iris-mc1.17-1.1.0+rev.f943eee.jar",
+      "path": "mods/iris-mc1.17-1.1.0+rev.6d7b0c9.jar",
       "hashes": {
-        "sha512": "1bb1680b09b106d0b5a1a30348428701a5239c36491bf7ba64dcb59415b55cbdfa4683a4f3dfe09ec17e809bd77cebc21ec4c04e6677ae02eac20914ac497d4a"
+        "sha512": "4d931d7360bfe57f2b2fc8a6c8d643e6ead4ce9ab0795c3bef225d8552db8d7cdf667d2df51a1938f0c37f3dfbea257916afadc4d82595571e4782aaa756e4aa"
       },
       "downloads": [
-        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.f943eee.jar"
+        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.6d7b0c9.jar"
       ]
     },
     {
-      "path": "mods/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.cb7953b.jar",
+      "path": "mods/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.c52ee88.jar",
       "hashes": {
-        "sha512": "6c80d21956fe264e0b176319885b1b9c93d3c2395f742ea070841b7c76e7a011884c52b1a69dfd6db2f2022845f0d34e74dc0636177f07ca205ff455197cd842"
+        "sha512": "cc8eec72836d8e0dacd4d8b5073e0745303aa26feb11287241600c770cf633d41b01f15a63b5bb1bf9c575133777a49a9a04efceeae2b878af6ae9c839eb2de9"
       },
       "downloads": [
-        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.cb7953b.jar"
+        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.c52ee88.jar"
       ]
     },
     {
@@ -393,12 +393,12 @@
       ]
     },
     {
-      "path": "mods/modmenu-2.0.3.jar",
+      "path": "mods/modmenu-2.0.4.jar",
       "hashes": {
-        "sha512": "27984e37c91a90232c77af795d6a58a36b7b3c276aab9d03f456deb49b38c982f88ced3dd6ec2e70a6852c0d247f833ba36e75c8d9ed59fff4d54d1c15c90ede"
+        "sha512": "65ea03ce8e5863840007e37128bd6e15c0c632b67eae10ef5fb722e355ae82e512b52b8d15fb254a4509b5879d0b431fa74f99f1d0773c4bbff58df98b6dea3d"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.3/modmenu-2.0.3.jar"
+        "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.4/modmenu-2.0.4.jar"
       ]
     },
     {
@@ -483,6 +483,15 @@
       ]
     },
     {
+      "path": "mods/rainbowify-1.1.0.jar",
+      "hashes": {
+        "sha512": "a2f15e046db7c7796366d13c570b65b9161565abd1089bc4a53e5630c83310f847747fde9c81bdf2de87164abd29412f1f2d5274b301562a9d745183b64e99c2"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/m9FFV06N/versions/1.1.0/rainbowify-1.1.0.jar"
+      ]
+    },
+    {
       "path": "mods/rebind-all-the-keys-1.1.1+1.17.jar",
       "hashes": {
         "sha512": "23346ed72ff58b6e0b34bfdd0f73a41f1543c11afc31583b2042895a863fcc01724099c01c0bd22260e7bccbcd406c22090102fe366c94349e0fb7fc739b4c38"
@@ -537,12 +546,12 @@
       ]
     },
     {
-      "path": "mods/torohealth-1.17.1-fabric-9.jar",
+      "path": "mods/torohealth-1.17.1-fabric-10.jar",
       "hashes": {
-        "murmur2": "624375165"
+        "murmur2": "4150418206"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3396/745/torohealth-1.17.1-fabric-9.jar"
+        "https://edge.forgecdn.net/files/3401/235/torohealth-1.17.1-fabric-10.jar"
       ]
     },
     {
@@ -559,12 +568,12 @@
       ]
     },
     {
-      "path": "mods/wthit-fabric-3.6.1.jar",
+      "path": "mods/wthit-fabric-3.8.1.jar",
       "hashes": {
-        "sha512": "769d17cf08e356c4d660757ee61d0823c3649858fa6307b04056a819f429a62e660808e4ee6e7b99cb1d0537312bef88825f02dd2001aae4717e355239bd5a5b"
+        "sha512": "32f1fcd89f7352e288e2b4928419da7d6a85404f680bcce2a09ea42f0579b714191a6f78178a27bd51c118ee8dd5ca465e9487eefda8cb2f71f311ac91f64adf"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/6AQIaxuO/versions/3.6.1/wthit-fabric-3.6.1.jar"
+        "https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-3.8.1/wthit-fabric-3.8.1.jar"
       ]
     },
     {

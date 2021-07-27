@@ -96,6 +96,7 @@ Required dependencies for mods may not included in this list.
 | [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                         | Always     |         |
 | [Quick Connect Button](https://modrinth.com/mod/erzkR85H)              | Always     | `;`     |
 | [Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)              | Optional   |         |
+| [Rainbowify](https://modrinth.com/mod/m9FFV06N)                        | Optional   | `;`     |
 | [Rebind All The Keys](https://modrinth.com/mod/TpKqzzMu)               | Optional   |         |
 | [Roughly Enough Items](https://curseforge.com/projects/310111)         | Always     |         |
 | [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         | 

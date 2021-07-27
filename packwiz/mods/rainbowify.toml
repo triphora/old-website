@@ -1,0 +1,17 @@
+name = "rainbowify"
+filename = "rainbowify-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m9FFV06N/versions/1.1.0/rainbowify-1.1.0.jar"
+hash-format = "sha512"
+hash = "a2f15e046db7c7796366d13c570b65b9161565abd1089bc4a53e5630c83310f847747fde9c81bdf2de87164abd29412f1f2d5274b301562a9d745183b64e99c2"
+
+[update]
+[update.modrinth]
+mod-id = "m9FFV06N"
+version = "vwhDgf4A"
+
+[option]
+optional = true
+description = "Rainbowify is like Blur, which blurs the background of any GUIs, with the difference that it's rainbow-coloured."

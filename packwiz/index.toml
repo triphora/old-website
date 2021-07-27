@@ -6,7 +6,7 @@ hash = "ba17c8bd299dbab38f4ae94afbbda90cb25a195a5416a1d4fce37e4222335b49"
 
 [[files]]
 file = "config/shutupconsole.toml"
-hash = "77ca51769094bb2a41aeca2c08b264b6919996774d7752d088a3afc47b401758"
+hash = "657c06e17ee9973071431fed91e48c8529695f4fbbe3da1ae778790a98197db3"
 
 [[files]]
 file = "config/slightguimodifications/config.json5"
@@ -159,12 +159,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris-sodium.toml"
-hash = "1ae6440ddd2d59609ec2802146b7e3eb74a0e466e9cbeaecfedaf743acb7e098"
+hash = "1eed38bc7e034de55dda2b6e9c69e6a5f7df2555d9498ae5aa86d19b2c3c4e35"
 metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "9bd0da6660266de7579c99c475c3916507b0bd62339da74c514a09f47068423e"
+hash = "16055b500b1c1f0f9e881e628897a4d8d834f9ca0483dc769ff6ff385db9cdae"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "1e0015f8b42826690b9b0ab103d57ad933cacd0c4a4fe05b041a6a561afdb1ff"
+hash = "abddfea18949aab253e690ff6982c4bc5f3fa3a45491b26c7bbf3c62eb46885a"
 metafile = true
 
 [[files]]
@@ -278,6 +278,11 @@ hash = "6d12bd21666ca6b6832ff6ac81bd4c611ad43544e55ff2f893e28d22766dfe2d"
 metafile = true
 
 [[files]]
+file = "mods/rainbowify.toml"
+hash = "f4d40fb064fde3ad642fa27dc603f932ab633333ae88f7d05e3543d5650139a7"
+metafile = true
+
+[[files]]
 file = "mods/rebind-all-the-keys.toml"
 hash = "3b814f557bf5f34dda723d82b8c493892d430b081ea7b723acb704af3e0061a4"
 metafile = true
@@ -309,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators.toml"
-hash = "d0eacbfe168ae711d4975edafa8c653ae56c2da724a231700c7d5b9f0fafdec8"
+hash = "5d13bc9fcdfc37a4ffe8435c48b3f46edf5fc3b3a1f845213f3c44d67065d824"
 metafile = true
 
 [[files]]
@@ -319,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "2c2c68236340d589d471cebc81723870bbbd9872f2988b3c75dbab93c2085c09"
+hash = "bd87abd51c0827346d7214d9e58669685cd4019a62478bfafbc1882b1829d56f"
 metafile = true
 
 [[files]]
