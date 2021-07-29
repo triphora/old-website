@@ -158,13 +158,8 @@ hash = "dd9d012a191ce729dacf9db66d8e47de3bb45944837b4313e7b13b79d1c6546a"
 metafile = true
 
 [[files]]
-file = "mods/iris-sodium.toml"
-hash = "1eed38bc7e034de55dda2b6e9c69e6a5f7df2555d9498ae5aa86d19b2c3c4e35"
-metafile = true
-
-[[files]]
 file = "mods/iris.toml"
-hash = "16055b500b1c1f0f9e881e628897a4d8d834f9ca0483dc769ff6ff385db9cdae"
+hash = "00b8b522c80ea391ab2aadd3eb900a53afc9dd19e2e09159b81f0eafeaf71b18"
 metafile = true
 
 [[files]]

@@ -74,7 +74,7 @@ Required dependencies for mods may not included in this list.
 | [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     | `* ††`  |
 | [Indium](https://modrinth.com/mod/Orvt0mRa)                            | Always     | `**`    |
 | [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         |
-| [Iris](https://github.com/IrisShaders/iris)                            | Always     |         |
+| [Iris](https://modrinth.com/mod/YL57xq9U)                              | Always     |         |
 | [Item Scroller](https://curseforge.com/projects/242064)                | Always     |         |
 | [Krypton](https://modrinth.com/mod/fQEb0iXm)                           | Always     | `†`     |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)                 | Optional   |         |

@@ -1,7 +1,7 @@
 {
   "formatVersion": "1",
   "game": "minecraft",
-  "versionId": "2021.7.27",
+  "versionId": "2021.7.28",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -267,21 +267,12 @@
       ]
     },
     {
-      "path": "mods/iris-mc1.17-1.1.0+rev.6d7b0c9.jar",
+      "path": "mods/iris-mc1.17-1.1.1.jar",
       "hashes": {
-        "sha512": "4d931d7360bfe57f2b2fc8a6c8d643e6ead4ce9ab0795c3bef225d8552db8d7cdf667d2df51a1938f0c37f3dfbea257916afadc4d82595571e4782aaa756e4aa"
+        "sha512": "18aa480d8503cf98e87bc37ba734ca61b2f1c85dd92a52e5501b4e2a5d8fe17dba1de9b748155c054cb6a3f31e1fc9643d4491413ad7cf7f20ba90aec338cb76"
       },
       "downloads": [
-        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/iris-mc1.17-1.1.0+rev.6d7b0c9.jar"
-      ]
-    },
-    {
-      "path": "mods/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.c52ee88.jar",
-      "hashes": {
-        "sha512": "cc8eec72836d8e0dacd4d8b5073e0745303aa26feb11287241600c770cf633d41b01f15a63b5bb1bf9c575133777a49a9a04efceeae2b878af6ae9c839eb2de9"
-      },
-      "downloads": [
-        "https://github.com/wafflecoffee/waffle.coffee/raw/main/packwiz/mods/jars/sodium-fabric-mc1.17.1-0.3.0+IRIS1-rev.c52ee88.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.17-v1.1.1/iris-mc1.17-1.1.1.jar"
       ]
     },
     {
