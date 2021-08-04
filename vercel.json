@@ -31,11 +31,11 @@
     },
     {
       "source": "/colo(.*)",
-      "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt"
+      "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/65803886a27cbc72189a7d9ffc060fdfccb77cd9/colours.txt"
     },
     {
       "source": "/wiki-colour-codes.png",
-      "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/dd62ff8196c35d5439b4c8185c0402b32549cd6b/colours.txt"
+      "destination": "https://gist.githubusercontent.com/wafflecoffee/1b203dc99a0646bda1aa5847c11e971d/raw/65803886a27cbc72189a7d9ffc060fdfccb77cd9/colours.txt"
     },
     {
       "source": "/secr(.*)",
