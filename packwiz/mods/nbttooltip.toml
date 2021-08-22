@@ -1,16 +1,16 @@
 name = "NBT Tooltip"
-filename = "nbttooltip-1.3.0-fabric.jar"
+filename = "nbttooltip-1.4.0-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/G0GDoyVf/versions/1.3.0/nbttooltip-1.3.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/G0GDoyVf/versions/1.4.0/nbttooltip-1.4.0-fabric.jar"
 hash-format = "sha512"
-hash = "ec74db28900427dec223883dedcb812091dbc963b612ebe159aa2b08660d3fcf8b2f61448321bbea4f2b777d7e15e92037b7cd0edc263fed997de4ff419c2dda"
+hash = "97506821da73938c53ae7ff38519e59c381e9b617d2e02708bdf71b6ed37d3b743546adcf1738f70535d36a2e8ccb719786734bcc8b98fc35087f6a60c404baf"
 
 [update]
 [update.modrinth]
 mod-id = "G0GDoyVf"
-version = "RM6lqldr"
+version = "UWOOhtJH"
 
 [option]
 optional = true

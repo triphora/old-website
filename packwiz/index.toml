@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "49927e01c6a766f58e66f4284e299000b42d414237089d25c008ebd88c92eb9f"
+hash = "4b7565fdb5f54b8f1bf9e5c121e9d798b93f4cf2ab491d6f6bbdff497ecb44e6"
 metafile = true
 
 [[files]]
@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-skies.toml"
-hash = "3626de717a405e9baf62e010d7809515b66b9e990545e96e892a682b95731ad7"
+hash = "ccdd2bc4f263641991a3498292a51aa12fc2f920ab77e48d4bd81cc0924f5c86"
 metafile = true
 
 [[files]]
@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctm-fabric.toml"
-hash = "8a62be559c13c46be98df82552f634eef3cea9f1c050d9de579ae0469dfa2935"
+hash = "6af3012d9ff9b2de8bf13849e955096d828a3675539a076fadaef5ae8cd278f5"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "33c3f592b0f5f3be641ce1417a0d345035ea51c11d1726265745d6e3c96550de"
+hash = "3f631c9e944a855a409158820f38aba9f587fb829a45351958b18de45118b2dc"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "f072cd6b512687e6ff8bbe63590e748164fe0b3e4dc1110920a1a652ff292f0f"
+hash = "5363be2b24c60afc9d2bce4b156ff806923bb82f3b4cb4a0d822255d4e27363d"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "37bdb7addeae03d930ec5e3f3b7059aafe9af15d1391d9aa82562adff87a0f95"
+hash = "5b99524128a7fa40e17951a373af2c5d7f5da0fb376d7460a0f0c601798ad444"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "0032f58a5c493de6746f42b72711272af278f13c24faa41f8d06e8464fd7442c"
+hash = "148a62eb8129c44bd2b1c4df997e1d2b1007e44f78fed26aebea603240551620"
 metafile = true
 
 [[files]]
@@ -149,12 +149,12 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "1f646c78275b15ca0cb4e195dafc53d90769b0fa5575a46f1dfd2945f2becbb8"
+hash = "bce6867f72621654ca3ca06cebec58ca7ecd3d0104a20dd97e83c1aab1f9c81a"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "dd9d012a191ce729dacf9db66d8e47de3bb45944837b4313e7b13b79d1c6546a"
+hash = "f4993a692b8ec304d7d6efaaddc98e676579d0211bb3cb2c62da05322b1b86f0"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "6fea0a500639e66a61dc04f6a3a78d2eb943219a73d9efe817714d06141671eb"
+hash = "374c4eb4d5733928e6a3aed28625bb28f6e2bcb1f17a2077577ab555e2b37c94"
 metafile = true
 
 [[files]]
@@ -224,12 +224,17 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "abddfea18949aab253e690ff6982c4bc5f3fa3a45491b26c7bbf3c62eb46885a"
+hash = "a413493d51b2c84b8630b9f09c87282cfcd6deaaba85836326a75e7c84c5df31"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.toml"
+hash = "5c52f7d5e7f3bb2460d8fd08896e8719808e45eddbc8f83b11ca64cc31b515d3"
 metafile = true
 
 [[files]]
 file = "mods/nbttooltip.toml"
-hash = "3aed0d3a60bdf6b25f685ef3fb81eb99a3c4bc002256c972e6b43c92a4fb8317"
+hash = "eb909959a0db952d1b9011391012ca7627eefd5ad021838a6d19d39bc25b63a6"
 metafile = true
 
 [[files]]
@@ -274,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/rainbowify.toml"
-hash = "f4d40fb064fde3ad642fa27dc603f932ab633333ae88f7d05e3543d5650139a7"
+hash = "e0a9111f5836f06cd8a70580419265e2a1196ae3e89dc8aa7ce2baf69d8b5c96"
 metafile = true
 
 [[files]]
@@ -309,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators.toml"
-hash = "5d13bc9fcdfc37a4ffe8435c48b3f46edf5fc3b3a1f845213f3c44d67065d824"
+hash = "2cbf661cc16e7aeea99b82b1a0e3a49dcec810bc3b3f32b7c35ed7a91494e569"
 metafile = true
 
 [[files]]
@@ -324,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "a1b07e5511add148f3626efee51ee4b10feff5deb5e5ad8e36c816e350e7f291"
+hash = "e7beeefa90b710ec2745d45bb0dff85b39114fa9a918405b18c2aab79b5c9c3f"
 metafile = true
 
 [[files]]

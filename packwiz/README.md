@@ -88,6 +88,7 @@ Required dependencies for mods may not included in this list.
 | [MiniHUD](https://curseforge.com/projects/244260)                      | Always     |         |
 | [MixinTrace](https://modrinth.com/mod/sGmHWmeL)                        | Always     | `;`     |
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                          | Always     |         |
+| [MoreChatHistory](https://modrinth.com/mod/8qkXwOnk)                   | Always     | `††`    |
 | [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf)                       | Optional   |         |
 | [NoFog](https://curseforge.com/projects/296468)                        | Optional   | `*`     |
 | [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)              | Optional   |         |
