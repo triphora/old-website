@@ -528,12 +528,12 @@
       ]
     },
     {
-      "path": "mods/starlight-1.0.0-RC3+fabric.1.17.x.jar",
+      "path": "mods/starlight-1.0.0+fabric.73f6d37.jar",
       "hashes": {
-        "sha512": "fb8359f43559ec078f6e1cd1d57c098ab80f01493ea32f0f6528d6059839944935c911a707e8dfbdc69e48d6de7b695da54c9ce6bbfc8c0839765a5bcf79b672"
+        "sha512": "e2308963e019f030b804e787f9996044e12a63436754def273b79063b1ba3c99dc7311acbe99edab9dab290da97a75ac67e99715f485bc04d9e13e75a6a6644e"
       },
       "downloads": [
-        "https://github.com/Tuinity/Starlight/releases/download/1.0.0-RC3/starlight-1.0.0-RC3+fabric.1.17.x.jar"
+        "https://cdn.modrinth.com/data/H8CaAYZC/versions/Starlight%201.0.0%201.17.x/starlight-1.0.0+fabric.73f6d37.jar"
       ]
     },
     {
