@@ -58,7 +58,6 @@ Required dependencies for mods may not included in this list.
 | [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
 | [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   | `††`    |
 | [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                       | Always     |         |
-| [DeathLog](https://modrinth.com/mod/TPAYeAOc)                          | Optional   | `;`     |
 | [Don't Clear Chat History](https://modrinth.com/mod/sUbMm93i)          | Always     |         |
 | [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)                 | Always     |         |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)                       | Always     |         |

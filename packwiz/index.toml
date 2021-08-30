@@ -24,7 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "096d8ef6d0b345bb8e421a81ac09cbef0c813068d51f5eab1aa12750d78cde26"
+hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
 metafile = true
 
 [[files]]
@@ -80,11 +80,6 @@ metafile = true
 [[files]]
 file = "mods/dcch.toml"
 hash = "efe10eb9402a6a43cd402e030fb26c8237c77fc4dd159c1ce7cb933e51079a1b"
-metafile = true
-
-[[files]]
-file = "mods/deathlog.toml"
-hash = "8dab7fd19113e9530a3560c94d5b32983601a2cdddf3b4191fdd12bbb7b09254"
 metafile = true
 
 [[files]]
@@ -334,5 +329,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "c20ad703a7f25af4d493c2dd9b795f2a0b4a564513613e7601eca8d4363c9828"
+hash = "3a6719974295155034b1db7c6a57f57eee0bc63fd19dec84ec705b8404dbf7ec"
 metafile = true
