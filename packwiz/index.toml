@@ -6,7 +6,7 @@ hash = "ba17c8bd299dbab38f4ae94afbbda90cb25a195a5416a1d4fce37e4222335b49"
 
 [[files]]
 file = "config/shutupconsole.toml"
-hash = "657c06e17ee9973071431fed91e48c8529695f4fbbe3da1ae778790a98197db3"
+hash = "f251a7a073cd92d83920a87a2c88aa1443b111563741eeefee7131f1c21807fe"
 
 [[files]]
 file = "config/slightguimodifications/config.json5"
