@@ -1,10 +1,10 @@
 # waffle's Modpack
 
-*Featuring the [Empire Minecraft Utilities](https://emc.gs/t/84361) mod, made by [GreenMeanie](https://u.emc.gs/GreenMeanie) with help from yours truly!*
+*Featuring the [Empire Minecraft Utilities](https://emc.gs/t/84930) mod!*
 
 Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download 60+ separate mods.
 
-The focus of this modpack is to have a wide selection of client-side mods, including the very best 1.17 performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEditCUI. The installer will prompt you at installation whether you wish to install these optional mods or not.
+The focus of this modpack is to have a wide selection of client-side mods, including the very best performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEdit. The installer will prompt you at installation whether you wish to install these optional mods or not.
 
 Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mods!
 
@@ -94,6 +94,7 @@ Required dependencies for mods may not included in this list.
 | [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         |
 | [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)                | Always     |         |
 | [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                         | Always     |         |
+| [PetOwner](https://modrinth.com/mod/IxUlAAFe)                          | Optional   |         |
 | [Quick Connect Button](https://modrinth.com/mod/erzkR85H)              | Always     | `;`     |
 | [Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)              | Optional   |         |
 | [Rainbowify](https://modrinth.com/mod/m9FFV06N)                        | Optional   | `;`     |

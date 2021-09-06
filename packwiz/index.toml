@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "00b8b522c80ea391ab2aadd3eb900a53afc9dd19e2e09159b81f0eafeaf71b18"
+hash = "bb3a66d784d73efbbe91963f577ef3a517500053cdc0df3aac94ea1d3b9f995f"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "28fc2185ad2b2a1a89034a9162537c7aa5be159b119792a63553fbeba46033dd"
+hash = "9e6184ce1e6884c3c422e82cdd269dff7e89d0c7093d5b61c96d7b4e2b0e2be5"
 metafile = true
 
 [[files]]
@@ -260,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/orientation.toml"
 hash = "41481f08470110aac63572e13023cbbdbd6291745ba673452ce8311359ac39be"
+metafile = true
+
+[[files]]
+file = "mods/petowner.toml"
+hash = "ad2759ff921e3437c3c045a8fa8348ae1c7cd55f8175e2c9dd5ac45ed1b17728"
 metafile = true
 
 [[files]]
