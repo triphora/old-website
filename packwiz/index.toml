@@ -6,7 +6,7 @@ hash = "ba17c8bd299dbab38f4ae94afbbda90cb25a195a5416a1d4fce37e4222335b49"
 
 [[files]]
 file = "config/shutupconsole.toml"
-hash = "f251a7a073cd92d83920a87a2c88aa1443b111563741eeefee7131f1c21807fe"
+hash = "ebea6628c0b016ae972bf6dda97b4631e01a8fed8d178019024bf077a2c0678e"
 
 [[files]]
 file = "config/slightguimodifications/config.json5"
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "5363be2b24c60afc9d2bce4b156ff806923bb82f3b4cb4a0d822255d4e27363d"
+hash = "99ae662f5900ad8d775a99c9b2ec02f1e58b91c8629602038e7e10f617c74b34"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "a6d3b6120b53e235c8f3e0019e6992f9d0cc927b735532964ae2581672836393"
+hash = "a577fc6c1c4190d65d73b65949d5b36bf939c72d1255b6bdc121be222165101d"
 metafile = true
 
 [[files]]
@@ -219,12 +219,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "13b350b5401d7e5c5235e2ca3bb537cef3c908a27298d79dc822302019b34831"
+hash = "28fc2185ad2b2a1a89034a9162537c7aa5be159b119792a63553fbeba46033dd"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.toml"
-hash = "5c52f7d5e7f3bb2460d8fd08896e8719808e45eddbc8f83b11ca64cc31b515d3"
+hash = "01567be5ebeb070b200c796ce8a3eafc39bc2750e0128033fc395574e5a8924e"
 metafile = true
 
 [[files]]

@@ -13,7 +13,7 @@ phrases = [
   "Method overwrite conflict for",
   "does not exist, attempting to use an alternative icon",
   "has a broken icon, loading default icon",
-  "ERROR : Couldn't load Narrator library : Unable to load library",
+  "Couldn't load Narrator library : Unable to load library",
   "Reloaded Plugin Manager",
   "Reloading Plugin Manager",
   "Iris has detected a non-wrapped render layer, it will not be rendered with the correct shader program",

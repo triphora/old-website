@@ -1,13 +1,13 @@
 name = "MoreChatHistory"
-filename = "morechathistory-1.17.1-1.0.1.jar"
+filename = "morechathistory-1.17.1-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8qkXwOnk/versions/mc1.17.1-1.0.1/morechathistory-1.17.1-1.0.1.jar"
+url = "https://cdn.modrinth.com//data/8qkXwOnk/versions/mc1.17.1-1.1.0/morechathistory-1.17.1-1.1.0.jar"
 hash-format = "sha512"
-hash = "fc6c9617bdc94e38daaebc123398cbe165dcd2d156c1389a98d4bdb5b7dfa0a9c8337c269e453b3f02154ae5f2273bc7a0cf0cdf8e144c974f043662d0a11b67"
+hash = "0f965e9571c9dba043460a3b569ec2f8d2f30df1c333e5b3bd66e6c6f98d850e0003185fccb4410c2d2b5035a1a8daba2e4950476c1988cce7d0a4571383e591"
 
 [update]
 [update.modrinth]
 mod-id = "8qkXwOnk"
-version = "YYAJmzIt"
+version = "PnZT6viw"
