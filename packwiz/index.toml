@@ -68,11 +68,6 @@ hash = "0cbe06bd60ed1342b2f95cb3f2678f172c979a961838f626a9614f416f959fca"
 metafile = true
 
 [[files]]
-file = "mods/ctm-fabric.toml"
-hash = "6af3012d9ff9b2de8bf13849e955096d828a3675539a076fadaef5ae8cd278f5"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.toml"
 hash = "73373969b6bc944d82bc8799cfbac796a7abdddfb348e661395d54f1340e9694"
 metafile = true
@@ -119,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "a577fc6c1c4190d65d73b65949d5b36bf939c72d1255b6bdc121be222165101d"
+hash = "450534bf737e8f9929d5fb867fc06f14e60df5299e67ca4ae2b85a6a54970811"
 metafile = true
 
 [[files]]
@@ -189,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "9b4c0db896ab1e1c6c05004807e10a3277fa3fb303e3d047f90adc22b669cfa8"
+hash = "71be72f1dbe6076f69def912489647d8c757811b84f3d360f4781ec564e73eb8"
 metafile = true
 
 [[files]]
@@ -250,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.toml"
 hash = "70d4e6f9a058ee58e87f3c6fef0ae7441fedda4f4004746d83dc0cc7373fb439"
+metafile = true
+
+[[files]]
+file = "mods/ntcm.toml"
+hash = "b3fd3e2a031138385da4e5667393f780d987c53afd289fb0bb0187e9967a5711"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "bd87abd51c0827346d7214d9e58669685cd4019a62478bfafbc1882b1829d56f"
+hash = "fc31486176a5d4704042d75a81e5d0e4672cbe4c8603c7629a9a87b723676575"
 metafile = true
 
 [[files]]
