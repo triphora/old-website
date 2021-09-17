@@ -89,12 +89,12 @@ metafile = true
 
 [[files]]
 file = "mods/easiercrafting.toml"
-hash = "ec9e64ee51bda89f1cd1282d386f297c10b0415c5e7ccc1240e416889a55553f"
+hash = "b9d0650f42d8ed409045944975d2d1fcde7bb192a31104b32a5fbb669cfa874e"
 metafile = true
 
 [[files]]
 file = "mods/ebe.toml"
-hash = "5e03c4a63495a01a572a079d93eb5e6cad12726b0c572ddaba1111f8be72a8b2"
+hash = "72a4338b738c76967bd08f1aedb2f7760afa0de1dcdad352c9604363abe1a840"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "f4993a692b8ec304d7d6efaaddc98e676579d0211bb3cb2c62da05322b1b86f0"
+hash = "12af1229513d8c3620347432b0717b9777b726a731ab8a7d05e2d80947768915"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "ccd3bde4bb6d2ff41599d75fe531e0e63f74de12ba1dace7f8defd098fd98436"
+hash = "cbc84be59108b19a0af8771eceac86d0223bba9678f61a02a4d64f81b97bd0d6"
 metafile = true
 
 [[files]]
@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "9e6184ce1e6884c3c422e82cdd269dff7e89d0c7093d5b61c96d7b4e2b0e2be5"
+hash = "c8fecc7ed627a2881f1d28950a06d7104d262f4caf82718ca43d0c635a28266f"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/ntcm.toml"
-hash = "b3fd3e2a031138385da4e5667393f780d987c53afd289fb0bb0187e9967a5711"
+hash = "182f069fa5882a859fb66f1cb14c4123efd8ead3ca0a21e5e88351322ae81613"
 metafile = true
 
 [[files]]

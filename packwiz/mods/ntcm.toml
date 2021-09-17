@@ -3,6 +3,6 @@ filename = "ntcm-0.1.0-beta.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/872543494554648637/884607555333128192/ntcm-0.1.0-beta.1.jar"
+url = "https://cdn.discordapp.com/attachments/872543494554648637/886745875186073610/ntcm-0.1.0-beta.2.jar"
 hash-format = "sha512"
-hash = "65ebdde9f0459cea1677a7caf79ea43aa16110f74263afa4c1d7ab8957ee98677d99022eef2768091f9ef92b50ecfb0f895350f8bc4c080b31a7bf24477a40da"
+hash = "ea7e8c3f4c1b210601d6643cb7c0a8b1d2bc582dd04c4aef8463601a78249b121e3b075fe594434d253177986f228a7e05265164449c997d37632a185918768a"
