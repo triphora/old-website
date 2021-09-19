@@ -49,14 +49,13 @@ Required dependencies for mods may not included in this list.
 | [Amecs](https://curseforge.com/projects/324564)                        | Always     |         |
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                         | Optional   |         |
 | [Audio Output](https://curseforge.com/projects/372451)                 | Optional   |         |
-| [Auth Me](https://curseforge.com/projects/356643)                      | Optional   | `††`    |
+| [Auth Me](https://curseforge.com/projects/356643)                      | Optional   |         |
 | [Better Enchanted Books](https://modrinth.com/mod/yjpXhps7)            | Optional   |         |
 | [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         |
 | [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     |
-| [Connected Texture Mod](https://curseforge.com/projects/432493)        | Optional   |         |
 | [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
-| [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   | `††`    |
+| [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   |         |
 | [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                       | Always     |         |
 | [Don't Clear Chat History](https://modrinth.com/mod/sUbMm93i)          | Always     |         |
 | [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)                 | Always     |         |
@@ -70,7 +69,7 @@ Required dependencies for mods may not included in this list.
 | [Fabrishot](https://modrinth.com/mod/3qsfQtE9)                         | Always     |         |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         |
 | [Hydrogen](https://modrinth.com/mod/AZomiSrC)                          | Always     |         |
-| [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     | `* ††`  |
+| [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     | `*`     |
 | [Indium](https://modrinth.com/mod/Orvt0mRa)                            | Always     | `**`    |
 | [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         |
 | [Iris](https://modrinth.com/mod/YL57xq9U)                              | Always     |         |
@@ -93,6 +92,7 @@ Required dependencies for mods may not included in this list.
 | [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)              | Optional   |         |
 | [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         |
 | [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)                | Always     |         |
+| NTCM - an unreleased connected textures mod using the OF format        | Always     | `††`    |
 | [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                         | Always     |         |
 | [PetOwner](https://modrinth.com/mod/IxUlAAFe)                          | Optional   |         |
 | [Quick Connect Button](https://modrinth.com/mod/erzkR85H)              | Always     | `;`     |
