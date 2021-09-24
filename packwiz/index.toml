@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/clickthrough.json"
+hash = "a60317648253b4fe15f5ed6720714f31abf39fef128069bb07c5700548f9bff9"
+
+[[files]]
 file = "config/quickconnectbutton.json5"
 hash = "ba17c8bd299dbab38f4ae94afbbda90cb25a195a5416a1d4fce37e4222335b49"
 
@@ -24,7 +28,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "709d06702d9c3ffd0643843d9945a75c48880921b5a9e2384a5c2be809fda4cd"
+hash = "8afc72d1f763249c76208e1856ee6a9c6d86e916fc3cc429936fc64f4ead52e8"
 metafile = true
 
 [[files]]
@@ -64,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
-hash = "0cbe06bd60ed1342b2f95cb3f2678f172c979a961838f626a9614f416f959fca"
+hash = "2b1e22f3a28273f2328835a91cabebfe3721307d7dfa6f50fd131ab909501a32"
 metafile = true
 
 [[files]]
@@ -214,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "c8fecc7ed627a2881f1d28950a06d7104d262f4caf82718ca43d0c635a28266f"
+hash = "b857519c5b88654ee8c622c694601f2de4c924f392e1a84344cceabdb9dcab92"
 metafile = true
 
 [[files]]
@@ -244,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "70d4e6f9a058ee58e87f3c6fef0ae7441fedda4f4004746d83dc0cc7373fb439"
+hash = "c3d21609992ed6303d2c577ff8ec23a6db61b57913d7dc3be90db2c9e1f6df59"
 metafile = true
 
 [[files]]
@@ -324,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "fc31486176a5d4704042d75a81e5d0e4672cbe4c8603c7629a9a87b723676575"
+hash = "8f6a1d25f5ca05abe6ad4a328d046a96daf19fb4c212fd76e921613f66357301"
 metafile = true
 
 [[files]]
