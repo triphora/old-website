@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.toml"
-hash = "645f02e009ac15b3ebc4213b6f5405fbaf89887b4e181d5625816fb6bead679e"
+hash = "44325f198d1d4e5987678aa8a6dba31857bfab809b3edc24e28d4d26461b6cfe"
 metafile = true
 
 [[files]]
@@ -67,13 +67,18 @@ hash = "a9eb46816dc3a2acbda7bf3152b574cab86576089627affef45557bd31aca804"
 metafile = true
 
 [[files]]
+file = "mods/continuity.toml"
+hash = "9967418e8b8d124b9463b70df0e27215ab0ac11a555304dfbb73db6bbd099539"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.toml"
 hash = "2b1e22f3a28273f2328835a91cabebfe3721307d7dfa6f50fd131ab909501a32"
 metafile = true
 
 [[files]]
 file = "mods/cull-leaves.toml"
-hash = "73373969b6bc944d82bc8799cfbac796a7abdddfb348e661395d54f1340e9694"
+hash = "949e0de2896ac82175518eb576da1de72ba3992a1f895d7ea35c321e0dc382e1"
 metafile = true
 
 [[files]]
@@ -203,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/memory-usage-screen.toml"
-hash = "d979e573158d5c50ba06b0d8cd34a229569e234fff710a6f8601d1b08bfe7fd9"
+hash = "784f99191e957fee32e8c3ac668a13f7c8fa548515b9f9bdbee0c55f7263e708"
 metafile = true
 
 [[files]]
@@ -218,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "b857519c5b88654ee8c622c694601f2de4c924f392e1a84344cceabdb9dcab92"
+hash = "c4dc43e97d2fd9399a02084cef47a1e0989c9f0e45fc79922f934b047dd22534"
 metafile = true
 
 [[files]]
@@ -249,11 +254,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.toml"
 hash = "c3d21609992ed6303d2c577ff8ec23a6db61b57913d7dc3be90db2c9e1f6df59"
-metafile = true
-
-[[files]]
-file = "mods/ntcm.toml"
-hash = "182f069fa5882a859fb66f1cb14c4123efd8ead3ca0a21e5e88351322ae81613"
 metafile = true
 
 [[files]]
