@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.toml"
-hash = "fb329c0f528b6fe1df2b7a976b9d35e9491288c53ebdd2e4d64f02588fd4744a"
+hash = "8b0349e75a4892b0b9c5a344e358fb43ba386da22f05b8bbb04eff584c43a400"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.toml"
-hash = "2b1e22f3a28273f2328835a91cabebfe3721307d7dfa6f50fd131ab909501a32"
+hash = "bb88bb48c2b6f3c205584deeefae22a9b55987bafa4bfdcc9000e387188602e7"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "148a62eb8129c44bd2b1c4df997e1d2b1007e44f78fed26aebea603240551620"
+hash = "767eea9287ca8b5f73fc9778d8fd653ebe8118bb8734c8b370bd255c262fd210"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "c3d21609992ed6303d2c577ff8ec23a6db61b57913d7dc3be90db2c9e1f6df59"
+hash = "cf118527a3e133ff07dfa4674805ee6ef015812df4aa06ec731b7be2a23a22bc"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.toml"
-hash = "4e4a4f326515cf9b0eeede1127b6cc34388b05f7c028053447b2db9bb278bc3e"
+hash = "1b3fb2d7811f8d4c9f071994346ab31b5598a6b092eccc66eb3e601bb88b1674"
 metafile = true
 
 [[files]]
@@ -333,10 +333,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "cdfe09fad2c663d9164a6b8bf927c0f105c429e24a138b71ca7af13929ea1e94"
+hash = "be0d83601c0c5a47d1137034558f5f5e9aa918a6c5d76402bad4555fe3279edc"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "3a6719974295155034b1db7c6a57f57eee0bc63fd19dec84ec705b8404dbf7ec"
+hash = "f39df0ecfdeb5179808c567d1eb91991853c5fd7c5ce6ed104dfff439f5d8883"
 metafile = true

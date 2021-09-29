@@ -1,15 +1,15 @@
 name = "Better Enchanted Books (Fabric)"
-filename = "better-enchanted-books-1.17-1.2.11.jar"
+filename = "better-enchanted-books-1.17-1.2.12.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3467/55/better-enchanted-books-1.17-1.2.11.jar"
+url = "https://edge.forgecdn.net/files/3474/277/better-enchanted-books-1.17-1.2.12.jar"
 hash-format = "murmur2"
-hash = "2736384446"
+hash = "2675688257"
 
 [update]
 [update.curseforge]
-file-id = 3467055
+file-id = 3474277
 project-id = 369122
 release-channel = "beta"
 
