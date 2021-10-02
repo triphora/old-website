@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "cf118527a3e133ff07dfa4674805ee6ef015812df4aa06ec731b7be2a23a22bc"
+hash = "fe74a25b12c31d2b21c940eadc74b89ecf1d814cbb2c11276048032ccdba0590"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/time-changer.toml"
-hash = "b9cbf9ab4c86adefdd929b848a77ac847fef7ebb101270d7aa404b840a46aeee"
+hash = "651716875c925d5015c427f477b668e92f3609ed0efb831aa34822be817e0693"
 metafile = true
 
 [[files]]
@@ -328,12 +328,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "8f6a1d25f5ca05abe6ad4a328d046a96daf19fb4c212fd76e921613f66357301"
+hash = "c5e05fd1300a11a9ce23c4e6b592b60d1d879fab62e7ffc637c69e73370b9579"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "be0d83601c0c5a47d1137034558f5f5e9aa918a6c5d76402bad4555fe3279edc"
+hash = "6242f4ae0017232f0411b8df4a9f40b9362167d8504f66920a1da834fdd64adc"
 metafile = true
 
 [[files]]

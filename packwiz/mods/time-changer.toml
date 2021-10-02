@@ -1,16 +1,16 @@
 name = "Time Changer"
-filename = "timechanger-1.0.0.jar"
+filename = "timechanger-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1itdse3V/versions/1.0.0/timechanger-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/1itdse3V/versions/1.1.0/timechanger-1.1.0.jar"
 hash-format = "sha512"
-hash = "189ba1deb7df9307cb73173d02e801df9ade66f106a2a4c7696fb937f93964b2b88a7b07393041466e97080f7c0cc291d53492290b2ba766a7a5064e1e4e5348"
+hash = "db5af587525360ee9020b62d97dd78bbf3609a56849127dba2b318d8d7031012ce155df2adc9d3d4392bc46419f19c6db97efffa4ec9efd190f5bb481f81b9da"
 
 [update]
 [update.modrinth]
 mod-id = "1itdse3V"
-version = "qaFHCpzM"
+version = "TJ0ObzCh"
 
 [option]
 optional = true
