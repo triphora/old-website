@@ -2,6 +2,10 @@
   "cleanUrls": true,
   "redirects": [
     {
+      "source": "/disc(.*)",
+      "destination": "https://discord.gg/EES4w9qbtk"
+    },
+    {
       "source": "/fabricin(.*)",
       "destination": "https://empireminecraft.com/threads/83391"
     },
