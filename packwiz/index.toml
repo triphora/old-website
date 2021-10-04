@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "c4dc43e97d2fd9399a02084cef47a1e0989c9f0e45fc79922f934b047dd22534"
+hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
 metafile = true
 
 [[files]]
@@ -307,6 +307,11 @@ hash = "cc5d7a90874f5022a32a51f00b61513538278b13819321193cf953ba0b7e6cfd"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scrolling-everywhere-fabric.toml"
+hash = "32171a8b789dd3b6f744d9e7bd474f4ea18af3f16949c48e409f57b26ed03b3f"
+metafile = true
+
+[[files]]
 file = "mods/starlight.toml"
 hash = "cb9176439af93f4215bc9eb96ddcfa02566ea41aa5c1b6e230a66bfd23299255"
 metafile = true
@@ -328,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "c5e05fd1300a11a9ce23c4e6b592b60d1d879fab62e7ffc637c69e73370b9579"
+hash = "45c8c5d84c580019c60a6e20294a5a6979ad0ae369b8a53e7d3e9e3962b81225"
 metafile = true
 
 [[files]]

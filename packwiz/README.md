@@ -102,6 +102,7 @@ Required dependencies for mods may not included in this list.
 | [Roughly Enough Items](https://curseforge.com/projects/310111)         | Always     |         |
 | [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         | 
 | [Slight GUI Modifications](https://curseforge.com/projects/380393)     | Always     | `;`     |
+| [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Always     | `;`     |
 | [Sodium](https://github.com/IrisShaders/sodium-fabric)                 | Always     |         |
 | [Starlight](https://github.com/Spottedleaf/Starlight)                  | Always     | `†`     |
 | [Time Changer](https://modrinth.com/mod/1itdse3V)                      | Optional   |         |
