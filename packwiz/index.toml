@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "450534bf737e8f9929d5fb867fc06f14e60df5299e67ca4ae2b85a6a54970811"
+hash = "377c44869c57757222379f6f276ae05ed587b54d7b171c0825b993583888b99c"
 metafile = true
 
 [[files]]
@@ -338,10 +338,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "6242f4ae0017232f0411b8df4a9f40b9362167d8504f66920a1da834fdd64adc"
+hash = "fbf7e6e450faa2f75cae4b2ad26228f68ef9133775eba9c7cbca634893250ad0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "f39df0ecfdeb5179808c567d1eb91991853c5fd7c5ce6ed104dfff439f5d8883"
+hash = "599882f78a769a802a28685acb15962054e1071acee22c3781c8cd4630b25a2b"
 metafile = true
