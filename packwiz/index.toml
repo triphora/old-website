@@ -28,7 +28,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "7d83e8f4291e9804e555fe8319f55159f6072472845975f19a94d1fc8ebb35f7"
+hash = "2f084a168e35bc5a46a9b4d60401ffcb4ab228a61bfc8f7a651dc5724a285b76"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.toml"
-hash = "4145a61cb268f61e2095401878af9df232bfa07542ac8e78dfedb7307025a18a"
+hash = "5544e918a0a3ea24dfc219bcb4147aee0ccad88225778c4f56246ae7abeec816"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "377c44869c57757222379f6f276ae05ed587b54d7b171c0825b993583888b99c"
+hash = "c58138b776c8412d0908b9727a70f9ea124ec9d3f54da3f5b7b2f2387c562fe8"
 metafile = true
 
 [[files]]
