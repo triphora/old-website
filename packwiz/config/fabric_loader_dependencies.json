@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "overrides": {
+    "antighost": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "clickthrough": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "durabilityviewer": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "easiercrafting": {
+      "-recommends": {
+        "modupdater": ""
+      }
+    },
+    "quickconnectbutton": {
+      "-depends": {
+        "java": ""
+      }
+    }
+  }
+}
