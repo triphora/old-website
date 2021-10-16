@@ -5,6 +5,10 @@ file = "config/clickthrough.json"
 hash = "a60317648253b4fe15f5ed6720714f31abf39fef128069bb07c5700548f9bff9"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "67f32ce68850d6670d6ac0c6fd5aefa1e5452db658df3df7d0410b7ba64c2b96"
+
+[[files]]
 file = "config/quickconnectbutton.json5"
 hash = "ba17c8bd299dbab38f4ae94afbbda90cb25a195a5416a1d4fce37e4222335b49"
 
@@ -153,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "2288f4278f7df0dda32571f0e84130c8efdeb4252131f9dc75c35f254eaf8507"
+hash = "d5797a88a4295ff61075516c1fdce1e0dbf64e8db5521af350c4b17dadec1aa1"
 metafile = true
 
 [[files]]
@@ -253,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "fe74a25b12c31d2b21c940eadc74b89ecf1d814cbb2c11276048032ccdba0590"
+hash = "d82c21413c0e255f13f6046915b1b20f23bf99148246504ee04bd5ca1162cf7c"
 metafile = true
 
 [[files]]
@@ -293,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "523287ccdaca7718dbbc48afb4068484c1bb84d7f101fb0de94254363cd62b99"
+hash = "3556ce0056005dc9bb88c32e045528dda63d0291555f2d6f3a84899b9c8dc854"
 metafile = true
 
 [[files]]
@@ -338,10 +342,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "fbf7e6e450faa2f75cae4b2ad26228f68ef9133775eba9c7cbca634893250ad0"
+hash = "6643b341a15a6f0bf1c05b1bfdcf44835272f9b2ea039e611022359f0094f2a9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "599882f78a769a802a28685acb15962054e1071acee22c3781c8cd4630b25a2b"
+hash = "7c7b13ecbd2ebfe11ca78730e7ff6af5aa8f6de6d739a1d21303747d9a6bcda2"
 metafile = true
