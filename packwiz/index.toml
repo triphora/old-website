@@ -17,10 +17,6 @@ file = "config/quickconnectbutton.json5"
 hash = "ba17c8bd299dbab38f4ae94afbbda90cb25a195a5416a1d4fce37e4222335b49"
 
 [[files]]
-file = "config/quickconnectbutton.json5"
-hash = "ba17c8bd299dbab38f4ae94afbbda90cb25a195a5416a1d4fce37e4222335b49"
-
-[[files]]
 file = "config/slightguimodifications/config.json5"
 hash = "c8f80cf354b3a1f22170f1ab205f1a4e7c38585b5ee191f50141eddf8b9bf44c"
 
