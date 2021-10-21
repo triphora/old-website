@@ -51,6 +51,7 @@ Required dependencies for mods may not included in this list.
 | [Audio Output](https://curseforge.com/projects/372451)                 | Optional   |         |
 | [Auth Me](https://curseforge.com/projects/356643)                      | Optional   |         |
 | [Better Enchanted Books](https://www.curseforge.com/projects/369122)   | Optional   |         |
+| [Clean Logs](https://modrinth.com/mod/OTteoJUk)                        | Always     |         |
 | [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         |
 | [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     |
@@ -100,7 +101,6 @@ Required dependencies for mods may not included in this list.
 | [Rainbowify](https://modrinth.com/mod/m9FFV06N)                        | Optional   | `;`     |
 | [Rebind All The Keys](https://modrinth.com/mod/TpKqzzMu)               | Optional   |         |
 | [Roughly Enough Items](https://curseforge.com/projects/310111)         | Always     |         |
-| [Shut Up Console](https://curseforge.com/projects/396776)              | Optional   |         | 
 | [Slight GUI Modifications](https://curseforge.com/projects/380393)     | Always     | `;`     |
 | [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Always     | `;`     |
 | [Sodium](https://github.com/IrisShaders/sodium-fabric)                 | Always     |         |
