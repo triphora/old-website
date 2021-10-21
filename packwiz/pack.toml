@@ -1,12 +1,12 @@
 name = "waffle's Modpack"
 author = "wafflecoffee"
-version = "2021.10.13"
+version = "2021.10.16"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bb2f1c170a4c0a1f45d8cf24c394c3f04d0895037a28a7067482f25721c0e12e"
+hash = "3467323e928ef7d8726b6d16cbeb11b794587941eea7cc9621ae6aeb97ca7abd"
 
 [versions]
-fabric = "0.11.7"
+fabric = "0.12.2"
 minecraft = "1.17.1"

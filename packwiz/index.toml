@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/clean-logs.toml"
-hash = "ebea6628c0b016ae972bf6dda97b4631e01a8fed8d178019024bf077a2c0678e"
+hash = "2c8b871a67fe38b9b7fc8b897f591506f3961dc1996c4d11729ed76ff37d3d8e"
 
 [[files]]
 file = "config/clickthrough.json"
@@ -10,7 +10,11 @@ hash = "a60317648253b4fe15f5ed6720714f31abf39fef128069bb07c5700548f9bff9"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4886305e99e5b36f997ca31a4f9bff00bb6e41f09b7efa0dfd920d9682b78986"
+hash = "67f32ce68850d6670d6ac0c6fd5aefa1e5452db658df3df7d0410b7ba64c2b96"
+
+[[files]]
+file = "config/quickconnectbutton.json5"
+hash = "ba17c8bd299dbab38f4ae94afbbda90cb25a195a5416a1d4fce37e4222335b49"
 
 [[files]]
 file = "config/quickconnectbutton.json5"
@@ -162,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "7a926ed01d09478af2bda0e83a19c2afe9118cf17424ab1de07319ce69730c01"
+hash = "ddbc462c1cf71c1118ef6c1cf6f8d029a71fb312a7a0f9c0a34fe7f3831d824e"
 metafile = true
 
 [[files]]
