@@ -1,13 +1,13 @@
 name = "Clean Logs"
-filename = "clean-logs-1.0.0.jar"
+filename = "clean-logs-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OTteoJUk/versions/1.0.0/clean-logs-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/OTteoJUk/versions/1.0.1/clean-logs-1.0.1.jar"
 hash-format = "sha512"
-hash = "a751d795470d8e9f362909923e2c7671d9bee82f82eaaa187c17b43b06d027aaa5a61ace450639719c7d9f88ca8300a74fa107ec1072aacf7fde936430aba64f"
+hash = "1b9da99ea92fe749defac3342e56ee3e3252ac517e8581a161f1d6ae0c3b246deb85f97d6a2d4c39ddc6a2f439960ac45b9929aac2dfbc38024e4139d1dce702"
 
 [update]
 [update.modrinth]
 mod-id = "OTteoJUk"
-version = "bGme3g02"
+version = "3Vu79v2g"

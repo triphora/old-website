@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-logs.toml"
-hash = "264facfa3ca74ec0a756d18c2ea9c28119524836fbc0ea1e223fd294a2c25e2e"
+hash = "0d52658aa14aa89f08fb090d101ba7768fe76c4810ddfcb281fc552bab213bd2"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "6d6dfb71bfae8c58f3ed5d0f31d4c84f5b7c8484849225671f521f6eaa095cde"
+hash = "dc02fc9546da6c49e2d0991e7bec98a465cd88e17a5ec9e2efc806f8f1d37003"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "ddbc462c1cf71c1118ef6c1cf6f8d029a71fb312a7a0f9c0a34fe7f3831d824e"
+hash = "7a926ed01d09478af2bda0e83a19c2afe9118cf17424ab1de07319ce69730c01"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3556ce0056005dc9bb88c32e045528dda63d0291555f2d6f3a84899b9c8dc854"
+hash = "c6d9180a2aa61d549276d10c5ad6a219af98404f59d2c5dbd3d3a7777dc2d871"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "45c8c5d84c580019c60a6e20294a5a6979ad0ae369b8a53e7d3e9e3962b81225"
+hash = "bada55883fb094f47dd760d832fb01e15421cb2ac933761871fc13d69bca7407"
 metafile = true
 
 [[files]]
