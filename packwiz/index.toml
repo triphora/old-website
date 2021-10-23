@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "cbc84be59108b19a0af8771eceac86d0223bba9678f61a02a4d64f81b97bd0d6"
+hash = "312a6ca69528cd7f304d32cd502204fa9d4f728cea7ff4dc4b156bdbd619e5ef"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "c6d9180a2aa61d549276d10c5ad6a219af98404f59d2c5dbd3d3a7777dc2d871"
+hash = "6af49367ad22fb8b7815cdab131c7b984bb65cf05197cee033184c1c9fe14728"
 metafile = true
 
 [[files]]
