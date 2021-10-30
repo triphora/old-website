@@ -1,0 +1,17 @@
+name = "Screenshot to Clipboard"
+filename = "screenshot-to-clipboard-1.0.7-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/1.0.7+fabric/screenshot-to-clipboard-1.0.7-fabric.jar"
+hash-format = "sha512"
+hash = "7c1aa5235c08f5ddc2172a7cefe947e472793622cfb7f0a91ea628cf33da8ecd3ffdf9ac0732b577f56ca625d3d6380044c0ec95597290d3047b1953dbe763f3"
+
+[update]
+[update.modrinth]
+mod-id = "1KiJRrTg"
+version = "62GCTmv5"
+
+[option]
+optional = true
+description = "S2C does exactly what it says it does: when you take a screenshot (F2 or F9 with Fabrishot), it copies it to your clipboard."

@@ -1,13 +1,13 @@
 name = "Cull Leaves"
-filename = "cullleaves-2.3.1.jar"
+filename = "cullleaves-2.3.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.1/cullleaves-2.3.1.jar"
+url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar"
 hash-format = "sha512"
-hash = "a98ec3a018b019f6f26f9026b24d42016ebc91c1bb102214f2e9ca1637ceabb41ed50745b4b73bb204b42b9d5115bf0de38c2dd8b5a68d4b9e8a4d2a8c1a83b6"
+hash = "e09a13efb20a36b7448fd3db688e2d810c00186a280be8f1e4ee2a1401267e544f981f8d8e042f15a00fef44abd9213a9eb46ffe3880b504c09ad5f5d532cf21"
 
 [update]
 [update.modrinth]
 mod-id = "GNxdLCoP"
-version = "85IJZOPp"
+version = "718Klypf"

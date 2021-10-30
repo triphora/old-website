@@ -101,6 +101,7 @@ Required dependencies for mods may not included in this list.
 | [Rainbowify](https://modrinth.com/mod/m9FFV06N)                        | Optional   | `;`     |
 | [Rebind All The Keys](https://modrinth.com/mod/TpKqzzMu)               | Optional   |         |
 | [Roughly Enough Items](https://curseforge.com/projects/310111)         | Always     |         |
+| [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg)           | Optional   | `;`     |
 | [Slight GUI Modifications](https://curseforge.com/projects/380393)     | Always     | `;`     |
 | [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Always     | `;`     |
 | [Sodium](https://github.com/IrisShaders/sodium-fabric)                 | Always     |         |
