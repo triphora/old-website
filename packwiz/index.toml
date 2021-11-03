@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "99ae662f5900ad8d775a99c9b2ec02f1e58b91c8629602038e7e10f617c74b34"
+hash = "59d0ec9372e935c6dc75c452558712bfb3cb112e8e4aa7e950f4bb34ca975170"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "8783fffeefc606aeac7b1ca2b8aa2e7e6d7e31d956ff02af879ffb4fa9a5159e"
+hash = "eb183154295251dd5e1ab3b01f30443ec58fb0a1c51608fe7eb97a451846c80b"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "7a926ed01d09478af2bda0e83a19c2afe9118cf17424ab1de07319ce69730c01"
+hash = "b050e43ca42daff2396bc0e1b183ece6a77b6a787fa796f334be86bd602f636f"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "b5b81d048e58776665818a72a1b841105f3db5069211a95fced944b16d515734"
+hash = "8b05f442669d8aa23b5560fe5bea292df1d22ef5bdce365db16188b4574aec9e"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
-hash = "cc5d7a90874f5022a32a51f00b61513538278b13819321193cf953ba0b7e6cfd"
+hash = "e0dbfb0ae19e329c972716748125ff0722c87eb4c63f3b4b7dda28361a6cf83d"
 metafile = true
 
 [[files]]
@@ -342,15 +342,15 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "bada55883fb094f47dd760d832fb01e15421cb2ac933761871fc13d69bca7407"
+hash = "cab57f7451988833adc54540b2f1ba6fb792bcb0b7376f75fc438c24c7fba959"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "db729bbcaf032d6cfb9adc5b3c25ed93844a00990247cb1c4ecbc33b1c16ee2a"
+hash = "da7ab5b2531c0f07eadcb3a32539810312ac94b80511050447888b420a6bd896"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "890bbaa44746d391b236fa859afde06defb8fe503d4676d3d5787103d15b2ff9"
+hash = "11b9b96f3ce3b1ad8ac56a6a3de73891abe13ac9b3fc35acd757d4123ec4768d"
 metafile = true
