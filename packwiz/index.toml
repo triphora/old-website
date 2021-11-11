@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "239fb5cac99f372f39a0edf89f40e20ed23bcf06c533d9c4571c86b6fee42abb"
+hash = "532a85cc714a146876b4ba9c8a25a71ebfd3e136f96b1028724d314cf591577d"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "b050e43ca42daff2396bc0e1b183ece6a77b6a787fa796f334be86bd602f636f"
+hash = "6752e7db7c0ac55c7a12f49e3a2552e41b46ff6a15a8c49e72c30b1947d35dbc"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "8b05f442669d8aa23b5560fe5bea292df1d22ef5bdce365db16188b4574aec9e"
+hash = "3d7088b3342afe431b21eac2337c7edcddaf1f7f0045c280f651a3d1358019fb"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "cab57f7451988833adc54540b2f1ba6fb792bcb0b7376f75fc438c24c7fba959"
+hash = "650edc7c82705c4dbba06011f506cf50a522e373f787d0e655f46867b86b66c0"
 metafile = true
 
 [[files]]
