@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "985985a3817093886da112649f059a56428b070edaccb6c2d9a4292ef47d2f64"
+hash = "42e47884d4e8db5ffee8c93b3eabe0644f46f237f225731b4b61a463bd8d2e76"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "650edc7c82705c4dbba06011f506cf50a522e373f787d0e655f46867b86b66c0"
+hash = "931ac1f60f8435a3029ced4fc9a3712cc8dbe292ed222d7ec7505167eb1919a5"
 metafile = true
 
 [[files]]
