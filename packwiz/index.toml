@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.toml"
-hash = "98ff2bc87b933163b5d0b197f405d9b06174db6d48046b7bf1eb7b38c7ff73cd"
+hash = "9f35e6695e21e8867f2974b8193177483ba9cc860759070394aebcdd00814e48"
 metafile = true
 
 [[files]]
@@ -68,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-api.toml"
 hash = "6f9c3f657c6e3ef033d0e778096004ba4554b0db609dc80338590b3970e8daa3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "8085a1c52ea30800552f6351d14a1a435e5aa55f4853733aa1f710a41af2ac80"
 metafile = true
 
 [[files]]
@@ -347,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "da7ab5b2531c0f07eadcb3a32539810312ac94b80511050447888b420a6bd896"
+hash = "810909c06ac9c9ea6beab12e12a2085c82e465f937ab5690d397eb8977339eec"
 metafile = true
 
 [[files]]
