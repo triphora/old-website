@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "6752e7db7c0ac55c7a12f49e3a2552e41b46ff6a15a8c49e72c30b1947d35dbc"
+hash = "e47975b89afe9c31e029b43f2d2c4dfc5bf36d1fb572c3fe31bc84bcfb702d6e"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "42e47884d4e8db5ffee8c93b3eabe0644f46f237f225731b4b61a463bd8d2e76"
+hash = "725731a49cd7cdbb6474308f147304d16bae3b836aa89c2a3c13e4804d6a7f0c"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3d7088b3342afe431b21eac2337c7edcddaf1f7f0045c280f651a3d1358019fb"
+hash = "a11d8ef9485c96ac750ff0741ffaa589fb9bffd42d029c841ff912d34047e55a"
 metafile = true
 
 [[files]]
