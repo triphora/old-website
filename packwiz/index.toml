@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.toml"
-hash = "9f35e6695e21e8867f2974b8193177483ba9cc860759070394aebcdd00814e48"
+hash = "2a4738362aaca42c01e46a2fb6795735492198b22c05d0c8490a499c227f211d"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "59d0ec9372e935c6dc75c452558712bfb3cb112e8e4aa7e950f4bb34ca975170"
+hash = "a0c703eaa5f290a43cc1dfc724c5e714fd2792a912c7009ec4046d847a10b4d3"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "532a85cc714a146876b4ba9c8a25a71ebfd3e136f96b1028724d314cf591577d"
+hash = "d0abef23e072dcef063d1b7cba56054b6339b4d081ba6ae6b3763af760d16d99"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "a11d8ef9485c96ac750ff0741ffaa589fb9bffd42d029c841ff912d34047e55a"
+hash = "327b62f01a4c55f65ef3e2e9a21432aee6f598ad46e69c142925f00e43d451e3"
 metafile = true
 
 [[files]]
@@ -352,10 +352,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "70bef659aed7a89945c7119e72a2943fb8c6b559c9a971b7d25de22f84e4f4a6"
+hash = "53ed376db5ef5557b39d4fab10e03423046df88f48ae0ceecf36a2d28195424b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "b2293d510c0eefb98898a4a7262c3cfc710eb81ec4794abb9b661cb2f1d32ce5"
+hash = "629a298cb951afdd3f175cd58ca43b6e053ed759625f9fd41c6569c785f240a5"
 metafile = true
