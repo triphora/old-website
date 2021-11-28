@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "2021.11.20",
+  "versionId": "2021.11.25",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -186,12 +186,12 @@
       ]
     },
     {
-      "path": "mods/emcutils-1.17.1-2.3.2.jar",
+      "path": "mods/emcutils-1.17.1-2.3.1.jar",
       "hashes": {
-        "sha512": "7b0a382800172e27ec3c8c7ceb3a38ca20665e2b179e8a4fa362858751e1c5051489176845ed866f4fd736f390fc0662bd3d4203a17650342f308102fdf3689f"
+        "sha512": "986223bd97818658241c80186f3ee2d4095c99a0bbbd650139fa9e2a862454745133fddfaaeef4d69c61e2996dfc8c0f9b2a92067a6c1b8ce6037e554ce59750"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/QYTT62S0/versions/2.3.2+fabric/emcutils-1.17.1-2.3.2.jar"
+        "https://cdn.modrinth.com/data/QYTT62S0/versions/2.3.1/emcutils-1.17.1-2.3.1.jar"
       ]
     },
     {
@@ -249,12 +249,12 @@
       ]
     },
     {
-      "path": "mods/indium-1.0.1+mc1.17.1.jar",
+      "path": "mods/indium-1.0.0+mc1.17.1.jar",
       "hashes": {
-        "sha512": "d0aabd5ac37911aba79cda17dff9caecb21253e76e19dbf3b72a43f45e1c2ef4083a8ee15bfc57852842afdb12e10a6481032943315ab698e96fb3d238285e51"
+        "sha512": "f44c85388430e5483a2370191f6c57626d950cb3f6fda32e9209b1c2d79ef51c2f35d12b13fb50b56ebb0215f431c48ad639fc57bece51ef79a7c20014525326"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.1+mc1.17.1/indium-1.0.1+mc1.17.1.jar"
+        "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.17.1/indium-1.0.0+mc1.17.1.jar"
       ]
     },
     {
@@ -267,12 +267,12 @@
       ]
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-1.17-1.1.6.jar",
+      "path": "mods/InventoryProfilesNext-fabric-1.17-1.1.8.jar",
       "hashes": {
-        "sha512": "7b8e582932b2b607cb9651b58f372ab9a36ababa38fb18df04bb01ab4303544ec66bea6d3c0cdac64c4270bd5c7fedbefda2afc0d50f83b1cfaf4721469b467c"
+        "sha512": "e4671d4b6786e6b06a947a6aab56495f7a62798bde4e992f8b00737abd794b91aa2883e1a735ff383ad9159b44934e9eea29025b1981cd33a859775864bcc92c"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.1.6/InventoryProfilesNext-fabric-1.17-1.1.6.jar"
+        "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.1.8/InventoryProfilesNext-fabric-1.17-1.1.8.jar"
       ]
     },
     {
@@ -429,12 +429,12 @@
       ]
     },
     {
-      "path": "mods/nostrip-1.2.1-1.17+.jar",
+      "path": "mods/nostrip-1.2.2-1.17+.jar",
       "hashes": {
-        "sha512": "9038bb1a04c9b9f0cd6127b1af89cd3c13fa96f36605b8d5b0595473e830b060ff26b7274cf0f97a6035c64588e11dd1d1ab26fe9d98017406975a62f2f2f9cb"
+        "sha512": "a73a8d6bb24d7a66b57d9aead25f5a317db64ec6dc60f1fb213f7a54ea13fbd8148955964be0b1df3fe44b2fdfccfc23bb13630434b2a5af32ba2cdd4d8a65ab"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/3f1BdVqy/versions/1.2.1/nostrip-1.2.1-1.17+.jar"
+        "https://cdn.modrinth.com/data/3f1BdVqy/versions/1.2.2/nostrip-1.2.2-1.17+.jar"
       ]
     },
     {
@@ -447,21 +447,21 @@
       ]
     },
     {
-      "path": "mods/notenoughcrashes-4.1.1+1.17.1-fabric.jar",
+      "path": "mods/notenoughcrashes-4.1.2+1.17.1-fabric.jar",
       "hashes": {
-        "sha512": "d8535c38f57aa8d99d49bee1f15476366bc23fa8b38521596247f37db1c582ecc378a11e5df5ddf4a629b0d20e931027153a5f482d13702eaa691ef576d9380a"
+        "sha512": "d6648e628ebb9563da7226867b2f03653cbcfa15813a48940990bb28bfc35a1554b53a2f1b61a708fcf69dd344c7807cb32f9f6f484315d09a11d5dac93fb2be"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.1+1.17.1-fabric/notenoughcrashes-4.1.1+1.17.1-fabric.jar"
+        "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.2+1.17.1-fabric/notenoughcrashes-4.1.2+1.17.1-fabric.jar"
       ]
     },
     {
-      "path": "mods/okzoomer-5.0.0-beta.2+1.17.jar",
+      "path": "mods/okzoomer-5.0.0-beta.3+1.17.1.jar",
       "hashes": {
-        "sha512": "5a94b1deca674ed6b569d505f2e27d42b53a85bbde860851a821e8743501844e3f264e039e05008df7305912b6f256398ceca581585822bd8ffbaa1c66cd93bd"
+        "sha512": "ed596d268dd6a4cd84cfaa58baa4f4a1ae3f2a96d14af0c928a0602a90a9e001cedc28496f9a977231b54508d194a92b4b51151be681af54e05e08705ada0ea6"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.2+1.17/okzoomer-5.0.0-beta.2+1.17.jar"
+        "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.3+1.17.1/okzoomer-5.0.0-beta.3+1.17.1.jar"
       ]
     },
     {

@@ -1,13 +1,13 @@
 name = "Inventory Profiles Next"
-filename = "InventoryProfilesNext-fabric-1.17-1.1.6.jar"
+filename = "InventoryProfilesNext-fabric-1.17-1.1.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.1.6/InventoryProfilesNext-fabric-1.17-1.1.6.jar"
+url = "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.1.8/InventoryProfilesNext-fabric-1.17-1.1.8.jar"
 hash-format = "sha512"
-hash = "7b8e582932b2b607cb9651b58f372ab9a36ababa38fb18df04bb01ab4303544ec66bea6d3c0cdac64c4270bd5c7fedbefda2afc0d50f83b1cfaf4721469b467c"
+hash = "e4671d4b6786e6b06a947a6aab56495f7a62798bde4e992f8b00737abd794b91aa2883e1a735ff383ad9159b44934e9eea29025b1981cd33a859775864bcc92c"
 
 [update]
 [update.modrinth]
 mod-id = "O7RBXm3n"
-version = "Qud21Lma"
+version = "slBQdMMv"

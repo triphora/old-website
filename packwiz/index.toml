@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "a0c703eaa5f290a43cc1dfc724c5e714fd2792a912c7009ec4046d847a10b4d3"
+hash = "59d0ec9372e935c6dc75c452558712bfb3cb112e8e4aa7e950f4bb34ca975170"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "e47975b89afe9c31e029b43f2d2c4dfc5bf36d1fb572c3fe31bc84bcfb702d6e"
+hash = "1486d81f1d7615ab9e5dac8009eee7de473e751e1aa4d1686c8b724902a643f1"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-strip.toml"
-hash = "bc3b726ebcf2ed01dd18c8cb55746984c52443c3907a24ebfd9ca29fc48af5c8"
+hash = "7147dc5aaf23c0246add8bbdeafd23e6e111063650fea070777c66bafe870504"
 metafile = true
 
 [[files]]
@@ -267,12 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "725731a49cd7cdbb6474308f147304d16bae3b836aa89c2a3c13e4804d6a7f0c"
+hash = "72b8dc7b471c47c1551f06b33db599e1cfe140d1ab57cb18e19552dd13ee02f7"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "89cbaa6645cbe11faa59add7745d1c0cd81a8af8ba9b55f3b04434e4b660b88e"
+hash = "b7ac708769978f4b8e1176ab7b5c83b2213c4edae3c5aeced6a480ce6f401535"
 metafile = true
 
 [[files]]
