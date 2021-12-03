@@ -1,14 +1,14 @@
 name = "Litematica"
-filename = "litematica-fabric-1.17.1-0.0.0-dev.20210906.183617.jar"
+filename = "litematica-fabric-1.17.1-0.0.0-dev.20211203.010230.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3452/185/litematica-fabric-1.17.1-0.0.0-dev.20210906.183617.jar"
+url = "https://edge.forgecdn.net/files/3545/906/litematica-fabric-1.17.1-0.0.0-dev.20211203.010230.jar"
 hash-format = "murmur2"
-hash = "2120323720"
+hash = "709987490"
 
 [update]
 [update.curseforge]
-file-id = 3452185
+file-id = 3545906
 project-id = 308892
 release-channel = "beta"

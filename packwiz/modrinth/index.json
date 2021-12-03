@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "2021.11.25",
+  "versionId": "2021.11.28",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -249,12 +249,12 @@
       ]
     },
     {
-      "path": "mods/indium-1.0.0+mc1.17.1.jar",
+      "path": "mods/indium-1.0.1+mc1.17.1.jar",
       "hashes": {
-        "sha512": "f44c85388430e5483a2370191f6c57626d950cb3f6fda32e9209b1c2d79ef51c2f35d12b13fb50b56ebb0215f431c48ad639fc57bece51ef79a7c20014525326"
+        "sha512": "d0aabd5ac37911aba79cda17dff9caecb21253e76e19dbf3b72a43f45e1c2ef4083a8ee15bfc57852842afdb12e10a6481032943315ab698e96fb3d238285e51"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0+mc1.17.1/indium-1.0.0+mc1.17.1.jar"
+        "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.1+mc1.17.1/indium-1.0.1+mc1.17.1.jar"
       ]
     },
     {
@@ -267,30 +267,30 @@
       ]
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-1.17-1.1.8.jar",
+      "path": "mods/InventoryProfilesNext-fabric-1.17-1.1.9.jar",
       "hashes": {
-        "sha512": "e4671d4b6786e6b06a947a6aab56495f7a62798bde4e992f8b00737abd794b91aa2883e1a735ff383ad9159b44934e9eea29025b1981cd33a859775864bcc92c"
+        "sha512": "9294a6717e50899834e90ed80a67f12ec1ef139569c595529645c4f0a7c2e5d3ae51d10507a5ea8c799f47bbfcfb51ea9e2b35b12177d01cae346ca28e30eaeb"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.1.8/InventoryProfilesNext-fabric-1.17-1.1.8.jar"
+        "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.1.9/InventoryProfilesNext-fabric-1.17-1.1.9.jar"
       ]
     },
     {
-      "path": "mods/iris-and-sodium-mc1.17-1.1.2+build.9.jar",
+      "path": "mods/iris-mc1.17-1.1.3.jar",
       "hashes": {
-        "sha512": "55a13a56c6eed76ab98fdce9bcf8f4dbaa66a2b09f6caf254fdd24ff4bd0f147542e380be9f854b85048848eaaa1d478beef84c3b8f4f271a345b529f312a161"
+        "sha512": "a28042758fc8b8ec71c197b3cf18e3e4558a5219df673074910204383757113ebfa39aefba38a0b84c04d501005d7ab5ccee36dd747c69e64799c8764fc2fa3d"
       },
       "downloads": [
-        "https://cdn.modrinth.com//data/YL57xq9U/versions/mc1.17.1-1.1.2/iris-and-sodium-mc1.17-1.1.2+build.9.jar"
+        "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.17.1-1.1.3/iris-mc1.17-1.1.3.jar"
       ]
     },
     {
-      "path": "mods/itemscroller-fabric-1.17.1-0.15.0-dev.20210707.005506.jar",
+      "path": "mods/itemscroller-fabric-1.17.1-0.15.0-dev.20211201.010054.jar",
       "hashes": {
-        "murmur2": "2166710212"
+        "murmur2": "3186127089"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3379/264/itemscroller-fabric-1.17.1-0.15.0-dev.20210707.005506.jar"
+        "https://edge.forgecdn.net/files/3542/814/itemscroller-fabric-1.17.1-0.15.0-dev.20211201.010054.jar"
       ]
     },
     {
@@ -312,12 +312,12 @@
       ]
     },
     {
-      "path": "mods/lambdynamiclights-2.0.2+1.17.jar",
+      "path": "mods/lambdynamiclights-2.1.0+1.17.jar",
       "hashes": {
-        "sha512": "87b5a08e007c2fa387ca58c866e2c6db6d1335a8c7878d2c5a2c1df4058db3aeab99bdb214b28fa7e77b6094b7c3ab5c37370195696154ccb4ba1c1411468308"
+        "sha512": "343cc1d595e25e1d40209bb429a29151031e784fd81b1ea594d236bd829d9078d3765af47705dc0884ba1898e1beffa1ddec24152471e501affe376b9f3b2865"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.2+1.17/lambdynamiclights-2.0.2+1.17.jar"
+        "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar"
       ]
     },
     {
@@ -339,12 +339,12 @@
       ]
     },
     {
-      "path": "mods/litematica-fabric-1.17.1-0.0.0-dev.20210906.183617.jar",
+      "path": "mods/litematica-fabric-1.17.1-0.0.0-dev.20211203.010230.jar",
       "hashes": {
-        "murmur2": "2120323720"
+        "murmur2": "709987490"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3452/185/litematica-fabric-1.17.1-0.0.0-dev.20210906.183617.jar"
+        "https://edge.forgecdn.net/files/3545/906/litematica-fabric-1.17.1-0.0.0-dev.20211203.010230.jar"
       ]
     },
     {
@@ -375,12 +375,12 @@
       ]
     },
     {
-      "path": "mods/minihud-fabric-1.17.1-0.19.0-dev.20210707.150016.jar",
+      "path": "mods/minihud-fabric-1.17.1-0.19.0-dev.20211027.183903.jar",
       "hashes": {
-        "murmur2": "1036661412"
+        "murmur2": "2705891185"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3379/923/minihud-fabric-1.17.1-0.19.0-dev.20210707.150016.jar"
+        "https://edge.forgecdn.net/files/3542/647/minihud-fabric-1.17.1-0.19.0-dev.20211027.183903.jar"
       ]
     },
     {
@@ -555,6 +555,15 @@
       ]
     },
     {
+      "path": "mods/sodium-fabric-mc1.17.1-0.3.3+build.8.jar",
+      "hashes": {
+        "sha512": "0e68613da619dd4ba10625d93c5cc1bb4796ea8d8abc517916c38dc8c15497f1f97ae6b1590672f26224fda84a0fb7d4ca2874624e3095ff7ee39c5a037341d2"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3+build.8.jar"
+      ]
+    },
+    {
       "path": "mods/starlight-1.0.0+fabric.73f6d37.jar",
       "hashes": {
         "sha512": "e2308963e019f030b804e787f9996044e12a63436754def273b79063b1ba3c99dc7311acbe99edab9dab290da97a75ac67e99715f485bc04d9e13e75a6a6644e"
@@ -600,21 +609,21 @@
       ]
     },
     {
-      "path": "mods/Xaeros_Minimap_21.22.2_Fabric_1.17.1.jar",
+      "path": "mods/Xaeros_Minimap_21.22.3_Fabric_1.17.1.jar",
       "hashes": {
-        "murmur2": "3396193307"
+        "murmur2": "3728539726"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3532/551/Xaeros_Minimap_21.22.2_Fabric_1.17.1.jar"
+        "https://edge.forgecdn.net/files/3541/561/Xaeros_Minimap_21.22.3_Fabric_1.17.1.jar"
       ]
     },
     {
-      "path": "mods/XaerosWorldMap_1.18.3_Fabric_1.17.1.jar",
+      "path": "mods/XaerosWorldMap_1.18.4_Fabric_1.17.1.jar",
       "hashes": {
-        "murmur2": "1907648014"
+        "murmur2": "4127622590"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3532/563/XaerosWorldMap_1.18.3_Fabric_1.17.1.jar"
+        "https://edge.forgecdn.net/files/3541/574/XaerosWorldMap_1.18.4_Fabric_1.17.1.jar"
       ]
     }
   ],
