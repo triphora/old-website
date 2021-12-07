@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "2021.11.28",
+  "versionId": "2021.12.02",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -114,12 +114,12 @@
       ]
     },
     {
-      "path": "mods/continuity-1.0.2+1.17.jar",
+      "path": "mods/continuity-1.0.3+1.17.jar",
       "hashes": {
-        "sha512": "4e67a2777f3cc9b8899e6b21da30447a39c477b2609b1c95643a1ac1bf21794fa1b5e24ab58ddc021049f4384b856bb5642366901d561709a9872dba439ea3a7"
+        "sha512": "d99197e2e86d9f8cb175d90eaa27f0613a817c8a317113a231f8534b6734623168064e74830f26b41b13f21e25e4127f140e692d1bc1c525fa92d0b3fd2198b0"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/1IjD5062/versions/1.0.2+1.17/continuity-1.0.2+1.17.jar"
+        "https://cdn.modrinth.com/data/1IjD5062/versions/1.0.3+1.17/continuity-1.0.3+1.17.jar"
       ]
     },
     {
@@ -213,12 +213,12 @@
       ]
     },
     {
-      "path": "mods/fabric-api-0.43.1+1.17.jar",
+      "path": "mods/fabric-api-0.44.0+1.17.jar",
       "hashes": {
-        "sha512": "e0dfe002616fb8f7612f774174b062837ede2c5e7151a4b9825db1b10be4236b218a590127bce4d47a624af3c58c6032449fbe56dac02092fb4fe5490168c51c"
+        "sha512": "605ebe756a01c95355798bda23d87ccebad74710a1ee3d929bbcd3944128d87a53b9333856fd083e1fa4b0f77a4e28df8dcbe9057ef86246d4d6558943b89419"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.43.1+1.17/fabric-api-0.43.1+1.17.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0+1.17/fabric-api-0.44.0+1.17.jar"
       ]
     },
     {
@@ -267,12 +267,12 @@
       ]
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-1.17-1.1.9.jar",
+      "path": "mods/InventoryProfilesNext-fabric-1.17-1.2.0.jar",
       "hashes": {
-        "sha512": "9294a6717e50899834e90ed80a67f12ec1ef139569c595529645c4f0a7c2e5d3ae51d10507a5ea8c799f47bbfcfb51ea9e2b35b12177d01cae346ca28e30eaeb"
+        "sha512": "9b7cd78e1ecc7ecd35de0e42b1854440c0a735c5c01edb119ea3d8ebb5831003122848627fa6c3ead4f9d737fabdc96162ca809e0b3d3ef2efc29a4083fb4bfc"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.1.9/InventoryProfilesNext-fabric-1.17-1.1.9.jar"
+        "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.2.0/InventoryProfilesNext-fabric-1.17-1.2.0.jar"
       ]
     },
     {
@@ -519,12 +519,12 @@
       ]
     },
     {
-      "path": "mods/RoughlyEnoughItems-6.2.335.jar",
+      "path": "mods/RoughlyEnoughItems-6.2.347.jar",
       "hashes": {
-        "murmur2": "3093675961"
+        "murmur2": "1943737108"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3532/452/RoughlyEnoughItems-6.2.335.jar"
+        "https://edge.forgecdn.net/files/3551/607/RoughlyEnoughItems-6.2.347.jar"
       ]
     },
     {
@@ -618,17 +618,17 @@
       ]
     },
     {
-      "path": "mods/XaerosWorldMap_1.18.4_Fabric_1.17.1.jar",
+      "path": "mods/XaerosWorldMap_1.18.6_Fabric_1.17.1.jar",
       "hashes": {
-        "murmur2": "4127622590"
+        "murmur2": "259873635"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3541/574/XaerosWorldMap_1.18.4_Fabric_1.17.1.jar"
+        "https://edge.forgecdn.net/files/3549/48/XaerosWorldMap_1.18.6_Fabric_1.17.1.jar"
       ]
     }
   ],
   "dependencies": {
     "minecraft": "1.17.1",
-    "fabric-loader": "0.12.5"
+    "fabric-loader": "0.12.8"
   }
 }
