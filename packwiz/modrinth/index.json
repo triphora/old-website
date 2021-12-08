@@ -24,12 +24,12 @@
       ]
     },
     {
-      "path": "mods/architectury-2.6.35.jar",
+      "path": "mods/architectury-2.8.46.jar",
       "hashes": {
-        "murmur2": "1974939410"
+        "murmur2": "390881727"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3500/17/architectury-2.6.35.jar"
+        "https://edge.forgecdn.net/files/3554/967/architectury-2.8.46.jar"
       ]
     },
     {
@@ -42,12 +42,12 @@
       ]
     },
     {
-      "path": "mods/authme-mc1.17.1-2.0.0.jar",
+      "path": "mods/authme-mc1.17.1-2.1.0.jar",
       "hashes": {
-        "murmur2": "258772419"
+        "murmur2": "925232932"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3535/586/authme-mc1.17.1-2.0.0.jar"
+        "https://edge.forgecdn.net/files/3554/686/authme-mc1.17.1-2.1.0.jar"
       ]
     },
     {
@@ -228,6 +228,15 @@
       },
       "downloads": [
         "https://cdn.modrinth.com/data/3qsfQtE9/versions/1.5.1/fabrishot-1.5.1.jar"
+      ]
+    },
+    {
+      "path": "mods/fastopenlinksandfolders-1.0.0.jar",
+      "hashes": {
+        "murmur2": "287316950"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3540/39/fastopenlinksandfolders-1.0.0.jar"
       ]
     },
     {

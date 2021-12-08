@@ -1,15 +1,15 @@
 name = "Auth Me"
-filename = "authme-mc1.17.1-2.0.0.jar"
+filename = "authme-mc1.17.1-2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3535/586/authme-mc1.17.1-2.0.0.jar"
+url = "https://edge.forgecdn.net/files/3554/686/authme-mc1.17.1-2.1.0.jar"
 hash-format = "murmur2"
-hash = "258772419"
+hash = "925232932"
 
 [update]
 [update.curseforge]
-file-id = 3535586
+file-id = 3554686
 project-id = 356643
 release-channel = "beta"
 

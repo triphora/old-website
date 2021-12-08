@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c1ac0ea5003f230698651f3ea3a3a1d53e87de3add18c41409bf29d7f1d53f3a"
+hash = "94aebd7f75aaae18f72f3633dfec40f3e7f1857b75240e5640b06821cb787c92"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.toml"
-hash = "2a4738362aaca42c01e46a2fb6795735492198b22c05d0c8490a499c227f211d"
+hash = "d7861bf8c1dcfb157115cf18ba74c1b1dae276e197e9a662869f03474799c3fd"
 metafile = true
 
 [[files]]
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.toml"
 hash = "b7bdc8b8fc1892a98140e8d62d7496654e8215f5fd6fca591214bb1067acbaa6"
+metafile = true
+
+[[files]]
+file = "mods/fastopenlinksandfolders.toml"
+hash = "43fdcfbe3d14e724bf3c5a37bda4648677b511a296797ae377573308297c5a62"
 metafile = true
 
 [[files]]
