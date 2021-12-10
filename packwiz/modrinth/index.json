@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "2021.12.02",
+  "versionId": "2021.12.09",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -638,6 +638,6 @@
   ],
   "dependencies": {
     "minecraft": "1.17.1",
-    "fabric-loader": "0.12.8"
+    "fabric-loader": "0.12.9"
   }
 }

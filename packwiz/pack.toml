@@ -1,6 +1,6 @@
 name = "waffle's Modpack"
 author = "wafflecoffee"
-version = "2021.12.02"
+version = "2021.12.09"
 pack-format = "packwiz:1.0.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "f36e95814add1dc30f7b9f0207ad0d765d936f930f23e0feec1d8b4fc54c1569"
 
 [versions]
-fabric = "0.12.8"
+fabric = "0.12.9"
 minecraft = "1.17.1"
