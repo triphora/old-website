@@ -24,12 +24,12 @@
       ]
     },
     {
-      "path": "mods/architectury-2.8.46.jar",
+      "path": "mods/architectury-2.8.50.jar",
       "hashes": {
-        "murmur2": "390881727"
+        "murmur2": "4051988951"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3554/967/architectury-2.8.46.jar"
+        "https://edge.forgecdn.net/files/3562/472/architectury-2.8.50.jar"
       ]
     },
     {
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "path": "mods/clear-skies-mc117-1.5.70.jar",
+      "path": "mods/clear-skies-fabric-mc117-2.0.80.jar",
       "hashes": {
-        "murmur2": "871592578"
+        "murmur2": "1609592229"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3399/879/clear-skies-mc117-1.5.70.jar"
+        "https://edge.forgecdn.net/files/3561/196/clear-skies-fabric-mc117-2.0.80.jar"
       ]
     },
     {
@@ -96,12 +96,12 @@
       ]
     },
     {
-      "path": "mods/cloth-config-5.1.40-fabric.jar",
+      "path": "mods/cloth-config-5.2.47-fabric.jar",
       "hashes": {
-        "murmur2": "617662973"
+        "murmur2": "4189760986"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3521/267/cloth-config-5.1.40-fabric.jar"
+        "https://edge.forgecdn.net/files/3559/636/cloth-config-5.2.47-fabric.jar"
       ]
     },
     {
@@ -528,12 +528,12 @@
       ]
     },
     {
-      "path": "mods/RoughlyEnoughItems-6.2.347.jar",
+      "path": "mods/RoughlyEnoughItems-6.2.351.jar",
       "hashes": {
-        "murmur2": "1943737108"
+        "murmur2": "1719734484"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3551/607/RoughlyEnoughItems-6.2.347.jar"
+        "https://edge.forgecdn.net/files/3562/576/RoughlyEnoughItems-6.2.351.jar"
       ]
     },
     {
@@ -618,21 +618,21 @@
       ]
     },
     {
-      "path": "mods/Xaeros_Minimap_21.22.3_Fabric_1.17.1.jar",
+      "path": "mods/Xaeros_Minimap_21.22.5_Fabric_1.17.1.jar",
       "hashes": {
-        "murmur2": "3728539726"
+        "murmur2": "1423712340"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3541/561/Xaeros_Minimap_21.22.3_Fabric_1.17.1.jar"
+        "https://edge.forgecdn.net/files/3562/414/Xaeros_Minimap_21.22.5_Fabric_1.17.1.jar"
       ]
     },
     {
-      "path": "mods/XaerosWorldMap_1.18.6_Fabric_1.17.1.jar",
+      "path": "mods/XaerosWorldMap_1.18.7_Fabric_1.17.1.jar",
       "hashes": {
-        "murmur2": "259873635"
+        "murmur2": "42897551"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3549/48/XaerosWorldMap_1.18.6_Fabric_1.17.1.jar"
+        "https://edge.forgecdn.net/files/3562/436/XaerosWorldMap_1.18.7_Fabric_1.17.1.jar"
       ]
     }
   ],

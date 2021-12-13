@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "94aebd7f75aaae18f72f3633dfec40f3e7f1857b75240e5640b06821cb787c92"
+hash = "0480225321c7edbf269f22d9ed563d2df606f3cfdb79ce39918716b907f0e47c"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-skies.toml"
-hash = "ccdd2bc4f263641991a3498292a51aa12fc2f920ab77e48d4bd81cc0924f5c86"
+hash = "ca69719b82ce34d3588f3305a0ea7cabe69da0a698a4503a89e9e6272a0e342c"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "8085a1c52ea30800552f6351d14a1a435e5aa55f4853733aa1f710a41af2ac80"
+hash = "c8b792cdc006780b256e1a1a05fca91cc32542547d9805ece9b48eff78e5b2d6"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "fcbd2b8dd8357470a85b262e72880371ec5f5c308aec64e39aaf10a001dca34a"
+hash = "3e199030dcd151b2aaf6084a7cee0a6452d58c57610635f71b6a7741e25bb577"
 metafile = true
 
 [[files]]
@@ -362,10 +362,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "be2bc01e6e6f1c33f17a900bda49f80e02f809b4ed0bd6930ad3d9403a01529d"
+hash = "834b546e013d5732901ea8a7cb87166f14602ab3ef8bc10e8116aaf1f2a27ed6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "5448a0d19d51ce917dd16dc2fe3e98b981c992f3cbc2c3dc52c2bdd7f5fb4771"
+hash = "380b5746eba1bd6f5a351bd804ac0084e5b87b9fc59ddd83c3d407a64ffd2d81"
 metafile = true
