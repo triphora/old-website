@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "2021.12.10",
+  "versionId": "2021.12.14",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -69,12 +69,12 @@
       ]
     },
     {
-      "path": "mods/clear-skies-fabric-mc117-2.0.80.jar",
+      "path": "mods/clear-skies-fabric-mc117-2.0.89.jar",
       "hashes": {
-        "murmur2": "1609592229"
+        "murmur2": "944573900"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3561/196/clear-skies-fabric-mc117-2.0.80.jar"
+        "https://edge.forgecdn.net/files/3565/155/clear-skies-fabric-mc117-2.0.89.jar"
       ]
     },
     {
@@ -638,6 +638,6 @@
   ],
   "dependencies": {
     "minecraft": "1.17.1",
-    "fabric-loader": "0.12.11"
+    "fabric-loader": "0.12.12"
   }
 }

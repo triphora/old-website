@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-skies.toml"
-hash = "ca69719b82ce34d3588f3305a0ea7cabe69da0a698a4503a89e9e6272a0e342c"
+hash = "c01bb5f48e172dea3f30ea1ca4708afd9fd6c18b2bb8aa73d09e03cc3d71ac7f"
 metafile = true
 
 [[files]]
