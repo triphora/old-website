@@ -1,0 +1,13 @@
+name = "Draggable Resource Packs"
+filename = "DraggableResourcePacks-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3450/119/DraggableResourcePacks-1.0.1.jar"
+hash-format = "murmur2"
+hash = "496870127"
+
+[update]
+[update.curseforge]
+file-id = 3450119
+project-id = 522697

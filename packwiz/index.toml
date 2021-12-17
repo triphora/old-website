@@ -101,6 +101,11 @@ hash = "efe10eb9402a6a43cd402e030fb26c8237c77fc4dd159c1ce7cb933e51079a1b"
 metafile = true
 
 [[files]]
+file = "mods/draggable-resource-packs.toml"
+hash = "1cfbbc40dd9381f26a99c8591ef706364fff634490991f99447a9f440d00d582"
+metafile = true
+
+[[files]]
 file = "mods/durabilityviewer.toml"
 hash = "5544e918a0a3ea24dfc219bcb4147aee0ccad88225778c4f56246ae7abeec816"
 metafile = true

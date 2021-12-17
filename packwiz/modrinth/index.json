@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "2021.12.14",
+  "versionId": "2021.12.17",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -147,6 +147,15 @@
       },
       "downloads": [
         "https://cdn.modrinth.com/data/sUbMm93i/versions/2.0+1.17/DCCH-2.0+1.17.jar"
+      ]
+    },
+    {
+      "path": "mods/DraggableResourcePacks-1.0.1.jar",
+      "hashes": {
+        "murmur2": "496870127"
+      },
+      "downloads": [
+        "https://edge.forgecdn.net/files/3450/119/DraggableResourcePacks-1.0.1.jar"
       ]
     },
     {
