@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "0480225321c7edbf269f22d9ed563d2df606f3cfdb79ce39918716b907f0e47c"
+hash = "27e3fc3387bf6bb9c9d524a22047231fe834bfde38b36a4f4ac3163a7dbb5f97"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "59d0ec9372e935c6dc75c452558712bfb3cb112e8e4aa7e950f4bb34ca975170"
+hash = "d838e197b7ba42c970f11680432d5f77d3f6cab3e147853dec30a512615bdbe2"
 metafile = true
 
 [[files]]
