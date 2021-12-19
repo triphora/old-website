@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "2021.12.18",
+  "versionId": "2021.12.19",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -195,12 +195,12 @@
       ]
     },
     {
-      "path": "mods/emcutils-1.17.1-2.4.0-beta.1.jar",
+      "path": "mods/emcutils-1.17.1-2.4.0-beta.2.jar",
       "hashes": {
-        "sha512": "ad6e6bb687566a9dddc2ec53815861be0aac7a57050a9682d4f2a8550cedad859c60d6355f0f33f344ba0f927429d588fb2165aa7e31a8e42e1816e9a9e4ea00"
+        "sha512": "1a6963227c967fcee11b0f2128282879d406e3c554251b1640f462f90e938680311d8994fc4968357765ca3830657b5b6d83dfbe674e0e80d6ac7a0c5a051d8d"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/QYTT62S0/versions/2.4.0-beta.1+fabric/emcutils-1.17.1-2.4.0-beta.1.jar"
+        "https://cdn.modrinth.com/data/QYTT62S0/versions/2.4.0-beta.2+fabric/emcutils-1.17.1-2.4.0-beta.2.jar"
       ]
     },
     {

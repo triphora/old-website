@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+micro pack.toml
 packwiz update -a
 packwiz refresh
 cd modrinth/
