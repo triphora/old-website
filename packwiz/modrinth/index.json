@@ -1,7 +1,7 @@
 {
   "formatVersion": 1,
   "game": "minecraft",
-  "versionId": "2021.12.19",
+  "versionId": "2021.12.25",
   "name": "waffle's Modpack",
   "summary": "A client-side modpack made by wafflecoffee/Emmaffle, primarily for use on EMC.",
   "files": [
@@ -24,12 +24,12 @@
       ]
     },
     {
-      "path": "mods/architectury-2.8.53.jar",
+      "path": "mods/architectury-2.8.61.jar",
       "hashes": {
-        "murmur2": "1685395913"
+        "murmur2": "2993947079"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3570/508/architectury-2.8.53.jar"
+        "https://edge.forgecdn.net/files/3577/743/architectury-2.8.61.jar"
       ]
     },
     {
@@ -222,12 +222,12 @@
       ]
     },
     {
-      "path": "mods/fabric-api-0.44.0+1.17.jar",
+      "path": "mods/fabric-api-0.45.0+1.17.jar",
       "hashes": {
-        "sha512": "605ebe756a01c95355798bda23d87ccebad74710a1ee3d929bbcd3944128d87a53b9333856fd083e1fa4b0f77a4e28df8dcbe9057ef86246d4d6558943b89419"
+        "sha512": "3ad28f9fc97f1a810465eaccc120f95c1ffd0e9d81981e1e31a11d447eca223c8b424b10b05a37ad9dff5e7187e127e1f306b1cc4ef68592fbaa6b25acd4183c"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.44.0+1.17/fabric-api-0.44.0+1.17.jar"
+        "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.45.0+1.17/fabric-api-0.45.0+1.17.jar"
       ]
     },
     {
@@ -285,12 +285,12 @@
       ]
     },
     {
-      "path": "mods/InventoryProfilesNext-fabric-1.17-1.2.1.jar",
+      "path": "mods/InventoryProfilesNext-fabric-1.17-1.2.2.jar",
       "hashes": {
-        "sha512": "e7e75f22df5beabe59650310cc0cc6c78a7bb9702f5df274ff1b2815135546f7fd205ca8fbd0490b36de2322f8a80cad1c60d81fab640495c1490c326cb29abb"
+        "sha512": "93b5b097dd8e67092f48c588223d89aa1eaa53c4100cab8d16e2aec72028e9d59138ea2850aa171a19177cd8f9ccc266e5cf0d13dc6e30508e02b4af63858095"
       },
       "downloads": [
-        "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.2.1/InventoryProfilesNext-fabric-1.17-1.2.1.jar"
+        "https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.17.1-1.2.2/InventoryProfilesNext-fabric-1.17-1.2.2.jar"
       ]
     },
     {
@@ -357,12 +357,12 @@
       ]
     },
     {
-      "path": "mods/litematica-fabric-1.17.1-0.0.0-dev.20211203.010230.jar",
+      "path": "mods/litematica-fabric-1.17.1-0.9.0.jar",
       "hashes": {
-        "murmur2": "709987490"
+        "murmur2": "839025309"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3545/906/litematica-fabric-1.17.1-0.0.0-dev.20211203.010230.jar"
+        "https://edge.forgecdn.net/files/3580/241/litematica-fabric-1.17.1-0.9.0.jar"
       ]
     },
     {
@@ -627,21 +627,21 @@
       ]
     },
     {
-      "path": "mods/Xaeros_Minimap_21.22.5_Fabric_1.17.1.jar",
+      "path": "mods/Xaeros_Minimap_21.22.6_Fabric_1.17.1.jar",
       "hashes": {
-        "murmur2": "1423712340"
+        "murmur2": "899429560"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3562/414/Xaeros_Minimap_21.22.5_Fabric_1.17.1.jar"
+        "https://edge.forgecdn.net/files/3574/61/Xaeros_Minimap_21.22.6_Fabric_1.17.1.jar"
       ]
     },
     {
-      "path": "mods/XaerosWorldMap_1.18.7_Fabric_1.17.1.jar",
+      "path": "mods/XaerosWorldMap_1.18.8_Fabric_1.17.1.jar",
       "hashes": {
-        "murmur2": "42897551"
+        "murmur2": "3461710629"
       },
       "downloads": [
-        "https://edge.forgecdn.net/files/3562/436/XaerosWorldMap_1.18.7_Fabric_1.17.1.jar"
+        "https://edge.forgecdn.net/files/3574/75/XaerosWorldMap_1.18.8_Fabric_1.17.1.jar"
       ]
     }
   ],

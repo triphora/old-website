@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "27e3fc3387bf6bb9c9d524a22047231fe834bfde38b36a4f4ac3163a7dbb5f97"
+hash = "f1710e6ce1d869b4e62ad21d885c233dccfe0450a8a54c99b58001648915e882"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "d2e7e42a0699aaf97417d66cd6b693e0d6a4881406e05d82bb2275b25c02f6b2"
+hash = "5832109c20dd9a694bd4732521d8d8fe72fa2c2cdeadec9ce1a157caef77072f"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "99a5dec4084d8b33fb874986cfed38c3815f61b4bc655db7f3f5d6ab017b0c3f"
+hash = "ac61863a93b4c5d1434f0eee5bee78396ef40f3b7e78f2351cfa94195c8a70cd"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "16401231177aee746af26a55c788a7362fe603981ef7be41c8523eefb5b187ac"
+hash = "914cbcf57f167d735dadc71b14e92c476c06476f7d8e3d6dd9af6eebffd15dff"
 metafile = true
 
 [[files]]
@@ -367,10 +367,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "834b546e013d5732901ea8a7cb87166f14602ab3ef8bc10e8116aaf1f2a27ed6"
+hash = "797d310789d41369ed4266d479b00bd30e6290d15961c6b0ee7569a9b3769ec4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "380b5746eba1bd6f5a351bd804ac0084e5b87b9fc59ddd83c3d407a64ffd2d81"
+hash = "4ae8731a88960a0b29b9ebfa208f60d6fbd11c0443e631bfbd4e8bc567d13b52"
 metafile = true
