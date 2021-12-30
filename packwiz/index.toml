@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "f1710e6ce1d869b4e62ad21d885c233dccfe0450a8a54c99b58001648915e882"
+hash = "4439dcc44754b8401b4ccd2a37448f685f487a9c74c51f9e608b76768f7ff0ec"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.toml"
-hash = "23cffefb97c7e7b2afb58c28e965ac8deaeb21d7ed997c1e80ff76ef0d4c8634"
+hash = "7dfaf0dc22e38ce9244621f48face687e40581594883c003402bd6ad59e5eb2d"
 metafile = true
 
 [[files]]
@@ -367,10 +367,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "797d310789d41369ed4266d479b00bd30e6290d15961c6b0ee7569a9b3769ec4"
+hash = "19348fde23bfcf458e53f1f39e42b3a84b68279184a0c32b1317e374ef33315f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "4ae8731a88960a0b29b9ebfa208f60d6fbd11c0443e631bfbd4e8bc567d13b52"
+hash = "ae7ad2f085de0c615033e9e4ecf9637e204e8dfac782450d8442c6506714a2c5"
 metafile = true
