@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "5832109c20dd9a694bd4732521d8d8fe72fa2c2cdeadec9ce1a157caef77072f"
+hash = "c225c5bf638b3881c18e4dbbfd57ba0162a0a1ce7be23230907a4a129b44689e"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.toml"
-hash = "43fdcfbe3d14e724bf3c5a37bda4648677b511a296797ae377573308297c5a62"
+hash = "2a1b908703ce72329a592fc713da7a1389b520b431c3946a93f2f3b3234a16af"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "377477adaa8daad40f1749113d7d80ca2bdb7cfdd5104c26b3ac437f472706d8"
+hash = "9e60f98f7b868c90bb557e862495fd605596c13bb44e3c08c2f2e4b538a36b16"
 metafile = true
 
 [[files]]
@@ -241,11 +241,6 @@ hash = "5961b85aa9126efad30e1be1ac14e12249395624e937d7e7cbfb6048b27a373a"
 metafile = true
 
 [[files]]
-file = "mods/mixintrace.toml"
-hash = "c90a2f935c95f0005e2b940bff870b4e4a182ca6fdf0360a2663327723465e2c"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.toml"
 hash = "fd6a42e8566be9f95475d3f95e75798c17ef6b30c9cc57530dcde44c28670ef8"
 metafile = true
@@ -257,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbttooltip.toml"
-hash = "eb909959a0db952d1b9011391012ca7627eefd5ad021838a6d19d39bc25b63a6"
+hash = "8e7692b1d6035dcbcec44116592f293a115aa8418900b36d436dd6bd6131123d"
 metafile = true
 
 [[files]]

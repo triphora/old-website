@@ -1,12 +1,12 @@
 name = "waffle's Modpack"
 author = "wafflecoffee"
-version = "2022.1.1"
+version = "2022.1.6"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f2f652908f8468592963414de117ccf0f77568393b2d36fde8571c38745769e2"
+hash = "5d11d4896892aa0f0bd29ff6048636454c9030f2475983fefbda3b8c35411c8a"
 
 [versions]
 fabric = "0.12.12"
