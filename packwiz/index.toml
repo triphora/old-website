@@ -251,11 +251,6 @@ hash = "01567be5ebeb070b200c796ce8a3eafc39bc2750e0128033fc395574e5a8924e"
 metafile = true
 
 [[files]]
-file = "mods/nbttooltip.toml"
-hash = "8e7692b1d6035dcbcec44116592f293a115aa8418900b36d436dd6bd6131123d"
-metafile = true
-
-[[files]]
 file = "mods/nmuk.toml"
 hash = "fc3cae430fdb9fa2b91edd2b8c972f7a90fb015ef586e986a078103b2a24cbe8"
 metafile = true
