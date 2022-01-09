@@ -1,0 +1,8 @@
+name = "Amecs API"
+filename = "amecsapi-1.18-1.3.3+mc1.18-pre1.jar"
+side = "client"
+
+[download]
+url = "https://maven.siphalor.de/de/siphalor/amecsapi-1.18/1.3.3+mc1.18-pre1/amecsapi-1.18-1.3.3+mc1.18-pre1.jar"
+hash-format = "sha512"
+hash = "0f839338b51b35eb063e003f71e0a7ad68c50f2efe1cf3ac466dca32408176ff4b68350a1b830a3f9cd185b3e910a87ccfb8f9e113500d4de59aaee7f08762ba"

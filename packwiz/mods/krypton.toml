@@ -1,13 +1,13 @@
 name = "Krypton"
-filename = "krypton-0.1.4.jar"
+filename = "krypton-0.1.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.4/krypton-0.1.4.jar"
+url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.6/krypton-0.1.6.jar"
 hash-format = "sha512"
-hash = "11caa7034af4b3902da46467e00fe734b5266817d7d312815ea23d3cb1d6ab6a9959625138b70e79dc70ff872fe066e8358c7c5cd1cb8cfa8099a08f26531481"
+hash = "2e3548f3fb24e186090dc203ecc500df82b1eec2c3300f772f9622b6050be8b7edef71b91c4f99b4c2bcd201ff83fadf363c227a21d4f24f776b93dccaa477d5"
 
 [update]
 [update.modrinth]
 mod-id = "fQEb0iXm"
-version = "PGovBIXq"
+version = "kCiWZ1wv"

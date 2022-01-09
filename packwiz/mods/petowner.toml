@@ -1,16 +1,16 @@
 name = "PetOwner"
-filename = "PetOwner-1.8.1-1.17-rc1+.jar"
+filename = "PetOwner-1.8.2-1.18-pre4+.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IxUlAAFe/versions/1.8.1/PetOwner-1.8.1-1.17-rc1+.jar"
+url = "https://cdn.modrinth.com/data/IxUlAAFe/versions/1.8.2/PetOwner-1.8.2-1.18-pre4+.jar"
 hash-format = "sha512"
-hash = "ad5a33bf4196289138563d76281a354460dd07facc643d723d0113571096c58cae9b58ffbd617cf6952e5d99b45fb547897ccd3243d000f3d8927ccb4d9d9910"
+hash = "db07b05bd28cb2c3edd2f7d79ca3e954d190d404bb7bd78803dbc6c518cce97c351b0e1f3faa378ba54b2a52952d68fbd104b389311b927b2d4eee13baa800f9"
 
 [update]
 [update.modrinth]
 mod-id = "IxUlAAFe"
-version = "lRx2c1nf"
+version = "vdWR3jXS"
 
 [option]
 optional = true

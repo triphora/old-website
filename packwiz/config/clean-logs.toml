@@ -2,6 +2,9 @@
 # Print out all phrases and regex to be filtered out on startup
 printOnStart = false
 
+# Print a single line on start saying that Clean Logs will filter from this point forward
+printInitLineOnStart = false
+
 # If a log message has one of these phrases, it will be filtered out from logging
 phrases = [
   "Received passengers for unknown entity",
@@ -16,6 +19,7 @@ phrases = [
   "has a broken icon, loading default icon",
   "Couldn't load Narrator library : Unable to load library",
   "Reloaded Plugin Manager",
+  "Registered plugin provider",
   "Reloading Plugin Manager",
   "Iris has detected a non-wrapped render layer, it will not be rendered with the correct shader program",
   "Maximum sound pool size 247 reached",
@@ -23,12 +27,18 @@ phrases = [
   "changed update type to IMPORTANT_REBUILD while in queue for REBUILD, skipping",
   "########## GL ERROR ##########",
   "@ Pre render",
+  "@ Render",
+  "@ Post render",
+  "65539: Invalid key",
+  "OpenGL debug message",
+  "Shader compilation log for iris:sodium-terrain.vsh",
   "65539: Invalid key -1",
   "This will be removed in 1.18 snapshots, so ask the author of this mod to support the new API.",
   "false for blockstate",
   "Applied 0 biome modifications to 0 of 81 new biomes in",
   "WTHIT is not found on the server, all syncable config will reset to their default value.",
-  "@ Post render",
+  "Duplicate uniform",
+  "Unable to play empty soundEvent",
   ".lr loaded"
 ]
 

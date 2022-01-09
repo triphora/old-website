@@ -1,13 +1,13 @@
 name = "ClickThrough"
-filename = "clickthrough-1.17.1-fabric0.36.1-0.4.jar"
+filename = "clickthrough-1.18-fabric0.43.1-0.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.17.1-fabric0.36.1-0.4/clickthrough-1.17.1-fabric0.36.1-0.4.jar"
+url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.18-fabric0.43.1-0.4/clickthrough-1.18-fabric0.43.1-0.4.jar"
 hash-format = "sha512"
-hash = "7d98a0e24218ce1744f07041bdfe5476e6a8aae84b6006957f092fb5affa9d00aa7b47bcd72014875495833572affcff733cf37a106e2cc52cb6b15f6ef7cbc0"
+hash = "19486326912376e602666894ce494a60299c9f04cc833add6e08fd59960c69816249460a4fae9f6d365738c3ced31569aaf6f6cde5af6383a06a878297d96a52"
 
 [update]
 [update.modrinth]
 mod-id = "Z5b0cAlD"
-version = "ZyygREAD"
+version = "puyruYCG"

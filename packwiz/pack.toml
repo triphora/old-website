@@ -1,13 +1,16 @@
 name = "waffle's Modpack"
 author = "wafflecoffee"
-version = "2022.1.7"
+version = "2022.1.8"
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e8c8c96cf5f2b83188d31180a09a8c5e7d36bda81d2da557ef657bd37d35076b"
+hash = "76ddf69352ba3a607ef9a3c23962d697d98d5f65e490aa4740c14b07ca5697b7"
 
 [versions]
 fabric = "0.12.12"
-minecraft = "1.17.1"
+minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = ["1.18"]

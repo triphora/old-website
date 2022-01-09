@@ -1,15 +1,15 @@
 name = "Command Macros"
-filename = "cmdkeybind-1.5.2-1.17.jar"
+filename = "cmdkeybind-1.5.3-1.18.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3351/73/cmdkeybind-1.5.2-1.17.jar"
+url = "https://edge.forgecdn.net/files/3553/95/cmdkeybind-1.5.3-1.18.jar"
 hash-format = "murmur2"
-hash = "3669459963"
+hash = "3092299030"
 
 [update]
 [update.curseforge]
-file-id = 3351073
+file-id = 3553095
 project-id = 331956
 release-channel = "beta"
 

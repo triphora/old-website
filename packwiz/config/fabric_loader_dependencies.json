@@ -21,9 +21,20 @@
         "modupdater": ""
       }
     },
+    "minihud": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
     "quickconnectbutton": {
       "-depends": {
+        "minecraft": "",
         "java": ""
+      }
+    },
+    "smoothscrollingeverywhere": {
+      "-depends": {
+        "minecraft": ""
       }
     }
   }

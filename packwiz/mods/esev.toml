@@ -1,16 +1,16 @@
 name = "Emma's Simple Elytra View"
-filename = "esev-1.0.0.jar"
+filename = "eepv-1.1.0+21w37a.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CnOyIhK0/versions/1.0.0/esev-1.0.0.jar"
+url = "https://cdn.modrinth.com//data/CnOyIhK0/versions/1.1.0/eepv-1.1.0+21w37a.jar"
 hash-format = "sha512"
-hash = "e53a6f7808252f7ef782aea298a7d9b95ca97411b624f2cb348c7737ae989492e18c30c4f7996e0148689036f58d69f070be50fd4536660799ea49b0eda10f1c"
+hash = "fb5f990cdcace617a7042009af4f7ffe5a1bbd304df30b5fe083f62def036934e195752b8dc0f6417c001e5a4fc0e722cbb8b190265c955624b907cac514452a"
 
 [update]
 [update.modrinth]
 mod-id = "CnOyIhK0"
-version = "7xgEY8y0"
+version = "DotD68Xc"
 
 [option]
 optional = true

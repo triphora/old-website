@@ -1,8 +1,7 @@
 index.html
 LICENSE
-MANUAL-UPDATE
 README.md
 MultiMC.zip
-waffle\'s\ Modpack-2022.1.6.mrpack
+*.mrpack
 mods/jars/**
 update.sh

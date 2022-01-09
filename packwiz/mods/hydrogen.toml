@@ -1,13 +1,8 @@
 name = "Hydrogen"
-filename = "hydrogen-fabric-mc1.17.1-0.3.jar"
+filename = "hydrogen-fabric-0.3-20211127.151538-1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AZomiSrC/versions/mc1.17.1-0.3.1/hydrogen-fabric-mc1.17.1-0.3.jar"
+url = "https://cdn.discordapp.com/attachments/745979270748307458/929565604443226243/hydrogen-fabric-0.3-20211127.151538-1.jar"
 hash-format = "sha512"
-hash = "db4079c26bf27b38d32ae60a47e7d347e01d43def5987e5c2cb25218e427b2f10f7fcb36f9de5d486a0953637793cd90450f8d2d7ff1a31cf8a90af3794646ad"
-
-[update]
-[update.modrinth]
-mod-id = "AZomiSrC"
-version = "gqJWYgtD"
+hash = "f104d42aebae8333396101bd3dba95f6494e20662111ce018a59c0715fd4104233dbfd8539f3ce8c07fd71caaf7cdd5dd454cd8153da48d4b0230d88376dfb2e"
