@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar"
-hash-format = "sha512"
-hash = "e09a13efb20a36b7448fd3db688e2d810c00186a280be8f1e4ee2a1401267e544f981f8d8e042f15a00fef44abd9213a9eb46ffe3880b504c09ad5f5d532cf21"
+hash-format = "sha1"
+hash = "9bc9c61f0a7dc6c765118a0527850b91847608cb"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.3+1.18.1-fabric/notenoughcrashes-4.1.3+1.18.1-fabric.jar"
-hash-format = "sha512"
-hash = "fb9db9d6e05a857c2aaced31d2f3b15b76a2adc8b56e1c207115851714a3aeda4566a5f4e4b283380a80d922e142573acc3f6c7264d9bc084de3922d0a7b44eb"
+hash-format = "sha1"
+hash = "9d0bffe87dbdf9322c4faedb00698ce3ec791ed3"
 
 [update]
 [update.modrinth]

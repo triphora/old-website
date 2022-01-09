@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3559/499/worldedit-mod-7.2.8.jar"
-hash-format = "murmur2"
-hash = "626940980"
+hash-format = "sha1"
+hash = "6f82fb0943421681023c5b3d3afdd87ebb4a2034"
 
 [update]
 [update.curseforge]

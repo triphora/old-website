@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://cdn.discordapp.com/attachments/745979270748307458/929565604443226243/hydrogen-fabric-0.3-20211127.151538-1.jar"
-hash-format = "sha512"
-hash = "f104d42aebae8333396101bd3dba95f6494e20662111ce018a59c0715fd4104233dbfd8539f3ce8c07fd71caaf7cdd5dd454cd8153da48d4b0230d88376dfb2e"
+hash-format = "sha1"
+hash = "4757ce438182d0cb6ce229b98e52b98d278d8516"

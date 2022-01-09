@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3561/105/CraftPresence-Fabric-1.18.1-Release-1.8.8.jar"
-hash-format = "murmur2"
-hash = "3026368534"
+hash-format = "sha1"
+hash = "c8ffa7b4aaae3dbc4435b6336f0b490a6a3133c9"
 
 [update]
 [update.curseforge]

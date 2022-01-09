@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OTteoJUk/versions/1.1.0/clean-logs-1.1.0-all.jar"
-hash-format = "sha512"
-hash = "13f2ca4f32b57ad4f3d704d8cf0268123140249be97b6b5cb67a0d9d58224981ccdbb9ad708d2b82050998e55e3749d5b5368e6c4b1ac2c2e9905fab4809612e"
+hash-format = "sha1"
+hash = "57cb3ac70a38ca3964bd05b1253c8c46f543b239"
 
 [update]
 [update.modrinth]

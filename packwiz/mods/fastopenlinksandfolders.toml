@@ -1,11 +1,11 @@
 name = "FastOpenLinksAndFolders"
 filename = "fastopenlinksandfolders-1.0.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3590/993/fastopenlinksandfolders-1.0.1.jar"
-hash-format = "murmur2"
-hash = "3808314323"
+hash-format = "sha1"
+hash = "4e4128d2d6c720e448e50cd6feec53d60ae29fb5"
 
 [update]
 [update.curseforge]

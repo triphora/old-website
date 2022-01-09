@@ -5,3 +5,4 @@ MultiMC.zip
 *.mrpack
 mods/jars/**
 update.sh
+mods/iris.toml

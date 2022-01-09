@@ -69,7 +69,6 @@ Required dependencies for mods may not included in this list.
 | [Empire Minecraft Utilities](https://modrinth.com/mod/QYTT62S0)        | Always     |         |
 | [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)           | Always     |         |
 | [Entity Culling](https://curseforge.com/projects/448233)               | Always     |         |
-| [ESEV](https://modrinth.com/mod/CnOyIhK0)                              | Optional   | `††`    |
 | [Fabric API](https://modrinth.com/mod/P7dR8mSH)                        | Always     |         |
 | [Fabrishot](https://modrinth.com/mod/3qsfQtE9)                         | Always     |         |
 | [Fast Open Links and Folders](https://curseforge.com/projects/513840)  | Always     | `;`     |

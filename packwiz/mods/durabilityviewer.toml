@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/LTM1f0yY/versions/1.18-fabric0.43.1-1.10.2/durabilityviewer-1.18-fabric0.43.1-1.10.2.jar"
-hash-format = "sha512"
-hash = "23788c166753ce2d1b7ba00e39f1a22333028f067131729521e46fe2fd8735b5563f0d48856d31772fcf73577c71934e424f4b8cb129e1243a47c421d4f3a4f2"
+hash-format = "sha1"
+hash = "65d508c8a979c4ad047aee1a2b33ca716057a42e"
 
 [update]
 [update.modrinth]

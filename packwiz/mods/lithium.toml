@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.7/lithium-fabric-mc1.18.1-0.7.7.jar"
-hash-format = "sha512"
-hash = "638d259abebb622cc5e5ca905dc7361b5a0740f1c37ec827a0094dc03b7c3e83288217bfd4d17a20018d0237049674b014d62b4693b9af920b393ba37dad79fe"
+hash-format = "sha1"
+hash = "8eaffcb994e67ac7b3fd2efa526f7721f8327d11"
 
 [update]
 [update.modrinth]

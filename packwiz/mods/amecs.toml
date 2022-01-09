@@ -1,11 +1,11 @@
 name = "Amecs (Fabric)"
 filename = "amecs-1.3.4+mc.1.18-pre1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3523/240/amecs-1.3.4+mc.1.18-pre1.jar"
-hash-format = "murmur2"
-hash = "1702639856"
+hash-format = "sha1"
+hash = "88bba5fc859fc246073b4e6855d95242b444e4dc"
 
 [update]
 [update.curseforge]

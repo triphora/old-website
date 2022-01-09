@@ -1,11 +1,11 @@
 name = "Draggable Resource Packs"
 filename = "DraggableResourcePacks-2.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3558/606/DraggableResourcePacks-2.0.0.jar"
-hash-format = "murmur2"
-hash = "1902011758"
+hash-format = "sha1"
+hash = "cbda07149b455dc888a8dec798b8454ec1bf3e7d"
 
 [update]
 [update.curseforge]

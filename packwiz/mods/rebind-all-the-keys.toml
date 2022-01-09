@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/TpKqzzMu/versions/v1.1.1+1.18/rebind-all-the-keys-1.1.1+1.18.jar"
-hash-format = "sha512"
-hash = "b40bfe6a52035050633c6efccd1c91106eb8f7de805bba4ed52ff36a6d7a7396048eb744beba2c222706e5d1c15efa9d6558c4c6ba190a7c251e212aeabb8dbd"
+hash-format = "sha1"
+hash = "fb1e3843b02a9ff6b582adda4f8572a073ffb27e"
 
 [update]
 [update.modrinth]

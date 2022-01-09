@@ -1,11 +1,11 @@
 name = "Sodium"
-filename = "sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar"
+filename = "sodium-fabric-mc1.18.1-0.4.0-alpha5+rev.6390562.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5+build.9.jar"
-hash-format = "sha512"
-hash = "dc1bcac9330388b43bfb81eabfa36d1ff15efb3009460b3b1fb290feb70e52a55f726ad93fc09b1c9186ced595f8478fbef762ae1f5144568536e4c26f5464d6"
+url = "https://cdn.discordapp.com/attachments/745979270748307458/929840365844963479/sodium-fabric-mc1.18.1-0.4.0-alpha5rev.6390562.jar"
+hash-format = "sha1"
+hash = "ad55b17bfcaf2dd674df6d72f3808c703637e7ec"
 
 [update]
 [update.modrinth]

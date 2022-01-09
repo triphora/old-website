@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com//data/AFqV4ew3/versions/2.0.2/critical-orientation-2.0.2+21w37a.jar"
-hash-format = "sha512"
-hash = "0287e930d9be1b42d339fedc110f5bdfbb33fd2d3c80eb1ed4130f5f0d6fe74799ff1d11e2776df1672426cc5bece5cc0d23d5d1b34e319cb99d95dad0907ce7"
+hash-format = "sha1"
+hash = "1b0b5cc674cf392286e2d9261e81205146e01d71"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/m9FFV06N/versions/1.1.3/rainbowify-1.1.3.jar"
-hash-format = "sha512"
-hash = "cb24fc4640885bb5680b1c1345e17adff796a3a80a726f47011ad52e8e59534e1912abf3548ad944d96c99cf3e891904b6430671ebaa9b4b29bc841b2ddce610"
+hash-format = "sha1"
+hash = "cb6b47ab571eae13f7aee0b868169ddd2911d0f1"
 
 [update]
 [update.modrinth]

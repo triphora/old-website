@@ -1,18 +1,13 @@
-name = "Better Enchanted Books (Fabric)"
+name = "Better Enchanted Books"
 filename = "better-enchanted-books-1.17-1.2.12.jar"
-side = "both"
+side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3474/277/better-enchanted-books-1.17-1.2.12.jar"
-hash-format = "murmur2"
-hash = "2675688257"
+url = "https://cdn.modrinth.com/data/yjpXhps7/versions/1.2.12/better-enchanted-books-1.17-1.2.12.jar"
+hash-format = "sha1"
+hash = "229dacdec599d5a94521fe82dbe46df5bbd06820"
 
 [update]
-[update.curseforge]
-file-id = 3474277
-project-id = 369122
-release-channel = "beta"
-
-[option]
-optional = true
-description = "Better Enchanted Books improves the look and tooltips of enchanted books."
+[update.modrinth]
+mod-id = "yjpXhps7"
+version = "LfinCOf1"

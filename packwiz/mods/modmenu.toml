@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.0.1/modmenu-3.0.1.jar"
-hash-format = "sha512"
-hash = "8785af7fdb3808433132f1c14e02cdc24712f0dbb0f886999746f38b6678ebfd3088f69ee1e3153d4ea4dd04accbf2a6014f925f162e0a802f9dfd09e1ec2b60"
+hash-format = "sha1"
+hash = "5b7328a666250330b3dd6a7a5190783d618a0307"
 
 [update]
 [update.modrinth]

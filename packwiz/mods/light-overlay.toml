@@ -1,11 +1,11 @@
 name = "Light Overlay (Rift/Forge/Fabric)"
 filename = "light-overlay-6.0.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3552/777/light-overlay-6.0.4.jar"
-hash-format = "murmur2"
-hash = "3043555689"
+hash-format = "sha1"
+hash = "192a54af3094a9c7202519e2f01ff9bdc4f6ea1f"
 
 [update]
 [update.curseforge]

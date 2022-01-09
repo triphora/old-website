@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1KiJRrTg/versions/1.0.7+fabric/screenshot-to-clipboard-1.0.7-fabric.jar"
-hash-format = "sha512"
-hash = "7c1aa5235c08f5ddc2172a7cefe947e472793622cfb7f0a91ea628cf33da8ecd3ffdf9ac0732b577f56ca625d3d6380044c0ec95597290d3047b1953dbe763f3"
+hash-format = "sha1"
+hash = "760b3c0be40a3860bee1860bbee92cf25109e484"
 
 [update]
 [update.modrinth]

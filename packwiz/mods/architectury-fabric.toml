@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://edge.forgecdn.net/files/3587/337/architectury-3.4.9.jar"
-hash-format = "murmur2"
-hash = "3753628334"
+hash-format = "sha1"
+hash = "81da7576040fecc1bbe3927ab199a6565e34b386"
 
 [update]
 [update.curseforge]

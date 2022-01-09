@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.18-fabric0.43.1-0.4/clickthrough-1.18-fabric0.43.1-0.4.jar"
-hash-format = "sha512"
-hash = "19486326912376e602666894ce494a60299c9f04cc833add6e08fd59960c69816249460a4fae9f6d365738c3ced31569aaf6f6cde5af6383a06a878297d96a52"
+hash-format = "sha1"
+hash = "008dae63e148a802622baa648ff5a9b87bda7ea5"
 
 [update]
 [update.modrinth]

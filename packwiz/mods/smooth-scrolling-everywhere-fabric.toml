@@ -1,11 +1,11 @@
 name = "Smooth Scrolling Everywhere (Fabric)"
 filename = "SmoothScrollingEverywhere-3.0.3-unstable.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3453/127/SmoothScrollingEverywhere-3.0.3-unstable.jar"
-hash-format = "murmur2"
-hash = "4122230217"
+hash-format = "sha1"
+hash = "58847b364e89f3cea2f720df15b3790a8f1b9148"
 
 [update]
 [update.curseforge]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/erzkR85H/versions/1.0/QuickConnectButton-1.0.jar"
-hash-format = "sha512"
-hash = "13bafae981f0e4dcb9c3a5cf16eb574c91b719528dcc122ae89ec45ae7427b234a71bc5a1400b2befb6fe15befcd0b1ae8b0c746545dc6d4566c2b854245b1f2"
+hash-format = "sha1"
+hash = "2250ede24de2268f553cd648df0bb0dc518526a9"
 
 [update]
 [update.modrinth]

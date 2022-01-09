@@ -1,11 +1,11 @@
 name = "AntiGhost"
 filename = "antighost-1.18-fabric0.43.1-1.1.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.18-fabric0.43.1-1.1.4/antighost-1.18-fabric0.43.1-1.1.4.jar"
-hash-format = "sha512"
-hash = "ea0f38408102e4d2efd53c2cc11b88b711996b48d8922f76ea6abf731219c5bd1efe39ddf9cce77c54d49a62ff10fb685c00d2e4c524ab99d20f6296677ab2c4"
+hash-format = "sha1"
+hash = "619e250c133106bacc3e3b560839bd4b324dfda8"
 
 [update]
 [update.modrinth]

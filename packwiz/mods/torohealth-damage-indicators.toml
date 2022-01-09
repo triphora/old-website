@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3556/912/torohealth-1.18-fabric-2.jar"
-hash-format = "murmur2"
-hash = "1868709656"
+hash-format = "sha1"
+hash = "ed64923e5d9107ad12eb421b4da40a12863d9731"
 
 [update]
 [update.curseforge]

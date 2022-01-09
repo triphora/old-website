@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3f1BdVqy/versions/1.2.2/nostrip-1.2.2-1.17+.jar"
-hash-format = "sha512"
-hash = "a73a8d6bb24d7a66b57d9aead25f5a317db64ec6dc60f1fb213f7a54ea13fbd8148955964be0b1df3fe44b2fdfccfc23bb13630434b2a5af32ba2cdd4d8a65ab"
+hash-format = "sha1"
+hash = "cc71b10f2bdbfae31a14e10c0bdb56c7008350f2"
 
 [update]
 [update.modrinth]

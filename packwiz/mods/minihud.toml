@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3542/647/minihud-fabric-1.17.1-0.19.0-dev.20211027.183903.jar"
-hash-format = "murmur2"
-hash = "2705891185"
+hash-format = "sha1"
+hash = "9896b8ce1aefc3947290f002761a481b8cf0f2e4"
 
 [update]
 [update.curseforge]

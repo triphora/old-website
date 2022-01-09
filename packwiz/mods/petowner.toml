@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IxUlAAFe/versions/1.8.2/PetOwner-1.8.2-1.18-pre4+.jar"
-hash-format = "sha512"
-hash = "db07b05bd28cb2c3edd2f7d79ca3e954d190d404bb7bd78803dbc6c518cce97c351b0e1f3faa378ba54b2a52952d68fbd104b389311b927b2d4eee13baa800f9"
+hash-format = "sha1"
+hash = "ba3375b661e056e8a52f516469926ba7cdd730ea"
 
 [update]
 [update.modrinth]

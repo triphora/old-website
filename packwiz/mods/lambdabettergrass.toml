@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.2+1.17/lambdabettergrass-1.2.2+1.17.jar"
-hash-format = "sha512"
-hash = "065bb0dd243f25184547e296dfa8126735b5de45af6aac06ed87d579f504c75fbfdbee2cdab40b6a20bf6710e08ce67e1e16bd75368dc28f5d80132a9fce8c8a"
+hash-format = "sha1"
+hash = "f24117c93e077beb27ea7588b5fea702db2c4581"
 
 [update]
 [update.modrinth]

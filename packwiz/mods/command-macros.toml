@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3553/95/cmdkeybind-1.5.3-1.18.jar"
-hash-format = "murmur2"
-hash = "3092299030"
+hash-format = "sha1"
+hash = "d8c74ef1f5b43a2ad2ae0daca0ba271b0f8a4df5"
 
 [update]
 [update.curseforge]

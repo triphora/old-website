@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3544/210/malilib-fabric-1.18.0-0.10.0-dev.26.jar"
-hash-format = "murmur2"
-hash = "4277400873"
+hash-format = "sha1"
+hash = "dddd708c76ed5bcb79a8147cd7b0a46fa8091ab0"
 
 [update]
 [update.curseforge]
