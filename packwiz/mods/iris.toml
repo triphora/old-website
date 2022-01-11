@@ -6,8 +6,3 @@ side = "client"
 url = "https://cdn.discordapp.com/attachments/929594162632863774/929811853998174289/iris-mc1.18.1-1.2.0-beta3.1.jar"
 hash-format = "sha1"
 hash = "b30d9f26fe1487acbff20c7f09f83cba750f9367"
-
-[update]
-[update.modrinth]
-mod-id = "YL57xq9U"
-version = "zBuHbv6a"

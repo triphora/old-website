@@ -1,13 +1,8 @@
 name = "Sodium"
-filename = "sodium-fabric-mc1.18.1-0.4.0-alpha5+rev.6390562.jar"
+filename = "sodium-fabric-mc1.18.1-0.4.0-alpha5+rev.434eb02.jar"
 side = "client"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/745979270748307458/929840365844963479/sodium-fabric-mc1.18.1-0.4.0-alpha5rev.6390562.jar"
+url = "https://cdn.discordapp.com/attachments/745979270748307458/930274526745468938/sodium-fabric-mc1.18.1-0.4.0-alpha5rev.434eb02.jar"
 hash-format = "sha1"
-hash = "ad55b17bfcaf2dd674df6d72f3808c703637e7ec"
-
-[update]
-[update.modrinth]
-mod-id = "AANobbMI"
-version = "6YGRDUVT"
+hash = "13d85c72179f4054cfacf3cd25e8d02649ad45e2"
