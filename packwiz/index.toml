@@ -33,6 +33,10 @@ file = "config/xaerominimap.txt"
 hash = "b4409aa623a9d5eb413fb1f6457c69b6e58f5091dc3f65b714f43fde9ba4242b"
 
 [[files]]
+file = "config/xaeroworldmap.txt"
+hash = "f2edb5559ab2e68169992f6bb4d5af918c86d243fd7b79fc94b18293e0c8f4ac"
+
+[[files]]
 file = "mods/amecs-api.toml"
 hash = "343e8fb9aad82cda9aad13a6898b356fb18a1927c6ad92c6e0d5e1970993c45e"
 metafile = true
@@ -329,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "5f1441b8b8c2aa46608bd52bb2b86726d848cb54527d7d46eb1484be7971c204"
+hash = "9e8c2bda9ebbb4990c2412482135b3f542a0bac3887175299eac15bfd0ec0d9d"
 metafile = true
 
 [[files]]
