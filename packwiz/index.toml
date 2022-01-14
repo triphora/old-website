@@ -192,6 +192,11 @@ hash = "f529ad046ab8cb9e8b7ceb93a1a6eb970b124cbaf0c6a13fe834076cb807bf63"
 metafile = true
 
 [[files]]
+file = "mods/iris.toml"
+hash = "3454bf031fe62a04f108377c719ae79ba410787296a3e0cd61eca7c919e60fe1"
+metafile = true
+
+[[files]]
 file = "mods/item-scroller.toml"
 hash = "2967105a17b41856483c66488e6ebd8c13c620932afc564196fa7aae79aa189b"
 metafile = true
