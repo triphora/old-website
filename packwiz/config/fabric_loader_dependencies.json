@@ -21,7 +21,7 @@
         "modupdater": ""
       }
     },
-    "indium" {
+    "indium": {
       "-depends": {
         "sodium": ""
       },

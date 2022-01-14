@@ -10,7 +10,7 @@ hash = "a60317648253b4fe15f5ed6720714f31abf39fef128069bb07c5700548f9bff9"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f2f02efd2ef678148cae220b5b70e17e56e5900e0d87340c3137449bd6486c57"
+hash = "4597edb190e08fb7338f49292398a996532338c68b1f66096aa760c0213f220b"
 
 [[files]]
 file = "config/modmenu.json"
