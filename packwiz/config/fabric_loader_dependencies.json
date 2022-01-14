@@ -21,6 +21,14 @@
         "modupdater": ""
       }
     },
+    "indium" {
+      "-depends": {
+        "sodium": "0.4.0-alpha5"
+      },
+      "+depends": {
+        "sodium": "0.4.0-alpha6"
+      }
+    }
     "minihud": {
       "-depends": {
         "minecraft": ""
