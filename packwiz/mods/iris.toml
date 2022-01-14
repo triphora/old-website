@@ -1,8 +1,13 @@
 name = "Iris Shaders"
-filename = "iris-mc1.18.1-1.2.0-beta3.1.jar"
+filename = "iris-mc1.18.1-1.1.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/929594162632863774/929811853998174289/iris-mc1.18.1-1.2.0-beta3.1.jar"
-hash-format = "sha1"
-hash = "b30d9f26fe1487acbff20c7f09f83cba750f9367"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x/v1.1.5/iris-mc1.18.1-1.1.5.jar"
+hash-format = "sha512"
+hash = "2fa15ac90c73a213f8541c89971ace27bc7b2d8ac7073903d01f29eaf7f51cbe5c6fb4c9811eb0a78d54a34aa1b12ef328d37f46351550f6e34fe2861a214451"
+
+[update]
+[update.modrinth]
+mod-id = "YL57xq9U"
+version = "QGPs4R2V"

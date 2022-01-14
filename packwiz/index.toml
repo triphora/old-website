@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "1001829f7a89dc109e3708c88efe1d10f6d6f0d6a20951e393e2f684c4d44df7"
+hash = "45270e211f428b5636ceb07c03595b73ccc4f6a2265c873af4b6994b8b135ce3"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "9e8c2bda9ebbb4990c2412482135b3f542a0bac3887175299eac15bfd0ec0d9d"
+hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
 metafile = true
 
 [[files]]
