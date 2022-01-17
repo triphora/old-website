@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "4190654ae8da54bfd77b895f79057a7029ccd4986e617717ad8d81e937c2eef4"
+hash = "0def256c1e48f119809c88818873422a0858bd28cdfdb74a218038dbf2ad254f"
 metafile = true
 
 [[files]]
@@ -123,12 +123,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.toml"
-hash = "d0b33298602abec2d9490ed44acafd46f5fa85b14947f45d6d4f9cbc39dbd145"
+hash = "c61dcad46bbcf3d3b1e72b8bd9e9205a1662b1f8e4f67f584fa6b7a141490f6c"
 metafile = true
 
 [[files]]
 file = "mods/easiercrafting.toml"
-hash = "5dad583d9b2198e06fb23c9bbbb81a0fb685fd4bbd149b234eb7def7684746ea"
+hash = "d978d977f85b0c9b8ebfa5ac787b40531836e2fc5f0efce2404cfe9013dfd0af"
 metafile = true
 
 [[files]]
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "2fa75d0c1f6a2614463f0d87ef6b6a3df1aaab877981b3611acefa0c6b61a482"
+hash = "26cd5a5a3b9b902babc22e95c352cd533a64351b14cdf239cf940810a727352a"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "88981df7772a264c9f2de0bd5007eefd27250a7e39de763651d74a4415a15119"
+hash = "239e9aa06f7999cde9a8ebdfcaab704ed448f05ac923edaae38ee112fbfdaef1"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "3454bf031fe62a04f108377c719ae79ba410787296a3e0cd61eca7c919e60fe1"
+hash = "fe26df8bd141403e615ccc2ff78a0e8b51b0a61bad0b0a08d4bae5729ed56395"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "035a9aca91e099ed8468ccaaf6b0c35f05fcb308a5d240e791f7b4c9e92c40e2"
+hash = "ddce3c46e2866f3ed6521b969783c0d3471c12c168102f4f449d90ba68cd5b50"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "45270e211f428b5636ceb07c03595b73ccc4f6a2265c873af4b6994b8b135ce3"
+hash = "4890a49443f81dacf0fe7e4d46e525fce3e3e249b7a11a93aa11d9bff28c54a8"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "1f04100ac9ec2dd3d54ad14b91fe5421549704f40e5a8447f842195a041facd8"
+hash = "f291cfa3dc4468318494015a4d695f66a22356355aa0122b2fbb7c1407ffdde0"
 metafile = true
 
 [[files]]
