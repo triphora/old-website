@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/rainbowify.toml"
-hash = "ffb113d40d1fbf7e6d55ee04bb6d94c14c91820c261736b6b648ebbcb64b9496"
+hash = "239b623c57f173195617cf965c92b646dfb897734222cb15c88b7375c4131124"
 metafile = true
 
 [[files]]

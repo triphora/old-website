@@ -11,3 +11,7 @@ hash = "cb6b47ab571eae13f7aee0b868169ddd2911d0f1"
 [update.modrinth]
 mod-id = "m9FFV06N"
 version = "ydQ6vuqM"
+
+[option]
+optional = true
+description = "Rainbowify gives a configurable rainbow display on GUIs such as chests."
