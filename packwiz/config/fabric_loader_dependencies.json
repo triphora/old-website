@@ -21,11 +21,6 @@
         "modupdater": ""
       }
     },
-    "minihud": {
-      "-depends": {
-        "minecraft": ""
-      }
-    },
     "quickconnectbutton": {
       "-depends": {
         "minecraft": "",

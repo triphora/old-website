@@ -10,7 +10,7 @@ hash = "a60317648253b4fe15f5ed6720714f31abf39fef128069bb07c5700548f9bff9"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b0ee655e958ade482f2b40c95f02b040584c9d1f24d71326767b4192b01cb76c"
+hash = "ab355955f39d9a2b3996ed2acf295a119c00e11c98f12a34c41bf440744334d0"
 
 [[files]]
 file = "config/modmenu.json"
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "f529ad046ab8cb9e8b7ceb93a1a6eb970b124cbaf0c6a13fe834076cb807bf63"
+hash = "ec5a745190da355c23d2e023380f4bf123117b3aa97bafed3804fbe1035cb966"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.toml"
-hash = "2967105a17b41856483c66488e6ebd8c13c620932afc564196fa7aae79aa189b"
+hash = "a4a5f9ab4f91f915b6785f88d283a421598fd4b8b1ffe4063dc0326c52839383"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "4be688f228f7b1e762bb923d185cf252ed482059d11251a42b06e987673e36a7"
+hash = "c4986573f7c2c027953c146a8c890114b075f973fa82b0883aec8b585c5754b1"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "50f563221589128b8b23ac1b9290d5b3b21a9456f26d8f51b0b32f1739c6d5a6"
+hash = "6e63a3d7a3e341806a32e37ae923f2bf8323ce8634be99053d3cae1fb243b8f6"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "ad34eea16d52f2ace5b08f459559068717aaebc051740c8a63d8d97f3dc23bc0"
+hash = "e6e0bdac0fabfb269b62b763b80d26df3555d91cb03279d7b5fe4ec0de1420b0"
 metafile = true
 
 [[files]]
