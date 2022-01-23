@@ -1,0 +1,17 @@
+name = "FlightHUD"
+filename = "flighthud-1.18-fabric-2.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/892/flighthud-1.18-fabric-2.jar"
+hash-format = "sha1"
+hash = "64bec3cb398ad03676639ae4f009f8fe31ea09f1"
+
+[update]
+[update.curseforge]
+file-id = 3559892
+project-id = 394419
+
+[option]
+optional = true
+description = "Flight HUD adds a flight style HUD like one you would see in a flight simulator."

@@ -167,6 +167,11 @@ hash = "a845f8cb88d6aa0cf4e0f7de99067e615bd74a75e017c9937226ee2fdc408c5e"
 metafile = true
 
 [[files]]
+file = "mods/flighthud.toml"
+hash = "80396b94f05561ae66ac726c97af4982e4067473df09c140a8b2323ab917d226"
+metafile = true
+
+[[files]]
 file = "mods/hydrogen.toml"
 hash = "e96088694da049e8b96f0d45454f4d15a561d3f7a6627f5b387e6015defced16"
 metafile = true
