@@ -74,7 +74,6 @@ Required dependencies for mods may not included in this list.
 | [Fast Open Links and Folders](https://curseforge.com/projects/513840)  | Always     | `;`     |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         |
 | [FlightHUD](https://curseforge.com/projects/394419)                    | Optional   | `††`    |
-| [Hydrogen](https://modrinth.com/mod/AZomiSrC)                          | Always     |         |
 | [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     |         |
 | [Indium](https://modrinth.com/mod/Orvt0mRa)                            | Always     | `**`    |
 | [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         |

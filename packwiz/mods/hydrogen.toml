@@ -1,8 +1,0 @@
-name = "Hydrogen"
-filename = "hydrogen-fabric-0.3-20211127.151538-1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/745979270748307458/929565604443226243/hydrogen-fabric-0.3-20211127.151538-1.jar"
-hash-format = "sha1"
-hash = "4757ce438182d0cb6ce229b98e52b98d278d8516"
