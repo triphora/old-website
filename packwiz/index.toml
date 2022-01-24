@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "c4986573f7c2c027953c146a8c890114b075f973fa82b0883aec8b585c5754b1"
+hash = "4fc971730b92017f6b19b12420198b3402500b62cd5b2fce7c17486af4cdd056"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "6e63a3d7a3e341806a32e37ae923f2bf8323ce8634be99053d3cae1fb243b8f6"
+hash = "9f2d1e8904c72581a349b6ba9f845903c14c83dbf774d6db9e46c3413b98f8dc"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.toml"
-hash = "e6e0bdac0fabfb269b62b763b80d26df3555d91cb03279d7b5fe4ec0de1420b0"
+hash = "4ccba32ba0231a494d3cfdcb31b3cb9490165e988140a724d804ef51ad539781"
 metafile = true
 
 [[files]]

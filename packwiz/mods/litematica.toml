@@ -1,14 +1,14 @@
 name = "Litematica"
-filename = "litematica-fabric-1.18.1-0.10.0.jar"
+filename = "litematica-fabric-1.18.1-0.10.1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3615/865/litematica-fabric-1.18.1-0.10.0.jar"
+url = "https://edge.forgecdn.net/files/3619/934/litematica-fabric-1.18.1-0.10.1.jar"
 hash-format = "sha1"
-hash = "abd1a496e567d7e74c87b83e545c40642942795d"
+hash = "536520071a4b70797b3a8be51a92e565b9ba227f"
 
 [update]
 [update.curseforge]
-file-id = 3615865
+file-id = 3619934
 project-id = 308892
 release-channel = "beta"
