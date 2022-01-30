@@ -53,6 +53,7 @@ Required dependencies for mods may not included in this list.
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                         | Optional   |         |
 | [Auth Me](https://curseforge.com/projects/356643)                      | Optional   |         |
 | [Better Enchanted Books](https://www.curseforge.com/projects/369122)   | Optional   |         |
+| [Bobby](https://modrinth.com/mod/M08ruV16)                             | Always     |         |
 | [Clean Logs](https://modrinth.com/mod/OTteoJUk)                        | Always     |         |
 | [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         |

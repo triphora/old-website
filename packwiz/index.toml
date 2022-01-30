@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c8408f2474603d330bf4ea9e3b15d3b731f89abef951226900fe8b73dd0daab7"
+hash = "1d3723cf9bfbffcd642f85866bcdeb31baebcbb9ef45f31718708d78bc4788a3"
 metafile = true
 
 [[files]]
@@ -64,6 +64,11 @@ metafile = true
 [[files]]
 file = "mods/better-enchanted-books.toml"
 hash = "d5428e2b0f552086ef174f44d81b8ce44d30af84388e8beaeec3221dc677fbbc"
+metafile = true
+
+[[files]]
+file = "mods/bobby.toml"
+hash = "680e66f076845b960c9cdd08e845dec21e67638465ea0f7b7427a1141cea8383"
 metafile = true
 
 [[files]]
