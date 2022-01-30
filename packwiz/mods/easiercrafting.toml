@@ -1,6 +1,6 @@
 name = "EasierCrafting"
 filename = "easiercrafting-1.18.1-fabric0.45.0-1.7.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/UylF21yz/versions/1.18.1-fabric0.45.0-1.7/easiercrafting-1.18.1-fabric0.45.0-1.7.jar"
