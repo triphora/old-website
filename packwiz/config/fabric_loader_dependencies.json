@@ -21,12 +21,6 @@
         "modupdater": ""
       }
     },
-    "quickconnectbutton": {
-      "-depends": {
-        "minecraft": "",
-        "java": ""
-      }
-    },
     "smoothscrollingeverywhere": {
       "-depends": {
         "minecraft": ""

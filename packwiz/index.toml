@@ -10,7 +10,7 @@ hash = "a60317648253b4fe15f5ed6720714f31abf39fef128069bb07c5700548f9bff9"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ab355955f39d9a2b3996ed2acf295a119c00e11c98f12a34c41bf440744334d0"
+hash = "09901bbde575e5e8a4d8e4ff059499b5b20bfcea2853767aeb53df060425a39a"
 
 [[files]]
 file = "config/modmenu.json"
@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.toml"
-hash = "46e974ddc7c653eadd0f8d239016740208a37d9cd377de34356f3ec6d602924a"
+hash = "a401eef95d8cd5100179ac77d1b78b7172b98d8fe1d8c5b17a751854d2db88d0"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/quickconnectbutton.toml"
-hash = "d88612e3e152e90626b83387dc43bf94ded0779e3891e0d4eed2e1ac19e7aa1f"
+hash = "14056e199239c88e18eb249e0133fd0788fd0e5e86eb12e2d4ea519b25ce10d4"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "e4f27c1d0f252e4e59e20209a891c97b12b0632aa76ddfd2dd11afedcc959c52"
+hash = "dc0e7bf2de797d6589dfcf1768dd42bc6d217536bcbe1107f2165784b5457a3f"
 metafile = true
 
 [[files]]
@@ -368,10 +368,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "1d707336e94872bafd5a2621e2ea036c1c4251fa458442fe7a2478b5914f5cea"
+hash = "3745d6c56d19a752bbcb7442cf8074928f6b9ed42c49c11d6c10e88d3dafe818"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "426307d9b6473b92dc7d68fa1f8209eecc6ab393dd38f798822e376c0a1082d3"
+hash = "12bba78d9c0fcd7a2c22cf81611e192fbb04b3db215e34983900032e55bd1c5e"
 metafile = true
