@@ -10,7 +10,7 @@ hash = "a60317648253b4fe15f5ed6720714f31abf39fef128069bb07c5700548f9bff9"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "09901bbde575e5e8a4d8e4ff059499b5b20bfcea2853767aeb53df060425a39a"
+hash = "09ac5d51d1dbae30c6fea06cecca02b6212bdf7cebf472afb8bd8f50532db32f"
 
 [[files]]
 file = "config/modmenu.json"
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "1d3723cf9bfbffcd642f85866bcdeb31baebcbb9ef45f31718708d78bc4788a3"
+hash = "55f379c44b2347b73d4baa9ac8f4fdf02a83cda257c8e300ae9d012d1d85b556"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "26cd5a5a3b9b902babc22e95c352cd533a64351b14cdf239cf940810a727352a"
+hash = "9f21701f8c492d2fcdb9c5e759c67ad745ef33ac486ed3a61d46d0baac7c65fc"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "9f2d1e8904c72581a349b6ba9f845903c14c83dbf774d6db9e46c3413b98f8dc"
+hash = "c1c4c503f2a684fcf056d6adc7717788db5bf4f42c9d0ee3c716cb86bd3880d3"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "dc0e7bf2de797d6589dfcf1768dd42bc6d217536bcbe1107f2165784b5457a3f"
+hash = "9cd4ea723f3fbcd98d9f46434d23716ea5784bfac02701c8e8834775ce9e0364"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.toml"
-hash = "dc44a8e429671bff055237064f66cdf66ee1516777ebdc792996c21f792713b7"
+hash = "5f8e2ec710900813d38c6a31c5966db50341646ec33ec3da8d2d5feb394fa707"
 metafile = true
 
 [[files]]
@@ -363,17 +363,17 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.toml"
-hash = "94cab84bcec23683adb0b9bbcd609f1d40ba79456751cf57a4b871deda34dfc0"
+hash = "6a5c2a19ed5ffcce06a892265d81f99123f953896122955f81f976d51cc361fe"
 metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "f1275fce6522cfc06d65e08cc779283913eaefd9a68f05e2c29a0b16e30088da"
+hash = "e17a465b792f6b8292d4c1675a56fa8efd37fc7f91065157f413a203342766df"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "3745d6c56d19a752bbcb7442cf8074928f6b9ed42c49c11d6c10e88d3dafe818"
+hash = "05e4217260eaec568ef86296c1f7af72e1676855c4a4398af4b22795af1a769d"
 metafile = true
 
 [[files]]

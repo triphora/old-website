@@ -20,11 +20,6 @@
       "-recommends": {
         "modupdater": ""
       }
-    },
-    "smoothscrollingeverywhere": {
-      "-depends": {
-        "minecraft": ""
-      }
     }
   }
 }

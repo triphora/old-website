@@ -1,14 +1,14 @@
 name = "Smooth Scrolling Everywhere (Fabric)"
-filename = "SmoothScrollingEverywhere-3.0.3-unstable.jar"
+filename = "SmoothScrollingEverywhere-3.0.4.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3453/127/SmoothScrollingEverywhere-3.0.3-unstable.jar"
+url = "https://edge.forgecdn.net/files/3631/944/SmoothScrollingEverywhere-3.0.4.jar"
 hash-format = "sha1"
-hash = "58847b364e89f3cea2f720df15b3790a8f1b9148"
+hash = "f037b49c28a57681c4b11ffb241ab985e2ed57a9"
 
 [update]
 [update.curseforge]
-file-id = 3453127
+file-id = 3631944
 project-id = 325861
 release-channel = "beta"
