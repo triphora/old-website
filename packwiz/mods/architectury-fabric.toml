@@ -1,13 +1,13 @@
 name = "Architectury API (Fabric)"
-filename = "architectury-3.6.15.jar"
+filename = "architectury-3.6.16.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3632/975/architectury-3.6.15.jar"
+url = "https://edge.forgecdn.net/files/3636/539/architectury-3.6.16.jar"
 hash-format = "sha1"
-hash = "6c1a54ca3bdd75b5c1f36edf8f4ede4844990386"
+hash = "5ae788b4586ac0e8191cd59449b9c45891cc89bc"
 
 [update]
 [update.curseforge]
-file-id = 3632975
+file-id = 3636539
 project-id = 419697
