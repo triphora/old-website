@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "77752d51a00e459e6cbaa2dcc05e3c7cfb85799dbdc41ef712e5e0803bdcff5b"
+hash = "7a4defa69bfc8f4653f958e1b30f8b6dbfbd3b719306b1235c27d8bd6f23d842"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "a845f8cb88d6aa0cf4e0f7de99067e615bd74a75e017c9937226ee2fdc408c5e"
+hash = "62ae515b23a29b50292c009c8ea240d93b12cc603244848ab8da2b4c29e68d1a"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "ec5a745190da355c23d2e023380f4bf123117b3aa97bafed3804fbe1035cb966"
+hash = "089f8ac284ec88d9af66871376c603c35b90c900c0c0d433ad5ce0564ca739d5"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "4f08de41a4d20baa2de6aab7020400d9abf4b1ea81f7a6d30b32e7d238cc84d1"
+hash = "95311343284495895f0dd158c752506b4a1901e5be2ac134df8f21e34deb8f86"
 metafile = true
 
 [[files]]
