@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/bobby.toml"
-hash = "680e66f076845b960c9cdd08e845dec21e67638465ea0f7b7427a1141cea8383"
+hash = "283a08e978a12a6a069b5c015793d51f0e55f83b30b522050ab01a0d21654d73"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "0def256c1e48f119809c88818873422a0858bd28cdfdb74a218038dbf2ad254f"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
 metafile = true
 
 [[files]]

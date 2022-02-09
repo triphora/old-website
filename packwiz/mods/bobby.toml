@@ -11,3 +11,7 @@ hash = "380e4a7aa7c746db8bd908991823c9f38b5569a4"
 [update.modrinth]
 mod-id = "M08ruV16"
 version = "raLIOIgw"
+
+[option]
+optional = true
+description = "Bobby allows for render distances greater than the server's view-distance. "
