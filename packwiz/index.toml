@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "79934db4be17809af0c26e5cf914fe783a191994a354a686394ae69d6086b79f"
+hash = "ca22f107d27816e53cc7180b2e1ccbdd3bd1bae9fdf7a01004f34d681b2fc015"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.toml"
-hash = "7c39bdf58a771980e712565a130b0504a85332b57bee554d6d88e8d591b2cfab"
+hash = "0b406514e3d6c608e6c7cb18d2c0076c990426d38f1fbc94356a7c4e5507d586"
 metafile = true
 
 [[files]]

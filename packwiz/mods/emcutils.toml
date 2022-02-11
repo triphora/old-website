@@ -1,13 +1,13 @@
 name = "Empire Minecraft Utilities"
-filename = "emcutils-1.17.1-2.4.0-beta.2.jar"
+filename = "emcutils-fabric-1.18.1-3.0.0-beta.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QYTT62S0/versions/2.4.0-beta.2+fabric/emcutils-1.17.1-2.4.0-beta.2.jar"
+url = "https://cdn.modrinth.com/data/QYTT62S0/versions/3.0.0-beta.1+fabric/emcutils-fabric-1.18.1-3.0.0-beta.1.jar"
 hash-format = "sha1"
-hash = "10ad24237e30b902609a8f1bfa4295bc3ff29602"
+hash = "5d668a031b7662befdb50cc5e2ab5d605230ecf6"
 
 [update]
 [update.modrinth]
 mod-id = "QYTT62S0"
-version = "Vwv0kT3W"
+version = "q90rkKnd"
