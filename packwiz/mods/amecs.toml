@@ -1,14 +1,13 @@
-name = "Amecs (Fabric)"
-filename = "amecs-1.3.4+mc.1.18-pre1.jar"
+name = "Amecs"
+filename = "amecs-1.3.5+mc.1.18.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3523/240/amecs-1.3.4+mc.1.18-pre1.jar"
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/1.3.5+mc.1.18/amecs-1.3.5%2Bmc.1.18.jar"
 hash-format = "sha1"
-hash = "88bba5fc859fc246073b4e6855d95242b444e4dc"
+hash = "f694c350215f369835273b9179cfb9171fc8ee92"
 
 [update]
-[update.curseforge]
-file-id = 3523240
-project-id = 324564
-release-channel = "beta"
+[update.modrinth]
+mod-id = "rcLriA4v"
+version = "fotcMxN1"

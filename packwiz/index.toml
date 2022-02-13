@@ -37,13 +37,8 @@ file = "config/xaeroworldmap.txt"
 hash = "f2edb5559ab2e68169992f6bb4d5af918c86d243fd7b79fc94b18293e0c8f4ac"
 
 [[files]]
-file = "mods/amecs-api.toml"
-hash = "343e8fb9aad82cda9aad13a6898b356fb18a1927c6ad92c6e0d5e1970993c45e"
-metafile = true
-
-[[files]]
 file = "mods/amecs.toml"
-hash = "473a7635b3e3b68dbf746a06cf60bd03afb1746ed6859dbd1e98d1328114ea29"
+hash = "4c979492b2d8ae25befacbe8d44905231a732882c72cd2ce00bed0c75e6e5a5b"
 metafile = true
 
 [[files]]
@@ -233,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "4fc971730b92017f6b19b12420198b3402500b62cd5b2fce7c17486af4cdd056"
+hash = "89fbc7cc283451565a1f6745d3773b064d6beeb17c4a30535fadf93bc18b007a"
 metafile = true
 
 [[files]]
@@ -373,10 +368,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "05e4217260eaec568ef86296c1f7af72e1676855c4a4398af4b22795af1a769d"
+hash = "c27603c46cccacdef7aec2251a2f53e402d646b9bb9acd6fb2c5d19b584cdf9b"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "12bba78d9c0fcd7a2c22cf81611e192fbb04b3db215e34983900032e55bd1c5e"
+hash = "d2cec5cd2a3bb49f40be92a5ef1b2102c0051fe970eba36a765d3ce673f90b38"
 metafile = true
