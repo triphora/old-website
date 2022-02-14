@@ -38,7 +38,7 @@ hash = "f2edb5559ab2e68169992f6bb4d5af918c86d243fd7b79fc94b18293e0c8f4ac"
 
 [[files]]
 file = "mods/amecs.toml"
-hash = "4c979492b2d8ae25befacbe8d44905231a732882c72cd2ce00bed0c75e6e5a5b"
+hash = "f0ea5483cf068ff37b3e599d7dd0cc795e033afb437065bb7a170f0a421126f0"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "089f8ac284ec88d9af66871376c603c35b90c900c0c0d433ad5ce0564ca739d5"
+hash = "aecb9d320921d3fd34aff45a87b38156d2e7ce2448ed9ac155c3c6c5bb534d25"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "c1c4c503f2a684fcf056d6adc7717788db5bf4f42c9d0ee3c716cb86bd3880d3"
+hash = "0bd53abb5e34289041431d03fa739895b57bc84e8bd4c2ef05f9773fd6f82a6b"
 metafile = true
 
 [[files]]

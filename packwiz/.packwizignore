@@ -2,6 +2,5 @@ index.html
 LICENSE
 README.md
 MultiMC.zip
-*.mrpack
 mods/jars/**
 update.sh
