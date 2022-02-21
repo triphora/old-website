@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.toml"
-hash = "1fe3673978f8260435534e3874016353eece8be89cec1b0dae415f2e4122a4d0"
+hash = "4a45496d6a0cd4cd445e300791af4473587864d20024d8c1bd032e763c36b698"
 metafile = true
 
 [[files]]
