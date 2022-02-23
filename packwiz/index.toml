@@ -38,7 +38,7 @@ hash = "f2edb5559ab2e68169992f6bb4d5af918c86d243fd7b79fc94b18293e0c8f4ac"
 
 [[files]]
 file = "mods/amecs.toml"
-hash = "f0ea5483cf068ff37b3e599d7dd0cc795e033afb437065bb7a170f0a421126f0"
+hash = "7d2031a3e28e84a0a7d2ec7a888ba589472cdd523cf0f6b452563f5d6e2d9251"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "f6ac5ff39c06ea8fb90a7be21f50d6cc4d0a29802f97ce5d37a61a28d127e56f"
+hash = "681d760c8ffa635855ea1dbf52f80571d8964f7743a268ae49379147510a349c"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "db77d8b5e1ff45f84225671e13d5b7fedae7b6ae776051f1c8cd65d9170fa9b6"
+hash = "4e0d26b8af24dbc7220b2708ab13ad9cf6646442e3ebccc6ceebdef152345656"
 metafile = true
 
 [[files]]
