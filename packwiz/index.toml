@@ -38,7 +38,7 @@ hash = "f2edb5559ab2e68169992f6bb4d5af918c86d243fd7b79fc94b18293e0c8f4ac"
 
 [[files]]
 file = "mods/amecs.toml"
-hash = "7d2031a3e28e84a0a7d2ec7a888ba589472cdd523cf0f6b452563f5d6e2d9251"
+hash = "f0ea5483cf068ff37b3e599d7dd0cc795e033afb437065bb7a170f0a421126f0"
 metafile = true
 
 [[files]]
