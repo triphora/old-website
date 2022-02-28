@@ -38,7 +38,7 @@ hash = "f2edb5559ab2e68169992f6bb4d5af918c86d243fd7b79fc94b18293e0c8f4ac"
 
 [[files]]
 file = "mods/amecs.toml"
-hash = "f0ea5483cf068ff37b3e599d7dd0cc795e033afb437065bb7a170f0a421126f0"
+hash = "7d2031a3e28e84a0a7d2ec7a888ba589472cdd523cf0f6b452563f5d6e2d9251"
 metafile = true
 
 [[files]]
@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "c74fa07245cbea474ca235ab3cbbdb283c80b6e06347d0142e0a76b43fe8bb35"
+hash = "706dfaef55d666502cbb27309ef3b7a7e281078b7275f8025c3698c553cd1b38"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "239e9aa06f7999cde9a8ebdfcaab704ed448f05ac923edaae38ee112fbfdaef1"
+hash = "7beaaf31917bbc8e112718f2f9748ff64f529a3d1675b5fb136f075454cf2502"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "5e426b900ceb587441d2f5135aaaf433761b376d476e8c75ab497fc77328b3ee"
+hash = "a5ac3d55f14e556a76eebad326f3cd531b86318df09bdd039ca6d6f567c83ae0"
 metafile = true
 
 [[files]]
@@ -363,12 +363,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "efcf9a92c830f3ce616243fda9d8aa1da2dc8ea3770df2feb322e3c71ae23c6f"
+hash = "4cc6f69fe0a72181be88a001fb0e5b996026c9fcb968e42547f6b8f3c06ed710"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "c27603c46cccacdef7aec2251a2f53e402d646b9bb9acd6fb2c5d19b584cdf9b"
+hash = "b952f3546a028a8b0a10c7f8fb28fdd132bc3fc9bb7b18a9ba504b51e264227d"
 metafile = true
 
 [[files]]
