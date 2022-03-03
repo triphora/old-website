@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "9f21701f8c492d2fcdb9c5e759c67ad745ef33ac486ed3a61d46d0baac7c65fc"
+hash = "fd2774fba3f094580750cf9f88daf76c97f663b5f3de50cfd8a636a7eace5dff"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.toml"
-hash = "73b6cbb3222a84e36d9dbbe609c616849bae5461f8af503ae3790b3f186ac5b3"
+hash = "ced9beca851fd90343eec56eb8276ebe33d32228f00ac8877cfffe0a12cec934"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "a5ac3d55f14e556a76eebad326f3cd531b86318df09bdd039ca6d6f567c83ae0"
+hash = "ee3187bfac3961c573a8e00edd0d2f69e66c4aeb9a65f203781ab1687e2d3856"
 metafile = true
 
 [[files]]
