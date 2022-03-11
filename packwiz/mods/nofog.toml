@@ -1,17 +1,11 @@
 name = "NoFog"
-filename = "NoFog-1.2.0_1.16.5-1.18.1-fabric.jar"
+filename = "NoFog-1.2.0_1.16.5-1.18.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3599/894/NoFog-1.2.0_1.16.5-1.18.1-fabric.jar"
+url = "https://cdn.discordapp.com/attachments/745979270748307458/951967909943586866/NoFog-1.2.01.16.5-1.18.2.jar"
 hash-format = "sha1"
-hash = "caee3631ddc55f08e6596ecc608bdd50787f1073"
-
-[update]
-[update.curseforge]
-file-id = 3599894
-project-id = 296468
-release-channel = "beta"
+hash = "079f3fdfb7764e4014dccec789ce19be3b7724e0"
 
 [option]
 optional = true

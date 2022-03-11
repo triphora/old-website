@@ -6,6 +6,11 @@
         "modupdater": ""
       }
     },
+    "clear-skies": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
     "clickthrough": {
       "-recommends": {
         "modupdater": ""

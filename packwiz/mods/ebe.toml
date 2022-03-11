@@ -1,13 +1,8 @@
 name = "Enhanced Block Entities"
-filename = "enhancedblockentities-0.5+1.18.jar"
+filename = "enhancedblockentities-0.5+1.18.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/OVuFYfre/versions/0.5+1.18/enhancedblockentities-0.5+1.18.jar"
+url = "https://cdn.discordapp.com/attachments/745979270748307458/951930458722144256/enhancedblockentities-0.51.18.jar"
 hash-format = "sha1"
-hash = "c7111f560caf965c18a13edcfbe789a87cf904f4"
-
-[update]
-[update.modrinth]
-mod-id = "OVuFYfre"
-version = "qbUAJjs9"
+hash = "b64f652389fa57430b9953035f5e27b83fde670e"
