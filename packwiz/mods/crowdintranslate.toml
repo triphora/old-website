@@ -1,0 +1,8 @@
+name = "CrowdinTranslate"
+filename = "crowdin-translate-1.4+1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/745979270748307458/951938158893858876/crowdin-translate-1.41.18.2.jar"
+hash-format = "sha1"
+hash = "f737276585299be70b5bf9ff4bd3549056423068"

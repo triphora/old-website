@@ -39,7 +39,8 @@ phrases = [
   "WTHIT is not found on the server, all syncable config will reset to their default value.",
   "Duplicate uniform",
   "Unable to play empty soundEvent",
-  ".lr loaded"
+  ".lr loaded",
+  "Using missing texture, unable to load"
 ]
 
 # If a log message matches one of these regex patterns, it will be filtered out from logging
