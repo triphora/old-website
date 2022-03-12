@@ -1,6 +1,6 @@
-*.toml linguist-language=TOML
-*.json linguist-language=JSON
-*.xml linguist-language=XML
-*.toml linguist-language=TOML
-*.json5 linguist-language=JSON
-*.txt linguist-language=INI
+*.toml linguist-detectable=true
+*.json linguist-detectable=true
+*.xml linguist-detectable=true
+*.toml linguist-detectable=true
+*.json5 linguist-detectable=true
+*.txt linguist-detectable=true
