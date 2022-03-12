@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/clean-logs.toml"
-hash = "53b66fcce1b4751e0e961a79ef97df27e866711a1db51bb9d7ab8f6f491d969f"
+hash = "c7868836cd9e47f841421d733458b0888ed28786ce7d9e0be3b4ae92b55125cb"
 
 [[files]]
 file = "config/clickthrough.json"
@@ -63,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/better-enchanted-books.toml"
 hash = "d5428e2b0f552086ef174f44d81b8ce44d30af84388e8beaeec3221dc677fbbc"
+metafile = true
+
+[[files]]
+file = "mods/bobby.toml"
+hash = "b7f34d98fca6e097fa0accf607a420b9bee9cbe4169ef358140f695fcfa2c8ef"
 metafile = true
 
 [[files]]
@@ -372,10 +377,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "83d5be6ecfdfbb0dd0582d42612e9e6f23a2a5563043ddf6f944f6f05ae551a7"
+hash = "6f4d308ea03c00fc75d0c3a2a964758b3e9ef40d778a27dee206a6f9ea5a0ed5"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "37cf33faec9067a8973bec47b24d15e2e22286939673619a3152dede9e14a543"
+hash = "821b04f326eae605569fa82493a115d2c87a537444962742b3cc097207417316"
 metafile = true
