@@ -106,11 +106,6 @@ hash = "2a6ee43bdafa636e7cb11362b4f5376c5909d610d34bec85f63bd63d74504804"
 metafile = true
 
 [[files]]
-file = "mods/crowdintranslate.toml"
-hash = "bc811302b4ff3b02d041a9e8a75f1558e03f3b56dd755cc150402ba55979d9c7"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.toml"
 hash = "aa0d6be450af4733a6484550954d6d865eb78ac0ace6177fddec61b51c16c58d"
 metafile = true
@@ -237,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "ab7d66a4a586164ac3fa96218fceeeff32e193836f357668d79ebac087937a95"
+hash = "0d058e607ee3bdc11c06ec5c7ae52a736ffcd140bb104be7d35d8faaf6889dd4"
 metafile = true
 
 [[files]]
@@ -247,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "38a7645fba6aaf1b12540bed4a8a6ccc4daf43e080ee268c924fbf4116b31f3e"
+hash = "5a579b648ece5718238c78e95da6f24b68f7dc6fdbfef593b08080d64a8079f5"
 metafile = true
 
 [[files]]
