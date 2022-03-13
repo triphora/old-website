@@ -50,7 +50,7 @@ Required dependencies for mods may not included in this list.
 | Mod Name                                                               | Installed? | Comment |
 |------------------------------------------------------------------------|------------|---------|
 | [Amecs](https://curseforge.com/projects/324564)                        | Always     |         |
-| [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                         | Optional   |         |
+| [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                         | Always     |         |
 | [Auth Me](https://curseforge.com/projects/356643)                      | Optional   |         |
 | [Better Enchanted Books](https://www.curseforge.com/projects/369122)   | Optional   |         |
 | [Bobby](https://modrinth.com/mod/M08ruV16)                             | Always     |         |
