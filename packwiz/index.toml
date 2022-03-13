@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.toml"
-hash = "eabe848af633e99a3868fe8f337265f38332a20bd987b4cd8b8ef88bea283e96"
+hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough.toml"
-hash = "ab61a1e69a53c64b81722993353deb82d4abfdfc8d6e95a961cdfc8b187f8529"
+hash = "1a22f8e7f1718b40216542f41669501144c80bf1c5bbec265177aeaa8e93495a"
 metafile = true
 
 [[files]]
@@ -106,11 +106,6 @@ hash = "2a6ee43bdafa636e7cb11362b4f5376c5909d610d34bec85f63bd63d74504804"
 metafile = true
 
 [[files]]
-file = "mods/crowdintranslate.toml"
-hash = "bc811302b4ff3b02d041a9e8a75f1558e03f3b56dd755cc150402ba55979d9c7"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.toml"
 hash = "aa0d6be450af4733a6484550954d6d865eb78ac0ace6177fddec61b51c16c58d"
 metafile = true
@@ -127,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.toml"
-hash = "62a1b399553e56bb066bec93c8eda2474c49e561f6cf57ac91f03862f17d4f05"
+hash = "b38955363599622bb27fa008bb70b8c92d022af86c2adaa3be35fd7915763748"
 metafile = true
 
 [[files]]
@@ -137,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/easiercrafting.toml"
-hash = "42ee0cba249d029d9d896ee9f61738d6b65a8f465aed63faa83914c357fef566"
+hash = "b95252d61eac2ef829a30377ce389658e0c4e94b6e27ea0a7786b6b2a39b3d3f"
 metafile = true
 
 [[files]]
@@ -157,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "802f80954466deb7316c46d67195701d192a7c13c0aaefb62cfe8c906376db71"
+hash = "d42c9c22fa6c8350c8d31652b0bb34f58b9d33033ad74f8b938588a116bd10e5"
 metafile = true
 
 [[files]]
@@ -202,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "1121c06546183182fb8cf3d99344e638239c2d5c3f1c081c8281f958c0073388"
+hash = "7486da78ccd788e6df69f762ee14db29fd533bf90b44969480ec1b112942e7fb"
 metafile = true
 
 [[files]]
