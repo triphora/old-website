@@ -58,7 +58,7 @@ Required dependencies for mods may not included in this list.
 | [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         |
 | [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     |
-| [Continuity](https://modrinth.com/mod/1IjD5062)                        | Always     | `††`    |
+| [Continuity](https://modrinth.com/mod/1IjD5062)                        | Always     |         |
 | [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
 | [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   |         |
 | [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                       | Always     |         |
@@ -74,13 +74,14 @@ Required dependencies for mods may not included in this list.
 | [Fabrishot](https://modrinth.com/mod/3qsfQtE9)                         | Always     |         |
 | [Fast Open Links and Folders](https://curseforge.com/projects/513840)  | Always     | `;`     |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         |
-| [FlightHUD](https://curseforge.com/projects/394419)                    | Optional   | `††`    |
+| [FlightHUD](https://curseforge.com/projects/394419)                    | Optional   |         |
+| [Force Close Loading Screen](https://modrinth.com/mod/blWBX5n1)        | Always     |         |
 | [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     |         |
 | [Indium](https://modrinth.com/mod/Orvt0mRa)                            | Always     | `**`    |
 | [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         |
 | [Iris](https://modrinth.com/mod/YL57xq9U)                              | Always     |         |
 | [Item Scroller](https://curseforge.com/projects/242064)                | Always     |         |
-| [I Know What I'm Doing](https://modrinth.com/mod/S5ivha5X)             | Always     | `;`     |
+| [I Know What I'm Doing](https://modrinth.com/mod/S5ivha5X)             | Always     |         |
 | [Krypton](https://modrinth.com/mod/fQEb0iXm)                           | Always     | `†`     |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)                 | Optional   |         |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)                 | Always     |         |
@@ -92,7 +93,7 @@ Required dependencies for mods may not included in this list.
 | [Memory Usage Screen](https://modrinth.com/mod/n9mFA0ax)               | Always     | `;`     |
 | [MiniHUD](https://curseforge.com/projects/244260)                      | Always     |         |
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                          | Always     |         |
-| [MoreChatHistory](https://modrinth.com/mod/8qkXwOnk)                   | Always     | `††`    |
+| [MoreChatHistory](https://modrinth.com/mod/8qkXwOnk)                   | Always     |         |
 | [NoChatLag](https://modrinth.com/mod/afu4kdAc)                         | Always     | `;`     |
 | [NoFog](https://curseforge.com/projects/296468)                        | Optional   | `*`     |
 | [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)              | Optional   |         |
