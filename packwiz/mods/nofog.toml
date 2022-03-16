@@ -1,6 +1,6 @@
 name = "NoFog"
 filename = "NoFog-1.2.1_1.16.5-1.18.2-fabric.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3692/641/NoFog-1.2.1_1.16.5-1.18.2-fabric.jar"

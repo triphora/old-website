@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.toml"
-hash = "cce0d6c3dcd715c9725d19c2df260bdf361e25f776085402aef421b7e5d26d8c"
+hash = "e01e25c6704e6f8e976451719b18c6ebc91cbe6cd842de188addedb1c533ebc1"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/nofog.toml"
-hash = "8f51133c7983ce21dbcd9180b95b8298b91a9e1f82f6c5623c9f7053b9064260"
+hash = "ce0eef03a42e812fd1713f979973fe7ca62c52003d2723326891d9be3c033f51"
 metafile = true
 
 [[files]]
