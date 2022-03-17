@@ -13,6 +13,10 @@ file = "config/durabilityviewer.json"
 hash = "19188f672b02caaf02cc67d15a8e2a74b2e34a25676fc37daf35d90eac5dfc7d"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "842dfdaf101e56169daeaa523d87b70deda2c35a4c3742ddc73416f7d7dbe34c"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "7b9ae71189cf2ba688cf512476b21d0023906577caa1609b9f35af5fdf79fd9b"
 
