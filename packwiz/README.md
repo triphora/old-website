@@ -6,9 +6,9 @@ Don't want to update your Fabric mods? Let me do it for you! I set up this here 
 
 The focus of this modpack is to have a wide selection of client-side mods, including the very best performance mods. It includes some optional tools, aesthetic changes, etc. that very few people would actually utilise, such as Critical Orientation or WorldEdit. The installer will prompt you at installation whether you wish to install these optional mods or not.
 
-Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mods!
+Feel free to remove or add any (compatible, [approved]) mods!
 
-**Please read the [Conditionally Approved Mods][CondApp] page before using the some of the mods included.**
+**Please read the [Conditionally Approved] mods page before using the some of the mods included.**
 
 ## Installation
 
@@ -24,12 +24,12 @@ Feel free to remove or add any (compatible, [approved](https://mods.emc.gs)) mod
 
 #### Windows
 
-1. Download the Packwiz Installer Bootstrap from [here](https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar), and put it into your Minecraft folder; the base or "root" of it, *not* into the `mods` folder.
+1. Download the [Packwiz Installer Bootstrap] and put it into your Minecraft folder; the base or "root" of it, *not* into the `mods` folder.
     * If you don't know how to navigate here, open the Run box with Win + R, and type `%appdata%\.minecraft`.
 2. Open the Command Prompt using Win + R and `cmd`. From there, run the following commands:
 3. `cd %appdata%\.minecraft`
 4. `java -jar packwiz-installer-bootstrap.jar https://waffle.coffee/packwiz/pack.toml`
-    * If you get a message along the lines of "not found as command, batch file, yadda yadda", you need to install Java. You can find a link [here](https://adoptopenjdk.net/?variant=openjdk16&jvmVariant=hotspot).
+    * If you get a message along the lines of "not found as command, batch file, yadda yadda", you need to [install Java].
 5. After installing, I recommend you lower your GUI scale (I use 2 personally) and change your keybinds how you like them. There will be a lot of conflicts initially!
 6. When you want to update your mods, just run the same `java -jar` command again!
 
@@ -47,81 +47,82 @@ Run the following commands in a terminal (you can also append `&&` between them)
 
 Required dependencies for mods may not included in this list.
 
-| Mod Name                                                               | Installed? | Comment |
-|------------------------------------------------------------------------|------------|---------|
-| [Amecs](https://curseforge.com/projects/324564)                        | Always     |         |
-| [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR)                         | Always     |         |
-| [Auth Me](https://curseforge.com/projects/356643)                      | Optional   |         |
-| [Better Enchanted Books](https://www.curseforge.com/projects/369122)   | Optional   |         |
-| [Bobby](https://modrinth.com/mod/M08ruV16)                             | Always     |         |
-| [Clean Logs](https://modrinth.com/mod/OTteoJUk)                        | Always     |         |
-| [Clear Skies](https://curseforge.com/projects/332523)                  | Optional   |         |
-| [ClickThrough](https://modrinth.com/mod/Z5b0cAlD)                      | Always     |         |
-| [Command Macros](https://curseforge.com/projects/331956)               | Optional   | `*`     |
-| [Continuity](https://modrinth.com/mod/1IjD5062)                        | Always     |         |
-| [CraftPresence](https://curseforge.com/projects/297038)                | Optional   |         |
-| [Critical Orientation](https://modrinth.com/mod/AFqV4ew3)              | Optional   |         |
-| [Cull Leaves](https://modrinth.com/mod/GNxdLCoP)                       | Always     |         |
-| [Don't Clear Chat History](https://modrinth.com/mod/sUbMm93i)          | Always     |         |
-| [Draggable Resource Packs](https://curseforge.com/projects/522697)     | Optional   | `;`     |
-| [Durability Viewer](https://modrinth.com/mod/LTM1f0yY)                 | Always     |         |
-| [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)                       | Always     |         |
-| [EasierCrafting](https://modrinth.com/mod/UylF21yz)                    | Always     |         |
-| [Empire Minecraft Utilities](https://modrinth.com/mod/QYTT62S0)        | Always     |         |
-| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre)           | Always     |         |
-| [Entity Culling](https://curseforge.com/projects/448233)               | Always     |         |
-| [Fabric API](https://modrinth.com/mod/P7dR8mSH)                        | Always     |         |
-| [Fabrishot](https://modrinth.com/mod/3qsfQtE9)                         | Always     |         |
-| [Fast Open Links and Folders](https://curseforge.com/projects/513840)  | Always     | `;`     |
-| [FerriteCore](https://modrinth.com/mod/uXXizFIs)                       | Always     |         |
-| [FlightHUD](https://curseforge.com/projects/394419)                    | Optional   |         |
-| [Force Close Loading Screen](https://modrinth.com/mod/blWBX5n1)        | Always     |         |
-| [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n)           | Always     |         |
-| [Indium](https://modrinth.com/mod/Orvt0mRa)                            | Always     | `**`    |
-| [Inspecio](https://modrinth.com/mod/a93H3mKU)                          | Always     |         |
-| [Iris](https://modrinth.com/mod/YL57xq9U)                              | Always     |         |
-| [Item Scroller](https://curseforge.com/projects/242064)                | Always     |         |
-| [I Know What I'm Doing](https://modrinth.com/mod/S5ivha5X)             | Always     |         |
-| [Krypton](https://modrinth.com/mod/fQEb0iXm)                           | Always     | `†`     |
-| [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA)                 | Optional   |         |
-| [LambDynamicLights](https://modrinth.com/mod/yBW8D80W)                 | Always     |         |
-| [LazyDFU](https://modrinth.com/mod/hvFnDODi)                           | Always     |         |
-| [Light Overlay](https://curseforge.com/projects/325492)                | Always     |         |
-| [Litematica](https://curseforge.com/projects/308892)                   | Always     | `*`     |
-| [Lithium](https://modrinth.com/mod/gvQqBUqZ)                           | Always     |         |
-| [Low Fire](https://modrinth.com/mod/Gou1gmGj)                          | Optional   | `*`     |
-| [Memory Usage Screen](https://modrinth.com/mod/n9mFA0ax)               | Always     | `;`     |
-| [MiniHUD](https://curseforge.com/projects/244260)                      | Always     |         |
-| [Mod Menu](https://modrinth.com/mod/mOgUt4GM)                          | Always     |         |
-| [MoreChatHistory](https://modrinth.com/mod/8qkXwOnk)                   | Always     |         |
-| [NoChatLag](https://modrinth.com/mod/afu4kdAc)                         | Always     | `;`     |
-| [NoFog](https://curseforge.com/projects/296468)                        | Optional   | `*`     |
-| [No More Useless Keys](https://modrinth.com/mod/YCcdA1Lp)              | Optional   |         |
-| [No Strip](https://modrinth.com/mod/3f1BdVqy)                          | Optional   |         |
-| [No Telemetry](https://modrinth.com/mod/hg77g4Pw)                      | Always     | `;`     |
-| [Not Enough Crashes](https://modrinth.com/mod/yM94ont6)                | Always     |         |
-| [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)                         | Always     |         |
-| [PetOwner](https://modrinth.com/mod/IxUlAAFe)                          | Optional   |         |
-| [Quick Connect Button](https://modrinth.com/mod/erzkR85H)              | Always     | `;`     |
-| [Quilt Loading Screen](https://modrinth.com/mod/VPU6VYVP)              | Optional   |         |
-| [Rainbowify](https://modrinth.com/mod/m9FFV06N)                        | Optional   | `;`     |
-| [Rebind All The Keys](https://modrinth.com/mod/TpKqzzMu)               | Optional   |         |
-| [Roughly Enough Items](https://curseforge.com/projects/310111)         | Always     |         |
-| [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg)           | Optional   | `;`     |
-| [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)  | Always     | `;`     |
-| [Sodium](https://modrinth.com/mod/AANobbMI)                            | Always     |         |
-| [Starlight](https://modrinth.com/mod/H8CaAYZC)                         | Always     | `†`     |
-| [Time Changer](https://modrinth.com/mod/1itdse3V)                      | Optional   | `*`     |
-| [ToroHealth Damage Indicators](https://curseforge.com/projects/245733) | Always     |         |
-| [WorldEdit](https://curseforge.com/projects/225608)                    | Optional   | `†`     |
-| [WTHIT](https://modrinth.com/mod/6AQIaxuO)                             | Always     |         |
-| [Xaero's Minimap](https://curseforge.com/projects/263420)              | Always     | `*`     |
-| [Xaero's World Map](https://curseforge.com/projects/317780)            | Always     | `*`     |
+| Mod Name                       | Installed? | Comment |
+|--------------------------------|------------|---------|
+| [Amecs]                        | Always     |         |
+| [AntiGhost]                    | Always     |         |
+| [Auth Me]                      | Optional   |         |
+| [Better Enchanted Books]       | Optional   |         |
+| [Bobby]                        | Always     |         |
+| [Clean Logs]                   | Always     |         |
+| [Clear Skies]                  | Optional   |         |
+| [ClickThrough]                 | Always     |         |
+| [Command Macros]               | Optional   | `*`     |
+| [Continuity]                   | Always     |         |
+| [CraftPresence]                | Optional   |         |
+| [Critical Orientation]         | Optional   |         |
+| [Cull Leaves]                  | Always     |         |
+| [Don't Clear Chat History]     | Always     |         |
+| [Draggable Resource Packs]     | Optional   | `;`     |
+| [Durability Viewer]            | Always     |         |
+| [Dynamic FPS]                  | Always     |         |
+| [EasierCrafting]               | Always     |         |
+| [Empire Minecraft Utilities]   | Always     |         |
+| [Enhanced Block Entities]      | Always     |         |
+| [Entity Culling]               | Always     |         |
+| [Fabric API]                   | Always     |         |
+| [Fabrishot]                    | Always     |         |
+| [Fast Open Links and Folders]  | Always     | `;`     |
+| [FerriteCore]                  | Always     |         |
+| [FlightHUD]                    | Optional   |         |
+| [Force Close Loading Screen]   | Always     |         |
+| [Inventory Profiles Next]      | Always     |         |
+| [Indium]                       | Always     | `**`    |
+| [Inspecio]                     | Always     |         |
+| [Iris]                         | Always     |         |
+| [Item Scroller]                | Always     |         |
+| [I Know What I'm Doing]        | Always     |         |
+| [Krypton]                      | Always     | `†`     |
+| [LambdaBetterGrass]            | Optional   |         |
+| [LambDynamicLights]            | Always     |         |
+| [LazyDFU]                      | Always     |         |
+| [Light Overlay]                | Always     |         |
+| [Litematica]                   | Always     | `*`     |
+| [Lithium]                      | Always     |         |
+| [Low Fire]                     | Optional   | `*`     |
+| [Memory Usage Screen]          | Always     | `;`     |
+| [MiniHUD]                      | Always     |         |
+| [Mod Menu]                     | Always     |         |
+| [MoreChatHistory]              | Always     |         |
+| [NoChatLag]                    | Always     | `;`     |
+| [NoFog]                        | Optional   | `*`     |
+| [No More Useless Keys]         | Optional   |         |
+| [No Strip]                     | Optional   |         |
+| [No Telemetry]                 | Always     | `;`     |
+| [Not Enough Crashes]           | Always     |         |
+| [Ok Zoomer]                    | Always     |         |
+| [PetOwner]                     | Optional   |         |
+| [Quick Connect Button]         | Always     | `;`     |
+| [Quilt Loading Screen]         | Optional   |         |
+| [Rainbowify]                   | Optional   | `;`     |
+| [Raised]                       | Always     | `;`     |
+| [Rebind All The Keys]          | Optional   |         |
+| [Roughly Enough Items]         | Always     |         |
+| [Screenshot to Clipboard]      | Optional   | `;`     |
+| [Smooth Scrolling Everywhere]  | Always     | `;`     |
+| [Sodium]                       | Always     |         |
+| [Starlight]                    | Always     | `†`     |
+| [Time Changer]                 | Optional   | `*`     |
+| [ToroHealth Damage Indicators] | Always     |         |
+| [WorldEdit]                    | Optional   | `†`     |
+| [WTHIT]                        | Always     |         |
+| [Xaero's Minimap]              | Always     | `*`     |
+| [Xaero's World Map]            | Always     | `*`     |
 
 ### Legend
 * *Always* - The mod is always downloaded.
 * *Optional* - The mod is only downloaded if you check the box to.
-* `*` = Conditionally Approved; read [its page][CondApp] before using any mod marked with an asterisk.
+* `*` = [Conditionally Approved]; read its page before using any mod marked with an asterisk.
 * `**` = Dependency of other mods, and thus may not be explicitly approved in its own rite.
 * `†` = Deemed incompatible, but it still makes enough of a difference.
 * `††` = Previously approved in a different form; the old project went inactive or was otherwise not fit for use on 1.17, so it has been replaced with an updated 1.17 version.
@@ -131,4 +132,77 @@ Required dependencies for mods may not included in this list.
 
 Most modpacks would require explicit approval from the mod owner before it's able to be used. However, because of the distribution method of this pack (not via a zip), it is not necessary to do so. If any mod developers have any issues with this, please email me at <modpack@waffle.coffee>.
 
-[CondApp]: https://wiki.emc.gs/conditionally-approved-mods
+[Approved]: https://mods.emc.gs
+[Conditionally Approved]: https://wiki.emc.gs/conditionally-approved-mods
+[install Java]: https://adoptopenjdk.net/?variant=openjdk17&jvmVariant=hotspot
+[Packwiz Installer Bootstrap]: https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
+
+[Amecs]: https://curseforge.com/projects/324564
+[AntiGhost]: https://modrinth.com/mod/Jw3Wx1KR
+[Auth Me]: https://curseforge.com/projects/356643
+[Better Enchanted Books]: https://www.curseforge.com/projects/369122
+[Bobby]: https://modrinth.com/mod/M08ruV16
+[Clean Logs]: https://modrinth.com/mod/OTteoJUk
+[Clear Skies]: https://curseforge.com/projects/332523
+[ClickThrough]: https://modrinth.com/mod/Z5b0cAlD
+[Command Macros]: https://curseforge.com/projects/331956
+[Continuity]: https://modrinth.com/mod/1IjD5062
+[CraftPresence]: https://curseforge.com/projects/297038
+[Critical Orientation]: https://modrinth.com/mod/AFqV4ew3
+[Cull Leaves]: https://modrinth.com/mod/GNxdLCoP
+[Don't Clear Chat History]: https://modrinth.com/mod/sUbMm93i
+[Draggable Resource Packs]: https://curseforge.com/projects/522697
+[Durability Viewer]: https://modrinth.com/mod/LTM1f0yY
+[Dynamic FPS]: https://modrinth.com/mod/LQ3K71Q1
+[EasierCrafting]: https://modrinth.com/mod/UylF21yz
+[Empire Minecraft Utilities]: https://modrinth.com/mod/QYTT62S0
+[Enhanced Block Entities]: https://modrinth.com/mod/OVuFYfre
+[Entity Culling]: https://curseforge.com/projects/448233
+[Fabric API]: https://modrinth.com/mod/P7dR8mSH
+[Fabrishot]: https://modrinth.com/mod/3qsfQtE9
+[Fast Open Links and Folders]: https://curseforge.com/projects/513840
+[FerriteCore]: https://modrinth.com/mod/uXXizFIs
+[FlightHUD]: https://curseforge.com/projects/394419
+[Force Close Loading Screen]: https://modrinth.com/mod/blWBX5n1
+[Inventory Profiles Next]: https://modrinth.com/mod/O7RBXm3n
+[Indium]: https://modrinth.com/mod/Orvt0mRa
+[Inspecio]: https://modrinth.com/mod/a93H3mKU
+[Iris]: https://modrinth.com/mod/YL57xq9U
+[Item Scroller]: https://curseforge.com/projects/242064
+[I Know What I'm Doing]: https://modrinth.com/mod/S5ivha5X
+[Krypton]: https://modrinth.com/mod/fQEb0iXm
+[LambdaBetterGrass]: https://modrinth.com/mod/2Uev7LdA
+[LambDynamicLights]: https://modrinth.com/mod/yBW8D80W
+[LazyDFU]: https://modrinth.com/mod/hvFnDODi
+[Light Overlay]: https://curseforge.com/projects/325492
+[Litematica]: https://curseforge.com/projects/308892
+[Lithium]: https://modrinth.com/mod/gvQqBUqZ
+[Low Fire]: https://modrinth.com/mod/Gou1gmGj
+[Memory Usage Screen]: https://modrinth.com/mod/n9mFA0ax
+[MiniHUD]: https://curseforge.com/projects/244260
+[Mod Menu]: https://modrinth.com/mod/mOgUt4GM
+[MoreChatHistory]: https://modrinth.com/mod/8qkXwOnk
+[NoChatLag]: https://modrinth.com/mod/afu4kdAc
+[NoFog]: https://curseforge.com/projects/296468
+[No More Useless Keys]: https://modrinth.com/mod/YCcdA1Lp
+[No Strip]: https://modrinth.com/mod/3f1BdVqy
+[No Telemetry]: https://modrinth.com/mod/hg77g4Pw
+[Not Enough Crashes]: https://modrinth.com/mod/yM94ont6
+[Ok Zoomer]: https://modrinth.com/mod/aXf2OSFU
+[PetOwner]: https://modrinth.com/mod/IxUlAAFe
+[Quick Connect Button]: https://modrinth.com/mod/erzkR85H
+[Quilt Loading Screen]: https://modrinth.com/mod/VPU6VYVP
+[Rainbowify]: https://modrinth.com/mod/m9FFV06N
+[Raised]: https://modrinth.com/mod/nCQRBEiR
+[Rebind All The Keys]: https://modrinth.com/mod/TpKqzzMu
+[Roughly Enough Items]: https://curseforge.com/projects/310111
+[Screenshot to Clipboard]: https://modrinth.com/mod/1KiJRrTg
+[Smooth Scrolling Everywhere]: https://curseforge.com/projects/325861
+[Sodium]: https://modrinth.com/mod/AANobbMI
+[Starlight]: https://modrinth.com/mod/H8CaAYZC
+[Time Changer]: https://modrinth.com/mod/1itdse3V
+[ToroHealth Damage Indicators]: https://curseforge.com/projects/245733
+[WorldEdit]: https://curseforge.com/projects/225608
+[WTHIT]: https://modrinth.com/mod/6AQIaxuO
+[Xaero's Minimap]: https://curseforge.com/projects/263420
+[Xaero's World Map]: https://curseforge.com/projects/317780

@@ -1,0 +1,13 @@
+name = "Raised"
+filename = "raised-1.18.2-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/1.0.4/raised-1.18.2-1.0.4.jar"
+hash-format = "sha1"
+hash = "85fc6fd6337d11023c7a9b95ca4273c439d7bce7"
+
+[update]
+[update.modrinth]
+mod-id = "nCQRBEiR"
+version = "iJFIsXSH"

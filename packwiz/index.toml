@@ -330,6 +330,11 @@ hash = "239b623c57f173195617cf965c92b646dfb897734222cb15c88b7375c4131124"
 metafile = true
 
 [[files]]
+file = "mods/raised.toml"
+hash = "b2820ca96444a9cc18adf72c675e7ca2e300c8961e3756e3ae9307855223b371"
+metafile = true
+
+[[files]]
 file = "mods/rebind-all-the-keys.toml"
 hash = "ad57851b9afffa393256719e22563ce05c5edc562a053109c310c49958b727e9"
 metafile = true

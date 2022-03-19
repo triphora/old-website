@@ -1,13 +1,13 @@
 name = "waffle's Modpack"
 author = "wafflecoffee"
-version = "2022.3.17"
+version = "2022.3.19"
 description = "Highly customizable rolling-release client-side pack compatible with any multiplayer server, focusing on performance and features that still feel true to vanilla."
 pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7c8a0878ecdf1696e355fa1a7cb88db9e2c8219335ba3e7c9f696a73472a5eb8"
+hash = "852d007be9f22a4fbdd7cf8f9cf77bf11a25b0d1799c11f74030f9fdc969e126"
 
 [versions]
 fabric = "0.13.3"
