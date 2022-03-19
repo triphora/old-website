@@ -134,7 +134,7 @@ Most modpacks would require explicit approval from the mod owner before it's abl
 
 [Approved]: https://mods.emc.gs
 [Conditionally Approved]: https://wiki.emc.gs/conditionally-approved-mods
-[install Java]: https://adoptopenjdk.net/?variant=openjdk17&jvmVariant=hotspot
+[install Java]: https://adoptium.net/
 [Packwiz Installer Bootstrap]: https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
 
 [Amecs]: https://curseforge.com/projects/324564
