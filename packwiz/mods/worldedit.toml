@@ -1,11 +1,16 @@
 name = "WorldEdit"
-filename = "worldedit-fabric-mc1.18.2-7.2.10-SNAPSHOT-dist.jar"
+filename = "worldedit-mod-7.2.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/745979270748307458/951965232840970280/worldedit-fabric-mc1.18.2-7.2.10-SNAPSHOT-dist.jar"
+url = "https://edge.forgecdn.net/files/3697/298/worldedit-mod-7.2.10.jar"
 hash-format = "sha1"
-hash = "7975e4ddfa139a8baf004d0ff54c744fbffd709d"
+hash = "40fc7f7a734ccbd53365bc91c1a17fafcec1965d"
+
+[update]
+[update.curseforge]
+file-id = 3697298
+project-id = 225608
 
 [option]
 optional = true
