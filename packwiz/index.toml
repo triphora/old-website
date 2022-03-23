@@ -350,6 +350,11 @@ hash = "0b406514e3d6c608e6c7cb18d2c0076c990426d38f1fbc94356a7c4e5507d586"
 metafile = true
 
 [[files]]
+file = "mods/shadowedactionbar.toml"
+hash = "c693274809ac9f6268538f49d4fa66bcbc84570d8921e8bd6a596b89d9b168f8"
+metafile = true
+
+[[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.toml"
 hash = "5f8e2ec710900813d38c6a31c5966db50341646ec33ec3da8d2d5feb394fa707"
 metafile = true
