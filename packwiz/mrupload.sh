@@ -8,7 +8,7 @@ fi
 REQUIRED_MOD_FILES=$(grep -L "\\[option\\]" mods/*.toml | tr -s '\n' ' ')
 OPTIONAL_MOD_FILES=$(grep -l "\\[option\\]" mods/*.toml | tr -s '\n' ' ')
 
-OPTIONAL_PROJECT_IDS=($(grep -h "mod-id =.*" $OPTIONAL_MOD_FILES | sed "s/mod-id = //;s/\"//g" | tr -s '\n' ' '))
+REQUIRED_VERSION_IDS=($(grep -h "version =.*" $REQUIRED_MOD_FILES | sed "s/version = //;s/\"//g" | tr -s '\n' ' '))
 OPTIONAL_VERSION_IDS=($(grep -h "version =.*" $OPTIONAL_MOD_FILES | sed "s/version = //;s/\"//g" | tr -s '\n' ' '))
 
 DEPENDENCIES=""
