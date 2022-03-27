@@ -115,6 +115,11 @@ hash = "aa0d6be450af4733a6484550954d6d865eb78ac0ace6177fddec61b51c16c58d"
 metafile = true
 
 [[files]]
+file = "mods/dashloader.toml"
+hash = "22a9f27ba11eebe161bc6b7ae30aa1af90efe2a8b1cb84acd30cf164021fb77f"
+metafile = true
+
+[[files]]
 file = "mods/dcch.toml"
 hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true

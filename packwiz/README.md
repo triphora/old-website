@@ -62,6 +62,7 @@ Required dependencies for mods may not included in this list.
 | [CraftPresence]                | Optional   |         |
 | [Critical Orientation]         | Optional   |         |
 | [Cull Leaves]                  | Always     |         |
+| [DashLoader]                   | Always     | `;`     |
 | [Don't Clear Chat History]     | Always     |         |
 | [Draggable Resource Packs]     | Optional   | `;`     |
 | [Durability Viewer]            | Always     |         |
@@ -150,6 +151,7 @@ Most modpacks would require explicit approval from the mod owner before it's abl
 [CraftPresence]: https://curseforge.com/projects/297038
 [Critical Orientation]: https://modrinth.com/mod/AFqV4ew3
 [Cull Leaves]: https://modrinth.com/mod/GNxdLCoP
+[DashLoader]: https://modrinth.com/mod/ZfQ3kTvR
 [Don't Clear Chat History]: https://modrinth.com/mod/sUbMm93i
 [Draggable Resource Packs]: https://curseforge.com/projects/522697
 [Durability Viewer]: https://modrinth.com/mod/LTM1f0yY
