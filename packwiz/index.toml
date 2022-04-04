@@ -56,12 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "d51ef44b3ca26a54e55179de00ae4bd87e57b7404e8e9c6e683e122dd42b6959"
+hash = "2ed0458c1f09c92c401f0f36eeddb8fd893f7e66b461daa1d59ea436fb8d2316"
 metafile = true
 
 [[files]]
 file = "mods/auth-me.toml"
-hash = "1f64803b7b1f32fa47c4ae343177cd6100958b151198152d5afe0cdd6f12f5f4"
+hash = "9a176326a5054718d828db827f468ccbc02be4212c9dc20b5319fda9ac30d9e3"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "91216a3068740b09e2f69110cba64c31d222ee75bb17f6b6eb9f8c0c3fc76871"
+hash = "454a4bf31098bce6a96f6064bf93ffa57d4b666abac586737c504b6f74edbb4c"
 metafile = true
 
 [[files]]
@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.toml"
-hash = "b2820ca96444a9cc18adf72c675e7ca2e300c8961e3756e3ae9307855223b371"
+hash = "8501ed7de55f6adaf2f1be1de7c357a61029ee94836a7589c0e1afc63b0f7192"
 metafile = true
 
 [[files]]
@@ -401,5 +401,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "4a97bc3e9eefacb7809c1a0d0e158b08458a1158894d94fc387c68d2c3ab81dd"
+hash = "eba5ede355e4964916c7f1f9873406f7cea2517fea4c3bd8a1cf7d37576cec19"
 metafile = true
