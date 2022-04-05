@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "04e52fb1abeb1921e2de71447db36a81947a1eeed6d4709ed5cbe48c03f7dcab"
+hash = "320a310f7f3c4f125f5e6d6aed315cb379b2feb382dc8365ea08ae1f244cced8"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "909418c74f25922712ef75a7db5416e0e1bd56a8cbcd35bf9957cb97687b1874"
+hash = "67985e6d3e10b11196333ef6787c1630209a48d0c48b62008c394adb30e2b145"
 metafile = true
 
 [[files]]
