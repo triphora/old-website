@@ -12,3 +12,7 @@ hash = "ad75d0186bf5b788bfc8613028b7eff8482a5f05"
 file-id = 3712759
 project-id = 263420
 release-channel = "beta"
+
+[option]
+optional = true
+description = "Xaero's Minimap is a mod adding a minimap. JourneyMap is recommended instead, but this is kept for historical purposes."

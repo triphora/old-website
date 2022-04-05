@@ -12,3 +12,7 @@ hash = "960b6f10c044359a854c1af185fdff72da844174"
 file-id = 3732799
 project-id = 317780
 release-channel = "beta"
+
+[option]
+optional = true
+description = "Xaero's World Map is a mod adding a world map. JourneyMap is recommended instead, but this is kept for historical purposes."

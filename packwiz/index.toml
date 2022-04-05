@@ -220,6 +220,11 @@ hash = "672ee758293eaa2c4c8b52799c3de6ab10c258a44085d9c6dec12a8d39328773"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.toml"
+hash = "909418c74f25922712ef75a7db5416e0e1bd56a8cbcd35bf9957cb97687b1874"
+metafile = true
+
+[[files]]
 file = "mods/krypton.toml"
 hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
 metafile = true
@@ -391,15 +396,15 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "0967b2ec94b8239dd1d8b54d0be654e926e0751efd2efc52b8d2df49e29eef1c"
+hash = "f94b41695798cf547c3fe0e7afc2614e7954646fe51c87f7c7f1e8eeff6f3a90"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "9167de308aaa2e203607f64689dd20eb4a027e9e17fa004177eb293388192e75"
+hash = "9f1ed2dd8321be041fbd9e2cc2f29fb85edd06379943103ce79c4989e983917a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "eba5ede355e4964916c7f1f9873406f7cea2517fea4c3bd8a1cf7d37576cec19"
+hash = "bf5b2ef15c3a2913086c846de9a6db959054ec1405046a31ce01a456984e3b3d"
 metafile = true

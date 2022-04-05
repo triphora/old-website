@@ -83,6 +83,7 @@ Required dependencies for mods may not included in this list.
 | [Iris]                         | Always     |         |
 | [Item Scroller]                | Always     |         |
 | [I Know What I'm Doing]        | Always     |         |
+| [JourneyMap]                   | Optional   | `*`     |
 | [Krypton]                      | Always     | `†`     |
 | [LambdaBetterGrass]            | Optional   |         |
 | [LambDynamicLights]            | Always     |         |
@@ -117,8 +118,8 @@ Required dependencies for mods may not included in this list.
 | [ToroHealth Damage Indicators] | Always     |         |
 | [WorldEdit]                    | Optional   | `†`     |
 | [WTHIT]                        | Always     |         |
-| [Xaero's Minimap]              | Always     | `*`     |
-| [Xaero's World Map]            | Always     | `*`     |
+| [Xaero's Minimap]              | Optional   | `*`     |
+| [Xaero's World Map]            | Optional   | `*`     |
 
 ### Legend
 * *Always* - The mod is always downloaded.
@@ -172,6 +173,7 @@ Most modpacks would require explicit approval from the mod owner before it's abl
 [Iris]: https://modrinth.com/mod/YL57xq9U
 [Item Scroller]: https://curseforge.com/projects/242064
 [I Know What I'm Doing]: https://modrinth.com/mod/S5ivha5X
+[JourneyMap]: https://curseforge.com/projects/32274
 [Krypton]: https://modrinth.com/mod/fQEb0iXm
 [LambdaBetterGrass]: https://modrinth.com/mod/2Uev7LdA
 [LambDynamicLights]: https://modrinth.com/mod/yBW8D80W

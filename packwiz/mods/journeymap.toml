@@ -1,0 +1,18 @@
+name = "JourneyMap"
+filename = "journeymap-1.18.2-5.8.1beta3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3736/162/journeymap-1.18.2-5.8.1beta3-fabric.jar"
+hash-format = "sha1"
+hash = "7f7ce6d5da11785b13b0eac4c9cb6f1725a5b254"
+
+[update]
+[update.curseforge]
+file-id = 3736162
+project-id = 32274
+
+[option]
+optional = true
+default = true
+description = "JourneyMap is a client-side minimap, world map, and web map mod."
