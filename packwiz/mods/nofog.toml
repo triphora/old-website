@@ -1,15 +1,15 @@
 name = "NoFog"
-filename = "NoFog-1.2.1_1.16.5-1.18.2-fabric.jar"
+filename = "NoFog-1.2.2_1.16.5-1.18.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3692/641/NoFog-1.2.1_1.16.5-1.18.2-fabric.jar"
+url = "https://edge.forgecdn.net/files/3737/263/NoFog-1.2.2_1.16.5-1.18.2-fabric.jar"
 hash-format = "sha1"
-hash = "758bf9f0139e1c081616b4be544585b9414c3829"
+hash = "5626e7871c5ed05d4ad32d3ad34f5749bf7fc4da"
 
 [update]
 [update.curseforge]
-file-id = 3692641
+file-id = 3737263
 project-id = 296468
 
 [option]
