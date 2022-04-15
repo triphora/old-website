@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "67985e6d3e10b11196333ef6787c1630209a48d0c48b62008c394adb30e2b145"
+hash = "a7b0792fffb0bb309432485aa3e72712f27f6a9d0d40156b8497b75fa9d8b68c"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "0d058e607ee3bdc11c06ec5c7ae52a736ffcd140bb104be7d35d8faaf6889dd4"
+hash = "2c170e25a67143dd6a3dbb74300fb1a9506fea27f13d1644a806a75c37bb4781"
 metafile = true
 
 [[files]]
