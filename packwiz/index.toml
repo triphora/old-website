@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "fdc45d4349a68455d6ee0454dbfb2ef3eb27f695dea54a99f58b463c84229aa4"
+hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "56341f743528a406c4d51f22ba1640dca5c475696a9c21d8924b4813accdfa71"
+hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "a7b0792fffb0bb309432485aa3e72712f27f6a9d0d40156b8497b75fa9d8b68c"
+hash = "6e47f2dce2791f918951eb87aac3e87e4709552f866b6ec4d6cfedc62d1c9f04"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.toml"
-hash = "c5a983620ec2c1a72c58d5a7ce74fdc76084cb8fa7bf1f18ca1ae11e27ded513"
+hash = "e96382dc2f00318804171da24bab458c69198febbf5a8047c07737aa38a5ca45"
 metafile = true
 
 [[files]]
@@ -401,10 +401,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "8b75ae9f5592170cfdb4becf9a244e53008ef39b98a471b1fa20b79da09c15a9"
+hash = "90a6c9bd0458dabacd0df39530f3e602ddacec140fa4113cb2dd109f0ee71fd4"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "bf5b2ef15c3a2913086c846de9a6db959054ec1405046a31ce01a456984e3b3d"
+hash = "d48a9946b22ff83d9a25f0f14deb94ca201498511f96efdd25a06b1c0c0e1f4c"
 metafile = true
