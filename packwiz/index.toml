@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.toml"
-hash = "9a176326a5054718d828db827f468ccbc02be4212c9dc20b5319fda9ac30d9e3"
+hash = "0cd8cbe5a77953f3beec311c4e8804cb195abe32f7c6af7a42790897b4fec86c"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.toml"
-hash = "7d40bcc67b4a6c0e1e6e0d0d586ac506834c8df3e906e3a029c39836d5ef2821"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.toml"
-hash = "df864fbe0b2602c2a0455b789e5e22f65ce1770994dbf3c6fe22a6b4ba9147b7"
+hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "9bd02dc0f2c7ab5c3a26f9df24441100348db51c100ce5eebc10ba40eb862f0b"
+hash = "4df16f85610e373b5ac1c9fd5908225e38c5b993cf471c5034f2190df1924157"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "6e47f2dce2791f918951eb87aac3e87e4709552f866b6ec4d6cfedc62d1c9f04"
+hash = "a7d6899649e26a87c41b49547bf1a8f9834ccbf1393f03d5f69264c527c777e7"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.toml"
-hash = "2ed09c99ce518bb51f6bc954d8300f2496db356a0376b287bf2fc85eaf5bbb38"
+hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "f94b41695798cf547c3fe0e7afc2614e7954646fe51c87f7c7f1e8eeff6f3a90"
+hash = "432768bbac822ed5b194b6560f65d6d31dafe232e2cd457aa4c1af2b925f4ca9"
 metafile = true
 
 [[files]]
