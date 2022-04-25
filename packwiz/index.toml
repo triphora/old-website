@@ -85,11 +85,6 @@ hash = "f42f6d7f89bb1254311ca068b2b326489d5c0c9acd2840879c93fd6b97e33944"
 metafile = true
 
 [[files]]
-file = "mods/clear-skies.toml"
-hash = "bade60e42167e182f7e4f5a60879c8ad403a54d5451be0e9c48bf344120142b5"
-metafile = true
-
-[[files]]
 file = "mods/clickthrough.toml"
 hash = "1a22f8e7f1718b40216542f41669501144c80bf1c5bbec265177aeaa8e93495a"
 metafile = true
@@ -206,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "04e52fb1abeb1921e2de71447db36a81947a1eeed6d4709ed5cbe48c03f7dcab"
+hash = "7baba0d5b6448760f7a0ad285c82633842efeeda7714571daa477486a4899c50"
 metafile = true
 
 [[files]]
@@ -281,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
+hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
 metafile = true
 
 [[files]]
@@ -316,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "7bb446109174fb831ced527d41df13962b1c46677f7001557b7211e54e5d3e34"
+hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
 metafile = true
 
 [[files]]
@@ -336,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "5a5a6b0553bc54631283ec702158967108be5cf344934a24cc82c5c5a15d5bdb"
+hash = "6c3a1651669dfc98349dd48a19d7a3ff7d7f4620b8e1ec290e2acf21061cfc17"
 metafile = true
 
 [[files]]
@@ -356,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3e723eefde3af8c48ea424018106868bcadbccd9546666a3b2c57823886b0072"
+hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
 metafile = true
 
 [[files]]
