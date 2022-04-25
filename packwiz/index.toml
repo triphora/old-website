@@ -156,11 +156,6 @@ hash = "b07c6d5e8f39cdba0616937b933e847cf6e1e2dbcebab17bb7eb09aa2fc0560b"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
-hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
-metafile = true
-
-[[files]]
 file = "mods/fabrishot.toml"
 hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
 metafile = true
@@ -318,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/petowner.toml"
 hash = "8d8ffcdcddc74b92447dfe16e5f234793b2e6a67c46f856913e0436509367933"
+metafile = true
+
+[[files]]
+file = "mods/qsl.toml"
+hash = "fb226f346fbbb51a24545d51d13ef764ef2d7e37d7904b4c0862e187e8fd5665"
 metafile = true
 
 [[files]]
