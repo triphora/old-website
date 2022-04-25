@@ -17,10 +17,6 @@ file = "config/enhanced_bes.properties"
 hash = "842dfdaf101e56169daeaa523d87b70deda2c35a4c3742ddc73416f7d7dbe34c"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "7b9ae71189cf2ba688cf512476b21d0023906577caa1609b9f35af5fdf79fd9b"
-
-[[files]]
 file = "config/modmenu.json"
 hash = "578a22dfa01661d802afc34d6f42cebc34c7b1eb795be394e26050371363d05c"
 
