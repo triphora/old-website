@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "6c3a1651669dfc98349dd48a19d7a3ff7d7f4620b8e1ec290e2acf21061cfc17"
+hash = "8c0b6b4af1aa2dda3b4d09ac32640b4f06523100a66be0c794d39688bacae3bc"
 metafile = true
 
 [[files]]

@@ -55,7 +55,6 @@ Required dependencies for mods may not included in this list.
 | [Better Enchanted Books]       | Optional   |         |
 | [Bobby]                        | Always     |         |
 | [Clean Logs]                   | Always     |         |
-| [Clear Skies]                  | Optional   |         |
 | [ClickThrough]                 | Always     |         |
 | [Command Macros]               | Optional   | `*`     |
 | [Continuity]                   | Always     |         |
@@ -71,7 +70,6 @@ Required dependencies for mods may not included in this list.
 | [Empire Minecraft Utilities]   | Always     |         |
 | [Enhanced Block Entities]      | Always     |         |
 | [Entity Culling]               | Always     |         |
-| [Fabric API]                   | Always     |         |
 | [Fabrishot]                    | Always     |         |
 | [Fast Open Links and Folders]  | Always     | `;`     |
 | [FerriteCore]                  | Always     |         |
@@ -93,6 +91,7 @@ Required dependencies for mods may not included in this list.
 | [Lithium]                      | Always     |         |
 | [Low Fire]                     | Optional   | `*`     |
 | [Memory Usage Screen]          | Always     | `;`     |
+| [Main Menu Credits]            | Always     | `;`     |
 | [MiniHUD]                      | Always     |         |
 | [Mod Menu]                     | Always     |         |
 | [MoreChatHistory]              | Always     |         |
@@ -105,7 +104,8 @@ Required dependencies for mods may not included in this list.
 | [Ok Zoomer]                    | Always     |         |
 | [PetOwner]                     | Optional   |         |
 | [Quick Connect Button]         | Always     | `;`     |
-| [Quilt Loading Screen]         | Optional   |         |
+| [Quilt Loading Screen]         | Always     |         |
+| [Quilt Standard Libraries]     | Always     | `**`    |
 | [Rainbowify]                   | Optional   | `;`     |
 | [Raised]                       | Always     | `;`     |
 | [Rebind All The Keys]          | Optional   |         |
@@ -182,6 +182,7 @@ Most modpacks would require explicit approval from the mod owner before it's abl
 [Litematica]: https://curseforge.com/projects/308892
 [Lithium]: https://modrinth.com/mod/gvQqBUqZ
 [Low Fire]: https://modrinth.com/mod/Gou1gmGj
+[Main Menu Credits]: https://modrinth.com/mod/qJDfP7WN
 [Memory Usage Screen]: https://modrinth.com/mod/n9mFA0ax
 [MiniHUD]: https://curseforge.com/projects/244260
 [Mod Menu]: https://modrinth.com/mod/mOgUt4GM
@@ -196,6 +197,7 @@ Most modpacks would require explicit approval from the mod owner before it's abl
 [PetOwner]: https://modrinth.com/mod/IxUlAAFe
 [Quick Connect Button]: https://modrinth.com/mod/erzkR85H
 [Quilt Loading Screen]: https://modrinth.com/mod/VPU6VYVP
+[Quilt Standard Libraries]: https://modrinth.com/mod/qvIfYCYJ
 [Rainbowify]: https://modrinth.com/mod/m9FFV06N
 [Raised]: https://modrinth.com/mod/nCQRBEiR
 [Rebind All The Keys]: https://modrinth.com/mod/TpKqzzMu
