@@ -9,12 +9,20 @@ file = "config/clickthrough.json"
 hash = "a60317648253b4fe15f5ed6720714f31abf39fef128069bb07c5700548f9bff9"
 
 [[files]]
+file = "config/dashloader.json"
+hash = "4d12f0da708552ad27fdfa7a910fe82e82c82b27766002603010ce79b3342947"
+
+[[files]]
 file = "config/durabilityviewer.json"
 hash = "19188f672b02caaf02cc67d15a8e2a74b2e34a25676fc37daf35d90eac5dfc7d"
 
 [[files]]
 file = "config/enhanced_bes.properties"
 hash = "842dfdaf101e56169daeaa523d87b70deda2c35a4c3742ddc73416f7d7dbe34c"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "cc39beac3d5257628a2442cb03f75a6a9260bfc52c6da1e4e1b326c62729a239"
 
 [[files]]
 file = "config/modmenu.json"
@@ -202,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "4df16f85610e373b5ac1c9fd5908225e38c5b993cf471c5034f2190df1924157"
+hash = "cbc3d6649757c3751ac73aed8df427b3ebc5685a808935b0e631d213bf6a760b"
 metafile = true
 
 [[files]]
@@ -248,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.toml"
+hash = "91715ce7c8cc859d170c1d3753c6747f153ffbe942265a16d64dfe37635f7b95"
 metafile = true
 
 [[files]]
@@ -317,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "fb226f346fbbb51a24545d51d13ef764ef2d7e37d7904b4c0862e187e8fd5665"
+hash = "d0c4d23f688618f6c47e21d4760a619a389bbac2cd5b8ef8d625c7ade32b0229"
 metafile = true
 
 [[files]]
@@ -392,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "432768bbac822ed5b194b6560f65d6d31dafe232e2cd457aa4c1af2b925f4ca9"
+hash = "9f348462d03c0815838a45316c2e0d22f2c9ba5b0e0175cb3871a55dc098fed2"
 metafile = true
 
 [[files]]
