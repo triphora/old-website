@@ -9,6 +9,10 @@ file = "config/clickthrough.json"
 hash = "a60317648253b4fe15f5ed6720714f31abf39fef128069bb07c5700548f9bff9"
 
 [[files]]
+file = "config/dashloader.json"
+hash = "4d12f0da708552ad27fdfa7a910fe82e82c82b27766002603010ce79b3342947"
+
+[[files]]
 file = "config/durabilityviewer.json"
 hash = "19188f672b02caaf02cc67d15a8e2a74b2e34a25676fc37daf35d90eac5dfc7d"
 
@@ -17,8 +21,8 @@ file = "config/enhanced_bes.properties"
 hash = "842dfdaf101e56169daeaa523d87b70deda2c35a4c3742ddc73416f7d7dbe34c"
 
 [[files]]
-file = "config/fabric_loader_dependencies.json"
-hash = "7b9ae71189cf2ba688cf512476b21d0023906577caa1609b9f35af5fdf79fd9b"
+file = "config/isxander-main-menu-credits.json"
+hash = "cc39beac3d5257628a2442cb03f75a6a9260bfc52c6da1e4e1b326c62729a239"
 
 [[files]]
 file = "config/modmenu.json"
@@ -82,11 +86,6 @@ metafile = true
 [[files]]
 file = "mods/clean-logs.toml"
 hash = "f42f6d7f89bb1254311ca068b2b326489d5c0c9acd2840879c93fd6b97e33944"
-metafile = true
-
-[[files]]
-file = "mods/clear-skies.toml"
-hash = "bade60e42167e182f7e4f5a60879c8ad403a54d5451be0e9c48bf344120142b5"
 metafile = true
 
 [[files]]
@@ -165,11 +164,6 @@ hash = "b07c6d5e8f39cdba0616937b933e847cf6e1e2dbcebab17bb7eb09aa2fc0560b"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.toml"
-hash = "f4e1da9342cd15c7c79835c952dce47b8786f3c393b9cf644ef3b5ed638ae052"
-metafile = true
-
-[[files]]
 file = "mods/fabrishot.toml"
 hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
 metafile = true
@@ -206,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "04e52fb1abeb1921e2de71447db36a81947a1eeed6d4709ed5cbe48c03f7dcab"
+hash = "7baba0d5b6448760f7a0ad285c82633842efeeda7714571daa477486a4899c50"
 metafile = true
 
 [[files]]
@@ -216,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.toml"
-hash = "4df16f85610e373b5ac1c9fd5908225e38c5b993cf471c5034f2190df1924157"
+hash = "cbc3d6649757c3751ac73aed8df427b3ebc5685a808935b0e631d213bf6a760b"
 metafile = true
 
 [[files]]
@@ -265,6 +259,11 @@ hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.toml"
+hash = "91715ce7c8cc859d170c1d3753c6747f153ffbe942265a16d64dfe37635f7b95"
+metafile = true
+
+[[files]]
 file = "mods/malilib.toml"
 hash = "5a579b648ece5718238c78e95da6f24b68f7dc6fdbfef593b08080d64a8079f5"
 metafile = true
@@ -281,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "e14ec21802432c7da8fd1746c3704d4cc86a66685ae3d32c0fce88b6a7a15818"
+hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
 metafile = true
 
 [[files]]
@@ -316,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "7bb446109174fb831ced527d41df13962b1c46677f7001557b7211e54e5d3e34"
+hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
 metafile = true
 
 [[files]]
@@ -330,13 +329,18 @@ hash = "8d8ffcdcddc74b92447dfe16e5f234793b2e6a67c46f856913e0436509367933"
 metafile = true
 
 [[files]]
+file = "mods/qsl.toml"
+hash = "d0c4d23f688618f6c47e21d4760a619a389bbac2cd5b8ef8d625c7ade32b0229"
+metafile = true
+
+[[files]]
 file = "mods/quickconnectbutton.toml"
 hash = "14056e199239c88e18eb249e0133fd0788fd0e5e86eb12e2d4ea519b25ce10d4"
 metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.toml"
-hash = "5a5a6b0553bc54631283ec702158967108be5cf344934a24cc82c5c5a15d5bdb"
+hash = "6c3a1651669dfc98349dd48a19d7a3ff7d7f4620b8e1ec290e2acf21061cfc17"
 metafile = true
 
 [[files]]
@@ -356,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "3e723eefde3af8c48ea424018106868bcadbccd9546666a3b2c57823886b0072"
+hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
 metafile = true
 
 [[files]]
@@ -401,7 +405,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "432768bbac822ed5b194b6560f65d6d31dafe232e2cd457aa4c1af2b925f4ca9"
+hash = "9f348462d03c0815838a45316c2e0d22f2c9ba5b0e0175cb3871a55dc098fed2"
 metafile = true
 
 [[files]]
