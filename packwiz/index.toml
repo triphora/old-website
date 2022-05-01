@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.toml"
-hash = "32ccc573e57d33203014065a9410666d6266538eab2cbc8f543823f08f7fa135"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "d0c4d23f688618f6c47e21d4760a619a389bbac2cd5b8ef8d625c7ade32b0229"
+hash = "618cb76373c647b872a313cdf1c80ce2f37e18301cb31f49b62bb78f09c48661"
 metafile = true
 
 [[files]]
