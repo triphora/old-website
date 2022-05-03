@@ -22,7 +22,7 @@ DEPENDENCIES=${DEPENDENCIES%,}
 
 curl -isX POST \
   -H "Authorization:$MODRINTH_TOKEN" -H "Content-Type:multipart/form-data" -H "Accept:application/json" \
-  -F "data={\"file_parts\":[\"file\"], \"version_number\":\"$1\", \"version_title\":\"$1\", \"version_body\":\"$2\", \"loaders\":[\"fabric\"], \"game_versions\":[\"1.18.2\"], \"version_type\":\"release\", \"release_channel\":\"release\", \"project_id\":\"sISTMo6m\", \"featured\":false, \"dependencies\":[$DEPENDENCIES]}" \
+  -F "data={\"file_parts\":[\"file\"], \"version_number\":\"$1\", \"version_title\":\"$1\", \"version_body\":\"$2\", \"loaders\":[\"quilt\"], \"game_versions\":[\"1.18.2\"], \"version_type\":\"release\", \"release_channel\":\"release\", \"project_id\":\"sISTMo6m\", \"featured\":false, \"dependencies\":[$DEPENDENCIES]}" \
   -F "file=@waffle's Modpack-$1.mrpack" https://api.modrinth.com/v2/version
 
 echo ""

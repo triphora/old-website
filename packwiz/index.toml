@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "9458f2379e1a68cb81337b694da4ff1d76344cc5c87a49fbc6880cef61c76187"
+hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.toml"
-hash = "e96382dc2f00318804171da24bab458c69198febbf5a8047c07737aa38a5ca45"
+hash = "8725ecd93d424fbde33676ca47f75ddd51ac33b4389b1670a977b934ece49e69"
 metafile = true
 
 [[files]]
