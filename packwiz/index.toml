@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "a7d6899649e26a87c41b49547bf1a8f9834ccbf1393f03d5f69264c527c777e7"
+hash = "f06d70d9969fb5ebcea3c084908b2e9a9ce5e70e060bef999303768b7e9c7fd5"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "618cb76373c647b872a313cdf1c80ce2f37e18301cb31f49b62bb78f09c48661"
+hash = "71959dbff1409b42ca6415d2415ed646a14ab19b02265f8fd9f8e618d8850595"
 metafile = true
 
 [[files]]
@@ -405,15 +405,15 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "9f348462d03c0815838a45316c2e0d22f2c9ba5b0e0175cb3871a55dc098fed2"
+hash = "70596f9325e0070be39406f799bc156d17796983cf90f42bfa0efdcceaa6eceb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "90a6c9bd0458dabacd0df39530f3e602ddacec140fa4113cb2dd109f0ee71fd4"
+hash = "dd61b219dabe82d7139fd7bc1b319e2966c4521ae48732aa10961a37ee580102"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "d48a9946b22ff83d9a25f0f14deb94ca201498511f96efdd25a06b1c0c0e1f4c"
+hash = "c2cc506fa69c48a13f232b44e739e857427b2d1f6f652164c334ca6904f64250"
 metafile = true

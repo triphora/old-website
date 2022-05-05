@@ -1,15 +1,15 @@
 name = "JourneyMap"
-filename = "journeymap-1.18.2-5.8.2-fabric.jar"
+filename = "journeymap-1.18.2-5.8.3-fabric.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3764/162/journeymap-1.18.2-5.8.2-fabric.jar"
+url = "https://edge.forgecdn.net/files/3779/278/journeymap-1.18.2-5.8.3-fabric.jar"
 hash-format = "sha1"
-hash = "a07931c79389c7a5bcbb9c2d594bb52b1eda40f4"
+hash = "6a892278a183e5f48e63ee64555ee8035d4a8eb0"
 
 [update]
 [update.curseforge]
-file-id = 3764162
+file-id = 3779278
 project-id = 32274
 
 [option]
