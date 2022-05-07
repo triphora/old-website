@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "612eb5b02d9f18e9c5327bb96373c692c72c9ebbae3541eea03feda76dcd764a"
+hash = "cc31d30724f40c4168c01bbef66785cf2a614b8c6bc5ddaf0e362406dbe1842e"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "a2ebf3766d3b4f0d36ff774d8f5f0c50ba414c8784f01a0bd1871a572c5c2485"
+hash = "183d97c88ed36b9f18e3bbab2bcf28e2a5da54d542a09a0d388c161e2daf259b"
 metafile = true
 
 [[files]]
@@ -415,5 +415,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "c2cc506fa69c48a13f232b44e739e857427b2d1f6f652164c334ca6904f64250"
+hash = "ed35d3445adf8f1238d44d6771f93833a4e528165e5d52046ce4ebb3961ef7e3"
 metafile = true
