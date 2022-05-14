@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-fabric.toml"
-hash = "cc31d30724f40c4168c01bbef66785cf2a614b8c6bc5ddaf0e362406dbe1842e"
+hash = "fd6f7453e6b6a66b26d32fc6da52d2545e7aadb1b7ccdacb7674ac3d4066a28a"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "183d97c88ed36b9f18e3bbab2bcf28e2a5da54d542a09a0d388c161e2daf259b"
+hash = "0b617f4c8ac32ab02efeb4037fe8e40f571df448ff37011e86f0a6985bb12fe5"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "2c170e25a67143dd6a3dbb74300fb1a9506fea27f13d1644a806a75c37bb4781"
+hash = "a5f72df3af57531033b738680b8e9931e55f7fbd17308fec7b7a7c225e823a24"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "a73f71d58f3a3c5f01e86f32209d03d002f73768eedff9cb6f9cbd150ecb6361"
+hash = "8f501b0b0f968e3b4819219c5fd5c656500bb0a2736cafff092ce7279fe85574"
 metafile = true
 
 [[files]]
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.toml"
-hash = "71959dbff1409b42ca6415d2415ed646a14ab19b02265f8fd9f8e618d8850595"
+hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
 metafile = true
 
 [[files]]
@@ -345,12 +345,12 @@ metafile = true
 
 [[files]]
 file = "mods/rainbowify.toml"
-hash = "239b623c57f173195617cf965c92b646dfb897734222cb15c88b7375c4131124"
+hash = "0556b6075edf67d1c93da43438070e1b9dbfd037a61874e2c7b8b44f918731f3"
 metafile = true
 
 [[files]]
 file = "mods/raised.toml"
-hash = "8725ecd93d424fbde33676ca47f75ddd51ac33b4389b1670a977b934ece49e69"
+hash = "82bf62a035b5d56ac6f1da8e70f6e321e22edc7fc662e5f744e5414fed65a447"
 metafile = true
 
 [[files]]
@@ -415,5 +415,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "ed35d3445adf8f1238d44d6771f93833a4e528165e5d52046ce4ebb3961ef7e3"
+hash = "22f0ea8c95d8f13c2ba47d1997b109237a697ecdf7f40f13da54284fe9f25b31"
 metafile = true
