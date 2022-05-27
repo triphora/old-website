@@ -1,13 +1,13 @@
 name = "FastOpenLinksAndFolders"
-filename = "fastopenlinksandfolders-1.1.0.jar"
+filename = "fastopenlinksandfolders-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3629/291/fastopenlinksandfolders-1.1.0.jar"
 hash-format = "sha1"
-hash = "4318049b69cb9a3d8979fda3b19424b01c64a621"
+hash = "c24a170d663445455e3d8851c2dd5134499f336c"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3629291
+file-id = 3806979
 project-id = 513840

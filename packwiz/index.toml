@@ -59,8 +59,8 @@ hash = "567dea83368027d9051051a50e777ef5650f9b5ae74d8a8c5cf1fb5abb74c6d5"
 metafile = true
 
 [[files]]
-file = "mods/architectury-fabric.toml"
-hash = "fd6f7453e6b6a66b26d32fc6da52d2545e7aadb1b7ccdacb7674ac3d4066a28a"
+file = "mods/architectury-api.pw.toml"
+hash = "1f9425bac09b9897d8adc364017585190274bac6d528f8a9f440d0763c559904"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.toml"
-hash = "ae96cfe792223bcfd8661e3411e5668f33d6d5a2d1b2993e200f893f564a7abe"
+hash = "8f2b2753037832dbbd830b137d4456956f11d62d8acafc2464b131974735550e"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.toml"
-hash = "a401eef95d8cd5100179ac77d1b78b7172b98d8fe1d8c5b17a751854d2db88d0"
+hash = "a06f7b752a79921fedd37af55571c5a2eabd66c9543617e953bd2f73c6987bcc"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.toml"
-hash = "e01e25c6704e6f8e976451719b18c6ebc91cbe6cd842de188addedb1c533ebc1"
+hash = "41bc0a9806bc79afa3dfc650fe251b85711a166b059c5a1273634afd0b5a792a"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.toml"
-hash = "0b617f4c8ac32ab02efeb4037fe8e40f571df448ff37011e86f0a6985bb12fe5"
+hash = "4a67039ec2d020ad0cb5ade1855fc24d5e4eb847cc24a59f1f19575402d5a080"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "f06d70d9969fb5ebcea3c084908b2e9a9ce5e70e060bef999303768b7e9c7fd5"
+hash = "d20ecfc728f3f972ea54521571133c56cb3b488b64362e7e7ba9fa7a0891e6f4"
 metafile = true
 
 [[files]]
@@ -255,12 +255,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "8243fcb2221942db16259a029d2964ca41d7a336fccc60464597d9f0d6699529"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
 metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.toml"
-hash = "91715ce7c8cc859d170c1d3753c6747f153ffbe942265a16d64dfe37635f7b95"
+hash = "a88a301814423dfeac9c684095c8939ebe4dca2e6a6b96cd058a8fa16c62650f"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.toml"
-hash = "82bf62a035b5d56ac6f1da8e70f6e321e22edc7fc662e5f744e5414fed65a447"
+hash = "fe3b8b52b6f566c4ed5d17b42feff5503e5bb07b6163d45133ec1c115a147415"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "fb3132af2dd8a755ad4d23d93b99166751f4c81ea1f9a74f194119d148f73844"
+hash = "60efa745713c4893cc58e44b1a6d07b6c963544593b9ac5d9c1a0e7a03801674"
 metafile = true
 
 [[files]]
@@ -405,15 +405,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.toml"
-hash = "70596f9325e0070be39406f799bc156d17796983cf90f42bfa0efdcceaa6eceb"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.toml"
-hash = "dd61b219dabe82d7139fd7bc1b319e2966c4521ae48732aa10961a37ee580102"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.toml"
-hash = "22f0ea8c95d8f13c2ba47d1997b109237a697ecdf7f40f13da54284fe9f25b31"
+hash = "c7aaa1a6c17b3a05f727ee143868595eab4fd3ac6348d2ceded5f04aa4d9fb6c"
 metafile = true
