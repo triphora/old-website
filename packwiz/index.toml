@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1f9425bac09b9897d8adc364017585190274bac6d528f8a9f440d0763c559904"
+hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
 metafile = true
 
 [[files]]
@@ -219,8 +219,8 @@ hash = "672ee758293eaa2c4c8b52799c3de6ab10c258a44085d9c6dec12a8d39328773"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.toml"
-hash = "d20ecfc728f3f972ea54521571133c56cb3b488b64362e7e7ba9fa7a0891e6f4"
+file = "mods/journeymap.pw.toml"
+hash = "df65b2a2115e15b523a178be6adc5b7f18b2ec6ca4fb97b5ad5336fd69f9fe1f"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "60efa745713c4893cc58e44b1a6d07b6c963544593b9ac5d9c1a0e7a03801674"
+hash = "2d34728267efdf73da2f3f844e9e577b7939ab508e56c44c267613406c541826"
 metafile = true
 
 [[files]]
