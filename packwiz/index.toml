@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "2a1711857b755eb96a43a079de0bd617842dfa8a9371cf3812d4eb354b967ec6"
+hash = "634f149e6233a59ceb725e796300c81ac8f19d281c49dd778fdd9b591cd79d5d"
 metafile = true
 
 [[files]]
