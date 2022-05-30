@@ -12,7 +12,7 @@ Feel free to remove or add any (compatible, [approved]) mods!
 
 ## Installation
 
-### MultiMC (preferred)
+### Auto Update via MultiMC, PolyMC, ATLauncher (preferred)
 
 1. Create a new instance.
 2. Select the "Import from zip" option from the list on the left, and paste the following into the text box labeled "Local file or link to a direct download".
@@ -20,7 +20,11 @@ Feel free to remove or add any (compatible, [approved]) mods!
 3. Click "Launch" to run the pack. You should see a dialog appear that prompts you to select optional mods. Select, and play!
 4. After installing, I recommend you lower your GUI scale (I use 2 personally) and change your keybinds how you like them. There will be a lot of conflicts initially!
 
-### Default Launcher
+### Manual Update via MultiMC, PolyMC, ATLauncher
+
+This pack is also available on [Modrinth]. The instructions on how to install Modrinth packs can be found on the [Modrinth documentation].
+
+### Manual Update via Default Launcher
 
 #### Windows
 
@@ -52,6 +56,7 @@ Required dependencies for mods may not included in this list.
 | [Amecs]                        | Always     |         |
 | [AntiGhost]                    | Always     |         |
 | [Auth Me]                      | Optional   |         |
+| [Better Biome Blend]           | Always     | `;`     |
 | [Better Enchanted Books]       | Optional   |         |
 | [Bobby]                        | Always     |         |
 | [Clean Logs]                   | Always     |         |
@@ -81,7 +86,7 @@ Required dependencies for mods may not included in this list.
 | [Iris]                         | Always     |         |
 | [Item Scroller]                | Always     |         |
 | [I Know What I'm Doing]        | Always     |         |
-| [JourneyMap]                   | Optional   | `*`     |
+| [JourneyMap]                   | Required   | `*`     |
 | [Krypton]                      | Always     | `†`     |
 | [LambdaBetterGrass]            | Optional   |         |
 | [LambDynamicLights]            | Always     |         |
@@ -96,7 +101,6 @@ Required dependencies for mods may not included in this list.
 | [Mod Menu]                     | Always     |         |
 | [MoreChatHistory]              | Always     |         |
 | [NoChatLag]                    | Always     | `;`     |
-| [NoFog]                        | Optional   | `*`     |
 | [No More Useless Keys]         | Optional   |         |
 | [No Strip]                     | Optional   |         |
 | [No Telemetry]                 | Always     | `;`     |
@@ -111,6 +115,7 @@ Required dependencies for mods may not included in this list.
 | [Rebind All The Keys]          | Optional   |         |
 | [Roughly Enough Items]         | Always     |         |
 | [Screenshot to Clipboard]      | Optional   | `;`     |
+| [Simple Fog Control]           | Always     | `††`    |
 | [Smooth Scrolling Everywhere]  | Always     | `;`     |
 | [Sodium]                       | Always     |         |
 | [Starlight]                    | Always     | `†`     |
@@ -118,8 +123,6 @@ Required dependencies for mods may not included in this list.
 | [ToroHealth Damage Indicators] | Always     |         |
 | [WorldEdit]                    | Optional   | `†`     |
 | [WTHIT]                        | Always     |         |
-| [Xaero's Minimap]              | Optional   | `*`     |
-| [Xaero's World Map]            | Optional   | `*`     |
 
 ### Legend
 * *Always* - The mod is always downloaded.
@@ -127,21 +130,24 @@ Required dependencies for mods may not included in this list.
 * `*` = [Conditionally Approved]; read its page before using any mod marked with an asterisk.
 * `**` = Dependency of other mods, and thus may not be explicitly approved in its own rite.
 * `†` = Deemed incompatible, but it still makes enough of a difference.
-* `††` = Previously approved in a different form; the old project went inactive or was otherwise not fit for use on 1.17, so it has been replaced with an updated 1.17 version.
+* `††` = Previously approved in a different form.
 * `;` = Not approved, but it falls under the third sentence on the Incompatible Mods page, and thus needs no approval.
 
 ## Disclaimers
 
 Most modpacks would require explicit approval from the mod owner before it's able to be used. However, because of the distribution method of this pack (not via a zip), it is not necessary to do so. If any mod developers have any issues with this, please email me at <modpack@waffle.coffee>.
 
+[Modrinth]: https://modrinth.com/modpack/waffles-modpack
+[Modrinth documentation]: https://docs.modrinth.com/docs/modpacks/playing_modpacks/
 [Approved]: https://mods.emc.gs
 [Conditionally Approved]: https://wiki.emc.gs/conditionally-approved-mods
 [install Java]: https://adoptium.net/
 [Packwiz Installer Bootstrap]: https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
 
-[Amecs]: https://curseforge.com/projects/324564
+[Amecs]: https://modrinth.com/mod/rcLriA4v
 [AntiGhost]: https://modrinth.com/mod/Jw3Wx1KR
-[Auth Me]: https://curseforge.com/projects/356643
+[Auth Me]: https://modrinth.com/mod/yjgIrBjZ
+[Better Biome Blend]: https://modrinth.com/mod/Rs6c7WyL
 [Better Enchanted Books]: https://www.curseforge.com/projects/369122
 [Bobby]: https://modrinth.com/mod/M08ruV16
 [Clean Logs]: https://modrinth.com/mod/OTteoJUk
@@ -160,7 +166,7 @@ Most modpacks would require explicit approval from the mod owner before it's abl
 [EasierCrafting]: https://modrinth.com/mod/UylF21yz
 [Empire Minecraft Utilities]: https://modrinth.com/mod/QYTT62S0
 [Enhanced Block Entities]: https://modrinth.com/mod/OVuFYfre
-[Entity Culling]: https://curseforge.com/projects/448233
+[Entity Culling]: https://modrinth.com/mod/NNAgCjsB
 [Fabric API]: https://modrinth.com/mod/P7dR8mSH
 [Fabrishot]: https://modrinth.com/mod/3qsfQtE9
 [Fast Open Links and Folders]: https://curseforge.com/projects/513840
@@ -173,7 +179,7 @@ Most modpacks would require explicit approval from the mod owner before it's abl
 [Iris]: https://modrinth.com/mod/YL57xq9U
 [Item Scroller]: https://curseforge.com/projects/242064
 [I Know What I'm Doing]: https://modrinth.com/mod/S5ivha5X
-[JourneyMap]: https://curseforge.com/projects/32274
+[JourneyMap]: https://modrinth.com/mod/lfHFW1mp
 [Krypton]: https://modrinth.com/mod/fQEb0iXm
 [LambdaBetterGrass]: https://modrinth.com/mod/2Uev7LdA
 [LambDynamicLights]: https://modrinth.com/mod/yBW8D80W
@@ -188,7 +194,6 @@ Most modpacks would require explicit approval from the mod owner before it's abl
 [Mod Menu]: https://modrinth.com/mod/mOgUt4GM
 [MoreChatHistory]: https://modrinth.com/mod/8qkXwOnk
 [NoChatLag]: https://modrinth.com/mod/afu4kdAc
-[NoFog]: https://curseforge.com/projects/296468
 [No More Useless Keys]: https://modrinth.com/mod/YCcdA1Lp
 [No Strip]: https://modrinth.com/mod/3f1BdVqy
 [No Telemetry]: https://modrinth.com/mod/hg77g4Pw
@@ -203,6 +208,7 @@ Most modpacks would require explicit approval from the mod owner before it's abl
 [Rebind All The Keys]: https://modrinth.com/mod/TpKqzzMu
 [Roughly Enough Items]: https://curseforge.com/projects/310111
 [Screenshot to Clipboard]: https://modrinth.com/mod/1KiJRrTg
+[Simple Fog Control]: https://modrinth.com/mod/Glp1bwYc
 [Smooth Scrolling Everywhere]: https://curseforge.com/projects/325861
 [Sodium]: https://modrinth.com/mod/AANobbMI
 [Starlight]: https://modrinth.com/mod/H8CaAYZC
@@ -210,5 +216,3 @@ Most modpacks would require explicit approval from the mod owner before it's abl
 [ToroHealth Damage Indicators]: https://curseforge.com/projects/245733
 [WorldEdit]: https://curseforge.com/projects/225608
 [WTHIT]: https://modrinth.com/mod/6AQIaxuO
-[Xaero's Minimap]: https://curseforge.com/projects/263420
-[Xaero's World Map]: https://curseforge.com/projects/317780

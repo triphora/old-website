@@ -3,15 +3,15 @@ filename = "authme-mc1.18.2-3.1.0.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3764/447/authme-mc1.18.2-3.1.0.jar"
+url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/3.1.0/authme-mc1.18.2-3.1.0.jar"
 hash-format = "sha1"
 hash = "98c90cfa8d050a22e14b80691a8531e382840772"
+mode = ""
 
 [update]
-[update.curseforge]
-file-id = 3764447
-project-id = 356643
-release-channel = "beta"
+[update.modrinth]
+mod-id = "yjgIrBjZ"
+version = "w249CMfp"
 
 [option]
 optional = true

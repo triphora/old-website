@@ -65,12 +65,17 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "0cd8cbe5a77953f3beec311c4e8804cb195abe32f7c6af7a42790897b4fec86c"
+hash = "19cf5e9e25260a3255d89177588d99c029d8c40e2946a72c600ac511cecd0d1d"
 metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "dc919fbccb9d268f08d65b6cb9411f9bb6eae98b8770f4d6ebec43157ac679d9"
 metafile = true
 
 [[files]]
@@ -205,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "4a67039ec2d020ad0cb5ade1855fc24d5e4eb847cc24a59f1f19575402d5a080"
+hash = "822a9c97e55ea0b9ea13b2776e0ad231a673bb8262388986bc3e89b17dbbb8e1"
 metafile = true
 
 [[files]]
@@ -304,11 +309,6 @@ hash = "bcbc4091875a9f83813374950be1b9a1f89ac26f393afa54c85c29614069acf4"
 metafile = true
 
 [[files]]
-file = "mods/nofog.pw.toml"
-hash = "863c1e072062ae088f7c05a3784b0d18e0dc2e24b0d0e6d4dd0274ec9829d0fa"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
@@ -330,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "046d2a1630f05efc4c6dc894ca73c0f1f0868ef610262340af86a81283728294"
+hash = "2a1711857b755eb96a43a079de0bd617842dfa8a9371cf3812d4eb354b967ec6"
 metafile = true
 
 [[files]]
@@ -371,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/shadowedactionbar.pw.toml"
 hash = "c693274809ac9f6268538f49d4fa66bcbc84570d8921e8bd6a596b89d9b168f8"
+metafile = true
+
+[[files]]
+file = "mods/simplefog.pw.toml"
+hash = "398c73bb5497f4dcae5bac98ea7131f8c89a870d657755aa7ef3e88b38084556"
 metafile = true
 
 [[files]]
