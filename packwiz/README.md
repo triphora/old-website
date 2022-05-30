@@ -133,10 +133,6 @@ Required dependencies for mods may not included in this list.
 * `††` = Previously approved in a different form.
 * `;` = Not approved, but it falls under the third sentence on the Incompatible Mods page, and thus needs no approval.
 
-## Disclaimers
-
-Most modpacks would require explicit approval from the mod owner before it's able to be used. However, because of the distribution method of this pack (not via a zip), it is not necessary to do so. If any mod developers have any issues with this, please email me at <modpack@waffle.coffee>.
-
 [Modrinth]: https://modrinth.com/modpack/waffles-modpack
 [Modrinth documentation]: https://docs.modrinth.com/docs/modpacks/playing_modpacks/
 [Approved]: https://mods.emc.gs
