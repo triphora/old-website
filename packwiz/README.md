@@ -72,6 +72,7 @@ Required dependencies for mods may not included in this list.
 | [Durability Viewer]            | Always     |         |
 | [Dynamic FPS]                  | Always     |         |
 | [EasierCrafting]               | Always     |         |
+| [EMI]                          | Always     | `††`    |
 | [Empire Minecraft Utilities]   | Always     |         |
 | [Enhanced Block Entities]      | Always     |         |
 | [Entity Culling]               | Always     |         |
@@ -113,7 +114,6 @@ Required dependencies for mods may not included in this list.
 | [Rainbowify]                   | Optional   | `;`     |
 | [Raised]                       | Always     | `;`     |
 | [Rebind All The Keys]          | Optional   |         |
-| [Roughly Enough Items]         | Always     |         |
 | [Screenshot to Clipboard]      | Optional   | `;`     |
 | [Simple Fog Control]           | Always     | `††`    |
 | [Smooth Scrolling Everywhere]  | Always     | `;`     |
@@ -122,6 +122,7 @@ Required dependencies for mods may not included in this list.
 | [Time Changer]                 | Optional   | `*`     |
 | [ToroHealth Damage Indicators] | Always     |         |
 | [WorldEdit]                    | Optional   | `†`     |
+| [WorldEdit CUI]                | Always     | `††`    |
 | [WTHIT]                        | Always     |         |
 
 ### Legend
@@ -160,6 +161,7 @@ Required dependencies for mods may not included in this list.
 [Durability Viewer]: https://modrinth.com/mod/LTM1f0yY
 [Dynamic FPS]: https://modrinth.com/mod/LQ3K71Q1
 [EasierCrafting]: https://modrinth.com/mod/UylF21yz
+[EMI]: https://modrinth.com/mod/fRiHVvU7
 [Empire Minecraft Utilities]: https://modrinth.com/mod/QYTT62S0
 [Enhanced Block Entities]: https://modrinth.com/mod/OVuFYfre
 [Entity Culling]: https://modrinth.com/mod/NNAgCjsB
@@ -202,7 +204,6 @@ Required dependencies for mods may not included in this list.
 [Rainbowify]: https://modrinth.com/mod/m9FFV06N
 [Raised]: https://modrinth.com/mod/nCQRBEiR
 [Rebind All The Keys]: https://modrinth.com/mod/TpKqzzMu
-[Roughly Enough Items]: https://curseforge.com/projects/310111
 [Screenshot to Clipboard]: https://modrinth.com/mod/1KiJRrTg
 [Simple Fog Control]: https://modrinth.com/mod/Glp1bwYc
 [Smooth Scrolling Everywhere]: https://curseforge.com/projects/325861
@@ -211,4 +212,5 @@ Required dependencies for mods may not included in this list.
 [Time Changer]: https://modrinth.com/mod/1itdse3V
 [ToroHealth Damage Indicators]: https://curseforge.com/projects/245733
 [WorldEdit]: https://curseforge.com/projects/225608
+[WorldEdit CUI]: https://curseforge.com/projects/402098
 [WTHIT]: https://modrinth.com/mod/6AQIaxuO

@@ -50,7 +50,7 @@ hash = "f2edb5559ab2e68169992f6bb4d5af918c86d243fd7b79fc94b18293e0c8f4ac"
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "5caf6d17836ff2e360d7bfa1194109dab1b0aae2e86de4d8c131b2200b6c5f1d"
+hash = "68c17672bedcc8b65352d63b1bbff131581be1f007c15e621adda9fedcb09fd8"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "1ec5c09edc8d27af569ef4e087f1e74cf175e43de0172316a1fffd28290d1bd9"
+hash = "96373de9db37678049c954eb36c1ba43abd769bcd3a45a8b1626d5c9db5ab3de"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "4932ddd020065b82614ddb7db60679f4c615b4c780dcac10c6ca43c3ba530c62"
+hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "22a9f27ba11eebe161bc6b7ae30aa1af90efe2a8b1cb84acd30cf164021fb77f"
+hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
 metafile = true
 
 [[files]]
@@ -161,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/emcutils.pw.toml"
 hash = "8f2b2753037832dbbd830b137d4456956f11d62d8acafc2464b131974735550e"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "b9305c5dde03c285ba812662a4270bd11b06d9556e6e39a5b87ae88f6e2c917a"
 metafile = true
 
 [[files]]
@@ -215,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "cbc3d6649757c3751ac73aed8df427b3ebc5685a808935b0e631d213bf6a760b"
+hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
 metafile = true
 
 [[files]]
@@ -330,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "1b8646c09f572f1b71bf5c77a8e12f0b7f17b82ea2b877ed3c0a39a9fba0984e"
+hash = "5ee2e1b367b94cf44797f4c88b07c923dba9d36aa6d1a362562b42a6e3f01aaa"
 metafile = true
 
 [[files]]
@@ -359,11 +364,6 @@ hash = "ad57851b9afffa393256719e22563ce05c5edc562a053109c310c49958b727e9"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "2d34728267efdf73da2f3f844e9e577b7939ab508e56c44c267613406c541826"
-metafile = true
-
-[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "0b406514e3d6c608e6c7cb18d2c0076c990426d38f1fbc94356a7c4e5507d586"
 metafile = true
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/simplefog.pw.toml"
-hash = "398c73bb5497f4dcae5bac98ea7131f8c89a870d657755aa7ef3e88b38084556"
+hash = "afbd71d5fb7c1c001608a25a9c6b3b540713fd662524db7c43222ff6f50658c0"
 metafile = true
 
 [[files]]
@@ -406,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "79cc9f9fe725fc5e371304f453fc6f1c126b54e94c893bd02c7439c82ead27d8"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "1b46ae874ea20315475749dd68be5a1a1f35048f52b481ed40aea3c51f5cb444"
 metafile = true
 
 [[files]]
