@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "96373de9db37678049c954eb36c1ba43abd769bcd3a45a8b1626d5c9db5ab3de"
+hash = "75d696e7dd381b5fdaf3fc0360a09d1e43db79cfd82fc1cca814fa27c56d01c5"
 metafile = true
 
 [[files]]
@@ -100,12 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "8201c0a16ace201405172e56292843cc99d8d675f1e323684943b9cee393acb1"
+hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
 
 [[files]]
 file = "mods/command-macros.pw.toml"
-hash = "01639e72d8c05940a8f8c90ad1bedaadad53126e982884e6a5d34bc4854a0556"
+hash = "4f25997deb2f1e0d8e8ca26698b4604e80e9ad85f16f5e4826a10da2441663e5"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "b9305c5dde03c285ba812662a4270bd11b06d9556e6e39a5b87ae88f6e2c917a"
+hash = "3a45d041e6a321872b735aeedf19db9f82a4ec6e66c4ca55f8710e1c645a2f55"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "fcd5cbf8c2bbb6dddd99f7579dee1202204364afdeb26e46c4d1795a225f98d1"
+hash = "adcf036d5eeeee511ae56a039445cd45648ae95c5ddeb0981c03de068f54d484"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "5ee2e1b367b94cf44797f4c88b07c923dba9d36aa6d1a362562b42a6e3f01aaa"
+hash = "1f474a57a5696d273b08cefdf9c13070e05296ea9e291eef4a65bf236ccfd237"
 metafile = true
 
 [[files]]
@@ -415,5 +415,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "c7aaa1a6c17b3a05f727ee143868595eab4fd3ac6348d2ceded5f04aa4d9fb6c"
+hash = "454cf59b1869af3acaec158d57853a9e58477b33b12eed7aa6e22efc5849171b"
 metafile = true
