@@ -1,6 +1,6 @@
 name = "waffle's Modpack"
 author = "wafflecoffee"
-version = "2022.6.15"
+version = "2022.6.15.1"
 description = "Highly customizable rolling-release client-side pack compatible with any multiplayer server, focusing on performance and features that still feel true to vanilla."
 pack-format = "packwiz:1.1.0"
 
