@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/command-macros.pw.toml"
-hash = "4f25997deb2f1e0d8e8ca26698b4604e80e9ad85f16f5e4826a10da2441663e5"
+hash = "de273eac297ab03af2c83bd997df6298e6093d0fd30c7cda635fd4a009d85d4b"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/light-overlay.pw.toml"
-hash = "4be3337165cf09313f5d88489678f92727bb67ba1bd0acf9ba69d802a503482f"
+hash = "a41541350666936a30bf917b39c0ea12e6f877bad4665f8f4f472052f553a3dd"
 metafile = true
 
 [[files]]
