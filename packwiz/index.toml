@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/clean-logs.toml"
-hash = "c7868836cd9e47f841421d733458b0888ed28786ce7d9e0be3b4ae92b55125cb"
+file = "config/clean-logs/config.toml"
+hash = "223397a68098a38cc17ff4a86a0a56f0bd37ab33f983560407aa700367654641"
 
 [[files]]
 file = "config/clickthrough.json"
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "75d696e7dd381b5fdaf3fc0360a09d1e43db79cfd82fc1cca814fa27c56d01c5"
+hash = "189940950f601ef3365fe283a96ce2b38f518d3647c425d9573b65f3464880d0"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-logs.pw.toml"
-hash = "f42f6d7f89bb1254311ca068b2b326489d5c0c9acd2840879c93fd6b97e33944"
+hash = "acae53b7b4a8066aad64f95b9ae1c09e8efef08573b1a902c0b659454e1b922c"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/command-macros.pw.toml"
-hash = "de273eac297ab03af2c83bd997df6298e6093d0fd30c7cda635fd4a009d85d4b"
+hash = "ad98625a4331e5c30267b159ca949708f75fd64958cbe8f7c2bbe1f474172ea2"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "1f474a57a5696d273b08cefdf9c13070e05296ea9e291eef4a65bf236ccfd237"
+hash = "1c3da43b601fc0142ff6b706d48995846ca71d1d6ebf8cda355e4a124630a4a4"
 metafile = true
 
 [[files]]
@@ -415,5 +415,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "454cf59b1869af3acaec158d57853a9e58477b33b12eed7aa6e22efc5849171b"
+hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
 metafile = true
