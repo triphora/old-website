@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "189940950f601ef3365fe283a96ce2b38f518d3647c425d9573b65f3464880d0"
+hash = "9ab81bd4f0c97596e3b9f5270d226f8fb41c91fd30b5637905b81e7dcb29c4d8"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.pw.toml"
-hash = "d5428e2b0f552086ef174f44d81b8ce44d30af84388e8beaeec3221dc677fbbc"
+hash = "9b21e831b2d3e53aa12f0b339948b6add4022e3fcf5e1ad19b60bf837ef89279"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "50780c17b5bb008c6786a9ab8e4405fba1908a8276a1d7d03dff90f8f7408d78"
+hash = "686e7208edaa2689b41630cc78ea777911f07ef98a8fe33ddafecf8b5b61a8ed"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "3a45d041e6a321872b735aeedf19db9f82a4ec6e66c4ca55f8710e1c645a2f55"
+hash = "bc859d5d17706a14eff618bae19efe135954a56c5afc963a84a6591ea468cd5e"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "735bb894e8fd0430de8fe331347ff24c5c64643bc65f2c040f7a82fb17e8b826"
+hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "fe3b8b52b6f566c4ed5d17b42feff5503e5bb07b6163d45133ec1c115a147415"
+hash = "389f2d01e0f3417395d0ff8c9c7b267c8c0b1f2d67cb583a450a637bec8f3239"
 metafile = true
 
 [[files]]
