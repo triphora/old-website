@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -e
+
 # https://stackoverflow.com/a/29436423
 # https://stackoverflow.com/a/29512084
 RESET="\033[0m"
@@ -38,6 +40,6 @@ if yes_or_no "Push and upload to Modrinth" "upload"; then
   curl -isX POST \
     -H "Authorization:$MODRINTH_TOKEN" -H "Content-Type:multipart/form-data" -H "Accept:application/json" \
     -F "data={\"file_parts\":[\"file\"], \"version_number\":\"$DATE\", \"version_title\":\"$DATE\", \"version_body\":\"$CHANGELOG\", \"loaders\":[\"quilt\"], \"game_versions\":[\"1.19\"], \"version_type\":\"release\", \"project_id\":\"sISTMo6m\", \"featured\":false, \"dependencies\":[]}" \
-    -F "file=@waffle's Modpack-$VERSION.mrpack" https://api.modrinth.com/v2/version
+    -F "file=@waffle's Modpack-$DATE.mrpack" https://api.modrinth.com/v2/version
   git push
 fi

@@ -299,6 +299,11 @@ hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "be819142ebc814d4e8bcf7bd9a1c8896d2416126b33451f662912f260ac7804b"
+metafile = true
+
+[[files]]
 file = "mods/orientation.pw.toml"
 hash = "7391ce5bc497b224ce8302ebcf67bf2cb2c031d93435bd95ba1bbdf7bebce25a"
 metafile = true
