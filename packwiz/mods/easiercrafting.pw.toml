@@ -1,13 +1,13 @@
 name = "EasierCrafting"
-filename = "easiercrafting-1.18.2-fabric0.47.10-1.7.jar"
+filename = "easiercrafting-1.19-fabric0.53.3-1.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UylF21yz/versions/1.18.2-fabric0.47.10-1.7/easiercrafting-1.18.2-fabric0.47.10-1.7.jar"
+url = "https://cdn.modrinth.com/data/UylF21yz/versions/1.19-fabric0.53.3-1.7/easiercrafting-1.19-fabric0.53.3-1.7.jar"
 hash-format = "sha1"
-hash = "20d7574cf0bf1b8b8ee3b7e9feb6199f921d3a59"
+hash = "d37b8785ec04aba455d5d20fdb081141c63b3fef"
 
 [update]
 [update.modrinth]
 mod-id = "UylF21yz"
-version = "NA4ksEVZ"
+version = "5yVbjYsi"

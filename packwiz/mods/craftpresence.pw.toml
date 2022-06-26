@@ -1,15 +1,15 @@
 name = "CraftPresence"
-filename = "CraftPresence-Fabric-1.18.2-Release-1.8.8.jar"
+filename = "CraftPresence-Fabric-1.19-Release-1.8.8.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3667/807/CraftPresence-Fabric-1.18.2-Release-1.8.8.jar"
 hash-format = "sha1"
-hash = "b0a2869863ba4fb3f9e46f2c9a013b0fbe64ebb7"
+hash = "b852a1e72ec18a92e6067bd593d92997bde8069a"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3667807
+file-id = 3821066
 project-id = 297038
 release-channel = "beta"
 

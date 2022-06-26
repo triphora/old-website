@@ -1,16 +1,16 @@
 name = "Critical Orientation"
-filename = "critical-orientation-2.1.0+1.18.1-SNAPSHOT.jar"
+filename = "critical-orientation-1.19-3.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AFqV4ew3/versions/2.1.0/critical-orientation-2.1.0+1.18.1-SNAPSHOT.jar"
+url = "https://cdn.modrinth.com/data/AFqV4ew3/versions/3.0.1/critical-orientation-1.19-3.0.1.jar"
 hash-format = "sha1"
-hash = "c0473d02bba5b6ab2a9fff4e8d2547a9b5157ebf"
+hash = "e62aaf790518ba9614ab0c20cc460a2ddb50688e"
 
 [update]
 [update.modrinth]
 mod-id = "AFqV4ew3"
-version = "JmITtgmO"
+version = "ksL4Bjju"
 
 [option]
 optional = true

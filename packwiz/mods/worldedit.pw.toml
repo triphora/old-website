@@ -1,15 +1,15 @@
 name = "WorldEdit"
-filename = "worldedit-mod-7.2.10.jar"
+filename = "worldedit-mod-7.2.11-beta-01.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3697/298/worldedit-mod-7.2.10.jar"
 hash-format = "sha1"
-hash = "40fc7f7a734ccbd53365bc91c1a17fafcec1965d"
+hash = "9155ef3f86b979c7de08d30ddca579916a5d4937"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3697298
+file-id = 3836903
 project-id = 225608
 
 [option]

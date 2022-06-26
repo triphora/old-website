@@ -1,17 +1,13 @@
 name = "Draggable Resource Packs"
-filename = "DraggableResourcePacks-2.0.0.jar"
+filename = "draggable-resource-packs-mc1.19-3.0.0+build.6.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3558/606/DraggableResourcePacks-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/aLcHfalx/versions/3.0.0/draggable-resource-packs-mc1.19-3.0.0%2Bbuild.6.jar"
 hash-format = "sha1"
-hash = "cbda07149b455dc888a8dec798b8454ec1bf3e7d"
+hash = "f48f9933f5bb15020cc61c6a32169260d6018610"
 
 [update]
-[update.curseforge]
-file-id = 3558606
-project-id = 522697
-
-[option]
-optional = true
-description = "DRP allows you to drag resource packs in the resource pack screen and servers in the server list."
+[update.modrinth]
+mod-id = "aLcHfalx"
+version = "EUsSUJTj"

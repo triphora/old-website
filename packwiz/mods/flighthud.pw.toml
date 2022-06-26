@@ -1,15 +1,15 @@
 name = "FlightHUD"
-filename = "flighthud-1.18-fabric-2.jar"
+filename = "flighthud-1.19-fabric-1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3559/892/flighthud-1.18-fabric-2.jar"
 hash-format = "sha1"
-hash = "64bec3cb398ad03676639ae4f009f8fe31ea09f1"
+hash = "dbdbdb30a11a788f1d13c61593dfd9030f0c69ac"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3559892
+file-id = 3838750
 project-id = 394419
 
 [option]
