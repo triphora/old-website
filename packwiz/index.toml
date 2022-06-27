@@ -149,18 +149,13 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/easiercrafting.pw.toml"
-hash = "3906acaaf438a4acaf8a5d860cfdf8f73ad5166e16e717575b0a7ca5eef7eb5c"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
 metafile = true
 
 [[files]]
 file = "mods/emcutils.pw.toml"
-hash = "1b7925f38e365c473d659b1b898732d5547b8d815cbd648e646cad3f95723858"
+hash = "ee1c889fd133b3b292e060a26cf243ae1e2c827590c7416513dc63620a8d6d28"
 metafile = true
 
 [[files]]

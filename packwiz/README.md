@@ -71,7 +71,6 @@ Required dependencies for mods may not included in this list.
 | [Draggable Resource Packs]     | Optional   | `;`     |
 | [Durability Viewer]            | Always     |         |
 | [Dynamic FPS]                  | Always     |         |
-| [EasierCrafting]               | Always     |         |
 | [EMI]                          | Always     | `††`    |
 | [Empire Minecraft Utilities]   | Always     |         |
 | [Enhanced Block Entities]      | Always     |         |
@@ -85,7 +84,6 @@ Required dependencies for mods may not included in this list.
 | [Indium]                       | Always     | `**`    |
 | [Inspecio]                     | Always     |         |
 | [Iris]                         | Always     |         |
-| [Item Scroller]                | Always     |         |
 | [I Know What I'm Doing]        | Always     |         |
 | [JourneyMap]                   | Required   | `*`     |
 | [Krypton]                      | Always     | `†`     |
@@ -98,7 +96,6 @@ Required dependencies for mods may not included in this list.
 | [Low Fire]                     | Optional   | `*`     |
 | [Memory Usage Screen]          | Always     | `;`     |
 | [Main Menu Credits]            | Always     | `;`     |
-| [MiniHUD]                      | Always     |         |
 | [Mod Menu]                     | Always     |         |
 | [MoreChatHistory]              | Always     |         |
 | [NoChatLag]                    | Always     | `;`     |
@@ -113,7 +110,6 @@ Required dependencies for mods may not included in this list.
 | [Quilt Standard Libraries]     | Always     | `**`    |
 | [Rainbowify]                   | Optional   | `;`     |
 | [Raised]                       | Always     | `;`     |
-| [Rebind All The Keys]          | Optional   |         |
 | [Screenshot to Clipboard]      | Optional   | `;`     |
 | [Simple Fog Control]           | Always     | `††`    |
 | [Smooth Scrolling Everywhere]  | Always     | `;`     |
@@ -122,7 +118,6 @@ Required dependencies for mods may not included in this list.
 | [Time Changer]                 | Optional   | `*`     |
 | [ToroHealth Damage Indicators] | Always     |         |
 | [WorldEdit]                    | Optional   | `†`     |
-| [WorldEdit CUI]                | Always     | `††`    |
 | [WTHIT]                        | Always     |         |
 
 ### Legend
@@ -145,10 +140,9 @@ Required dependencies for mods may not included in this list.
 [AntiGhost]: https://modrinth.com/mod/Jw3Wx1KR
 [Auth Me]: https://modrinth.com/mod/yjgIrBjZ
 [Better Biome Blend]: https://modrinth.com/mod/Rs6c7WyL
-[Better Enchanted Books]: https://www.curseforge.com/projects/369122
+[Better Enchanted Books]: https://modrinth.com/mod/yjpXhps7
 [Bobby]: https://modrinth.com/mod/M08ruV16
 [Clean Logs]: https://modrinth.com/mod/OTteoJUk
-[Clear Skies]: https://curseforge.com/projects/332523
 [ClickThrough]: https://modrinth.com/mod/Z5b0cAlD
 [Command Macros]: https://curseforge.com/projects/331956
 [Continuity]: https://modrinth.com/mod/1IjD5062
@@ -157,10 +151,9 @@ Required dependencies for mods may not included in this list.
 [Cull Leaves]: https://modrinth.com/mod/GNxdLCoP
 [DashLoader]: https://modrinth.com/mod/ZfQ3kTvR
 [Don't Clear Chat History]: https://modrinth.com/mod/sUbMm93i
-[Draggable Resource Packs]: https://curseforge.com/projects/522697
+[Draggable Resource Packs]: https://modrinth.com/mod/aLcHfalx
 [Durability Viewer]: https://modrinth.com/mod/LTM1f0yY
 [Dynamic FPS]: https://modrinth.com/mod/LQ3K71Q1
-[EasierCrafting]: https://modrinth.com/mod/UylF21yz
 [EMI]: https://modrinth.com/mod/fRiHVvU7
 [Empire Minecraft Utilities]: https://modrinth.com/mod/QYTT62S0
 [Enhanced Block Entities]: https://modrinth.com/mod/OVuFYfre
@@ -175,20 +168,17 @@ Required dependencies for mods may not included in this list.
 [Indium]: https://modrinth.com/mod/Orvt0mRa
 [Inspecio]: https://modrinth.com/mod/a93H3mKU
 [Iris]: https://modrinth.com/mod/YL57xq9U
-[Item Scroller]: https://curseforge.com/projects/242064
 [I Know What I'm Doing]: https://modrinth.com/mod/S5ivha5X
 [JourneyMap]: https://modrinth.com/mod/lfHFW1mp
 [Krypton]: https://modrinth.com/mod/fQEb0iXm
 [LambdaBetterGrass]: https://modrinth.com/mod/2Uev7LdA
 [LambDynamicLights]: https://modrinth.com/mod/yBW8D80W
 [LazyDFU]: https://modrinth.com/mod/hvFnDODi
-[Light Overlay]: https://curseforge.com/projects/325492
-[Litematica]: https://curseforge.com/projects/308892
+[Light Overlay]: https://modrinth.com/mod/YfOlc91N
 [Lithium]: https://modrinth.com/mod/gvQqBUqZ
 [Low Fire]: https://modrinth.com/mod/Gou1gmGj
 [Main Menu Credits]: https://modrinth.com/mod/qJDfP7WN
 [Memory Usage Screen]: https://modrinth.com/mod/n9mFA0ax
-[MiniHUD]: https://curseforge.com/projects/244260
 [Mod Menu]: https://modrinth.com/mod/mOgUt4GM
 [MoreChatHistory]: https://modrinth.com/mod/8qkXwOnk
 [NoChatLag]: https://modrinth.com/mod/afu4kdAc
@@ -203,7 +193,6 @@ Required dependencies for mods may not included in this list.
 [Quilt Standard Libraries]: https://modrinth.com/mod/qvIfYCYJ
 [Rainbowify]: https://modrinth.com/mod/m9FFV06N
 [Raised]: https://modrinth.com/mod/nCQRBEiR
-[Rebind All The Keys]: https://modrinth.com/mod/TpKqzzMu
 [Screenshot to Clipboard]: https://modrinth.com/mod/1KiJRrTg
 [Simple Fog Control]: https://modrinth.com/mod/Glp1bwYc
 [Smooth Scrolling Everywhere]: https://curseforge.com/projects/325861
@@ -212,5 +201,4 @@ Required dependencies for mods may not included in this list.
 [Time Changer]: https://modrinth.com/mod/1itdse3V
 [ToroHealth Damage Indicators]: https://curseforge.com/projects/245733
 [WorldEdit]: https://curseforge.com/projects/225608
-[WorldEdit CUI]: https://curseforge.com/projects/402098
 [WTHIT]: https://modrinth.com/mod/6AQIaxuO
