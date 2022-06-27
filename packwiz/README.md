@@ -50,6 +50,7 @@ Run the following commands in a terminal (you can also append `&&` between them)
 ## Mod List
 
 Required dependencies for mods may not included in this list.
+<details><summary>Mod List</summary>
 
 | Mod Name                       | Installed? | Comment |
 |--------------------------------|------------|---------|
@@ -128,6 +129,8 @@ Required dependencies for mods may not included in this list.
 * `†` = Deemed incompatible, but it still makes enough of a difference.
 * `††` = Previously approved in a different form.
 * `;` = Not approved, but it falls under the third sentence on the Incompatible Mods page, and thus needs no approval.
+
+</details>
 
 [Modrinth]: https://modrinth.com/modpack/waffles-modpack
 [Modrinth documentation]: https://docs.modrinth.com/docs/modpacks/playing_modpacks/
