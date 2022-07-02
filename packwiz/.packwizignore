@@ -1,8 +1,5 @@
-index.html
-LICENSE
-README.md
-MultiMC.zip
-mods/jars/**
+*.md
+*.zip
 *.sh
 *.gradle
 build/

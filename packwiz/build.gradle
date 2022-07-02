@@ -1,7 +1,14 @@
-plugins {
-  id "java"
-  id "com.modrinth.minotaur" version "2.+"
+buildscript {
+  repositories {
+    gradlePluginPortal()
+  }
+  dependencies {
+    classpath "com.modrinth.minotaur:Minotaur:2.+"
+  }
 }
+
+apply plugin: "java"
+apply plugin: "com.modrinth.minotaur"
 
 version = "2022.07.02"
 
@@ -11,7 +18,7 @@ modrinth {
   loaders = ["quilt"]
   changelog = System.getenv().CHANGELOG + project.file("CFMODS.md").text
   uploadFile = project.file("waffle's Modpack-${version}.mrpack")
-  syncBodyFrom = project.file("README.md").text.replace("latest Modrinth release", "[latest Modrinth release](https://modrinth.com/mod/waffles-modpack/version/$version)")
+  syncBodyFrom = project.file("README.md").text.replace("latest Modrinth release", "[latest Modrinth release](https://modrinth.com/modpack/waffles-modpack/version/$version)")
 }
 
 tasks.modrinth.dependsOn tasks.modrinthSyncBody

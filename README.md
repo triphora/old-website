@@ -1,10 +1,9 @@
-# https://waffle.coffee
+# https://emmacypress.com
 
-This site is licensed under the [zlib license], except the [packwiz] directory which is CC0/public domain.
+Also available at https://waffle.coffee.
 
-My modpack can be found in the [packwiz] directory.
+This site is licensed under the [zlib license](./LICENSE).
+
+My modpack can be found in the [packwiz](./packwiz) directory.
 
 Created by wafflecoffee/Emmaffle.
-
-[zlib license]: ./LICENSE
-[packwiz]: ./packwiz

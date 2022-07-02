@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CFMODS.md"
-hash = "494c9d2a060de83aa914565b6c5cf9d0490d83f9d5573b380a60b7e8b6a76cfd"
-
-[[files]]
 file = "config/clean-logs/config.toml"
 hash = "223397a68098a38cc17ff4a86a0a56f0bd37ab33f983560407aa700367654641"
 

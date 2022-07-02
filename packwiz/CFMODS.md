@@ -9,5 +9,4 @@
 - [Smooth Scrolling Everywhere](https://curseforge.com/projects/325861)
 - [ToroHealth Damage Indicators](https://curseforge.com/projects/245733)
 - [WorldEdit](https://curseforge.com/projects/225608)
-
 </details>
