@@ -1,0 +1,13 @@
+name = "Entity Collision FPS Fix"
+filename = "Entity_Collision_FPS_Fix-fabric-1.19-2.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GiriLmaY/versions/2.0.0.0/Entity_Collision_FPS_Fix-fabric-1.19-2.0.0.0.jar"
+hash-format = "sha1"
+hash = "79c5af9ebdf16051a2bf5fece904646190595630"
+
+[update]
+[update.modrinth]
+mod-id = "GiriLmaY"
+version = "vXgwHjoS"

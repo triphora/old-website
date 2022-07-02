@@ -20,6 +20,7 @@ function yes_or_no {
 printf -v DATE '%(%Y.%m.%d)T'
 
 sed -i "s/version = \".*\..*\..*\"/version = \"$DATE\"/" pack.toml
+sed -i "s/version = \".*\..*\..*\"/version = \"$DATE\"/" build.gradle
 
 if yes_or_no "Perform pack update" "update"; then
   packwiz update -a
@@ -37,9 +38,6 @@ if yes_or_no "Push and upload to Modrinth" "upload"; then
   rm *.mrpack
   packwiz modrinth export
   read -ep "Enter changelog: " CHANGELOG
-  curl -isX POST \
-    -H "Authorization:$MODRINTH_TOKEN" -H "Content-Type:multipart/form-data" -H "Accept:application/json" \
-    -F "data={\"file_parts\":[\"file\"], \"version_number\":\"$DATE\", \"version_title\":\"$DATE\", \"version_body\":\"$CHANGELOG\", \"loaders\":[\"quilt\"], \"game_versions\":[\"1.19\"], \"version_type\":\"release\", \"project_id\":\"sISTMo6m\", \"featured\":false, \"dependencies\":[]}" \
-    -F "file=@waffle's Modpack-$DATE.mrpack" https://api.modrinth.com/v2/version
+  CHANGELOG=$CHANGELOG gradle modrinth
   git push
 fi

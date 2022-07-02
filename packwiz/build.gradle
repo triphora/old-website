@@ -1,0 +1,17 @@
+plugins {
+  id "java"
+  id "com.modrinth.minotaur" version "2.+"
+}
+
+version = "2022.07.02"
+
+modrinth {
+  projectId = "waffles-modpack"
+  gameVersions = ["1.19"]
+  loaders = ["quilt"]
+  changelog = System.getenv().CHANGELOG + project.file("CFMODS.md").text
+  uploadFile = project.file("waffle's Modpack-${version}.mrpack")
+  syncBodyFrom = project.file("README.md").text.replace("latest Modrinth release", "[latest Modrinth release](https://modrinth.com/mod/waffles-modpack/version/$version)")
+}
+
+tasks.modrinth.dependsOn tasks.modrinthSyncBody

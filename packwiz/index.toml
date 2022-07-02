@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CFMODS.md"
+hash = "494c9d2a060de83aa914565b6c5cf9d0490d83f9d5573b380a60b7e8b6a76cfd"
+
+[[files]]
 file = "config/clean-logs/config.toml"
 hash = "223397a68098a38cc17ff4a86a0a56f0bd37ab33f983560407aa700367654641"
 
@@ -84,6 +88,11 @@ hash = "570e2d2e1089cfe28ddd10d94c012c7079844abc329574bcf3da5c89b216a6d1"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "5e206d6a7aa7744a3322189386a7e3c4315df2dd8a1d3a648bcde498a7a3c934"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "95bceaa716de4474b6414b14c4f1de5935aaa0fa0ce55aaf2c7f97b3c765aeb3"
 metafile = true
@@ -161,6 +170,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "4cebd7a733410dc4fc89519a8fc9ffb3c6657fffb58897e46196ade4629ea065"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
 
 [[files]]
@@ -264,6 +278,11 @@ hash = "982cf8784485c6902f18b17f3d6cae0b46aec7343015f705ab87f56fc7622b13"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "1199295c714f62bbb8eeb2f70ab72a5f21482b71bfb6601829248d9c588138e0"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
 metafile = true
@@ -310,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "046ae289a62213aae17e0ca3d63fb45efab4deebef4c17e9cda82fa3700cd446"
+hash = "bfd7786df67bca1884e241765f3c58b706d7cf5a7425d509096eccbb343beace"
 metafile = true
 
 [[files]]
@@ -331,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "014566a9d16177ef1499864718b28090b5ac254e3e910a2cea67b911b56f3e5a"
+metafile = true
+
+[[files]]
+file = "mods/rebind-all-the-keys.pw.toml"
+hash = "e2b04a5345909cde326905c47c45a0c68e3025bd6901f25dc8178b4826256d11"
 metafile = true
 
 [[files]]
@@ -380,5 +404,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "11a3786934c716b051b169cfddfb49c37cfdf626127bd0fc44106394b167cfcc"
+hash = "6511222d86332e8080ab2e4b1d20b361cc699a9c5b78c044c91e0477c40b3c88"
 metafile = true

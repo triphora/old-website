@@ -4,3 +4,6 @@ README.md
 MultiMC.zip
 mods/jars/**
 *.sh
+*.gradle
+build/
+.gradle/

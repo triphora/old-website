@@ -1,5 +1,6 @@
+<!-- modrinth_exclude.start -->
 # waffle's Modpack
-
+<!-- modrinth_exclude.end -->
 *Featuring the [Empire Minecraft Utilities](https://emc.gs/t/84930) mod!*
 
 Don't want to update your Fabric mods? Let me do it for you! I set up this here modpack that downloads the latest of a predefined set of mods. This is an easier way to download one thing to get all of the mods included instead of having to download 60+ separate mods.
@@ -9,6 +10,10 @@ The focus of this modpack is to have a wide selection of client-side mods, inclu
 Feel free to remove or add any (compatible, [approved]) mods!
 
 **Please read the [Conditionally Approved] mods page before using the some of the mods included.**
+
+Please see the latest Modrinth release for the mods list!
+
+<details><summary>Installation instructions</summary>
 
 ## Installation
 
@@ -22,7 +27,7 @@ Feel free to remove or add any (compatible, [approved]) mods!
 
 ### Manual Update via MultiMC, PolyMC, ATLauncher
 
-This pack is also available on [Modrinth]. The instructions on how to install Modrinth packs can be found on the [Modrinth documentation].
+This pack is also downloadable through Modrinth. The instructions on how to install Modrinth packs can be found on the [Modrinth documentation].
 
 ### Manual Update via Default Launcher
 
@@ -47,89 +52,6 @@ Run the following commands in a terminal (you can also append `&&` between them)
 4. After installing, I recommend you lower your GUI scale (I use 2 personally) and change your keybinds how you like them. There will be a lot of conflicts initially!
 5. When you want to update your mods, just run the same `java -jar` command again!
 
-## Mod List
-
-Required dependencies for mods may not included in this list.
-<details><summary>Mod List</summary>
-
-| Mod Name                       | Installed? | Comment |
-|--------------------------------|------------|---------|
-| [Amecs]                        | Always     |         |
-| [AntiGhost]                    | Always     |         |
-| [Auth Me]                      | Optional   |         |
-| [Better Biome Blend]           | Always     | `;`     |
-| [Better Enchanted Books]       | Optional   |         |
-| [Bobby]                        | Always     |         |
-| [Clean Logs]                   | Always     |         |
-| [ClickThrough]                 | Always     |         |
-| [Command Macros]               | Optional   | `*`     |
-| [Continuity]                   | Always     |         |
-| [CraftPresence]                | Optional   |         |
-| [Critical Orientation]         | Optional   |         |
-| [Cull Leaves]                  | Always     |         |
-| [DashLoader]                   | Always     | `;`     |
-| [Don't Clear Chat History]     | Always     |         |
-| [Draggable Resource Packs]     | Optional   | `;`     |
-| [Durability Viewer]            | Always     |         |
-| [Dynamic FPS]                  | Always     |         |
-| [EMI]                          | Always     | `††`    |
-| [Empire Minecraft Utilities]   | Always     |         |
-| [Enhanced Block Entities]      | Always     |         |
-| [Entity Culling]               | Always     |         |
-| [Fabrishot]                    | Always     |         |
-| [Fast Open Links and Folders]  | Always     | `;`     |
-| [FerriteCore]                  | Always     |         |
-| [FlightHUD]                    | Optional   |         |
-| [Force Close Loading Screen]   | Always     |         |
-| [Inventory Profiles Next]      | Always     |         |
-| [Indium]                       | Always     | `**`    |
-| [Inspecio]                     | Always     |         |
-| [Iris]                         | Always     |         |
-| [I Know What I'm Doing]        | Always     |         |
-| [JourneyMap]                   | Required   | `*`     |
-| [Krypton]                      | Always     | `†`     |
-| [LambdaBetterGrass]            | Optional   |         |
-| [LambDynamicLights]            | Always     |         |
-| [LazyDFU]                      | Always     |         |
-| [Light Overlay]                | Always     |         |
-| [Litematica]                   | Always     | `*`     |
-| [Lithium]                      | Always     |         |
-| [Low Fire]                     | Optional   | `*`     |
-| [Memory Usage Screen]          | Always     | `;`     |
-| [Main Menu Credits]            | Always     | `;`     |
-| [Mod Menu]                     | Always     |         |
-| [MoreChatHistory]              | Always     |         |
-| [NoChatLag]                    | Always     | `;`     |
-| [No More Useless Keys]         | Optional   |         |
-| [No Strip]                     | Optional   |         |
-| [No Telemetry]                 | Always     | `;`     |
-| [Not Enough Crashes]           | Always     |         |
-| [Ok Zoomer]                    | Always     |         |
-| [PetOwner]                     | Optional   |         |
-| [Quick Connect Button]         | Always     | `;`     |
-| [Quilt Loading Screen]         | Always     |         |
-| [Quilt Standard Libraries]     | Always     | `**`    |
-| [Rainbowify]                   | Optional   | `;`     |
-| [Raised]                       | Always     | `;`     |
-| [Screenshot to Clipboard]      | Optional   | `;`     |
-| [Simple Fog Control]           | Always     | `††`    |
-| [Smooth Scrolling Everywhere]  | Always     | `;`     |
-| [Sodium]                       | Always     |         |
-| [Starlight]                    | Always     | `†`     |
-| [Time Changer]                 | Optional   | `*`     |
-| [ToroHealth Damage Indicators] | Always     |         |
-| [WorldEdit]                    | Optional   | `†`     |
-| [WTHIT]                        | Always     |         |
-
-### Legend
-* *Always* - The mod is always downloaded.
-* *Optional* - The mod is only downloaded if you check the box to.
-* `*` = [Conditionally Approved]; read its page before using any mod marked with an asterisk.
-* `**` = Dependency of other mods, and thus may not be explicitly approved in its own rite.
-* `†` = Deemed incompatible, but it still makes enough of a difference.
-* `††` = Previously approved in a different form.
-* `;` = Not approved, but it falls under the third sentence on the Incompatible Mods page, and thus needs no approval.
-
 </details>
 
 [Modrinth]: https://modrinth.com/modpack/waffles-modpack
@@ -138,70 +60,3 @@ Required dependencies for mods may not included in this list.
 [Conditionally Approved]: https://wiki.emc.gs/conditionally-approved-mods
 [install Java]: https://adoptium.net/
 [Packwiz Installer Bootstrap]: https://github.com/comp500/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar
-
-[Amecs]: https://modrinth.com/mod/rcLriA4v
-[AntiGhost]: https://modrinth.com/mod/Jw3Wx1KR
-[Auth Me]: https://modrinth.com/mod/yjgIrBjZ
-[Better Biome Blend]: https://modrinth.com/mod/Rs6c7WyL
-[Better Enchanted Books]: https://modrinth.com/mod/yjpXhps7
-[Bobby]: https://modrinth.com/mod/M08ruV16
-[Clean Logs]: https://modrinth.com/mod/OTteoJUk
-[ClickThrough]: https://modrinth.com/mod/Z5b0cAlD
-[Command Macros]: https://curseforge.com/projects/331956
-[Continuity]: https://modrinth.com/mod/1IjD5062
-[CraftPresence]: https://curseforge.com/projects/297038
-[Critical Orientation]: https://modrinth.com/mod/AFqV4ew3
-[Cull Leaves]: https://modrinth.com/mod/GNxdLCoP
-[DashLoader]: https://modrinth.com/mod/ZfQ3kTvR
-[Don't Clear Chat History]: https://modrinth.com/mod/sUbMm93i
-[Draggable Resource Packs]: https://modrinth.com/mod/aLcHfalx
-[Durability Viewer]: https://modrinth.com/mod/LTM1f0yY
-[Dynamic FPS]: https://modrinth.com/mod/LQ3K71Q1
-[EMI]: https://modrinth.com/mod/fRiHVvU7
-[Empire Minecraft Utilities]: https://modrinth.com/mod/QYTT62S0
-[Enhanced Block Entities]: https://modrinth.com/mod/OVuFYfre
-[Entity Culling]: https://modrinth.com/mod/NNAgCjsB
-[Fabric API]: https://modrinth.com/mod/P7dR8mSH
-[Fabrishot]: https://modrinth.com/mod/3qsfQtE9
-[Fast Open Links and Folders]: https://curseforge.com/projects/513840
-[FerriteCore]: https://modrinth.com/mod/uXXizFIs
-[FlightHUD]: https://curseforge.com/projects/394419
-[Force Close Loading Screen]: https://modrinth.com/mod/blWBX5n1
-[Inventory Profiles Next]: https://modrinth.com/mod/O7RBXm3n
-[Indium]: https://modrinth.com/mod/Orvt0mRa
-[Inspecio]: https://modrinth.com/mod/a93H3mKU
-[Iris]: https://modrinth.com/mod/YL57xq9U
-[I Know What I'm Doing]: https://modrinth.com/mod/S5ivha5X
-[JourneyMap]: https://modrinth.com/mod/lfHFW1mp
-[Krypton]: https://modrinth.com/mod/fQEb0iXm
-[LambdaBetterGrass]: https://modrinth.com/mod/2Uev7LdA
-[LambDynamicLights]: https://modrinth.com/mod/yBW8D80W
-[LazyDFU]: https://modrinth.com/mod/hvFnDODi
-[Light Overlay]: https://modrinth.com/mod/YfOlc91N
-[Lithium]: https://modrinth.com/mod/gvQqBUqZ
-[Low Fire]: https://modrinth.com/mod/Gou1gmGj
-[Main Menu Credits]: https://modrinth.com/mod/qJDfP7WN
-[Memory Usage Screen]: https://modrinth.com/mod/n9mFA0ax
-[Mod Menu]: https://modrinth.com/mod/mOgUt4GM
-[MoreChatHistory]: https://modrinth.com/mod/8qkXwOnk
-[NoChatLag]: https://modrinth.com/mod/afu4kdAc
-[No More Useless Keys]: https://modrinth.com/mod/YCcdA1Lp
-[No Strip]: https://modrinth.com/mod/3f1BdVqy
-[No Telemetry]: https://modrinth.com/mod/hg77g4Pw
-[Not Enough Crashes]: https://modrinth.com/mod/yM94ont6
-[Ok Zoomer]: https://modrinth.com/mod/aXf2OSFU
-[PetOwner]: https://modrinth.com/mod/IxUlAAFe
-[Quick Connect Button]: https://modrinth.com/mod/erzkR85H
-[Quilt Loading Screen]: https://modrinth.com/mod/VPU6VYVP
-[Quilt Standard Libraries]: https://modrinth.com/mod/qvIfYCYJ
-[Rainbowify]: https://modrinth.com/mod/m9FFV06N
-[Raised]: https://modrinth.com/mod/nCQRBEiR
-[Screenshot to Clipboard]: https://modrinth.com/mod/1KiJRrTg
-[Simple Fog Control]: https://modrinth.com/mod/Glp1bwYc
-[Smooth Scrolling Everywhere]: https://curseforge.com/projects/325861
-[Sodium]: https://modrinth.com/mod/AANobbMI
-[Starlight]: https://modrinth.com/mod/H8CaAYZC
-[Time Changer]: https://modrinth.com/mod/1itdse3V
-[ToroHealth Damage Indicators]: https://curseforge.com/projects/245733
-[WorldEdit]: https://curseforge.com/projects/225608
-[WTHIT]: https://modrinth.com/mod/6AQIaxuO
