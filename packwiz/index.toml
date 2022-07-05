@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "bcbc4091875a9f83813374950be1b9a1f89ac26f393afa54c85c29614069acf4"
+hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "be819142ebc814d4e8bcf7bd9a1c8896d2416126b33451f662912f260ac7804b"
+hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "bfd7786df67bca1884e241765f3c58b706d7cf5a7425d509096eccbb343beace"
+hash = "e0b75fabc5bcd79525f16251d1d9b27d1285bb1fe52ba85b081ea6cb85af3f04"
 metafile = true
 
 [[files]]
