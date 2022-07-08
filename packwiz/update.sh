@@ -27,17 +27,18 @@ if yes_or_no "Perform pack update" "update"; then
 fi
 echo
 
+read -ep "Enter changelog: " CHANGELOG
+
 git add :
 
 if yes_or_no "Perform commit" "commit"; then
-  git commit -am "Update mods $DATE"
+  git commit -am "$CHANGELOG"
 fi
 echo
 
 if yes_or_no "Push and upload to Modrinth" "upload"; then
   rm *.mrpack
   packwiz modrinth export
-  read -ep "Enter changelog: " CHANGELOG
   CHANGELOG=$CHANGELOG gradle modrinth
   git push
 fi
