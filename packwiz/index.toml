@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "435e56fcc8cfa57b703bf8fc58cff9bc7662341324a87390ae18d9131cd1336c"
+hash = "c3f4413a6233b9b037854befc548a64ba4eb9f36dabb2adb0f8589182823f8bb"
 metafile = true
 
 [[files]]
@@ -179,6 +179,11 @@ hash = "6458d72ebb77a97df640ddebc1709b61c2972079116d58e99ce38105750aada9"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "0b0b7d2de5e46b9032ae84b25f554839e7fabfeab7bd8bcb48392b940e112f38"
 metafile = true
@@ -280,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "482d796d5448f41d254a12f60dc3891f88b5337c9d87ef0775306de00f9ef6e6"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
@@ -400,5 +405,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "d2ee0734a9f152bc0c93fc9d660f615cdf839ba269e321ecb2607f34ac44c097"
+hash = "20c2d984537d65510c1a5139204f64fe8e780bd7af196c2b65ff409d8846e971"
 metafile = true

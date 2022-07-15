@@ -10,7 +10,7 @@ buildscript {
 apply plugin: "java"
 apply plugin: "com.modrinth.minotaur"
 
-version = "2022.07.12"
+version = "2022.07.14"
 
 modrinth {
   projectId = "waffles-modpack"
