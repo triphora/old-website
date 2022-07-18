@@ -219,6 +219,11 @@ hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
 metafile = true
 
 [[files]]
+file = "mods/infohud.pw.toml"
+hash = "0f741bde6fc9340dec638d647eb0bd5de8e377693424ae6a3e546915f57010d8"
+metafile = true
+
+[[files]]
 file = "mods/inspecio.pw.toml"
 hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
 metafile = true
@@ -231,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+metafile = true
+
+[[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "778e1d8212a20bf7a8921d3337447ed118c43f63aaaa69620c8f80a5cdf85089"
 metafile = true
 
 [[files]]
@@ -271,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "9d9b3772d9e12b474675846005279f4b3957711744a550ab14284ed4187fc270"
 metafile = true
 
 [[files]]
@@ -330,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6ac46d4af48878cc8b8fbb5c829115bbb89e2af6ac907fad6ceb8fb0a69dd66d"
+hash = "3ec7c0726c8eef9d5965b6fd965852c7e6ddbf73baf0e671f6a938c9452ae6eb"
 metafile = true
 
 [[files]]
@@ -399,8 +414,23 @@ hash = "e65659d2aebcf03c0caecbc7c4147be836709b1de82a3fe34c6d0b2f4e755053"
 metafile = true
 
 [[files]]
+file = "mods/visuality.pw.toml"
+hash = "9ff97d15f98320cec39af7c1e1fe9b9a5aaf4d51e899ffdfdbb4ad1fc1b03f4f"
+metafile = true
+
+[[files]]
+file = "mods/vtdownloader.pw.toml"
+hash = "23c73f09141fa81161872c7549725eefc0ee85187bcc86e50d2513c17eeb71bf"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "3828442c6742efa72c05b86e94081dd6c1b403a5ea684dc51b18f34effdd6710"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "967674c89571c0e2cc9de0d3fc2131ab98a3e2bc65c5ca55d5d7a1980900aced"
 metafile = true
 
 [[files]]

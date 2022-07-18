@@ -10,13 +10,23 @@ buildscript {
 apply plugin: "java"
 apply plugin: "com.modrinth.minotaur"
 
-version = "2022.07.14"
+version = "2022.07.18"
+
+String getChangelog() {
+  String changelog = System.getenv().CHANGELOG
+  changelog += "\n\n"
+  changelog += "<details><summary>Mods from CurseForge</summary>"
+  changelog += "\n"
+  changelog += System.getenv().CF_MODS
+  changelog += "</details>"
+  return changelog
+}
 
 modrinth {
   projectId = "waffles-modpack"
   gameVersions = ["1.19"]
   loaders = ["quilt"]
-  changelog = System.getenv().CHANGELOG + project.file("CFMODS.md").text
+  changelog = this.getChangelog()
   uploadFile = project.file("waffle's Modpack-${version}.mrpack")
   syncBodyFrom = project.file("README.md").text.replace("latest Modrinth release", "[latest Modrinth release](https://modrinth.com/modpack/waffles-modpack/version/$version)")
 }

@@ -16,11 +16,34 @@ function yes_or_no {
     esac
   done
 }
+# End StackOverflow code
+
+function generateCfModsList {
+  CF_MODS=$(grep -l "curseforge" mods/*.toml | tr -s '\n' ' ')
+  CF_MOD_IDS=()
+  CF_NAMES=()
+  for MOD in $CF_MODS; do
+    CF_MOD_IDS+=($(grep -h "project-id" $CF_MODS | sed "s/project-id = //;s/\"//g" | tr -s '\n' ' '))
+  done
+  for MOD in $CF_MODS; do
+    NAME=$(grep -hw "name" $MOD | sed "s/name = //;s/\"//g" | tr -s '\n' ' ')
+    CF_NAMES+=("$NAME")
+  done
+
+  CF_MODS=""
+  for ID in ${!CF_MOD_IDS[@]}; do
+    for NAME in ${!CF_NAMES[@]}; do
+      [[ $ID != $NAME ]] && continue
+      NAME=${CF_NAMES[$NAME]% }
+      NAME=${NAME%' (Fabric)'}
+      CF_MODS+="- [$NAME](https://curseforge.com/projects/${CF_MOD_IDS[$ID]})\n"
+    done
+  done
+}
 
 printf -v DATE '%(%Y.%m.%d)T'
 
-sed -i "s/version = \".*\..*\..*\"/version = \"$DATE\"/" pack.toml
-sed -i "s/version = \".*\..*\..*\"/version = \"$DATE\"/" build.gradle
+sed -i "s/version = \".*\..*\..*\"/version = \"$DATE\"/" pack.toml build.gradle
 
 if yes_or_no "Perform pack update" "update"; then
   packwiz update -a
@@ -39,6 +62,7 @@ echo
 if yes_or_no "Push and upload to Modrinth" "upload"; then
   rm *.mrpack
   packwiz modrinth export
-  CHANGELOG=$CHANGELOG gradle modrinth
+  generateCfModsList
+  CHANGELOG=$CHANGELOG CF_MODS=$CF_MODS gradle modrinth
   git push
 fi
