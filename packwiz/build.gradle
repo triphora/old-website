@@ -16,8 +16,9 @@ String getChangelog() {
   String changelog = System.getenv().CHANGELOG
   changelog += "\n\n"
   changelog += "<details><summary>Mods from CurseForge</summary>"
+  changelog += "\n\n"
+  changelog += System.getenv().CF_MODS.replace '\\n', '\n'
   changelog += "\n"
-  changelog += System.getenv().CF_MODS
   changelog += "</details>"
   return changelog
 }
