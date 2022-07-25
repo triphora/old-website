@@ -10,7 +10,7 @@ buildscript {
 apply plugin: "java"
 apply plugin: "com.modrinth.minotaur"
 
-version = "2022.07.23"
+version = "2022.07.25"
 
 String getChangelog() {
   String changelog = System.getenv().CHANGELOG
@@ -32,4 +32,4 @@ modrinth {
   syncBodyFrom = project.file("README.md").text.replace("latest Modrinth release", "[latest Modrinth release](https://modrinth.com/modpack/waffles-modpack/version/$version)")
 }
 
-//tasks.modrinth.dependsOn tasks.modrinthSyncBody
+// tasks.modrinth.dependsOn tasks.modrinthSyncBody
