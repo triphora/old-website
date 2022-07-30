@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b10b2a8ee124f43934c1e483262e1dd7b7480c8eb4adc929b26ed0b5d2d41d3e"
+hash = "1e1da169cfe9ded4e2548d666476c5859dc2d4daf0bcb745720f937ef30947d4"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "53fa3438ef9e1e81193f46c36cffa7c410a933de0b6793224e99bad67cbab2e3"
+hash = "67fb21ff47324f5b982db90b52ca2024dbee0b83b67721c47761a94f32af4a40"
 metafile = true
 
 [[files]]
@@ -116,11 +116,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
-metafile = true
-
-[[files]]
-file = "mods/craftpresence.pw.toml"
-hash = "7751b8561747e1b4dc690787e528ebf48210984ac904a8336da5011222f44baa"
 metafile = true
 
 [[files]]
@@ -155,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.pw.toml"
-hash = "4851a89b55aaa56bce3595e67020e4a54b15cf0cba1665d1970679f134dc3054"
+hash = "6cbabbc2a2de3c665324356ec3bcbf30d5d9f441702348db8acd79d3314bb52d"
 metafile = true
 
 [[files]]
@@ -225,12 +220,12 @@ metafile = true
 
 [[files]]
 file = "mods/inspecio.pw.toml"
-hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
+hash = "60e9f33cd783c628083e3483cd3fcef7adcbf507ae075d9a9d467fab03a522e6"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "3f196a5ba67e18f52901014dd413376944faf11cbf2f35722a08ac6195dd363d"
+hash = "8a1946b8a375c63cdf77439bdbb128bf1c439831f8dc074046c9ff75342f1f60"
 metafile = true
 
 [[files]]
@@ -240,17 +235,12 @@ metafile = true
 
 [[files]]
 file = "mods/item-scroller.pw.toml"
-hash = "778e1d8212a20bf7a8921d3337447ed118c43f63aaaa69620c8f80a5cdf85089"
+hash = "e5c12c22adc95c309b69f10f9000bf02d1cb55ec538b4f073c8e61097cfa47a3"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e47deab6f9e0ee7aacf07e85e6a16a44cac75c8b13b779508534a25589add192"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "a2bb983e5dffe95d1f92ee19a099ed214f9b3d39c4e9f8eb5991a1a3c7735b45"
+hash = "96bde89a67929f99fe6bdb1a4e2df42fc21806e2162b0c77c27d75c0a6ba4afc"
 metafile = true
 
 [[files]]
@@ -275,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
+hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
 metafile = true
 
 [[files]]
@@ -285,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "9d9b3772d9e12b474675846005279f4b3957711744a550ab14284ed4187fc270"
+hash = "6de9699b6beffe6248696a2091818d1b3af84243ba373ad7bd274cce7082f310"
 metafile = true
 
 [[files]]
@@ -295,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "9bedd7ca66c806a5bc8bfefc04ac3a4665bccf3a6672e3a4ebd69dd752c5ee6f"
+hash = "49f9b24d73adb01f1f1d1349af1549583d1f552a0e88f4885c2f456d6535c842"
 metafile = true
 
 [[files]]
@@ -305,12 +295,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
+hash = "73bc2fb1fd275fd88efd075bc03153d6b2d6d34871f62a94208db5c28f17805b"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "d89fe3b22b4261c4c9dc8351c9c5a7dd3ed754fd7dbb9c7428ef051334163b1f"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
 metafile = true
 
 [[files]]
@@ -355,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6964988c864dd2ec7ad924b753c2c749d85a8c5a0814c0dd52520efe7df4dcd9"
+hash = "d0d8841520e836dea7ee284def5c91f77480a03ef8edf826b3c61a5acd5881f1"
 metafile = true
 
 [[files]]
@@ -386,11 +376,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "0b406514e3d6c608e6c7cb18d2c0076c990426d38f1fbc94356a7c4e5507d586"
-metafile = true
-
-[[files]]
-file = "mods/shadowedactionbar.pw.toml"
-hash = "c693274809ac9f6268538f49d4fa66bcbc84570d8921e8bd6a596b89d9b168f8"
 metafile = true
 
 [[files]]
