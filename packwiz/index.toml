@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "36319e0c2af787aa66ff2e5c4ba57971156a36c73f20ad9889dd583e86c9c3e8"
+hash = "c6ebaebc13a0f6aa3a66b26d9671fe219e61fbf08ad2945d70769fb9ac848ae8"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "6b561fd70087e13c3b0e2b088a157b2b3f3800c81ac9f26daf5b6a90b795b67f"
+hash = "7751b8561747e1b4dc690787e528ebf48210984ac904a8336da5011222f44baa"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.pw.toml"
-hash = "ee1c889fd133b3b292e060a26cf243ae1e2c827590c7416513dc63620a8d6d28"
+hash = "4851a89b55aaa56bce3595e67020e4a54b15cf0cba1665d1970679f134dc3054"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0ef44b9254451d85119e6f7906fa1069edd4eb513d6b183db9e3f56f66e6281a"
+hash = "70794068a407652022124d83b39e696d2c3194daeea0e4993afd50fb0351552c"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "9ff97d15f98320cec39af7c1e1fe9b9a5aaf4d51e899ffdfdbb4ad1fc1b03f4f"
+hash = "e4d8df8da89afc27ef4066bf63fb258fdef9bb367498372a6e5833dda27e0765"
 metafile = true
 
 [[files]]
@@ -435,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "3828442c6742efa72c05b86e94081dd6c1b403a5ea684dc51b18f34effdd6710"
+hash = "cb6b0609cb3d2630c2e58d5e3092df445d7bbb39d011d20a6cf4e39c0d89d569"
 metafile = true
 
 [[files]]
@@ -445,5 +445,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "cec6c78672e420d4f38f05cb3a95fed3d76ec3573804244a29edfd3859269281"
+hash = "d39dcdcdf9be08f24b02c95820df12c17adc6105ebf69598ab681924a3d5e12a"
 metafile = true
