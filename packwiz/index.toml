@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/antighost.pw.toml"
-hash = "939d73cc5d76ad6c49de09d586ea3bfca1959c54c2518948c495e3114e4d5cb7"
+hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
-hash = "b46ae91063839b3aaa7a863f69586e00883a6c98b2959005eaff27a459aa5d82"
+hash = "1a4c9d83b0709fd2f91814eb67f81e19bb1493315c42cb65efe911d0f34c5a13"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/durabilityviewer.pw.toml"
-hash = "c02eabded8af6a2282b4b44aab15206f198d44be3df21dd93ec8a8d4824ac32f"
+hash = "84c3fa8f432a1f7d8692e7a52f5c4a7b60c5c215a1329af48df76544e72b90d6"
 metafile = true
 
 [[files]]
@@ -241,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "96bde89a67929f99fe6bdb1a4e2df42fc21806e2162b0c77c27d75c0a6ba4afc"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -420,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "cb6b0609cb3d2630c2e58d5e3092df445d7bbb39d011d20a6cf4e39c0d89d569"
+hash = "d1b16621ce55d5032f98ad9aba587a7c195e9855776e19ca2f9ad2f485326921"
 metafile = true
 
 [[files]]
