@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "ce4bb007f4911a2bea3ec9ec6756582a0bf48ccc56dcb17c01d22868b669b8f2"
+hash = "dd03b3d00d5c367dde03f049b2418131c1cd5b2146c998e0b24b3aa80ae4d9d4"
 metafile = true
 
 [[files]]
@@ -210,17 +210,17 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
 file = "mods/infohud.pw.toml"
-hash = "0f741bde6fc9340dec638d647eb0bd5de8e377693424ae6a3e546915f57010d8"
+hash = "4e5440d362125ca6e468e70d64c4ba10fe28739993c3737652c73978a398a9a5"
 metafile = true
 
 [[files]]
 file = "mods/inspecio.pw.toml"
-hash = "60e9f33cd783c628083e3483cd3fcef7adcbf507ae075d9a9d467fab03a522e6"
+hash = "b78af3bf0642db40d9295d6228eaa65065414de18995f84970b6e1698e93aced"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d0d8841520e836dea7ee284def5c91f77480a03ef8edf826b3c61a5acd5881f1"
+hash = "4f8f8b99db8babf4655832c73e15f747f9622ae6368256204544d8e0757481d9"
 metafile = true
 
 [[files]]
