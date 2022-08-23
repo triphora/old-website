@@ -119,6 +119,11 @@ hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "7f02ba53477c98732edc5e59effd0a4e844b409bf37b91c3555f9fb804979f95"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
 metafile = true
