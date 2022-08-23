@@ -1,13 +1,13 @@
 name = "InfoHUD"
-filename = "infohud-1.2.jar"
+filename = "infohud-1.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dc4PsEGC/versions/1.2/infohud-1.2.jar"
+url = "https://cdn.modrinth.com/data/dc4PsEGC/versions/1.3.1/infohud-1.3.1.jar"
 hash-format = "sha1"
-hash = "d142794782f4667313da4bf1b25c81db82ccafc6"
+hash = "9df27909d80e21c2f4984280561bcdc35b766263"
 
 [update]
 [update.modrinth]
 mod-id = "dc4PsEGC"
-version = "SAAiiqed"
+version = "KhzebDV5"

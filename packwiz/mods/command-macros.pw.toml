@@ -1,13 +1,13 @@
 name = "Command Macros"
-filename = "cmdkeybind-1.5.4-1.19.jar"
+filename = "cmdkeybind-1.6.0-1.19.X.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1954d21c11e448a48956a14703dd4308bef5bdee"
+hash = "75f8a622ad200bc97e5b0201066e412818ef3d68"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3831506
+file-id = 3927530
 project-id = 331956
