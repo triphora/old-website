@@ -11,3 +11,7 @@ hash = "6d08dd14e468a54087fbce79e59643dd7b58d34e"
 [update.modrinth]
 mod-id = "6FtRfnLg"
 version = "FBF1osil"
+
+[options]
+optional = true
+description = "Do a Barrel Roll introduces a Cinematic Camera-esque experience for elytra."
