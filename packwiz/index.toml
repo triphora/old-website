@@ -89,11 +89,6 @@ hash = "5e206d6a7aa7744a3322189386a7e3c4315df2dd8a1d3a648bcde498a7a3c934"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "95bceaa716de4474b6414b14c4f1de5935aaa0fa0ce55aaf2c7f97b3c765aeb3"
-metafile = true
-
-[[files]]
 file = "mods/clean-logs.pw.toml"
 hash = "acae53b7b4a8066aad64f95b9ae1c09e8efef08573b1a902c0b659454e1b922c"
 metafile = true
@@ -211,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/gatekeep.pw.toml"
 hash = "8521ea1ccd72edafd5eb3288f132d05ef67dcb90c930b573ac41b1fb16d8516a"
+metafile = true
+
+[[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "69b66f7ab7f207fbae8d78236c2d59bc4c6164ba0a033eb289a144940de0dc02"
 metafile = true
 
 [[files]]
@@ -346,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
-metafile = true
-
-[[files]]
-file = "mods/nrb.pw.toml"
-hash = "c1264003093727307d45c0a0c0ba48c9b3e7189a8113c306717eb0a94974db55"
 metafile = true
 
 [[files]]
