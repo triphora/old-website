@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "7f02ba53477c98732edc5e59effd0a4e844b409bf37b91c3555f9fb804979f95"
+hash = "261d13d682a71bb0949dbdbbdad5bc78cdf1955b2ad26de8357e7eaea9ff2239"
 metafile = true
 
 [[files]]
@@ -131,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/dcch.pw.toml"
 hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "ae3ea56ad71c414052a633d3082d443b0d5db1dcb4787aa14fb9d2045ad4f7f8"
 metafile = true
 
 [[files]]
@@ -201,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/forgetmechunk.pw.toml"
 hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
+metafile = true
+
+[[files]]
+file = "mods/gatekeep.pw.toml"
+hash = "8521ea1ccd72edafd5eb3288f132d05ef67dcb90c930b573ac41b1fb16d8516a"
 metafile = true
 
 [[files]]
@@ -339,6 +349,11 @@ hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
 metafile = true
 
 [[files]]
+file = "mods/nrb.pw.toml"
+hash = "c1264003093727307d45c0a0c0ba48c9b3e7189a8113c306717eb0a94974db55"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
 metafile = true
@@ -445,5 +460,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "6fdd2cf50b2f1a5c18004d7d4725753c6a50ab86961f8363e6351206352afa02"
+hash = "cae479bc37fce778b7716e9884b54d5cdcb5796d661fb00db29fde09dc806d59"
 metafile = true
