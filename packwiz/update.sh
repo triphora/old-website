@@ -64,5 +64,6 @@ if yes_or_no "Push and upload to Modrinth" "upload"; then
   packwiz modrinth export
   generateCfModsList
   CHANGELOG=$CHANGELOG CF_MODS=$CF_MODS gradle modrinth
-  git push
+  git push origin
+  git push mirror
 fi
