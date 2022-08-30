@@ -89,6 +89,11 @@ hash = "5e206d6a7aa7744a3322189386a7e3c4315df2dd8a1d3a648bcde498a7a3c934"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
+metafile = true
+
+[[files]]
 file = "mods/clean-logs.pw.toml"
 hash = "acae53b7b4a8066aad64f95b9ae1c09e8efef08573b1a902c0b659454e1b922c"
 metafile = true
@@ -120,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
+hash = "aec7e6789e4b9858aa538aa55eea6bc10fd2864a95edc59fff6988594c1a307f"
 metafile = true
 
 [[files]]
@@ -220,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "35fefbf2a09f2899361fd9a7999138e06f804aa8b89dfc5a323103a219c2d88a"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
@@ -235,12 +240,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "223886c3e915a9c86b6fa328b1382fafd45b48d3fb3718aa97f0443d3e588de4"
+hash = "efcd0e7166dd6816e8ec57612906ed1e376d76e11413ff65da256ae73af0a5fd"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e17ae2c96de4d1c334308a80f4c63f1f071035911334186a9f1bd77496c105a5"
+hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
 metafile = true
 
 [[files]]
@@ -415,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9322c7f9663b04bfbadb4fd6bb36a4ad5336bd3999a8542287b2d58834c86b83"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
