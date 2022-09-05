@@ -1,16 +1,16 @@
 name = "rainbowify"
-filename = "rainbowify-2.0.0-alpha.3.jar"
+filename = "rainbowify-2.0.0-alpha.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/m9FFV06N/versions/2.0.0-alpha.3/rainbowify-2.0.0-alpha.3.jar"
+url = "https://cdn.modrinth.com/data/m9FFV06N/versions/7v83wbYN/rainbowify-2.0.0-alpha.4.jar"
 hash-format = "sha1"
-hash = "c3abc01cb9d2d8b43ae035c9ba88b51aac536954"
+hash = "0205e09eb96c41beb00e671644ee8916006b5820"
 
 [update]
 [update.modrinth]
 mod-id = "m9FFV06N"
-version = "3FgtmQtt"
+version = "7v83wbYN"
 
 [option]
 optional = true
