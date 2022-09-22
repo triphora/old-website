@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "96a151e3429c0a525e0fdb6408a9f201ff1dcbcb7cf52e363d99205635753c72"
+hash = "314e9f91c9c12ca48ec8a1b1e5c9b5d3da08bd1035af6a63db011c5419644df9"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "7c3e688d8cf11f9fc1334d42b2562341b08422666b13bec4d79a25ea5c6acd83"
+hash = "4a8e8279fab09b0a4e8662117f8a603fffd9e19b74f00bd2bc5616451dcecd8b"
 metafile = true
 
 [[files]]
@@ -214,11 +214,6 @@ hash = "8521ea1ccd72edafd5eb3288f132d05ef67dcb90c930b573ac41b1fb16d8516a"
 metafile = true
 
 [[files]]
-file = "mods/hold-that-chunk.pw.toml"
-hash = "69b66f7ab7f207fbae8d78236c2d59bc4c6164ba0a033eb289a144940de0dc02"
-metafile = true
-
-[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
 metafile = true
@@ -240,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "d54b2f29fb0eed2843678d99b4e4667ba9b3fda86c49e2f7c9a90cb2c1c15fbf"
+hash = "c3e1c25d84723b504c591d03a50c1b2d458147dec6538d3893d32404153d99b9"
 metafile = true
 
 [[files]]
@@ -375,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6dc3a832bd80685d0554a45307a4a13eb2b4d5774b446ef3006787e205165dbf"
+hash = "11238040911dcfa158a1230b3b2995c8a67505319ad740432f5842eebabec533"
 metafile = true
 
 [[files]]

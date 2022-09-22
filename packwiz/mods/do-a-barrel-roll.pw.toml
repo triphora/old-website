@@ -1,16 +1,16 @@
 name = "Do a Barrel Roll"
-filename = "do-a-barrel-roll-1.2.2+1.19.jar"
+filename = "do-a-barrel-roll-1.2.3+1.19.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/afCcLQ1c/do-a-barrel-roll-1.2.2%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/5O3dPR9X/do-a-barrel-roll-1.2.3%2B1.19.jar"
 hash-format = "sha1"
-hash = "cc90f94d883896a3abafaf52a5e498277edb4c96"
+hash = "e8f122745d0ed0b91571f60ed1d7ffd78c8a585f"
 
 [update]
 [update.modrinth]
 mod-id = "6FtRfnLg"
-version = "afCcLQ1c"
+version = "5O3dPR9X"
 
 [option]
 optional = true
