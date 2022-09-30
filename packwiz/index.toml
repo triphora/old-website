@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "314e9f91c9c12ca48ec8a1b1e5c9b5d3da08bd1035af6a63db011c5419644df9"
+hash = "7b27058dd8666dc7da290a8f1027b9a514a71f2cae1aa1cd5e4cd10e06d9fa9a"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "4a8e8279fab09b0a4e8662117f8a603fffd9e19b74f00bd2bc5616451dcecd8b"
+hash = "931a518f10f63f56b60a9976e2a06d980122da275f5c31e7ef1ad012bb5264e2"
 metafile = true
 
 [[files]]
@@ -176,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "6458d72ebb77a97df640ddebc1709b61c2972079116d58e99ce38105750aada9"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "2f20c0c59809a3072e764676ff2171e9d20494ed2255ea26a9af046f621154ef"
 metafile = true
 
 [[files]]
@@ -235,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "c3e1c25d84723b504c591d03a50c1b2d458147dec6538d3893d32404153d99b9"
+hash = "34e7ebfe442ff1a492411504d1b444bf9204432ce0153779e068ac14a2ad1655"
 metafile = true
 
 [[files]]
@@ -370,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "11238040911dcfa158a1230b3b2995c8a67505319ad740432f5842eebabec533"
+hash = "444b971fddab0efe0951c74ca8b57e2702243cf6b7b444ad44ee658701be999e"
 metafile = true
 
 [[files]]
@@ -401,6 +406,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "0b406514e3d6c608e6c7cb18d2c0076c990426d38f1fbc94356a7c4e5507d586"
+metafile = true
+
+[[files]]
+file = "mods/shared-resources.pw.toml"
+hash = "60bd6860c66d845d16f567a9eb33c5e04171bb90691fc08d45b01fc07ae8adfe"
 metafile = true
 
 [[files]]
