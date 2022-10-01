@@ -414,11 +414,6 @@ hash = "0b406514e3d6c608e6c7cb18d2c0076c990426d38f1fbc94356a7c4e5507d586"
 metafile = true
 
 [[files]]
-file = "mods/shared-resources.pw.toml"
-hash = "60bd6860c66d845d16f567a9eb33c5e04171bb90691fc08d45b01fc07ae8adfe"
-metafile = true
-
-[[files]]
 file = "mods/simplefog.pw.toml"
 hash = "0ea95321406c3c53fefcc28eb4a7a0beb8cd70323669d2855aaa749a85d547f7"
 metafile = true
