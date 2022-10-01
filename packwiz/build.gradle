@@ -24,6 +24,7 @@ String getChangelog() {
 }
 
 modrinth {
+  token = System.getenv().MODRINTH_TOKEN
   projectId = "waffles-modpack"
   gameVersions = ["1.19.2"]
   loaders = ["quilt"]

@@ -279,6 +279,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/libipn.pw.toml"
+hash = "65bb57fe8fd5a4a9d0de9d7d11cf5831c02de90fe652ae7895e6f69b6d594cd1"
+metafile = true
+
+[[files]]
 file = "mods/light-overlay.pw.toml"
 hash = "5c559405b7e871e2ce99db2677469b4806122e94ef6c0fdf560e0ba798e9a78b"
 metafile = true
