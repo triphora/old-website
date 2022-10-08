@@ -9,10 +9,15 @@ RED="\033[31;1m"
 GREEN="\033[32;1m"
 function yes_or_no {
   while true; do
-    read -p "$(echo -e $GREEN$1?$RESET) [y/n]: " yn
+    read -p "$(echo -e $GREEN$1?$RESET) [Y/n]: " yn
     case $yn in
-      [Yy]*) return 0  ;;
-      [Nn]*) echo -e $RED"Skipping "$2$RESET ; return  1 ;;
+      [Nn]*)
+        echo -e $RED"Skipping "$2$RESET
+        return 1
+        ;;
+      *)
+        return 0
+        ;;
     esac
   done
 }

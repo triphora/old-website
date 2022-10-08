@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "c6ebaebc13a0f6aa3a66b26d9671fe219e61fbf08ad2945d70769fb9ac848ae8"
+hash = "2e0a558c8e2c0491f589cbeca0f8befd3e3610d9030e3cf47082a55741c3e948"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
-hash = "5e206d6a7aa7744a3322189386a7e3c4315df2dd8a1d3a648bcde498a7a3c934"
+hash = "9a65d0348c683efc848cfe5e09b19851e8642fa2307491636c2bdac0e8122046"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "931a518f10f63f56b60a9976e2a06d980122da275f5c31e7ef1ad012bb5264e2"
+hash = "0ccfed9f5ebcb6d735a83f4ded4946ac27222183a147a001f40c0124661d31bf"
 metafile = true
 
 [[files]]
@@ -185,12 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "0b0b7d2de5e46b9032ae84b25f554839e7fabfeab7bd8bcb48392b940e112f38"
-metafile = true
-
-[[files]]
-file = "mods/fastopenlinksandfolders.pw.toml"
-hash = "ff54403726ef6349d2b0d9fc9588e5923aff79c0756820f3d4aa2c4c9dd8e2d8"
+hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
 metafile = true
 
 [[files]]

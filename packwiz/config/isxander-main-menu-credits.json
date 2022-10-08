@@ -1,5 +1,7 @@
 {
-  "bottom_right": [
-    "Modpack assembled by §6wafflecoffee"
-  ]
+	"main_menu": {
+		"bottom_right": [
+			"Modpack assembled by §6wafflecoffee"
+		]
+	}
 }
