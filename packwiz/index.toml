@@ -184,6 +184,11 @@ hash = "2f20c0c59809a3072e764676ff2171e9d20494ed2255ea26a9af046f621154ef"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
+metafile = true
+
+[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
 metafile = true
@@ -366,11 +371,6 @@ metafile = true
 [[files]]
 file = "mods/petowner.pw.toml"
 hash = "1f1bbd4dd2a4cb99175f9b0e53a339ed3c13ec7db99814c2d5efc42252b14092"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "c9b5c7f923336eb60458492ee72e30471edefa0b5b897d279def756101895737"
 metafile = true
 
 [[files]]
