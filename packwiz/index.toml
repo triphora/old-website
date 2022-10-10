@@ -22,7 +22,7 @@ hash = "842dfdaf101e56169daeaa523d87b70deda2c35a4c3742ddc73416f7d7dbe34c"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cc39beac3d5257628a2442cb03f75a6a9260bfc52c6da1e4e1b326c62729a239"
+hash = "9f466b3efb0d273ef976e671690f93e9b28397399559faf22e3cd5938c966b17"
 
 [[files]]
 file = "config/modmenu.json"
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/infohud.pw.toml"
-hash = "fdddeb2ce5e92c8ca3c57af60581c3d381d9c650fea05df61a866a08a13a49ce"
+hash = "9562ff0b00054274ee58ccce22e09063a397a8825334b783d3ceb080efa140b6"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "65bb57fe8fd5a4a9d0de9d7d11cf5831c02de90fe652ae7895e6f69b6d594cd1"
+hash = "a2fcd52b158985c7e94399700d2414d0a380e55cfa0ecb0d24e4ec50982a4eb8"
 metafile = true
 
 [[files]]
