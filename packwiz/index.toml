@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "7b27058dd8666dc7da290a8f1027b9a514a71f2cae1aa1cd5e4cd10e06d9fa9a"
+hash = "66efe72f8835a60e9b441424a7bd1c554c97ebeb1ecdfce58570bd653ab6079a"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "0ccfed9f5ebcb6d735a83f4ded4946ac27222183a147a001f40c0124661d31bf"
+hash = "f17690226befe0199d8a070ef394a37751b780dfa988573018fb50e3dec4fa50"
 metafile = true
 
 [[files]]
@@ -290,12 +290,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "c5556efa17ec13eeaaf3095d2f64e81d8a53c5cb6241896b61d99c2c2d5679cd"
+hash = "c9914628f328f6a137621cf27068aa0742e57cfdf1268a363c21c2aef63ab339"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+hash = "e65f669f804c27cdcd14d511b39caa2aefd24f9da23781214c6ab60ff10f604e"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/vtdownloader.pw.toml"
-hash = "238874bfa0832147c9cd55266aca3e1e0e4c4a83bbadeb2ab246497e2bb0f9a1"
+hash = "b935d2b958f96006d9f39fe585a240cbcc2701fe437c49e6f7c539a1ade0bc90"
 metafile = true
 
 [[files]]
@@ -460,5 +460,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "de08ce31ccfbd64fb308ddb0d1076d4e6cd65ac43bd6a16e57e01a1d14336428"
+hash = "6affae9c080ef11b6ca83d4a689c55cff8a65eca3403119e330e3a88801482c4"
 metafile = true
