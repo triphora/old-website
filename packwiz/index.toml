@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "66efe72f8835a60e9b441424a7bd1c554c97ebeb1ecdfce58570bd653ab6079a"
+hash = "f44c6d3ee422e157ec032dae8cbcad6725fba9f21abeeaa600721f03176cf5a3"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "f17690226befe0199d8a070ef394a37751b780dfa988573018fb50e3dec4fa50"
+hash = "d80afa04a7b4e5d2dfda5858d457b121a0820c4ba71e8760678e21035fa3015d"
 metafile = true
 
 [[files]]
@@ -180,12 +180,12 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "2f20c0c59809a3072e764676ff2171e9d20494ed2255ea26a9af046f621154ef"
+hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
+hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "34e7ebfe442ff1a492411504d1b444bf9204432ce0153779e068ac14a2ad1655"
+hash = "2acd6d99abc9774fb38395bd825039343d7189fb9712f17788410fa731d5147c"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e65f669f804c27cdcd14d511b39caa2aefd24f9da23781214c6ab60ff10f604e"
+hash = "7f4a8312d10e805cce174067450bb7045b55281cf8de37b0bedbf808a7ae6d31"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "444b971fddab0efe0951c74ca8b57e2702243cf6b7b444ad44ee658701be999e"
+hash = "920db79929d5c78275c91a861bad9d403b6cb01369f124719b204da467ef0560"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "014566a9d16177ef1499864718b28090b5ac254e3e910a2cea67b911b56f3e5a"
+hash = "b0127083189df42555a7f66de246ebfed79494a18d8aebfcefb651aa79f0e3d3"
 metafile = true
 
 [[files]]
@@ -460,5 +460,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "6affae9c080ef11b6ca83d4a689c55cff8a65eca3403119e330e3a88801482c4"
+hash = "b0edd73a7a58bd592f67d61083db20ea896dbbdd79c1c410efe0c692b3bcfc08"
 metafile = true
