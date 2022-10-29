@@ -1,0 +1,33 @@
+- type: embed
+  embeds:
+    - title: "Welcome to the server for Emmaffle's mods (and related content)!"
+      url: https://modrinth.com/user/emmaffle
+      color: 0x800080
+      thumbnail:
+        url: https://avatars.githubusercontent.com/u/60205699?v=4
+
+- type: embed
+  embeds:
+    - title: ":book: Rules"
+
+- type: rules
+  rules:
+    Don't cause issues: [Wheaton's Law](http://www.wheatonslaw.com) applies.
+    Follow Discord's rules: [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms)
+    Don't use hoist names: Will result in a ban.
+
+- type: links
+  title: ":link: Useful links"
+  links:
+    Modrinth: https://modrinth.com/user/emmaffle
+    Codeberg user: https://codeberg.org/orchid
+    Codeberg organization: https://codeberg.org/emmods
+    GitHub user: https://github.com/wafflecoffee
+    GitHub organization: https://github.com/emmods
+    Buy Me a Coffee: https://buymeacoff.ee/emmaffle
+    Mastodon: https://tech.lgbt/@waffle
+    Twitter: https://twitter.com/emmaffle
+    Empire Minecraft: https://u.emc.gs/wafflecoffee
+
+- type: text
+  text: https://discord.gg/EES4w9qbtk
