@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
+hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "f44c6d3ee422e157ec032dae8cbcad6725fba9f21abeeaa600721f03176cf5a3"
+hash = "891b38dca0f4c1ea986756e0fcd1ed45c832815d0cc56f57b4267534480d29e0"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "d80afa04a7b4e5d2dfda5858d457b121a0820c4ba71e8760678e21035fa3015d"
+hash = "9b8938facdc7dd28d82fe0384e5dcb9d7869171c2069ff408f75d55a65d0354d"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
+hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "2acd6d99abc9774fb38395bd825039343d7189fb9712f17788410fa731d5147c"
+hash = "d4ae35a9dd84d11efbe347e0ad0ac8b2c29d13fdb73706fdc9c4e4a88f45b935"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "a2fcd52b158985c7e94399700d2414d0a380e55cfa0ecb0d24e4ec50982a4eb8"
+hash = "a5ee05011ebbe750a8dda0a8f67f7cb7cfea30c5ddb89658d3090efd60642508"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "920db79929d5c78275c91a861bad9d403b6cb01369f124719b204da467ef0560"
+hash = "9103da7bb2dbaacec10d930fce07225d9be983eb548186f53c93615b6bf04081"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/rebind-all-the-keys.pw.toml"
-hash = "e2b04a5345909cde326905c47c45a0c68e3025bd6901f25dc8178b4826256d11"
+hash = "b1d2c566b87b0467ee4c53a64f2f659536d7a1e74e6546a788b1425ffd4284ed"
 metafile = true
 
 [[files]]
@@ -460,5 +460,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "b0edd73a7a58bd592f67d61083db20ea896dbbdd79c1c410efe0c692b3bcfc08"
+hash = "092db5728e799ee6532cfa6ec0fa108093ba10831d38167f9e03c4b6a8ac19d1"
 metafile = true
