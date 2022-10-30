@@ -1,7 +1,7 @@
 - type: embed
   embeds:
-    - title: "Welcome to the server for Emmaffle's mods (and related content)!"
-      url: https://modrinth.com/user/emmaffle
+    - title: "Welcome to the server for triphora's mods (and related content)!"
+      url: https://modrinth.com/user/triphora
       color: 0x800080
       thumbnail:
         url: https://avatars.githubusercontent.com/u/60205699?v=4
@@ -19,15 +19,15 @@
 - type: links
   title: ":link: Useful links"
   links:
-    Modrinth: https://modrinth.com/user/emmaffle
+    Modrinth: https://modrinth.com/user/triphora
     Codeberg user: https://codeberg.org/orchid
     Codeberg organization: https://codeberg.org/emmods
-    GitHub user: https://github.com/wafflecoffee
+    GitHub user: https://github.com/triphora
     GitHub organization: https://github.com/emmods
-    Buy Me a Coffee: https://buymeacoff.ee/emmaffle
+    Buy Me a Coffee: https://buymeacoff.ee/triphora
     Mastodon: https://tech.lgbt/@waffle
-    Twitter: https://twitter.com/emmaffle
-    Empire Minecraft: https://u.emc.gs/wafflecoffee
+    Twitter: https://twitter.com/triphora_
+    Empire Minecraft: https://u.emc.gs/triphora
 
 - type: text
   text: https://discord.gg/EES4w9qbtk
