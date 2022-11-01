@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "9b8938facdc7dd28d82fe0384e5dcb9d7869171c2069ff408f75d55a65d0354d"
+hash = "9c76ba7410ab05e52b8f4897e194f55f1bda08bb9d7f63ed5f40a2569e18f788"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "7250c341106f7097064eaf65f72cb3d7668f0c3a28a67278442f42441020d465"
+hash = "77a971c4dd06bb66f87b3de3b804866bb3c7a9325fd84dacfe8f6d33502393bf"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f4a8312d10e805cce174067450bb7045b55281cf8de37b0bedbf808a7ae6d31"
+hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9103da7bb2dbaacec10d930fce07225d9be983eb548186f53c93615b6bf04081"
+hash = "af18aa72019cf21e36b5adea1e0c893188ddefa40ba97fe6c2d27fcf2f745926"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "e4d8df8da89afc27ef4066bf63fb258fdef9bb367498372a6e5833dda27e0765"
+hash = "ba96089d2fe192072b1164a191e34ada5ad4d487db239635597d52ec1d98c477"
 metafile = true
 
 [[files]]
