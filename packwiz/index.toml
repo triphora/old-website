@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
+hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "d6523958bfcd814e0c4125e533324f16f04219aa3f8fec7ca4ddc44667bacfaa"
+hash = "c17fd54866ed9aa79097cd7bf643aac0f510ac6a19966a7a202ebaf471de320b"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0395722100397e394dfddec723017c1ea18433f371250f80dae911b4e1c8b0d9"
+hash = "2ea6f38df595c78289617f94a13fc533fdacadf3cb7e7580d60a32529aaa1a44"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
+hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
 metafile = true
 
 [[files]]
@@ -354,11 +354,6 @@ hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "a2e4e7b3b072d44a518ac1313c88d6f3b17727d554f700d91c7b4eb3588de50c"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
 metafile = true
@@ -375,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "9c64db35f8cc102e8bc841e87efa5fba883ecb19afa06018203e9f271ab93644"
+hash = "1210084dfaaeec066390354d4df0b91040993e473a03e644a7f8fe2b4c8b4b84"
 metafile = true
 
 [[files]]
@@ -426,6 +421,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/text-utilities.pw.toml"
+hash = "5b217be3e0ec30feb98dbdc5128da7562ad7e35f3335731f3c90e8afea416c9a"
 metafile = true
 
 [[files]]

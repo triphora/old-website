@@ -1,0 +1,4 @@
+signFormattingEnabled = true
+bookFormattingEnabled = false
+anvilFormattingEnabled = false
+formattingCodePrefix = "&"
