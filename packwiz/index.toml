@@ -33,6 +33,10 @@ file = "config/quickconnectbutton.json5"
 hash = "ba17c8bd299dbab38f4ae94afbbda90cb25a195a5416a1d4fce37e4222335b49"
 
 [[files]]
+file = "config/textutilities.toml"
+hash = "ecdd0747898a2763be93ee40f0103418f4a9d3a491744df144e5b866548b2953"
+
+[[files]]
 file = "config/torohealth.json"
 hash = "0ef44b9580013a54e0eecedd2f94c72a4f7facfd6ae036bee18fa5d211e1118e"
 
@@ -60,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "08ac0b6bdf14a0460a1cbd73eee1ecac0494b60a717eb8cbc3e9f97b9a23b2bf"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
 metafile = true
 
 [[files]]
@@ -110,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/command-macros.pw.toml"
-hash = "7ba49175c0a948116fcb3caee0b4b7e737316f7f68c215355308a0d816b11114"
+hash = "9aee9efd97da0e04e19279a7e80a7f785778ee8adebfbbd3ae5c446e6e50f01f"
 metafile = true
 
 [[files]]
@@ -135,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "720231e2b43ce5346649f9deb07cfba769665049ad1c4ec9374e1bd470bf486a"
+hash = "320ee290273981c7d0c8ec205ff3bb8822ccfee006d057324da661f7c9fe6b9d"
 metafile = true
 
 [[files]]
@@ -165,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "2ea6f38df595c78289617f94a13fc533fdacadf3cb7e7580d60a32529aaa1a44"
+hash = "4bef15bc30f11169512e61ab1644c844df76450f768b65227f6dcd0a546b2c93"
 metafile = true
 
 [[files]]
@@ -181,11 +185,6 @@ metafile = true
 [[files]]
 file = "mods/exordium.pw.toml"
 hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
 metafile = true
 
 [[files]]
@@ -240,12 +239,12 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "7c7d90cc21e979c4a0dccb1835055ad6e805bec69ef21f715361bba583b451a3"
+hash = "0005fdb6353a966721159b411e9121f11343b1187cf3f9c70fc4fd1c871fefd2"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
+hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
 metafile = true
 
 [[files]]
@@ -255,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f1480d6ab6b5be038d817e0ed9bf8e35d0c81a5902e8f816c474e59af3bd3e29"
+hash = "6911ad165964bf683549426e6be93b7a86d2e576f2dac9316cdec6615036f9e0"
 metafile = true
 
 [[files]]
@@ -280,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "3f4546dc01dae84072184dca9687f0930a6ffe784adb8bf7ccc0eee91c19059f"
+hash = "8375f634df8513b4b5e481fc6188f3e4158f9208f47798c5adb337815c952dec"
 metafile = true
 
 [[files]]
@@ -295,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d2a65b42dcefbda9ac5c170ff5bf59b4a56ba192993a13d0b0da9b1f0678b4b3"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
@@ -325,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7358029830c4246e9039d12156bb5a0b7aecd128155330783ca8bdb57a12333c"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
 
 [[files]]
@@ -335,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "741381be667a7b124ce60ba17fca9207369bd6ead4e58ce64fa140aff95f8159"
+hash = "db19edc58c7779aba173e9aae60a550f16535f9395046afc870982157aaedb5a"
 metafile = true
 
 [[files]]
@@ -350,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
+hash = "4bf105fad2ec897770b89bbabb1c596cfb293e64dd1f51ece6d678814146ac45"
 metafile = true
 
 [[files]]
@@ -369,8 +368,13 @@ hash = "1f1bbd4dd2a4cb99175f9b0e53a339ed3c13ec7db99814c2d5efc42252b14092"
 metafile = true
 
 [[files]]
+file = "mods/qkl.pw.toml"
+hash = "8f8db3e41388ab86919ec46bcfb4080fd0d2e6bc353cca24614105fde6df0b5f"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
-hash = "1210084dfaaeec066390354d4df0b91040993e473a03e644a7f8fe2b4c8b4b84"
+hash = "3a9dec902bc4f9c67c4184921adcc2d09aff8934c57c5d03baa29d29c93fc231"
 metafile = true
 
 [[files]]
@@ -425,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/text-utilities.pw.toml"
-hash = "5b217be3e0ec30feb98dbdc5128da7562ad7e35f3335731f3c90e8afea416c9a"
+hash = "2b876af63482cd0e3a13f4a1ab8189adbd95bae58a90fe6fef0a7193012837d0"
 metafile = true
 
 [[files]]

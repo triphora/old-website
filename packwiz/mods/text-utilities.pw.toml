@@ -1,13 +1,13 @@
 name = "Text Utilities"
-filename = "text-utilities-fabric-1.19.2-1.1.0.jar"
+filename = "text-utilities-fabric-1.19.2-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bHGioWI/versions/1V0H1q7y/text-utilities-fabric-1.19.2-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/1bHGioWI/versions/OgSDxJjD/text-utilities-fabric-1.19.2-1.2.0.jar"
 hash-format = "sha1"
-hash = "4ca4ddb25b655c46b5c19617aad5924a3307edb4"
+hash = "707e772edb70cf5ffd9696e2865568e996e25b2b"
 
 [update]
 [update.modrinth]
 mod-id = "1bHGioWI"
-version = "1V0H1q7y"
+version = "OgSDxJjD"
