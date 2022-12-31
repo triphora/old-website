@@ -1,17 +1,13 @@
-name = "PetOwner"
-filename = "PetOwner-1.8.3-1.19+.jar"
+name = "Pet Owner"
+filename = "PetOwner-1.8.4-1.19.3+.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IxUlAAFe/versions/1.8.3/PetOwner-1.8.3-1.19%2B.jar"
+url = "https://cdn.modrinth.com/data/IxUlAAFe/versions/NfD0fstk/PetOwner-1.8.4-1.19.3%2B.jar"
 hash-format = "sha1"
-hash = "1ef0f5728952b08e88f486b1034f144cfaddb4c7"
+hash = "8eb9577fd408b461f18501f7e9ef34b4a63169e1"
 
 [update]
 [update.modrinth]
 mod-id = "IxUlAAFe"
-version = "rTWELvIk"
-
-[option]
-optional = true
-description = "PetOwner allows you to see the owner of a tamed entity without hitting it."
+version = "NfD0fstk"

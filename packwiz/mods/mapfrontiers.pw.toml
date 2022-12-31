@@ -1,0 +1,17 @@
+name = "MapFrontiers"
+filename = "MapFrontiers-1.19.3-2.4.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hWlsli6y/versions/3HfbjXDF/MapFrontiers-1.19.3-2.4.0-fabric.jar"
+hash-format = "sha1"
+hash = "17c00343f8b51d3aba87964625e6660201f877eb"
+
+[update]
+[update.modrinth]
+mod-id = "hWlsli6y"
+version = "3HfbjXDF"
+
+[option]
+optional = true
+description = "MapFrontiers is an addon for JourneyMap that allows you to divide the map into regions and assign them names and colors."

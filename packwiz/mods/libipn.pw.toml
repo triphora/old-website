@@ -1,13 +1,13 @@
 name = "libIPN"
-filename = "libIPN-fabric-1.19-2.0.0.jar"
+filename = "libIPN-fabric-1.19.3-2.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/onSQdWhM/versions/yenqfAzR/libIPN-fabric-1.19-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/onSQdWhM/versions/ML5KhzCK/libIPN-fabric-1.19.3-2.0.1.jar"
 hash-format = "sha1"
-hash = "57150b404e75034e1b089ecb581c1e2b885a5516"
+hash = "2d77ace9d53faec8ad2f60c035a5d597e8520e97"
 
 [update]
 [update.modrinth]
 mod-id = "onSQdWhM"
-version = "yenqfAzR"
+version = "ML5KhzCK"

@@ -1,13 +1,13 @@
 name = "gatekeep"
-filename = "gatekeep-1.1.1.jar"
+filename = "gatekeep-1.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HBDcoObw/versions/1.1.1/gatekeep-1.1.1.jar"
+url = "https://cdn.modrinth.com/data/HBDcoObw/versions/7kucsMPW/gatekeep-1.1.2.jar"
 hash-format = "sha1"
-hash = "231de43ca96aa0a664255d259c4884208eb2b5b3"
+hash = "7faade4427aa4d9ac35bff920fe16b989db6d7a0"
 
 [update]
 [update.modrinth]
 mod-id = "HBDcoObw"
-version = "jJyAx1lm"
+version = "7kucsMPW"
