@@ -4,6 +4,7 @@
 - https://modrinth.com/mod/continuity
 - https://modrinth.com/mod/dashloader
 - https://modrinth.com/mod/ebe
+- https://curseforge.com/minecraft/mc-mods/flighthud
 - https://modrinth.com/mod/lambdabettergrass
 - https://modrinth.com/mod/rainbowify
 - https://modrinth.com/mod/rebind-all-the-keys

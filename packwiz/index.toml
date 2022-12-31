@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "TO_ADD"
-hash = "aeb0399188b76e5c39046b3b98f38d9aa8ba42600a9c544e43bea1cc96bcb256"
-
-[[files]]
 file = "config/clean-logs/config.toml"
 hash = "223397a68098a38cc17ff4a86a0a56f0bd37ab33f983560407aa700367654641"
 
@@ -174,11 +170,6 @@ metafile = true
 [[files]]
 file = "mods/flc.pw.toml"
 hash = "b41dadae66105ab6a848eb45f4bfd50acfd80d550c4dbea9b06984e653bfc651"
-metafile = true
-
-[[files]]
-file = "mods/flighthud.pw.toml"
-hash = "924de34e3a2b3225eb38c7ca579710cd83b93a09d6358891cfc5d97261878e6f"
 metafile = true
 
 [[files]]

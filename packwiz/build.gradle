@@ -10,7 +10,7 @@ buildscript {
 apply plugin: "java"
 apply plugin: "com.modrinth.minotaur"
 
-version = "2022.12.30"
+version = "2022.12.31"
 
 String getChangelog() {
   String changelog = System.getenv().CHANGELOG
@@ -26,7 +26,7 @@ String getChangelog() {
 modrinth {
   token = System.getenv().MODRINTH_TOKEN
   projectId = "waffles-modpack"
-  gameVersions = ["1.19.2"]
+  gameVersions = ["1.19.3"]
   loaders = ["quilt"]
   changelog = this.getChangelog()
   uploadFile = project.file("waffle's Modpack-${version}.mrpack")
