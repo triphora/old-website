@@ -83,6 +83,21 @@ hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
 metafile = true
 
 [[files]]
+file = "mods/better-enchanted-books.pw.toml"
+hash = "9882ed3cdec64657bfba3094ca5324576b76a3b32fab3ed4f9354bb7d0d20752"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "76e8374e9e05656047194a5a71ebe1aba3253ab024174cfcf9a648a4e07cdcae"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
+metafile = true
+
+[[files]]
 file = "mods/clean-logs.pw.toml"
 hash = "acae53b7b4a8066aad64f95b9ae1c09e8efef08573b1a902c0b659454e1b922c"
 metafile = true
@@ -105,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "a39a795cd8847bb1e942123a72dc9f33b42c58b1709fcdb367044fddd78b59ba"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "d9da345ea7bafb63b7bddede4e155abf48e4ba628e00b1d68089c44284eca920"
 metafile = true
 
 [[files]]
@@ -170,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/flc.pw.toml"
 hash = "b41dadae66105ab6a848eb45f4bfd50acfd80d550c4dbea9b06984e653bfc651"
+metafile = true
+
+[[files]]
+file = "mods/flighthud.pw.toml"
+hash = "924e024e85a521fb34070b01d29f899882bdf582f406478a1ccbbcb27a9bd356"
 metafile = true
 
 [[files]]
@@ -373,6 +398,11 @@ hash = "ca01ca09a92046525aa36aa2bef72829a37b280de4bd5dff90c14318f661ce86"
 metafile = true
 
 [[files]]
+file = "mods/rebind-all-the-keys.pw.toml"
+hash = "3f90a5af8600393b584e49f60cc2e91d2f19b8d67e4dbe18c086f48c9297a07a"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "0b406514e3d6c608e6c7cb18d2c0076c990426d38f1fbc94356a7c4e5507d586"
 metafile = true
@@ -405,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/time-changer.pw.toml"
 hash = "07495d0b95f12249083b3d7e4bb2c42e90e1a6e43a03ceec4714032209e7c128"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-damage-indicators.pw.toml"
+hash = "8e9deadcb4e490fae9d38dfb93a541de0e6a9ab90a805e5dbc04c8ed0a5433d6"
 metafile = true
 
 [[files]]

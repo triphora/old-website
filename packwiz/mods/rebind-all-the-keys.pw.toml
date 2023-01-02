@@ -1,0 +1,8 @@
+name = "RebindAllTheKeys"
+filename = "rebind-all-the-keys-1.2.0+1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://waffle.coffee/packwiz/mods/jars/rebind-all-the-keys-1.2.0+1.19.3.jar"
+hash-format = "sha1"
+hash = "05b97b757c8253acb598d0fc2773ec0731177707"

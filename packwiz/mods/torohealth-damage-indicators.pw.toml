@@ -1,0 +1,8 @@
+name = "ToroHealth Damage Indicators"
+filename = "torohealth-1.19.3-fabric-1.jar"
+side = "client"
+
+[download]
+url = "https://waffle.coffee/packwiz/mods/jars/torohealth-1.19.3-fabric-1.jar"
+hash-format = "sha1"
+hash = "2053021a56e2e2aa29822f7ef16b835337c26d96"

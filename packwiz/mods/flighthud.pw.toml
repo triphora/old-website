@@ -1,0 +1,12 @@
+name = "FlightHUD"
+filename = "flighthud-1.19.3-fabric-1.jar"
+side = "client"
+
+[download]
+url = "https://waffle.coffee/packwiz/mods/jars/flighthud-1.19.3-fabric-1.jar"
+hash-format = "sha1"
+hash = "45b774638c3a7423d87567823a87122abdc1c881"
+
+[option]
+optional = true
+description = "Flight HUD adds a flight style HUD like one you would see in a flight simulator."

@@ -1,0 +1,8 @@
+name = "Better Ping Display [Fabric]"
+filename = "BetterPingDisplay-Fabric-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://waffle.coffee/packwiz/mods/jars/BetterPingDisplay-Fabric-1.1.2.jar"
+hash-format = "sha1"
+hash = "aaf9950d24e4fa4be722c4b02920c434b2c4ac26"
