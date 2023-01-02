@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "1c7a773c140874a174fdaf0458d9ab2afb8611c0d0f2f7f2742911566c614f09"
+hash = "4b55ca95b1bd433d940b0bc1c3aa464b3c08fd1e3b0cf94f156a4dfe1a865ef4"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "77454bd9cdca6ffd16d96d445021360cbc669481d17abf06bbe1e672d431998a"
+hash = "c3381dfd35efab2db69a3e90c1e57eb51ce7503a48a18d9713a927d2c64e51a9"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "35430da98294d5f94636277bf9705ada157eb6122d0e8272f5c3cb6ef76ebfd2"
+hash = "469755d5634c20e7e809ff86066d37a3b867c8223d7c584d663aec1d2deea843"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
+hash = "43b0863e9253f01fad40411c5f4f3bf873882bf3bc4a3c4bc9e83f8aa796a9bd"
 metafile = true
 
 [[files]]

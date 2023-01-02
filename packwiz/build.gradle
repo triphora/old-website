@@ -10,7 +10,7 @@ buildscript {
 apply plugin: "java"
 apply plugin: "com.modrinth.minotaur"
 
-version = "2022.12.31"
+version = "2023.01.02"
 
 String getChangelog() {
   String changelog = System.getenv().CHANGELOG
