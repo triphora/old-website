@@ -119,12 +119,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "a39a795cd8847bb1e942123a72dc9f33b42c58b1709fcdb367044fddd78b59ba"
+hash = "57996c2240ce11daa289c19701a7e5232a3445386ec93e350211499ad4aa873e"
 metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "d9da345ea7bafb63b7bddede4e155abf48e4ba628e00b1d68089c44284eca920"
+hash = "64e182198e5c0ab1c061caaa3db5d566d9dfa6e7b1971696792f178c417faf76"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "4b55ca95b1bd433d940b0bc1c3aa464b3c08fd1e3b0cf94f156a4dfe1a865ef4"
+hash = "fa4c82cbcf1320ccf68b1d84eda030ba17f337159beaec3302152cc0e21d1d85"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/emcutils.pw.toml"
-hash = "f6673b64e9e79665ae26b502113b7934f953aebed760535154b85d02f66e17c6"
+hash = "6e392bbef8b7b1197f528f69cf2965bda0203698b73cb8dcea9f676dbcae7ca0"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "e5855fd257f6f317c5529b727f04fd04eb897987efdc4bb99ad7abec43009e6b"
+hash = "e28f6598892e3cd95fefc54929d1b8e3146aa765ae783a2f8edd8797e837ce8e"
 metafile = true
 
 [[files]]
@@ -219,12 +219,12 @@ metafile = true
 
 [[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
-hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
+hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "c3381dfd35efab2db69a3e90c1e57eb51ce7503a48a18d9713a927d2c64e51a9"
+hash = "1ab5733b357d9c788c357802d9052d952699dd905aeed81b41370169fab70c11"
 metafile = true
 
 [[files]]
@@ -239,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "469755d5634c20e7e809ff86066d37a3b867c8223d7c584d663aec1d2deea843"
+hash = "7d3727ee323a1e3e6a41719db11e343e0658cc149274b9d4426acc9ae21b1363"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "73ec85dd59a5b4ada507f7c9b4ff3701c1ad20aacc3c30a1d8f00b9e5991ba27"
+hash = "630b0ba6a11a4caab243199d3d2535a760d289260e07db3e685f7125edc46e5b"
 metafile = true
 
 [[files]]
@@ -339,12 +339,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0db264018c25e9c85d32e5b510ac12274616f44ee51841e0118c24b320e167b5"
+hash = "e850143ae4200eeb18b83a6530f7e01edc0d328330fced9097d771c08bc21216"
 metafile = true
 
 [[files]]
 file = "mods/nmuk.pw.toml"
-hash = "7fa8f6ae4b647a535465f88d547d0ae418fada14ea67ed7a51e933594216d4ba"
+hash = "a6b648e6c3502162573e27f1c44ad029a26c9b95cbbf64c93c9237b010df2a16"
 metafile = true
 
 [[files]]
@@ -374,12 +374,12 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "8f8db3e41388ab86919ec46bcfb4080fd0d2e6bc353cca24614105fde6df0b5f"
+hash = "4fb4536ad8945480dd68764b86b628711e581084c1df66316699d56be337ad6b"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "e092688c3cd6365f4b942c24685f059fb86046510cb56f7311cadc0019abb9e1"
+hash = "9d9685cf06b0f3a186d9687fe058bc78a10289251dfacae979c3a820af562d4f"
 metafile = true
 
 [[files]]
@@ -419,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "43b0863e9253f01fad40411c5f4f3bf873882bf3bc4a3c4bc9e83f8aa796a9bd"
+hash = "cff6e118a7d2649ab479bbcf328d463349cfc8dc4bac3f5025395f34c2b505bb"
 metafile = true
 
 [[files]]
@@ -429,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/text-utilities.pw.toml"
-hash = "f8ea8cd44c52c1da47de72992b59bdcd559500a3e0f3769cb9797b7255313cbf"
+hash = "c12746d0cb80054f4af571b9493d0e1a3135b35aa05dcf2bf1956bd8f0a194df"
 metafile = true
 
 [[files]]
@@ -464,5 +464,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2aa625571aabc818aa63a8687d0c7ccd35598a0c29cb650b43cc0d0398d27c67"
+hash = "105a87d43952e59d73f7922b0a247ffac0cadbd08ed4a7f9c8fd48dec194b38e"
 metafile = true
