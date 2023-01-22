@@ -1,0 +1,8 @@
+name = "Continuity"
+filename = "continuity-3.0.0-alpha.2+1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://waffle.coffee/packwiz/mods/jars/continuity-3.0.0-alpha.2+1.19.3.jar"
+hash-format = "sha1"
+hash = "699ce52e8ac7eb24589d66b8608799db4ba5a54f"
