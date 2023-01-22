@@ -118,6 +118,11 @@ hash = "eac30cd665e7cc3abd5bffaa07c1accc56a13a5ee8faaefe32803e1612a53d77"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "89c75c2455b54e806b5f47449ed2e6ed2fd10ca5ecdaf9f0f925f18980acb4b4"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "57996c2240ce11daa289c19701a7e5232a3445386ec93e350211499ad4aa873e"
 metafile = true
