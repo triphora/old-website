@@ -1,36 +1,80 @@
 buildscript {
-  repositories {
-    gradlePluginPortal()
-  }
-  dependencies {
-    classpath "com.modrinth.minotaur:Minotaur:2.+"
-  }
+	repositories {
+		gradlePluginPortal()
+	}
+	dependencies {
+		classpath "com.modrinth.minotaur:Minotaur:2.+"
+	}
 }
 
 apply plugin: "java"
 apply plugin: "com.modrinth.minotaur"
 
-version = "2023.02.11"
+version = "2023.02.12"
 
-String getChangelog() {
-  String changelog = System.getenv().CHANGELOG
-  changelog += "\n\n"
-  changelog += "<details><summary>Mods from CurseForge</summary>"
-  changelog += "\n\n"
-  changelog += System.getenv().CF_MODS.replace '\\n', '\n'
-  changelog += "\n"
-  changelog += "</details>"
-  return changelog
+static String generateCfModsList() {
+	List<String> cfMods = new ArrayList<>()
+	Map<String, String> cfNamesToIds = new HashMap<>()
+
+	new File("mods").listFiles().each {
+		if (it.getName().endsWith("toml") && fileContainsString(it, "curseforge")) cfMods.add(it.getName())
+	}
+
+	Collections.sort(cfMods)
+
+	cfMods.forEach {
+		File file = new File("mods/$it")
+		String name = getValueFromFile(file, "name").replaceAll("\"", "").replace(" (Fabric)", "")
+		String modId = getValueFromFile(file, "project-id")
+		cfNamesToIds.put(name, modId)
+	}
+
+	String cfModsList = ""
+	//noinspection GroovyAssignabilityCheck
+	cfNamesToIds.each {
+		cfModsList += "- [" + it.key + "](https://curseforge.com/projects/" + it.value + ")\n"
+	}
+	return cfModsList
 }
 
-modrinth {
-  token = System.getenv().MODRINTH_TOKEN
-  projectId = "waffles-modpack"
-  gameVersions = ["1.19.3"]
-  loaders = ["quilt"]
-  changelog = this.getChangelog()
-  uploadFile = project.file("waffle's Modpack-${version}.mrpack")
-  syncBodyFrom = project.file("README.md").text.replace("latest Modrinth release", "[latest Modrinth release](https://modrinth.com/modpack/waffles-modpack/version/$version)")
+static boolean fileContainsString(File file, String searchString) {
+	boolean bool = false
+	file.withReader { reader ->
+		reader.eachLine { line ->
+			if (line.contains(searchString)) bool = true
+		}
+	}
+	return bool
+}
+
+static String getValueFromFile(File file, String key) {
+	String val = ""
+	file.withReader { reader ->
+		reader.eachLine { line ->
+			if (line.startsWith(key)) val = line.split(" = ")[1]
+		}
+	}
+	return val
+}
+
+static String generateChangelog() {
+	String changelog = System.getenv().CHANGELOG
+	changelog += "\n\n"
+	changelog += "<details><summary>Mods from CurseForge</summary>"
+	changelog += "\n\n"
+	changelog += generateCfModsList()
+	changelog += "\n"
+	changelog += "</details>"
+	return changelog
 }
 
 tasks.modrinth.dependsOn tasks.modrinthSyncBody
+
+modrinth {
+	projectId = "waffles-modpack"
+	gameVersions = ["1.19.3"]
+	loaders = ["quilt"]
+	changelog = generateChangelog()
+	uploadFile = project.file("waffle's Modpack-${version}.mrpack")
+	syncBodyFrom = project.file("README.md").text
+}
