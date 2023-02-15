@@ -218,11 +218,6 @@ hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
-file = "mods/gatekeep.pw.toml"
-hash = "c1fbfb1f22ed7eb9be56ce60bf0e9db51ce5c8c1ae23427ac27a8023e9d8ad51"
-metafile = true
-
-[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
@@ -389,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "895c3d6ae65f923f9774d70d7edb94fb1b56840d940be6e57fecdc4f719c6363"
+hash = "89c5e9c9be09dbe19951985b1a9e7fa3d5699c49eaec23a3df4bce74892b2e5d"
 metafile = true
 
 [[files]]
