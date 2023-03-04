@@ -64,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "00bbc94e36588939e7080380a4508de0a7dbbff9899256eea7476ed5ff4b3352"
+hash = "9b079e80a153e584da0321d4d02f6caeba2a37b6dc3e680d7048fffb8694cbc1"
 metafile = true
 
 [[files]]
@@ -90,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "2f353c2f11a14c36f0c3f4a7cd289d0ecdb99df719181db9e81134e74be6b5a0"
+metafile = true
+
+[[files]]
+file = "mods/better-potion-visuals.pw.toml"
+hash = "ebeea194b3e59b0f268d7e6a7554c5d02c9be9e66f1f49d3a0e0d5d03c13c374"
 metafile = true
 
 [[files]]
@@ -124,12 +129,12 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "9ea670604ad1e591b39d327c77920dd0fffbe8456f6d05660aaeca7ff4af4746"
+hash = "75320e01ff189b52ea19d97720a18fb085b7812a503fc5ca4753e1f3530c3aba"
 metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "5fb073f3ad5a827812bb334296184c6178f7536ad7ed22d4a67578dc3aa96144"
+hash = "140a41b6e15707e2d56505e2bf57dfa69783686b602c5c1ef50ded9b7c1fcd84"
 metafile = true
 
 [[files]]
@@ -164,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "891b4d44dbba7a8d73cdf9de40c81f639811ada9f9a2d8a2b533a80163f9f00d"
+hash = "2832b1d98f32cc47df1283a99e89be0a25de18cf8132ec0424904c7927900fa0"
 metafile = true
 
 [[files]]
@@ -174,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "58eccf340a77523bd846cd8d7b6b01c29677ffc29f00047a1bb2004b737d6a7a"
+hash = "31be0ac5fe606acc8e069369d5e11196f34271e4beac8688d90e3146a15c7650"
 metafile = true
 
 [[files]]
@@ -334,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
+hash = "c6932018158da544553f88b977bed1946f59d9c86685f2023b0a9ee196fc3087"
 metafile = true
 
 [[files]]
@@ -384,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "89c5e9c9be09dbe19951985b1a9e7fa3d5699c49eaec23a3df4bce74892b2e5d"
+hash = "2c39e09a119f26424fedad1e7edef0931ff2a155bd80be4c4e5dd1dacb97e15f"
 metafile = true
 
 [[files]]
@@ -399,7 +404,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "6f78bbaa92eb361528fe111fc679dfd5668edb9c528039e9edf6369b2338d859"
+hash = "a2546c22da25221e7f1e2dff79d741437ff8d60c8030b092e9ae4d91fc2446dc"
 metafile = true
 
 [[files]]
@@ -449,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "2269ff794012bd79bfe01ee9815188d45bb3fe964eba30f0cfea4175dbdf42d0"
+hash = "f8f5e1897e2250f3a715b33b6c7efd3e7ec7142556d68e17a38c71833d23e3ba"
 metafile = true
 
 [[files]]
@@ -469,5 +474,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "8707e868162396f12adf0aeb7a5af1fc355e9eb79bbb8775faad8b31f19b2708"
+hash = "33d460028c7833b9dbcc3396b5aec20b5aecaf720a317e4c1e89f0c87892eb5b"
 metafile = true

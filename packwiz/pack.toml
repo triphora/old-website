@@ -1,13 +1,13 @@
 name = "waffle's Modpack"
 author = "triphora"
-version = "2023.02.15"
+version = "2023.03.03"
 description = "Highly customizable rolling-release client-side pack compatible with any multiplayer server, focusing on performance and features that still feel true to vanilla."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b762cd2974a7841e684a6e470d855441440974b55d9436e9123173b0f548e56c"
+hash = "61423cfd2e47897aa04034ebc2232317b2122121eafe613668c4793cf97ddc51"
 
 [versions]
 minecraft = "1.19.3"
