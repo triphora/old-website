@@ -1,5 +1,4 @@
 ## Not updated
-- https://modrinth.com/mod/ebe
 - https://modrinth.com/mod/rainbowify
 
 ## Temp jars
