@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://cdn.modrinth.com/data/CwxVUnPT/versions/LLEfJsEG/forcelowercasecommands-1.0.0.jar"
 hash-format = "sha1"
-hash = "d0a124b78af3d71b36dea548114620b2fe48be7b"
+hash = "2ead33cb150c2ac384a15f2ffb0fbf4f4189abec"
 
 [update]
 [update.modrinth]

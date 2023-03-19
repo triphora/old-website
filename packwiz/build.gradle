@@ -72,7 +72,7 @@ tasks.modrinth.dependsOn tasks.modrinthSyncBody
 
 modrinth {
 	projectId = "waffles-modpack"
-	gameVersions = ["1.19.3"]
+	gameVersions = ["1.19.4"]
 	loaders = ["quilt"]
 	changelog = generateChangelog()
 	uploadFile = project.file("waffle's Modpack-${version}.mrpack")
