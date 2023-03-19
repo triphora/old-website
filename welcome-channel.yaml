@@ -1,33 +1,34 @@
 - type: embed
   embeds:
-    - title: "Welcome to the server for triphora's mods (and related content)!"
-      url: https://modrinth.com/user/triphora
-      color: 0x800080
-      thumbnail:
-        url: https://avatars.githubusercontent.com/u/60205699?v=4
+    - title: "Welcome to Collective Modding!"
+      description: >-
+        Collective Modding is the exclusive Discord home of several Minecraft mod developers and mod-adjacent projects.
 
-- type: embed
-  embeds:
-    - title: ":book: Rules"
+        Want to join? Feel free to DM <@285544381551869965>!
+
+        Name suggestions welcome.
+      color: 0x595959
+      thumbnail:
+        url: https://cdn.discordapp.com/attachments/1081867601522720838/1087161176045129738/icon.png
 
 - type: rules
   rules:
-    Don't cause issues: "[Wheaton's Law](http://www.wheatonslaw.com) applies."
-    Follow Discord's rules: "[Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms)"
-    Don't use hoist names: Will result in a ban.
+    Treat every user with respect: "Do not harass, bother, provoke, or insult anyone."
+    Follow Discord's rules: "Please refer to the [Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms)."
+    Speak up when necessary: "Contact moderators via the <@&1087067500279242932> ping if you feel someone else is breaking the rules."
+    Do not invoke drama: "This includes intentionally starting new controversies and instigating the discussion of old ones, especially from elsewhere."
+    Respect individual creators' guidelines: "Certain creators may have their own rules and guidelines in their channels. Make sure you respect them."
 
 - type: links
-  title: ":link: Useful links"
+  title: ":link: People"
   links:
-    Modrinth: https://modrinth.com/user/triphora
-    Codeberg user: https://codeberg.org/orchid
-    Codeberg organization: https://codeberg.org/emmods
-    GitHub user: https://github.com/triphora
-    GitHub organization: https://github.com/emmods
-    Sponsor me: https://github.com/sponsors/triphora
-    Mastodon: https://blobfox.coffee/@orchid
-    Twitter: https://twitter.com/triphora_
-    Empire Minecraft: https://u.emc.gs/triphora
+    triphora (emmods): https://modrinth.com/user/triphora
+    osfanbuff63 (osfanpacks): https://wheretofind.me/@osfanbuff63
+    jamalam: https://jamalam.tech
+    CyberMechanics Guild: https://modrunner.net
 
 - type: text
-  text: https://discord.gg/EES4w9qbtk
+  text: >-
+    **Invite anyone here:** https://discord.gg/buPbUvw5FD
+
+    **Check out our sister server, *MC Modding Announcements*!:** https://discord.gg/YaZMBRv43C
