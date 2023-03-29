@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "c0acd973ff31c047fcfe2c2e5de68cb6b69fac8844a02261e2a2a66072f05a90"
+hash = "87b48af2d44da3afdc0ff3bb8f04dd35ac6939b857daad5480112c068e07de3b"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/command-macros.pw.toml"
-hash = "eac30cd665e7cc3abd5bffaa07c1accc56a13a5ee8faaefe32803e1612a53d77"
+hash = "743ec5d17a3938f4df9767f8f43f9cbed7b9903574fb33f2d0a48faa3470b8ad"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "c9e32601f4803e08da824b881e06332179d3896e127c7a24384dfd3782b8f292"
+hash = "463b4e536a6ab322ee48a4cc71d6d97eb2ff9958851ea7549792a1b8d524f723"
 metafile = true
 
 [[files]]
@@ -454,5 +454,5 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "3bc358e54ac6b9595b8ba5fa8a7e4153dbe4572b803a81e748c1961ee9fda4ce"
+hash = "09eeea145537da2b895fae591bc97dcfee6c8232d63d9c8c11055b59df1dcfa4"
 metafile = true
