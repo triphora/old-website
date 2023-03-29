@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-enchanted-books.pw.toml"
-hash = "06278e3da89aebfc29737ff96167d21aa660d7070b4e552dc22b87049bafb4b8"
+hash = "cbff6dd91f29903d87d6ae7ede53d3353e134ba1a3caca597dbcb454dc73a63a"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/flighthud.pw.toml"
-hash = "924e024e85a521fb34070b01d29f899882bdf582f406478a1ccbbcb27a9bd356"
+hash = "b62cb8f99f2af2af993b05565a0f538eaf7543389859f8d2cacc48d6894d45bd"
 metafile = true
 
 [[files]]
@@ -255,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "1f4df9a518618ca75875f23a6dccf74acaec26963d9108468ff4d106107e02f1"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "f573cac2ec9cd88456c545e177753791c91a38ba0a46c4ad4c87e5a7878664ea"
 metafile = true
 
 [[files]]
@@ -398,6 +403,11 @@ hash = "0ea95321406c3c53fefcc28eb4a7a0beb8cd70323669d2855aaa749a85d547f7"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scrolling-everywhere-fabric.pw.toml"
+hash = "b0b9c04bb7baa350ccc0dd062180a52096ac1bb77639fa17e569b63f0261f2da"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
@@ -419,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/torohealth-damage-indicators.pw.toml"
-hash = "8e9deadcb4e490fae9d38dfb93a541de0e6a9ab90a805e5dbc04c8ed0a5433d6"
+hash = "669004daed6f3fb7d730529797a431fbd2fe849d546fca13b9f3335cb5fd79ed"
 metafile = true
 
 [[files]]
@@ -435,6 +445,11 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "b8e486f1fdc342780153d5ff8d011544f6c647027f43ce3541ea69ea98185b6e"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "46baf16603f1eb8b5b27984541dad4a277ac70b4c22b25a3b4630abe04106172"
 metafile = true
 
 [[files]]

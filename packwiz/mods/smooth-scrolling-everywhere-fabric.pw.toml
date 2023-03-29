@@ -1,0 +1,8 @@
+name = "Smooth Scrolling Everywhere (Fabric)"
+filename = "SmoothScrollingEverywhere-3.0.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.triphora.dev/jars/1.19.4/SmoothScrollingEverywhere-3.0.6.jar"
+hash-format = "sha1"
+hash = "7145d80bd75d13b05358690a473a6d8b36e5c5f5"

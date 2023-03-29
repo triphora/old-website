@@ -3,6 +3,6 @@ filename = "better-enchanted-books-1.19.3-1.4.1.jar"
 side = "client"
 
 [download]
-url = "https://waffle.coffee/packwiz/mods/jars/better-enchanted-books-1.19.3-1.4.1.jar"
+url = "https://cdn.triphora.dev/jars/1.19.4/better-enchanted-books-1.19.3-1.4.1.jar"
 hash-format = "sha1"
-hash = "a47a16f8e638caa58fbe16516c3246a3b38531bb"
+hash = "32c34f1b8ec5f787f57f44dc3e18f81326f01f4c"

@@ -1,0 +1,8 @@
+name = "WorldEdit CUI (Fabric)"
+filename = "WorldEditCUI-1.19.4+01-SNAPSHOT.jar"
+side = "client"
+
+[download]
+url = "https://cdn.triphora.dev/jars/1.19.4/WorldEditCUI-1.19.4+01-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "d4c3c904ec264dafbcc091404ce44ebf86d4c3d0"
