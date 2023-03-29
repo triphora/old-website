@@ -64,5 +64,4 @@ echo
 
 if yes_or_no "Push and upload to Modrinth" "upload"; then
 	git push origin
-	git push mirror
 fi

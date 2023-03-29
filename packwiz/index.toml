@@ -17,6 +17,10 @@ file = "config/durabilityviewer.json"
 hash = "e1ff745617d980707af296bf2a796a31d8706781ee734aa0c1b2bad6103f8d46"
 
 [[files]]
+file = "config/emi.css"
+hash = "fa58fd9251ad81ef42d707c85b1f31e590d3e93aa764db564af803572021c9d2"
+
+[[files]]
 file = "config/enhanced_bes.properties"
 hash = "842dfdaf101e56169daeaa523d87b70deda2c35a4c3742ddc73416f7d7dbe34c"
 
@@ -338,11 +342,6 @@ hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
 metafile = true
 
 [[files]]
-file = "mods/nmuk.pw.toml"
-hash = "a6b648e6c3502162573e27f1c44ad029a26c9b95cbbf64c93c9237b010df2a16"
-metafile = true
-
-[[files]]
 file = "mods/no-strip.pw.toml"
 hash = "90cdac3bd5266a69b57db51711f63554b7e4b3e957453c6e735d8d99a29cb6fa"
 metafile = true
@@ -425,11 +424,6 @@ metafile = true
 [[files]]
 file = "mods/time-changer.pw.toml"
 hash = "07495d0b95f12249083b3d7e4bb2c42e90e1a6e43a03ceec4714032209e7c128"
-metafile = true
-
-[[files]]
-file = "mods/torohealth-damage-indicators.pw.toml"
-hash = "669004daed6f3fb7d730529797a431fbd2fe849d546fca13b9f3335cb5fd79ed"
 metafile = true
 
 [[files]]
