@@ -92,6 +92,11 @@ hash = "cbff6dd91f29903d87d6ae7ede53d3353e134ba1a3caca597dbcb454dc73a63a"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "74a4f0669d22099f1542e51edbae22b7c53f7b0e5983f919ad3cdb21ef0fd568"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
 metafile = true
@@ -313,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "463b4e536a6ab322ee48a4cc71d6d97eb2ff9958851ea7549792a1b8d524f723"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -389,6 +394,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "71827adb5fbf9210c7d4ee7dd1107c7d1cc4356ececdb7be4c773695b8d73d36"
+metafile = true
+
+[[files]]
+file = "mods/rebind-all-the-keys.pw.toml"
+hash = "231052f311d88ff43079ac824053c44c36bae25f9fa7d09cf7599edfaf5b349e"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "RebindAllTheKeys"
+filename = "rebind-all-the-keys-1.2.1+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.triphora.dev/jars/1.19.4/rebind-all-the-keys-1.2.1+1.19.3.jar"
+hash-format = "sha1"
+hash = "aa93371e966298dc7a6f702012197b2c5d1b6b45"

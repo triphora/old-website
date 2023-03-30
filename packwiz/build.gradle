@@ -10,7 +10,7 @@ buildscript {
 apply plugin: "java"
 apply plugin: "com.modrinth.minotaur"
 
-version = "2023.03.29"
+version = "2023.03.30"
 
 static String generateCfModsList() {
 	List<String> cfMods = new ArrayList<>()
